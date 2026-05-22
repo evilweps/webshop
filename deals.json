@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T18:27:46.081643+00:00",
-  "updated_fmt": "22 May 2026 om 18:27",
+  "updated": "2026-05-22T23:56:22.710066+00:00",
+  "updated_fmt": "22 May 2026 om 23:56",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 May 2026 18:27 UTC",
+      "note": "bol.com — gescraped 22 May 2026 23:56 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 May 2026 18:27 UTC",
+      "note": "amazon.nl — gescraped 22 May 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,30 +743,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
-          "c": "Algemeen"
-        },
-        {
           "n": "Page wc papier - Compleet Schoon - 96 rollen - Voordeelverpakking",
           "c": "Algemeen"
         },
@@ -788,6 +764,30 @@
         },
         {
           "n": "Omega 3 Visolie - 2000 mg - Levert 1100 mg omega 3-vetzuren - 660 mg EPA en 440 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 May 2026 18:27 UTC",
+      "note": "amazon.com.be — gescraped 22 May 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,6 +1130,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "c": "Algemeen"
+        },
+        {
           "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
@@ -1174,51 +1198,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "WaterWipes Original plasticvrije babydoekjes, 720 stuks (12 pakken), op basis va",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "n": "WaterWipes Original plasticvrije babydoekjes, 540 stuks Hardheid (9 pakken) 99,9",
           "c": "Algemeen"
         },
         {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon, iPhone-microfoon en USB-C-aansluiting, draadloze mini-micro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Beyerdynamic headphones DT770 PRO 80 ohm (studio) 25,4 x 12,7 x 20,3 cm, zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dislocati Karaokemachine met 2 karaoke-microfoons, cadeau voor meisjes van 3 tot",
-          "c": "Algemeen"
-        },
-        {
-          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "n": "Philips Avent Borstkompressen SCF254/61 voor dag en nacht, wegwerpbaar, 60 stuks",
           "c": "Algemeen"
         },
         {
@@ -1308,6 +1304,10 @@
         {
           "n": "TP-Link Tapo Bewakingscamera, wifi, binnenshuis, 360 °, Tapo C210, UHD 3 MP, per",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN 8K HDMI 2.1-kabel, gecertificeerd 10K 8K 60Hz 4K 240Hz High Speed 48Gbps ",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 May 2026 18:27 UTC",
+      "note": "amazon.de — gescraped 22 May 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1553,11 +1553,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,98",
+          "n": "USD 5,97",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 15,99",
+          "n": "5 aanbiedingen vanUSD 16,21",
           "c": "Algemeen"
         },
         {
@@ -1577,51 +1577,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "MORE Zerup, Peach Iced Tea, 65 ml, voor maximaal 8 l kant-en-klare drank, suiker",
+          "n": "Jack & Jones Jjebasic Polo Ss Noos Poloshirt voor heren",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 6,56",
+          "n": "2 aanbiedingen vanUSD 16,25",
           "c": "Algemeen"
         },
         {
-          "n": "Best Body Nutrition - Low Carb Vital Drink, 1000 ml fles 181515",
+          "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 24,38/l)",
+          "n": "(USD 3,57/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "True Dates Sour Apple, natuurlijk gearomatiseerde dadels, zure appelsmaak, 100 g",
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,03",
+          "n": "1 aanbieding voorUSD 26,70",
           "c": "Algemeen"
         },
         {
-          "n": "nimm2 Lachgom Happies – 1 x 325 g – fruitgum met vruchtensap en vitamines – snoe",
+          "n": "ONLY ONLMADISON Damesjeans met wijde pijpen, hoge taille, wijde pijpen",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 1,49",
+          "n": "USD 35,56",
           "c": "Algemeen"
         },
         {
-          "n": "MORE Barista Zerup Vanilla, 65 ml, voor koffie, thee en warme dranken, veganisti",
+          "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 6,96",
+          "n": "1 aanbieding voorUSD 7,93",
           "c": "Algemeen"
         },
         {
-          "n": "Pfanner Zero Siroop Ice Tea perzik (1 x 57 ml), suikervrije dranksiroop voor 8 l",
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 4,63",
+          "n": "1 aanbieding voorUSD 19,73",
           "c": "Algemeen"
         },
         {
@@ -1669,27 +1669,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jack & Jones Jjebasic Polo Ss Noos Poloshirt voor heren",
+          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten &",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,25",
+          "n": "1 aanbieding voorUSD 34,78",
           "c": "Algemeen"
         },
         {
-          "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
+          "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,57/eenheid)",
+          "n": "2 aanbiedingen vanUSD 22,12",
           "c": "Algemeen"
         },
         {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "n": "Ugreen Microfoonkabel high quality XLR stekker op XLR ingang, zwart, 2 m",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 26,70",
+          "n": "8 aanbiedingen vanUSD 9,28",
           "c": "Algemeen"
         }
       ]
