@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T13:44:38.567956+00:00",
-  "updated_fmt": "22 May 2026 om 13:44",
+  "updated": "2026-05-22T18:27:46.081643+00:00",
+  "updated_fmt": "22 May 2026 om 18:27",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 May 2026 13:44 UTC",
+      "note": "bol.com — gescraped 22 May 2026 18:27 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 May 2026 13:44 UTC",
+      "note": "amazon.nl — gescraped 22 May 2026 18:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,11 +735,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
           "c": "Algemeen"
         },
         {
-          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 May 2026 13:44 UTC",
+      "note": "amazon.com.be — gescraped 22 May 2026 18:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,30 +1130,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
-          "c": "Algemeen"
-        },
-        {
           "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
@@ -1195,6 +1171,30 @@
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 May 2026 13:44 UTC",
+      "note": "amazon.de — gescraped 22 May 2026 18:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
