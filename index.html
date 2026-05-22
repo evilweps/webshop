@@ -17,6 +17,7 @@
 }
 html{font-size:15px}
 body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:100vh;line-height:1.55}
+.hidden{display:none!important}
 
 /* HEADER */
 header{background:var(--surface);border-bottom:1px solid var(--border);padding:0 2rem;position:sticky;top:0;z-index:200}
@@ -258,9 +259,14 @@ let watchlist = JSON.parse(localStorage.getItem('dealwatch_v1') || '[]');
 
 /* ═══ LOAD DATA ═══ */
 async function loadData() {
+  // Zorg dat alles correct verborgen start
+  document.getElementById('loading').style.display       = 'flex';
+  document.getElementById('error-screen').style.display  = 'none';
+  document.getElementById('main').style.display          = 'none';
+
   try {
     const r = await fetch('./deals.json?v=' + Date.now());
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    if (!r.ok) throw new Error(`HTTP ${r.status} — deals.json niet gevonden`);
     const json = await r.json();
 
     SD = json.stores || {};
@@ -274,15 +280,15 @@ async function loadData() {
 
     buildUI();
     document.getElementById('loading').style.display = 'none';
-    document.getElementById('main').classList.remove('hidden');
+    document.getElementById('main').style.display    = 'block';
 
     // Check watchlist deals silently
     setTimeout(notifyWatchlistDeals, 1500);
 
   } catch(e) {
-    document.getElementById('loading').style.display = 'none';
-    document.getElementById('error-screen').classList.remove('hidden');
-    document.getElementById('error-msg').textContent = e.message + ' — controleer of deals.json bestaat in dezelfde map.';
+    document.getElementById('loading').style.display      = 'none';
+    document.getElementById('error-screen').style.display = 'flex';
+    document.getElementById('error-msg').textContent = e.message + ' — controleer of deals.json in dezelfde GitHub-map staat als index.html.';
     console.error('deals.json load error:', e);
   }
 }
