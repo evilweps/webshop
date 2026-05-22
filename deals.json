@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T12:23:25.530832+00:00",
-  "updated_fmt": "22 May 2026 om 12:23",
+  "updated": "2026-05-22T13:44:38.567956+00:00",
+  "updated_fmt": "22 May 2026 om 13:44",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 May 2026 12:23 UTC",
+      "note": "bol.com — gescraped 22 May 2026 13:44 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 May 2026 12:23 UTC",
+      "note": "amazon.nl — gescraped 22 May 2026 13:44 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 May 2026 12:23 UTC",
+      "note": "amazon.com.be — gescraped 22 May 2026 13:44 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,6 +1130,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "c": "Algemeen"
+        },
+        {
           "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
@@ -1174,54 +1198,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mais comment tu fais ?: Couple, famille, boulot... Les conseils de Jill pour cré",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Le coupable n'est pas Léa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Toi d'Abord, le Reste Ensuite: 120 Séances de Vérités qui Dérangent pour Arrêter",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal: The addictive sports romance from TikTok sensation and bestselling aut",
-          "c": "Algemeen"
-        },
-        {
-          "n": "L'intruse",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bien dormir, c'est possible, même pour vous !",
-          "c": "Algemeen"
-        },
-        {
           "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
           "c": "Algemeen"
         },
@@ -1243,6 +1219,30 @@
         },
         {
           "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische kokosolie, 500 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "waterdrop Microenergy-set, energiedrank zonder suiker, kersendrank, 36 bruisblok",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 May 2026 12:23 UTC",
+      "note": "amazon.de — gescraped 22 May 2026 13:44 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1673,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 9,74",
+          "n": "2 aanbiedingen vanUSD 16,25",
           "c": "Algemeen"
         },
         {
