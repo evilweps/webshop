@@ -1,0 +1,38 @@
+name: Deals Scraper
+
+on:
+  schedule:
+    - cron: '0 5,11,17,23 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Dependencies installeren
+        run: |
+          pip install playwright requests beautifulsoup4 lxml
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Scraper draaien
+        run: python scraper.py
+
+      - name: Commit en push deals.json
+        run: |
+          git config user.name  "Deals Bot"
+          git config user.email "bot@ryanain.com"
+          git add deals.json
+          git diff --staged --quiet && echo "Geen wijzigingen" || (git commit -m "deals: auto-update $(date -u '+%Y-%m-%d %H:%M') UTC" && git push)
