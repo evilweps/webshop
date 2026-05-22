@@ -5,6 +5,9 @@ on:
     - cron: '0 5,11,17,23 * * *'
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -35,4 +38,8 @@ jobs:
           git config user.name  "Deals Bot"
           git config user.email "bot@ryanain.com"
           git add deals.json
-          git diff --staged --quiet && echo "Geen wijzigingen" || (git commit -m "deals: auto-update $(date -u '+%Y-%m-%d %H:%M') UTC" && git push)
+          git diff --staged --quiet && echo "Geen wijzigingen" || (
+            git commit -m "deals: auto-update $(date -u '+%Y-%m-%d %H:%M') UTC" &&
+            git pull --rebase &&
+            git push
+          )
