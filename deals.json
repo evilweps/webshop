@@ -1,175 +1,135 @@
 {
-  "updated": "2026-05-22T10:47:37.279781+00:00",
-  "updated_fmt": "22 May 2026 om 10:47",
+  "updated": "2026-05-22T10:53:46.244375+00:00",
+  "updated_fmt": "22 May 2026 om 10:53",
   "stores": {
     "bol": {
       "name": "bol.com",
       "url": "https://www.bol.com/nl/nl/deals/",
-      "bsUrl": "https://www.bol.com/nl/nl/l/bestsellers/",
+      "bsUrl": "https://www.bol.com/nl/nl/l/top-100/",
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — live gescraped op 22 May 2026 10:47 UTC",
+      "note": "bol.com — gescraped op 22 May 2026 10:53 UTC",
       "deals": [
         {
-          "n": "NIVEA producten collectie",
-          "c": "Beauty",
-          "p": "v.a. €2,50",
+          "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
+          "c": "Aanbieding",
+          "p": "",
           "w": "",
-          "d": 55,
-          "u": "https://www.bol.com/nl/nl/ra/tot-55-korting-op-nivea/470805/"
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/chiq-l40ft-smart-tv-40-inch-led-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000238031084/?promo=promotionpage_100_product"
         },
         {
-          "n": "Bobbi — Bobbi naar de speeltuin",
-          "c": "Boeken",
-          "p": "€5,00",
-          "w": "€9,99",
-          "d": 50,
-          "u": "https://www.bol.com/nl/nl/p/bobbi-bobbi-naar-de-speeltuin/9200000131662743/"
-        },
-        {
-          "n": "Lavazza Crema e Aroma 1kg",
-          "c": "Koffie",
-          "p": "€9,99",
-          "w": "€14,28",
-          "d": 30,
-          "u": "https://www.bol.com/nl/ra/all--n-vandaag--tot-30--korting-op-lavazza/499701/"
-        },
-        {
-          "n": "Luiers & billendoekjes collectie",
-          "c": "Baby",
-          "p": "v.a. €8,99",
+          "n": "Olvy Smart Eierkoker - LCD-Display - Met Timer - 6 Eieren - Elektrisch - Incl. M",
+          "c": "Aanbieding",
+          "p": "",
           "w": "",
-          "d": 25,
-          "u": "https://www.bol.com/nl/nl/ra/korting-op-luiers-billendoekjes/483130/"
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/olvy-smart-eierkoker-lcd-display-met-timer-6-eieren-elektrisch-incl-maatbeker-vaatwasserbestendig/9300000241370210/?promo=promotionpage_100_product"
         },
         {
-          "n": "Asmodee Quickstop Kaartspel",
-          "c": "Speelgoed",
-          "p": "€14,99",
-          "w": "€19,99",
-          "d": 25,
-          "u": "https://www.bol.com/nl/nl/p/quickstop/9300000231117520/"
-        },
-        {
-          "n": "Koffie (DE, Illy, Lavazza) collectie",
-          "c": "Koffie",
-          "p": "v.a. €4,99",
+          "n": "Siltcon® Powerbank 30000 mAh– Powerbanks 22.5W Snellader – USB-A/USB-C - LED Ind",
+          "c": "Aanbieding",
+          "p": "",
           "w": "",
-          "d": 25,
-          "u": "https://www.bol.com/nl/nl/ra/tot-25-korting-op-koffie/481316/"
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/siltcon-powerbank-30000-mah-powerbanks-22-5w-snellader-usb-a-usb-c-led-indicatie-powerbank-iphone-geschikt-noodpakket-universeel-geschikt-o-a-ios-android-incl-22-5w-usb-c-snellaadkabel/9300000232318310/?promo=promotionpage_100_product"
         },
         {
-          "n": "LEGO sets diverse modellen",
-          "c": "LEGO",
-          "p": "v.a. €12,99",
+          "n": "Samsung Galaxy A16 4G (LTE) - 128GB - Zwart",
+          "c": "Aanbieding",
+          "p": "",
           "w": "",
-          "d": 20,
-          "u": "https://www.bol.com/nl/nl/ra/korting-op-populaire-lego-sets/493893/"
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/samsung-galaxy-a16-4g-128gb-zwart/9300000191610730/?promo=promotionpage_100_product"
         },
         {
-          "n": "Robotstofzuigers & steelstofzuigers",
-          "c": "Huishouden",
-          "p": "v.a. €79,-",
+          "n": "De kreeftenvrouwen",
+          "c": "Aanbieding",
+          "p": "",
           "w": "",
-          "d": 20,
-          "u": "https://www.bol.com/nl/nl/ra/hoge-korting-op-steel-en-robotstofzuigers/499479/"
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/de-kreeftenvrouwen-ebook/9300000248968608/?promo=promotionpage_100_product"
         },
         {
-          "n": "Kobo Libra Colour E-reader 7\" 32GB",
-          "c": "Elektronica",
-          "p": "€209,-",
-          "w": "€239,-",
-          "d": 13,
-          "u": "https://www.bol.com/nl/nl/p/kobo-libra-colour/9300000173830673/"
+          "n": "Prisma woordenboek Nederlands",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/prisma-woordenboek-nederlands/9200000088082118/?promo=promotionpage_100_product"
         },
         {
-          "n": "999 Games Beverbende Kaartspel",
-          "c": "Speelgoed",
-          "p": "€9,99",
-          "w": "€11,04",
-          "d": 10,
-          "u": "https://www.bol.com/nl/nl/p/beverbende/1004004006487381/"
+          "n": "Van Dale Pocketwoordenboek Nederlands",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/van-dale-pocketwoordenboek-nederlands/9300000065119381/?promo=promotionpage_100_product"
         },
         {
-          "n": "Samsung Galaxy Tab A11 Plus 128GB",
-          "c": "Elektronica",
-          "p": "€209,-",
-          "w": "€229,-",
-          "d": 9,
-          "u": "https://www.bol.com/nl/nl/p/samsung-galaxy-tab-a11-plus/9300000242017236/"
+          "n": "Asmodee Quickstop - Nederlandstalig kaartspel - Party- en familiespel - 8+ jaar",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/quickstop-nederlandstalig-kaartspel-party-en-familiespel-snel-en-hilarisch-2-tot-7-spelers/9300000231117520/?promo=promotionpage_100_product"
         },
         {
-          "n": "Samsung Galaxy A16 4G 128GB",
-          "c": "Elektronica",
-          "p": "€109,-",
-          "w": "€119,-",
-          "d": 8,
-          "u": "https://www.bol.com/nl/nl/p/samsung-galaxy-a16-4g/9300000191610730/"
+          "n": "LEGO Minifiguren - Serie 29 Verrassingsdoosje met Speelgoed Figuur voor Kinderen",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/lego-minifiguren-serie-29-verrassingsdoosje-met-speelgoed-figuur-voor-kinderen-71052/9300000257637895/?promo=promotionpage_100_product"
         },
         {
-          "n": "Oral-B Pro 3 3900 2-pack",
-          "c": "Verzorging",
-          "p": "€49,99",
-          "w": "€79,99",
-          "d": 38,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Oral-B+Pro+3+3900"
+          "n": "LEGO City Avontuurlijke camper voertuigset - 60454",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/lego-city-avontuurlijke-camper-voertuigset-60454/9300000187249645/?promo=promotionpage_100_product"
         },
         {
-          "n": "Nespresso Vertuo Pop",
-          "c": "Keuken",
-          "p": "€69,99",
-          "w": "€99,99",
-          "d": 30,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Nespresso+Vertuo+Pop"
+          "n": "999 Games - Beverbende - Kaartspel - Tactisch geheugenspel - Familiespel - Gezel",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/beverbende-kaartspel/1004004006487381/?promo=promotionpage_100_product"
         },
         {
-          "n": "Ariel Pods 3-in-1 60 stuks",
-          "c": "Huishouden",
-          "p": "€14,99",
-          "w": "€21,99",
-          "d": 32,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Ariel+Pods"
+          "n": "L'Oréal Paris Elseve Extraordinary Oil Haarolie - haarverzorging voor droog haar",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/l-oreal-paris-elseve-extraordinary-oil-alle-haartypes-100-ml-haarolie/9200000114687954/?promo=promotionpage_100_product"
         },
         {
-          "n": "Sony WH-1000XM6 koptelefoon",
-          "c": "Audio",
-          "p": "€289,99",
-          "w": "€349,99",
-          "d": 17,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Sony+WH-1000XM6"
+          "n": "Garnier SkinActive - Micellair Reinigingswater voor de Gevoelige Huid - 3 x 400m",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/garnier-skinactive-micellair-reinigingswater-voor-de-gevoelige-huid-3-x-400ml/9300000239610326/?promo=promotionpage_100_product"
         },
         {
-          "n": "Philips Airfryer 3000 HD9257",
-          "c": "Keuken",
-          "p": "€69,99",
-          "w": "€89,99",
-          "d": 22,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Philips+Airfryer+3000"
+          "n": "Philips OneBlade Pro 360 Face + Body - Zwart - Trimmer, scheerapparaat en styler",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/philips-oneblade-pro-360-face-body-zwart-trimmer-scheerapparaat-en-styler-in-1-qp6542-15/9300000182633578/?promo=promotionpage_100_product"
         },
         {
-          "n": "Roborock Q6 Pro Robotstofzuiger",
-          "c": "Smart Home",
-          "p": "€299,-",
-          "w": "€399,-",
-          "d": 25,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Roborock+Q6+Pro"
-        },
-        {
-          "n": "Apple AirPods (4e gen.) ANC",
-          "c": "Audio",
-          "p": "€179,-",
-          "w": "€199,-",
-          "d": 10,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Apple+AirPods+4e"
-        },
-        {
-          "n": "Kindle Paperwhite 16GB 2024",
-          "c": "E-reader",
-          "p": "€139,99",
-          "w": "€174,99",
-          "d": 20,
-          "u": "https://www.bol.com/nl/nl/s/?searchtext=Kindle+Paperwhite+16GB"
+          "n": "Philips OneBlade 360 Blade - Vervangmesjes - Scheermesjes - 4 stuks - QP440/50",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/philips-oneblade-360-blade-qp440-50-vervangmesjes-verpakking-van-4/9300000156838516/?promo=promotionpage_100_product"
         }
       ],
       "trending": [
@@ -256,84 +216,188 @@
       ],
       "bestsellers": [
         {
-          "n": "De kreeftenvrouwen — Beatrix Gerstberger",
-          "c": "Boeken"
+          "n": "De machtscode",
+          "c": "Bestsellers"
         },
         {
-          "n": "LEGO Botanicals Boeket Tulpen",
-          "c": "LEGO"
+          "n": "De familie aan de overkant",
+          "c": "Bestsellers"
         },
         {
-          "n": "L'Oréal Elseve Extraordinary Oil",
-          "c": "Beauty"
+          "n": "De kreeftenvrouwen",
+          "c": "Bestsellers"
         },
         {
-          "n": "Beauty of Joseon Relief Sun SPF50+",
-          "c": "Skincare"
+          "n": "Paperback23,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Gillette Fusion5 Power Scheermesjes",
-          "c": "Verzorging"
+          "n": "Digitaal luisterboek14,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Philips OneBlade Pro 360",
-          "c": "Verzorging"
+          "n": "Onderstroom",
+          "c": "Bestsellers"
         },
         {
-          "n": "Robijn Classics Color Wascapsules",
-          "c": "Huishouden"
+          "n": "E-book12,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Scottex Toiletpapier 96 rollen",
-          "c": "Huishouden"
+          "n": "De avonturen van Blake en Mortimer 1 - De avonturen van Blake en Mortimer integr",
+          "c": "Bestsellers"
         },
         {
-          "n": "Philips Hue Bridge",
-          "c": "Smart Home"
+          "n": "Niemand vertellen",
+          "c": "Bestsellers"
         },
         {
-          "n": "Purpuz Planner 2026",
-          "c": "Kantoor"
+          "n": "Paperback15,00",
+          "c": "Bestsellers"
         },
         {
-          "n": "Skip-Bo Kaartspel",
-          "c": "Speelgoed"
+          "n": "Digitaal luisterboek21,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "999 Games Beverbende",
-          "c": "Speelgoed"
+          "n": "Rechercheur Maud O'Connor - Verkeerde afslag",
+          "c": "Bestsellers"
         },
         {
-          "n": "Samsung Galaxy A16 4G 128GB",
-          "c": "Elektronica"
+          "n": "Paperback24,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Kobo Clara BW E-reader",
-          "c": "E-reader"
+          "n": "Hardcover27,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Senseo Original Koffiepads 48st",
-          "c": "Koffie"
+          "n": "Aan het einde van de oorlog",
+          "c": "Bestsellers"
         },
         {
-          "n": "Pampers Baby-Dry maat 4",
-          "c": "Baby"
+          "n": "E-book14,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Nintendo Switch 2 console",
-          "c": "Gaming"
+          "n": "Digitaal luisterboek17,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Apple AirPods (4e gen.)",
-          "c": "Audio"
+          "n": "De keuze",
+          "c": "Bestsellers"
         },
         {
-          "n": "Nespresso Vertuo Pop",
-          "c": "Keuken"
+          "n": "E-book9,99",
+          "c": "Bestsellers"
         },
         {
-          "n": "Philips Airfryer 3000",
-          "c": "Keuken"
+          "n": "Hardcover22,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Paperback42,90",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Murdle - Bloedstollende moordmysteries voor pientere puzzelaars",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Murdoku 2 - Murdoku - Terug in de tijd",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het Grote Ontprikkelboek",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "E-book16,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Al het blauw van de hemel",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Digitaal luisterboek19,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Coco Wyo Cozy Cuties - Kleurboek voor alle leeftijden - 45 handgetekende pagina'",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "De Mergellandmoorden 1 - Terugkeer",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "E-book6,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Voor altijd jong",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "E-book13,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het Droompad",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Cozy & cute in de bakkerij",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Prisma woordenboek Nederlands",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Paperback11,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het cozy puzzelboek voor ontspannen zomerdagen",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Nash 2 - De terugkeer",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Off-Campus - The Deal",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Van doel naar deal",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "E-book21,00",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Snel, simpel & puur",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het droompad",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "KleurLab - Japanse Tuinen - Kleurboeken voor volwassenen - 48 kleurplaten op A4 ",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "De 100 mooiste campertrips van Nederland & België",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Ik zie, ik zie",
+          "c": "Bestsellers"
         }
       ]
     },
@@ -344,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped op 22 May 2026 10:47 UTC · klik door voor live prijzen",
+      "note": "amazon.nl — gescraped op 22 May 2026 10:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -591,204 +655,28 @@
       ],
       "bestsellers": [
         {
-          "n": "28.717",
-          "c": "Bestseller"
-        },
-        {
-          "n": "46.878",
-          "c": "Bestseller"
-        },
-        {
-          "n": "15.676",
-          "c": "Bestseller"
-        },
-        {
-          "n": "15.747",
-          "c": "Bestseller"
-        },
-        {
-          "n": "19.620",
-          "c": "Bestseller"
-        },
-        {
-          "n": "36.861",
-          "c": "Bestseller"
-        },
-        {
-          "n": "4.663",
-          "c": "Bestseller"
-        },
-        {
-          "n": "56.856",
-          "c": "Bestseller"
-        },
-        {
-          "n": "1.156",
-          "c": "Bestseller"
-        },
-        {
-          "n": "201.050",
-          "c": "Bestseller"
-        },
-        {
-          "n": "33.179",
-          "c": "Bestseller"
-        },
-        {
-          "n": "13.813",
-          "c": "Bestseller"
-        },
-        {
-          "n": "1.796",
-          "c": "Bestseller"
-        },
-        {
-          "n": "5.254",
-          "c": "Bestseller"
-        },
-        {
-          "n": "1.959",
-          "c": "Bestseller"
-        },
-        {
-          "n": "3.680",
-          "c": "Bestseller"
-        },
-        {
-          "n": "28.080",
-          "c": "Bestseller"
-        },
-        {
-          "n": "10.085",
-          "c": "Bestseller"
-        },
-        {
           "n": "The Killer Isn't Alice: The 46,600 Suspect Murder Mystery Puzzle",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "Controle Over Je Gedachten: Praktische Strategieën om Negatieve Patronen te Door",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "Murdoku: 80 Murder Mystery Logic Puzzles",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
-          "c": "Bestseller"
-        },
-        {
-          "n": "13.222",
-          "c": "Bestseller"
-        },
-        {
-          "n": "15.255",
-          "c": "Bestseller"
-        },
-        {
-          "n": "2.609",
-          "c": "Bestseller"
-        },
-        {
-          "n": "27.246",
-          "c": "Bestseller"
-        },
-        {
-          "n": "1.791",
-          "c": "Bestseller"
-        },
-        {
-          "n": "28.812",
-          "c": "Bestseller"
-        },
-        {
-          "n": "13.889",
-          "c": "Bestseller"
-        },
-        {
-          "n": "20.685",
-          "c": "Bestseller"
-        },
-        {
-          "n": "113.506",
-          "c": "Elektronica"
-        },
-        {
-          "n": "1.397",
-          "c": "Elektronica"
-        },
-        {
-          "n": "12.719",
-          "c": "Elektronica"
-        },
-        {
-          "n": "260.676",
-          "c": "Elektronica"
-        },
-        {
-          "n": "2.406",
-          "c": "Elektronica"
-        },
-        {
-          "n": "6.925",
-          "c": "Elektronica"
-        },
-        {
-          "n": "330.911",
-          "c": "Elektronica"
-        },
-        {
-          "n": "7.374",
-          "c": "Elektronica"
-        },
-        {
-          "n": "1.919",
-          "c": "Elektronica"
-        },
-        {
-          "n": "114.184",
-          "c": "Elektronica"
-        },
-        {
-          "n": "646.507",
-          "c": "Elektronica"
-        },
-        {
-          "n": "57.141",
-          "c": "Elektronica"
-        },
-        {
-          "n": "12.169",
-          "c": "Elektronica"
-        },
-        {
-          "n": "11.284",
-          "c": "Elektronica"
-        },
-        {
-          "n": "275.131",
-          "c": "Elektronica"
-        },
-        {
-          "n": "12.627",
-          "c": "Elektronica"
-        },
-        {
-          "n": "204.369",
-          "c": "Elektronica"
-        },
-        {
-          "n": "267.129",
-          "c": "Elektronica"
+          "c": "Algemeen"
         }
       ]
     },
@@ -799,7 +687,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped op 22 May 2026 10:47 UTC · klik door voor live prijzen",
+      "note": "amazon.com.be — gescraped op 22 May 2026 10:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1254,7 +1142,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped op 22 May 2026 10:47 UTC · klik door voor live prijzen",
+      "note": "amazon.de — gescraped op 22 May 2026 10:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1502,203 +1390,79 @@
       "bestsellers": [
         {
           "n": "(€ 970,83/l)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 1.051,16/kg)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 179,90/l)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 1.899,00/kg)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 50,00/l)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 3,25/eenheid)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "5.338",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 0,10/eenheid)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "45.051",
-          "c": "Bestseller"
-        },
-        {
-          "n": "100.284",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 0,24/eenheid)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "24.361",
-          "c": "Bestseller"
-        },
-        {
-          "n": "2.389",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 11,49/l)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 17,50/kg)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 3,94/kg)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 92,15/l)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 70,00/l)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "34.916",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 13,98/l)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "11.909",
-          "c": "Bestseller"
-        },
-        {
-          "n": "100.628",
-          "c": "Bestseller"
-        },
-        {
-          "n": "43.014",
-          "c": "Bestseller"
-        },
-        {
-          "n": "34.313",
-          "c": "Bestseller"
-        },
-        {
-          "n": "13.655",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 3,66/eenheid)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "6.662",
-          "c": "Bestseller"
-        },
-        {
-          "n": "1.436",
-          "c": "Bestseller"
-        },
-        {
-          "n": "84.712",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
           "n": "(€ 2,83/eenheid)",
-          "c": "Bestseller"
+          "c": "Algemeen"
         },
         {
-          "n": "2.185",
-          "c": "Bestseller"
+          "n": "(€ 29,95/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "(€ 7,50/eenheid)",
-          "c": "Bestseller"
+          "n": "(€ 13,95/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "(€ 1,95/eenheid)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "(€ 2,98/eenheid)",
-          "c": "Bestseller"
-        },
-        {
-          "n": "123.282",
-          "c": "Keuken"
-        },
-        {
-          "n": "26.658",
-          "c": "Keuken"
-        },
-        {
-          "n": "23.834",
-          "c": "Keuken"
-        },
-        {
-          "n": "16.559",
-          "c": "Keuken"
-        },
-        {
-          "n": "33.648",
-          "c": "Keuken"
-        },
-        {
-          "n": "25.858",
-          "c": "Keuken"
-        },
-        {
-          "n": "7.381",
-          "c": "Keuken"
-        },
-        {
-          "n": "33.980",
-          "c": "Keuken"
-        },
-        {
-          "n": "10.041",
-          "c": "Keuken"
-        },
-        {
-          "n": "17.003",
-          "c": "Keuken"
-        },
-        {
-          "n": "4.069",
-          "c": "Keuken"
-        },
-        {
-          "n": "12.426",
-          "c": "Keuken"
-        },
-        {
-          "n": "27.977",
-          "c": "Keuken"
-        },
-        {
-          "n": "144.012",
-          "c": "Keuken"
-        },
-        {
-          "n": "54.602",
-          "c": "Keuken"
-        },
-        {
-          "n": "21.477",
-          "c": "Keuken"
+          "n": "(€ 5,63/eenheid)",
+          "c": "Algemeen"
         }
       ]
     }
