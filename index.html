@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deals Dashboard — bol.com · amazon.com.be · amazon.nl · amazon.de</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --surface:#fff;--bg:#f5f5f3;--border:#e4e4e2;--border-mid:#cececc;
+  --text:#181816;--muted:#6a6a66;--faint:#9a9a96;
+  --r-sm:6px;--r-md:10px;--r-lg:14px;--r-xl:22px;
+  --font:'DM Sans',system-ui,sans-serif;--mono:'DM Mono',monospace
+}
+html{font-size:15px}
+body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:100vh;line-height:1.55}
+
+/* HEADER */
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:0 2rem;position:sticky;top:0;z-index:200}
+.h-inner{max-width:1400px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:56px;gap:1rem}
+.logo{display:flex;align-items:center;gap:10px;font-size:16px;font-weight:600;color:var(--text);text-decoration:none}
+.logo-icon{width:28px;height:28px;border-radius:7px;background:linear-gradient(135deg,#E74C3C 0%,#FF9900 50%,#146EB4 100%);display:flex;align-items:center;justify-content:center;color:#fff;font-size:12px}
+.h-right{display:flex;align-items:center;gap:10px}
+.live-pill{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:500;padding:3px 9px;background:#e8faf0;color:#166534;border-radius:20px;border:1px solid #bbf7d0}
+.live-dot{width:6px;height:6px;background:#16a34a;border-radius:50%;animation:pulse 1.8s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.h-date{font-size:12px;color:var(--faint)}
+
+/* Watchlist btn */
+.wl-btn{position:relative;display:flex;align-items:center;gap:6px;padding:7px 14px;border-radius:var(--r-xl);font-size:13px;font-weight:500;cursor:pointer;border:1.5px solid var(--border);background:var(--surface);color:var(--muted);transition:all .18s;font-family:var(--font)}
+.wl-btn:hover{border-color:var(--border-mid);color:var(--text)}
+.wl-badge{position:absolute;top:-5px;right:-5px;background:#E74C3C;color:#fff;font-size:10px;font-weight:700;min-width:17px;height:17px;border-radius:9px;display:none;align-items:center;justify-content:center;padding:0 3px}
+.wl-badge.show{display:flex}
+
+/* LOADING STATE */
+.loading-screen{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:16px;color:var(--muted)}
+.loading-spinner{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--text);border-radius:50%;animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.error-screen{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:12px;color:var(--muted);text-align:center;padding:2rem}
+.error-screen i{font-size:36px;color:var(--faint)}
+
+/* CONTAINER */
+.container{max-width:1400px;margin:0 auto;padding:1.5rem 2rem 5rem}
+.container.hidden{display:none}
+
+/* STORE TABS */
+.store-tabs{display:flex;gap:7px;margin-bottom:1.5rem;flex-wrap:wrap}
+.store-tab{display:flex;align-items:center;gap:7px;padding:9px 18px;border-radius:var(--r-xl);font-size:13px;font-weight:500;cursor:pointer;border:1.5px solid var(--border);background:var(--surface);color:var(--muted);transition:all .2s;font-family:var(--font)}
+.store-tab:hover{border-color:var(--border-mid);color:var(--text);transform:translateY(-1px);box-shadow:0 3px 10px rgba(0,0,0,.07)}
+.store-tab.active{color:#fff;border-color:transparent;box-shadow:0 4px 16px rgba(0,0,0,.14);transform:translateY(-1px)}
+.tab-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.store-panel{display:none}.store-panel.active{display:block}
+
+/* PANEL HEADER */
+.panel-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.1rem;gap:1rem;flex-wrap:wrap}
+.panel-title{display:flex;align-items:center;gap:10px}
+.panel-title h2{font-size:20px;font-weight:600}
+.panel-badge{font-size:11px;padding:3px 8px;border-radius:6px;font-weight:500}
+.header-links{display:flex;gap:7px;flex-wrap:wrap}
+.visit-btn{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:500;padding:6px 13px;border-radius:var(--r-md);text-decoration:none;border:1px solid var(--border);color:var(--muted);background:var(--surface);transition:all .15s}
+.visit-btn:hover{border-color:var(--border-mid);color:var(--text)}
+
+/* SECTION NAV */
+.section-nav{display:inline-flex;gap:3px;margin-bottom:1.1rem;background:var(--surface);padding:4px;border-radius:var(--r-lg);border:1px solid var(--border)}
+.sec-tab{display:flex;align-items:center;gap:5px;padding:7px 15px;border-radius:var(--r-md);font-size:12px;font-weight:500;cursor:pointer;border:none;background:transparent;color:var(--muted);transition:all .15s;font-family:var(--font);white-space:nowrap}
+.sec-tab:hover{color:var(--text)}
+.sec-tab.active{background:var(--text);color:#fff;box-shadow:0 2px 6px rgba(0,0,0,.15)}
+.sec-tab .cnt{font-size:10px;padding:1px 5px;border-radius:4px;background:rgba(255,255,255,.2)}
+.sec-tab:not(.active) .cnt{background:var(--bg);color:var(--faint)}
+.section-content{display:none}.section-content.active{display:block}
+
+/* INFO BAR */
+.info-bar{display:flex;align-items:center;gap:7px;font-size:11.5px;color:var(--muted);padding:7px 12px;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);margin-bottom:1rem}
+.info-bar .updated{margin-left:auto;font-size:11px;color:var(--faint)}
+
+/* DEALS GRID */
+.deals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:9px}
+.deal-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);padding:13px;display:flex;flex-direction:column;gap:7px;text-decoration:none;color:inherit;transition:all .18s;position:relative;overflow:hidden}
+.deal-card::after{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--c,#ccc);transform:scaleX(0);transform-origin:left;transition:transform .2s}
+.deal-card:hover{border-color:var(--border-mid);box-shadow:0 4px 18px rgba(0,0,0,.07);transform:translateY(-2px)}
+.deal-card:hover::after{transform:scaleX(1)}
+.d-rank{font-size:10px;font-family:var(--mono);color:var(--faint)}
+.d-cat{font-size:10.5px;color:var(--faint);font-weight:500;text-transform:uppercase;letter-spacing:.04em}
+.d-name{font-size:13px;font-weight:500;color:var(--text);line-height:1.38;flex:1}
+.d-footer{display:flex;align-items:flex-end;justify-content:space-between;gap:5px;margin-top:auto;padding-top:7px;border-top:1px solid var(--border)}
+.d-prices{display:flex;flex-direction:column;gap:1px}
+.p-now{font-size:16px;font-weight:600}
+.p-was{font-size:11px;color:var(--faint);text-decoration:line-through}
+.disc{font-size:11.5px;font-weight:600;padding:4px 8px;border-radius:7px;flex-shrink:0}
+.dh{background:#fde8e8;color:#b91c1c}.dm{background:#fff3cd;color:#92400e}
+.dl{background:#e8f5e9;color:#166534}.dn{background:var(--bg);color:var(--faint);font-size:10px}
+.watch-btn{position:absolute;top:9px;right:9px;width:26px;height:26px;border-radius:50%;border:1px solid var(--border);background:var(--surface);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--faint);transition:all .18s;z-index:2;opacity:0}
+.deal-card:hover .watch-btn,.watch-btn.watching{opacity:1}
+.watch-btn.watching{color:#FF9900;border-color:#FF9900;background:#fff9f0}
+
+/* LIST GRID */
+.list-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:5px}
+.list-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);padding:10px 13px;display:flex;align-items:center;gap:9px;transition:all .15s;text-decoration:none;color:inherit}
+.list-card:hover{border-color:var(--border-mid);box-shadow:0 2px 8px rgba(0,0,0,.05);transform:translateX(2px)}
+.list-card:hover .l-ext,.list-card:hover .lc-watch{opacity:1}
+.l-rank{font-size:12px;font-weight:600;color:var(--faint);min-width:22px;font-family:var(--mono)}
+.l-name{font-size:13px;font-weight:500;flex:1;line-height:1.33}
+.l-cat{font-size:10.5px;padding:2px 7px;border-radius:5px;background:var(--bg);color:var(--muted);white-space:nowrap;font-weight:500;flex-shrink:0}
+.l-ext{font-size:10px;color:var(--faint);opacity:0;transition:opacity .15s;flex-shrink:0}
+.lc-watch{width:24px;height:24px;border-radius:50%;border:1px solid var(--border);background:var(--surface);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:10px;color:var(--faint);transition:all .15s;opacity:0;flex-shrink:0}
+.lc-watch.watching{color:#FF9900;border-color:#FF9900;background:#fff9f0;opacity:1}
+
+/* WATCHLIST PANEL */
+.wl-overlay{position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:300;opacity:0;pointer-events:none;transition:opacity .25s}
+.wl-overlay.open{opacity:1;pointer-events:all}
+.wl-panel{position:fixed;top:0;right:0;bottom:0;width:min(420px,100vw);background:var(--surface);border-left:1px solid var(--border);z-index:301;transform:translateX(100%);transition:transform .28s cubic-bezier(.32,.72,0,1);display:flex;flex-direction:column;overflow:hidden}
+.wl-panel.open{transform:translateX(0)}
+.wl-head{padding:1.2rem 1.5rem 1rem;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0}
+.wl-head h3{font-size:17px;font-weight:600;display:flex;align-items:center;gap:8px}
+.wl-close{width:30px;height:30px;border-radius:50%;border:1px solid var(--border);background:transparent;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:13px;color:var(--muted);transition:all .15s}
+.wl-close:hover{background:var(--bg);color:var(--text)}
+.wl-actions{padding:.75rem 1.5rem;border-bottom:1px solid var(--border);display:flex;gap:8px;flex-shrink:0;flex-wrap:wrap}
+.wl-action-btn{flex:1;min-width:120px;display:flex;align-items:center;justify-content:center;gap:6px;padding:8px 12px;border-radius:var(--r-md);font-size:12px;font-weight:500;cursor:pointer;border:1px solid var(--border);background:var(--surface);color:var(--muted);font-family:var(--font);transition:all .15s}
+.wl-action-btn:hover{border-color:var(--border-mid);color:var(--text)}
+.wl-action-btn.primary{background:var(--text);border-color:var(--text);color:#fff}
+.wl-action-btn.primary:hover{opacity:.88}
+.wl-notif-status{padding:.6rem 1.5rem;font-size:11.5px;color:var(--muted);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:6px;flex-shrink:0}
+.notif-dot{width:7px;height:7px;border-radius:50%;background:var(--faint);flex-shrink:0}
+.notif-dot.granted{background:#16a34a}.notif-dot.denied{background:#dc2626}
+.wl-body{flex:1;overflow-y:auto;padding:1rem 1.5rem}
+.wl-empty{text-align:center;padding:3rem 1rem;color:var(--faint)}
+.wl-empty i{font-size:32px;margin-bottom:12px;display:block}
+.wl-store-group{margin-bottom:1.5rem}
+.wl-store-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--faint);margin-bottom:7px;padding-bottom:5px;border-bottom:1px solid var(--border)}
+.wl-item{display:flex;align-items:flex-start;gap:10px;padding:9px 0;border-bottom:1px solid var(--border)}
+.wl-item:last-child{border-bottom:none}
+.wl-item-info{flex:1;min-width:0}
+.wl-item-name{font-size:13px;font-weight:500;line-height:1.35}
+.wl-item-sub{font-size:11px;color:var(--faint);margin-top:2px;display:flex;align-items:center;gap:6px}
+.deal-found-pill{display:inline-flex;align-items:center;gap:4px;background:#fde8e8;color:#b91c1c;font-size:10px;font-weight:600;padding:2px 7px;border-radius:5px}
+.wl-item-remove{width:24px;height:24px;border-radius:50%;border:none;background:transparent;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--faint);transition:all .15s;flex-shrink:0}
+.wl-item-remove:hover{background:var(--bg);color:#dc2626}
+.wl-item-link{font-size:11px;color:#E74C3C;text-decoration:none;margin-top:4px;display:inline-flex;align-items:center;gap:3px}
+.wl-item-link:hover{text-decoration:underline}
+.wl-add-section{padding:1rem 1.5rem;border-top:1px solid var(--border);flex-shrink:0}
+.wl-add-label{font-size:12px;font-weight:500;color:var(--muted);margin-bottom:7px}
+.wl-add-row{display:flex;gap:7px}
+.wl-add-input{flex:1;padding:8px 11px;border:1px solid var(--border);border-radius:var(--r-md);font-size:13px;font-family:var(--font);color:var(--text);background:var(--bg);outline:none;transition:border-color .15s}
+.wl-add-input:focus{border-color:var(--border-mid);background:var(--surface)}
+.wl-store-select{padding:8px 10px;border:1px solid var(--border);border-radius:var(--r-md);font-size:12px;font-family:var(--font);color:var(--text);background:var(--bg);cursor:pointer;outline:none}
+.wl-add-submit{padding:8px 14px;border-radius:var(--r-md);border:none;background:var(--text);color:#fff;font-size:12px;font-weight:500;cursor:pointer;font-family:var(--font);white-space:nowrap}
+.wl-add-submit:hover{opacity:.85}
+
+/* TOASTS */
+.toast-container{position:fixed;bottom:1.5rem;left:50%;transform:translateX(-50%);z-index:400;display:flex;flex-direction:column;align-items:center;gap:8px;pointer-events:none}
+.toast{display:flex;align-items:center;gap:8px;padding:10px 18px;background:#1a1a18;color:#fff;border-radius:var(--r-xl);font-size:13px;font-weight:500;box-shadow:0 4px 20px rgba(0,0,0,.25);animation:toastIn .25s ease,toastOut .3s ease 2.5s forwards;white-space:nowrap}
+@keyframes toastIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes toastOut{from{opacity:1}to{opacity:0;transform:translateY(8px)}}
+.toast.deal{background:#166534}.toast.removed{background:#555}
+
+/* FOOTER */
+footer{border-top:1px solid var(--border);padding:1.5rem 2rem;text-align:center;font-size:12px;color:var(--faint)}
+footer .next-update{display:inline-flex;align-items:center;gap:5px;margin-top:5px;font-size:11px}
+
+@media(max-width:680px){
+  .container{padding:1rem 1rem 3rem}
+  header{padding:0 1rem}
+  .section-nav{display:flex;flex-wrap:wrap;width:100%}
+  .deals-grid{grid-template-columns:repeat(auto-fill,minmax(155px,1fr))}
+  .list-grid{grid-template-columns:1fr}
+  .h-date{display:none}
+  .wl-panel{width:100vw}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="h-inner">
+    <div class="logo">
+      <div class="logo-icon"><i class="fa-solid fa-tags"></i></div>
+      Deals Dashboard
+    </div>
+    <div class="h-right">
+      <span class="live-pill"><span class="live-dot"></span><span id="hdr-updated">Laden…</span></span>
+      <span class="h-date" id="hdr-date"></span>
+      <button class="wl-btn" onclick="openWL()" title="Mijn watchlist">
+        <i class="fa-regular fa-bell"></i>
+        <span>Watchlist</span>
+        <span class="wl-badge" id="wl-badge">0</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- LOADING -->
+<div class="loading-screen" id="loading">
+  <div class="loading-spinner"></div>
+  <p>Deals laden…</p>
+</div>
+
+<!-- ERROR -->
+<div class="error-screen hidden" id="error-screen">
+  <i class="fa-regular fa-circle-xmark"></i>
+  <p><strong>Kon deals.json niet laden</strong></p>
+  <p style="font-size:12px;color:var(--faint)" id="error-msg"></p>
+</div>
+
+<!-- WATCHLIST -->
+<div class="wl-overlay" id="wl-overlay" onclick="closeWL()"></div>
+<div class="wl-panel" id="wl-panel">
+  <div class="wl-head">
+    <h3><i class="fa-regular fa-bell"></i> Mijn Watchlist</h3>
+    <button class="wl-close" onclick="closeWL()"><i class="fa-solid fa-xmark"></i></button>
+  </div>
+  <div class="wl-actions">
+    <button class="wl-action-btn primary" onclick="checkDeals()"><i class="fa-solid fa-magnifying-glass"></i> Controleer deals</button>
+    <button class="wl-action-btn" onclick="requestNotifPerm()"><i class="fa-regular fa-bell"></i> Notificaties</button>
+  </div>
+  <div class="wl-notif-status" id="notif-status">
+    <span class="notif-dot" id="notif-dot"></span>
+    <span id="notif-text">…</span>
+  </div>
+  <div class="wl-body" id="wl-body"></div>
+  <div class="wl-add-section">
+    <div class="wl-add-label"><i class="fa-solid fa-plus" style="margin-right:4px"></i>Eigen product toevoegen</div>
+    <div class="wl-add-row">
+      <input class="wl-add-input" id="wl-input" placeholder="Bijv. Sony WH-1000XM6" onkeydown="if(event.key==='Enter')addCustomWatch()"/>
+      <select class="wl-store-select" id="wl-store-sel">
+        <option value="all">Alle</option>
+        <option value="bol">bol.com</option>
+        <option value="amz_be">amazon.be</option>
+        <option value="amz_nl">amazon.nl</option>
+        <option value="amz_de">amazon.de</option>
+      </select>
+      <button class="wl-add-submit" onclick="addCustomWatch()">Volgen</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast-container" id="toasts"></div>
+
+<!-- MAIN (hidden until data loaded) -->
+<main class="container hidden" id="main">
+  <div class="store-tabs" id="store-tabs"></div>
+  <div id="panels"></div>
+</main>
+
+<footer>
+  <p>Deals Dashboard · automatisch bijgewerkt door NAS scraper</p>
+  <p class="next-update"><i class="fa-regular fa-clock"></i> Laatste update: <span id="footer-updated">—</span></p>
+</footer>
+
+<script>
+/* ═══ STATE ═══ */
+let SD = {};       // filled from deals.json
+let SC = { bol:"#E74C3C", amz_be:"#FF9900", amz_nl:"#1A6B3A", amz_de:"#146EB4" };
+let STORE_KEYS = [];
+let watchlist = JSON.parse(localStorage.getItem('dealwatch_v1') || '[]');
+
+/* ═══ LOAD DATA ═══ */
+async function loadData() {
+  try {
+    const r = await fetch('./deals.json?v=' + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const json = await r.json();
+
+    SD = json.stores || {};
+    STORE_KEYS = Object.keys(SD);
+
+    // Header + footer timestamps
+    const fmt = json.updated_fmt || json.updated || '';
+    document.getElementById('hdr-updated').textContent = fmt ? `Bijgewerkt ${fmt}` : 'Live data';
+    document.getElementById('footer-updated').textContent = fmt || '—';
+    document.getElementById('hdr-date').textContent = new Date().toLocaleDateString('nl-NL', {weekday:'long',day:'numeric',month:'long',year:'numeric'});
+
+    buildUI();
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('main').classList.remove('hidden');
+
+    // Check watchlist deals silently
+    setTimeout(notifyWatchlistDeals, 1500);
+
+  } catch(e) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('error-screen').classList.remove('hidden');
+    document.getElementById('error-msg').textContent = e.message + ' — controleer of deals.json bestaat in dezelfde map.';
+    console.error('deals.json load error:', e);
+  }
+}
+
+/* ═══ BUILD UI ═══ */
+function buildUI() {
+  const storeTabsEl = document.getElementById('store-tabs');
+  const panelsEl    = document.getElementById('panels');
+  storeTabsEl.innerHTML = '';
+  panelsEl.innerHTML    = '';
+
+  STORE_KEYS.forEach((k, i) => {
+    const s = SD[k];
+    const c = SC[k] || '#888';
+
+    // Tab
+    const tab = document.createElement('button');
+    tab.className = 'store-tab' + (i === 0 ? ' active' : '');
+    tab.dataset.k = k;
+    tab.onclick = () => sw(k);
+    if (i === 0) { tab.style.background = c; tab.style.borderColor = c; tab.style.color = '#fff'; }
+    tab.innerHTML = `<span class="tab-dot" style="background:${i===0?'rgba(255,255,255,.5)':c}"></span>${s.name}`;
+    storeTabsEl.appendChild(tab);
+
+    // Panel
+    const panel = document.createElement('div');
+    panel.id = 'panel-' + k;
+    panel.className = 'store-panel' + (i === 0 ? ' active' : '');
+    panel.innerHTML = buildPanel(k);
+    panelsEl.appendChild(panel);
+  });
+
+  updateBadge();
+  updateNotifStatus();
+}
+
+function buildPanel(k) {
+  const s = SD[k]; const c = SC[k] || '#888';
+  const deals       = (s.deals       || []).slice(0, 50);
+  const trending    = (s.trending    || []).slice(0, 50);
+  const bestsellers = (s.bestsellers || []).slice(0, 50);
+
+  return `
+  <div class="panel-header">
+    <div class="panel-title">
+      <h2>${s.name}</h2>
+      <span class="panel-badge" style="background:${s.badgeBg||'#f0f0f0'};color:${s.badgeTxt||'#555'}">${s.badge||''}</span>
+    </div>
+    <div class="header-links">
+      <a href="${s.url}" target="_blank" rel="noopener" class="visit-btn"><i class="fa-solid fa-tag"></i> Deals <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:10px"></i></a>
+      <a href="${s.bsUrl}" target="_blank" rel="noopener" class="visit-btn"><i class="fa-solid fa-chart-line"></i> Bestsellers <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:10px"></i></a>
+    </div>
+  </div>
+  <div class="section-nav">
+    <button class="sec-tab active" onclick="ss(this,'${k}','d')"><i class="fa-solid fa-fire"></i> Beste Deals <span class="cnt">${deals.length}</span></button>
+    <button class="sec-tab" onclick="ss(this,'${k}','t')"><i class="fa-solid fa-arrow-trend-up"></i> Trending <span class="cnt">${trending.length}</span></button>
+    <button class="sec-tab" onclick="ss(this,'${k}','b')"><i class="fa-solid fa-trophy"></i> Bestsellers <span class="cnt">${bestsellers.length}</span></button>
+  </div>
+  <div class="section-content active" id="${k}-d">
+    <div class="info-bar"><i class="fa-solid fa-circle-info"></i>${s.note||''}<span class="updated">${s.badge||''}</span></div>
+    <div class="deals-grid">${deals.map((p,i) => dealCard(k,p,i,c)).join('')}</div>
+  </div>
+  <div class="section-content" id="${k}-t">
+    <div class="info-bar"><i class="fa-solid fa-circle-info"></i>Trending · klik om te zoeken · klik <i class="fa-regular fa-bell"></i> voor deal-alert</div>
+    <div class="list-grid">${trending.map((p,i) => listCard(k,p,i)).join('')}</div>
+  </div>
+  <div class="section-content" id="${k}-b">
+    <div class="info-bar"><i class="fa-solid fa-circle-info"></i>Bestsellers · klik om te zoeken · klik <i class="fa-regular fa-bell"></i> voor deal-alert</div>
+    <div class="list-grid">${bestsellers.map((p,i) => listCard(k,p,i)).join('')}</div>
+  </div>`;
+}
+
+function dealCard(k, p, i, c) {
+  const url     = dealUrl(k, p);
+  const on      = isWatching(k, p.n);
+  const dclass  = p.d >= 30 ? 'dh' : p.d >= 15 ? 'dm' : p.d > 0 ? 'dl' : 'dn';
+  const esc     = (s) => (s||'').replace(/'/g,"\\'").replace(/"/g,'&quot;');
+  return `<a href="${url}" target="_blank" rel="noopener" class="deal-card" style="--c:${c}">
+    <button class="watch-btn ${on?'watching':''}" data-k="${k}" data-n="${esc(p.n)}" title="${on?'Verwijder':'Watchlist'}"
+      onclick="toggleWatch(event,'${k}','${esc(p.n)}','${esc(p.c||'')}','${url}')">
+      <i class="${on?'fa-solid':'fa-regular'} fa-bell"></i>
+    </button>
+    <div class="d-rank">#${i+1}</div>
+    <div class="d-cat">${p.c||''}</div>
+    <div class="d-name">${p.n}</div>
+    <div class="d-footer">
+      <div class="d-prices">
+        <span class="p-now">${p.p||''}</span>
+        ${p.w ? `<span class="p-was">${p.w}</span>` : ''}
+      </div>
+      ${p.d > 0
+        ? `<span class="disc ${dclass}">−${p.d}%</span>`
+        : `<span class="disc dn"><i class="fa-solid fa-arrow-right" style="font-size:9px"></i></span>`}
+    </div>
+  </a>`;
+}
+
+function listCard(k, p, i) {
+  const url = su(k, p.n);
+  const on  = isWatching(k, p.n);
+  const esc = (s) => (s||'').replace(/'/g,"\\'").replace(/"/g,'&quot;');
+  return `<a href="${url}" target="_blank" rel="noopener" class="list-card">
+    <span class="l-rank">${String(i+1).padStart(2,'0')}</span>
+    <span class="l-name">${p.n}</span>
+    <span class="l-cat">${p.c||''}</span>
+    <button class="lc-watch ${on?'watching':''}" data-k="${k}" data-n="${esc(p.n)}" title="${on?'Verwijder':'Watchlist'}"
+      onclick="toggleWatch(event,'${k}','${esc(p.n)}','${esc(p.c||'')}','${url}')">
+      <i class="${on?'fa-solid':'fa-regular'} fa-bell"></i>
+    </button>
+    <i class="fa-solid fa-arrow-up-right-from-square l-ext"></i>
+  </a>`;
+}
+
+/* ═══ URL HELPERS ═══ */
+function su(k, name) {
+  const q = encodeURIComponent((name||'').replace(/[™®]/g,'').trim());
+  if (k === 'bol')    return `https://www.bol.com/nl/nl/s/?searchtext=${q}`;
+  if (k === 'amz_be') return `https://www.amazon.com.be/-/nl/s?k=${q}`;
+  if (k === 'amz_nl') return `https://www.amazon.nl/s?k=${q}`;
+  if (k === 'amz_de') return `https://www.amazon.de/s?k=${q}`;
+  return '#';
+}
+function dealUrl(k, p) {
+  const u = p.u || '';
+  const generic = !u || u.endsWith('/deals') || u.endsWith('/events/deals') || u.includes('/ra/') || u === '#';
+  return generic ? su(k, p.n) : u;
+}
+
+/* ═══ WATCHLIST ═══ */
+function saveWL()  { localStorage.setItem('dealwatch_v1', JSON.stringify(watchlist)); }
+function isWatching(k, n) { return watchlist.some(w => w.k === k && w.n === n); }
+
+function toggleWatch(e, k, name, cat, url) {
+  e.preventDefault(); e.stopPropagation();
+  if (isWatching(k, name)) {
+    watchlist = watchlist.filter(w => !(w.k === k && w.n === name));
+    toast(name, 'removed');
+  } else {
+    watchlist.push({ k, n: name, c: cat, u: url, added: Date.now() });
+    toast(name, 'added');
+    requestNotifPermSilent();
+  }
+  saveWL(); refreshWatchButtons(); updateBadge(); renderWLBody();
+}
+
+function addCustomWatch() {
+  const inp = document.getElementById('wl-input');
+  const sv  = document.getElementById('wl-store-sel').value;
+  const name = inp.value.trim();
+  if (!name) { inp.focus(); return; }
+  const stores = sv === 'all' ? STORE_KEYS : [sv];
+  stores.forEach(k => {
+    if (!isWatching(k, name)) watchlist.push({ k, n: name, c: 'Aangepast', u: su(k, name), added: Date.now() });
+  });
+  saveWL(); inp.value = ''; toast(name, 'added'); updateBadge(); renderWLBody(); requestNotifPermSilent();
+}
+
+function removeWatchItem(k, name) {
+  watchlist = watchlist.filter(w => !(w.k === k && w.n === name));
+  saveWL(); refreshWatchButtons(); updateBadge(); renderWLBody(); toast(name, 'removed');
+}
+
+function updateBadge() {
+  const b = document.getElementById('wl-badge');
+  b.textContent = watchlist.length;
+  b.classList.toggle('show', watchlist.length > 0);
+}
+
+function refreshWatchButtons() {
+  document.querySelectorAll('.watch-btn[data-k],.lc-watch[data-k]').forEach(btn => {
+    const on = isWatching(btn.dataset.k, btn.dataset.n);
+    btn.classList.toggle('watching', on);
+    btn.querySelector('i').className = (on ? 'fa-solid' : 'fa-regular') + ' fa-bell';
+  });
+}
+
+function findDeal(k, name) {
+  const store = SD[k] || {};
+  const q = (name||'').toLowerCase().slice(0, 20);
+  return (store.deals || []).find(d => d.n && (d.n.toLowerCase().includes(q) || q.includes(d.n.toLowerCase().slice(0, 20))));
+}
+
+function checkDeals() {
+  let found = 0;
+  watchlist.forEach(w => { if (findDeal(w.k, w.n)?.d > 0) found++; });
+  if (found > 0) {
+    toast(`${found} deal${found > 1 ? 's' : ''} gevonden! 🔥`, 'deal');
+    sendNotif(`${found} deal${found > 1 ? 's' : ''} in je watchlist!`, watchlist.filter(w => findDeal(w.k,w.n)?.d>0).map(w=>w.n).join(', '));
+  } else {
+    toast('Geen nieuwe deals voor je watchlist', 'removed');
+  }
+  renderWLBody();
+}
+
+function notifyWatchlistDeals() {
+  if (!watchlist.length) return;
+  const found = watchlist.filter(w => findDeal(w.k, w.n)?.d > 0);
+  if (found.length) sendNotif(`${found.length} deal${found.length>1?'s':''} voor je watchlist!`, found.map(w=>w.n).join(', '));
+}
+
+function renderWLBody() {
+  const body = document.getElementById('wl-body');
+  const storeNames = {};
+  STORE_KEYS.forEach(k => storeNames[k] = SD[k]?.name || k);
+
+  if (!watchlist.length) {
+    body.innerHTML = `<div class="wl-empty"><i class="fa-regular fa-bell"></i><p>Je watchlist is leeg.<br>Klik op <strong>🔔</strong> naast een product.</p></div>`;
+    return;
+  }
+  const groups = {};
+  watchlist.forEach(w => { if (!groups[w.k]) groups[w.k] = []; groups[w.k].push(w); });
+  body.innerHTML = Object.keys(groups).map(k => {
+    const sn = storeNames[k] || k;
+    const c  = SC[k] || '#888';
+    return `<div class="wl-store-group">
+      <div class="wl-store-label" style="color:${c}">${sn}</div>
+      ${groups[k].map(w => {
+        const deal = findDeal(k, w.n);
+        const esc  = s => (s||'').replace(/'/g,"\\'");
+        return `<div class="wl-item">
+          <div class="wl-item-info">
+            <div class="wl-item-name">${w.n}</div>
+            <div class="wl-item-sub">
+              <span>${w.c||''}</span>
+              ${deal?.d > 0 ? `<span class="deal-found-pill"><i class="fa-solid fa-fire" style="font-size:9px"></i> Deal! −${deal.d}% ${deal.p||''}</span>` : ''}
+            </div>
+            <a class="wl-item-link" href="${w.u}" target="_blank" rel="noopener">Zoek op ${sn} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:9px"></i></a>
+          </div>
+          <button class="wl-item-remove" onclick="removeWatchItem('${k}','${esc(w.n)}')"><i class="fa-solid fa-xmark"></i></button>
+        </div>`;
+      }).join('')}
+    </div>`;
+  }).join('');
+}
+
+/* ═══ NOTIFICATIONS ═══ */
+function updateNotifStatus() {
+  const dot = document.getElementById('notif-dot');
+  const txt = document.getElementById('notif-text');
+  if (!('Notification' in window)) { dot.className='notif-dot denied'; txt.textContent='Niet ondersteund'; return; }
+  const p = Notification.permission;
+  dot.className = 'notif-dot ' + (p === 'granted' ? 'granted' : p === 'denied' ? 'denied' : '');
+  txt.textContent = p === 'granted' ? 'Notificaties ingeschakeld ✓' : p === 'denied' ? 'Geblokkeerd — sta toe via browserinstellingen' : 'Nog niet ingeschakeld';
+}
+function requestNotifPerm() { if (!('Notification' in window)) return; Notification.requestPermission().then(updateNotifStatus); }
+function requestNotifPermSilent() { if ('Notification' in window && Notification.permission === 'default') Notification.requestPermission().then(updateNotifStatus); }
+function sendNotif(title, body) {
+  if ('Notification' in window && Notification.permission === 'granted') new Notification(title, { body });
+}
+
+/* ═══ PANEL / SECTION NAV ═══ */
+function openWL()  { document.getElementById('wl-overlay').classList.add('open'); document.getElementById('wl-panel').classList.add('open'); renderWLBody(); updateNotifStatus(); }
+function closeWL() { document.getElementById('wl-overlay').classList.remove('open'); document.getElementById('wl-panel').classList.remove('open'); }
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeWL(); });
+
+function sw(k) {
+  document.querySelectorAll('.store-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById('panel-' + k).classList.add('active');
+  document.querySelectorAll('.store-tab').forEach(t => {
+    const tk = t.dataset.k;
+    if (tk === k) { t.classList.add('active'); t.style.background = SC[k]||'#888'; t.style.borderColor = SC[k]||'#888'; t.style.color = '#fff'; }
+    else           { t.classList.remove('active'); t.style.background=''; t.style.borderColor=''; t.style.color=''; }
+  });
+}
+function ss(btn, k, sec) {
+  document.getElementById('panel-'+k).querySelectorAll('.sec-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('panel-'+k).querySelectorAll('.section-content').forEach(c => c.classList.remove('active'));
+  document.getElementById(k+'-'+sec).classList.add('active');
+}
+
+/* ═══ TOAST ═══ */
+function toast(name, type) {
+  const c = document.getElementById('toasts');
+  const t = document.createElement('div');
+  const s = (name||'').length > 40 ? name.slice(0,38)+'…' : name;
+  t.className = 'toast ' + (type==='deal'?'deal':type==='removed'?'removed':'');
+  t.innerHTML = type==='added'   ? `<i class="fa-solid fa-bell"></i> Volgen: ${s}`
+              : type==='removed' ? `<i class="fa-regular fa-bell-slash"></i> Verwijderd: ${s}`
+              : `<i class="fa-solid fa-fire"></i> ${s}`;
+  c.appendChild(t);
+  setTimeout(() => t.remove(), 3000);
+}
+
+/* ═══ BOOT ═══ */
+loadData();
+</script>
+</body>
+</html>

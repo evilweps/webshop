@@ -1,0 +1,1346 @@
+{
+  "updated": "2026-05-22T10:27:52.144092+00:00",
+  "updated_fmt": "22 May 2026 om 10:27 (initieel)",
+  "stores": {
+    "bol": {
+      "name": "bol.com",
+      "url": "https://www.bol.com/nl/nl/deals/",
+      "bsUrl": "https://www.bol.com/nl/nl/l/bestsellers/",
+      "badge": "Initiële data",
+      "badgeBg": "#fde8e8",
+      "badgeTxt": "#b91c1c",
+      "note": "bol.com — nog niet gescraped. Eerste live data beschikbaar na de eerste cron-run.",
+      "deals": [
+        {
+          "n": "NIVEA producten collectie",
+          "c": "Beauty",
+          "p": "v.a. €2,50",
+          "w": "",
+          "d": 55,
+          "u": "https://www.bol.com/nl/nl/ra/tot-55-korting-op-nivea/470805/"
+        },
+        {
+          "n": "Bobbi — Bobbi naar de speeltuin",
+          "c": "Boeken",
+          "p": "€5,00",
+          "w": "€9,99",
+          "d": 50,
+          "u": "https://www.bol.com/nl/nl/p/bobbi-bobbi-naar-de-speeltuin/9200000131662743/"
+        },
+        {
+          "n": "Lavazza Crema e Aroma 1kg",
+          "c": "Koffie",
+          "p": "€9,99",
+          "w": "€14,28",
+          "d": 30,
+          "u": "https://www.bol.com/nl/ra/all--n-vandaag--tot-30--korting-op-lavazza/499701/"
+        },
+        {
+          "n": "Luiers & billendoekjes collectie",
+          "c": "Baby",
+          "p": "v.a. €8,99",
+          "w": "",
+          "d": 25,
+          "u": "https://www.bol.com/nl/nl/ra/korting-op-luiers-billendoekjes/483130/"
+        },
+        {
+          "n": "Asmodee Quickstop Kaartspel",
+          "c": "Speelgoed",
+          "p": "€14,99",
+          "w": "€19,99",
+          "d": 25,
+          "u": "https://www.bol.com/nl/nl/p/quickstop/9300000231117520/"
+        },
+        {
+          "n": "Koffie (DE, Illy, Lavazza) collectie",
+          "c": "Koffie",
+          "p": "v.a. €4,99",
+          "w": "",
+          "d": 25,
+          "u": "https://www.bol.com/nl/nl/ra/tot-25-korting-op-koffie/481316/"
+        },
+        {
+          "n": "LEGO sets diverse modellen",
+          "c": "LEGO",
+          "p": "v.a. €12,99",
+          "w": "",
+          "d": 20,
+          "u": "https://www.bol.com/nl/nl/ra/korting-op-populaire-lego-sets/493893/"
+        },
+        {
+          "n": "Robotstofzuigers & steelstofzuigers",
+          "c": "Huishouden",
+          "p": "v.a. €79,-",
+          "w": "",
+          "d": 20,
+          "u": "https://www.bol.com/nl/nl/ra/hoge-korting-op-steel-en-robotstofzuigers/499479/"
+        },
+        {
+          "n": "Kobo Libra Colour E-reader 7\" 32GB",
+          "c": "Elektronica",
+          "p": "€209,-",
+          "w": "€239,-",
+          "d": 13,
+          "u": "https://www.bol.com/nl/nl/p/kobo-libra-colour/9300000173830673/"
+        },
+        {
+          "n": "999 Games Beverbende Kaartspel",
+          "c": "Speelgoed",
+          "p": "€9,99",
+          "w": "€11,04",
+          "d": 10,
+          "u": "https://www.bol.com/nl/nl/p/beverbende/1004004006487381/"
+        },
+        {
+          "n": "Samsung Galaxy Tab A11 Plus 128GB",
+          "c": "Elektronica",
+          "p": "€209,-",
+          "w": "€229,-",
+          "d": 9,
+          "u": "https://www.bol.com/nl/nl/p/samsung-galaxy-tab-a11-plus/9300000242017236/"
+        },
+        {
+          "n": "Samsung Galaxy A16 4G 128GB",
+          "c": "Elektronica",
+          "p": "€109,-",
+          "w": "€119,-",
+          "d": 8,
+          "u": "https://www.bol.com/nl/nl/p/samsung-galaxy-a16-4g/9300000191610730/"
+        },
+        {
+          "n": "Oral-B Pro 3 3900 2-pack",
+          "c": "Verzorging",
+          "p": "€49,99",
+          "w": "€79,99",
+          "d": 38,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Oral-B+Pro+3+3900"
+        },
+        {
+          "n": "Nespresso Vertuo Pop",
+          "c": "Keuken",
+          "p": "€69,99",
+          "w": "€99,99",
+          "d": 30,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Nespresso+Vertuo+Pop"
+        },
+        {
+          "n": "Ariel Pods 3-in-1 60 stuks",
+          "c": "Huishouden",
+          "p": "€14,99",
+          "w": "€21,99",
+          "d": 32,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Ariel+Pods"
+        },
+        {
+          "n": "Sony WH-1000XM6 koptelefoon",
+          "c": "Audio",
+          "p": "€289,99",
+          "w": "€349,99",
+          "d": 17,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Sony+WH-1000XM6"
+        },
+        {
+          "n": "Philips Airfryer 3000 HD9257",
+          "c": "Keuken",
+          "p": "€69,99",
+          "w": "€89,99",
+          "d": 22,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Philips+Airfryer+3000"
+        },
+        {
+          "n": "Roborock Q6 Pro Robotstofzuiger",
+          "c": "Smart Home",
+          "p": "€299,-",
+          "w": "€399,-",
+          "d": 25,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Roborock+Q6+Pro"
+        },
+        {
+          "n": "Apple AirPods (4e gen.) ANC",
+          "c": "Audio",
+          "p": "€179,-",
+          "w": "€199,-",
+          "d": 10,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Apple+AirPods+4e"
+        },
+        {
+          "n": "Kindle Paperwhite 16GB 2024",
+          "c": "E-reader",
+          "p": "€139,99",
+          "w": "€174,99",
+          "d": 20,
+          "u": "https://www.bol.com/nl/nl/s/?searchtext=Kindle+Paperwhite+16GB"
+        }
+      ],
+      "trending": [
+        {
+          "n": "Nintendo Switch 2 games & accessoires",
+          "c": "Gaming"
+        },
+        {
+          "n": "Robotstofzuigers",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Airfryers (Philips, Ninja, Tefal)",
+          "c": "Keuken"
+        },
+        {
+          "n": "Zonnebrandcrème hoge SPF",
+          "c": "Skincare"
+        },
+        {
+          "n": "Tuinmeubilair & parasols",
+          "c": "Tuin"
+        },
+        {
+          "n": "Zwembaden & waterplezier",
+          "c": "Buiten"
+        },
+        {
+          "n": "Philips Hue slimme verlichting",
+          "c": "Smart Home"
+        },
+        {
+          "n": "LEGO Botanicals 2026",
+          "c": "LEGO"
+        },
+        {
+          "n": "Massage guns & wellness",
+          "c": "Wellness"
+        },
+        {
+          "n": "PS5 Pro spellen 2026",
+          "c": "Gaming"
+        },
+        {
+          "n": "Draadloze oordopjes",
+          "c": "Audio"
+        },
+        {
+          "n": "Airfryers & blenders",
+          "c": "Keuken"
+        },
+        {
+          "n": "Ergonomische bureaustoelen",
+          "c": "Thuiswerken"
+        },
+        {
+          "n": "Yoga matten & fitness",
+          "c": "Sport"
+        },
+        {
+          "n": "Kampeer- & outdoorartikelen",
+          "c": "Outdoor"
+        },
+        {
+          "n": "Smart thermostaten",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Elektrische fietsen e-bikes",
+          "c": "Sport"
+        },
+        {
+          "n": "Barbecue & grillartikelen",
+          "c": "BBQ"
+        },
+        {
+          "n": "FIFA World Cup 2026 artikelen",
+          "c": "Sport"
+        },
+        {
+          "n": "Zomerse kleding & badmode",
+          "c": "Mode"
+        }
+      ],
+      "bestsellers": [
+        {
+          "n": "De kreeftenvrouwen — Beatrix Gerstberger",
+          "c": "Boeken"
+        },
+        {
+          "n": "LEGO Botanicals Boeket Tulpen",
+          "c": "LEGO"
+        },
+        {
+          "n": "L'Oréal Elseve Extraordinary Oil",
+          "c": "Beauty"
+        },
+        {
+          "n": "Beauty of Joseon Relief Sun SPF50+",
+          "c": "Skincare"
+        },
+        {
+          "n": "Gillette Fusion5 Power Scheermesjes",
+          "c": "Verzorging"
+        },
+        {
+          "n": "Philips OneBlade Pro 360",
+          "c": "Verzorging"
+        },
+        {
+          "n": "Robijn Classics Color Wascapsules",
+          "c": "Huishouden"
+        },
+        {
+          "n": "Scottex Toiletpapier 96 rollen",
+          "c": "Huishouden"
+        },
+        {
+          "n": "Philips Hue Bridge",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Purpuz Planner 2026",
+          "c": "Kantoor"
+        },
+        {
+          "n": "Skip-Bo Kaartspel",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "999 Games Beverbende",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Samsung Galaxy A16 4G 128GB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Kobo Clara BW E-reader",
+          "c": "E-reader"
+        },
+        {
+          "n": "Senseo Original Koffiepads 48st",
+          "c": "Koffie"
+        },
+        {
+          "n": "Pampers Baby-Dry maat 4",
+          "c": "Baby"
+        },
+        {
+          "n": "Nintendo Switch 2 console",
+          "c": "Gaming"
+        },
+        {
+          "n": "Apple AirPods (4e gen.)",
+          "c": "Audio"
+        },
+        {
+          "n": "Nespresso Vertuo Pop",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips Airfryer 3000",
+          "c": "Keuken"
+        }
+      ]
+    },
+    "amz_be": {
+      "name": "amazon.com.be",
+      "url": "https://www.amazon.com.be/-/nl/events/deals",
+      "bsUrl": "https://www.amazon.com.be/-/nl/gp/bestsellers",
+      "badge": "Initiële data",
+      "badgeBg": "#fff3cd",
+      "badgeTxt": "#92400e",
+      "note": "amazon.com.be — initiële data. Live data beschikbaar na eerste cron-run op NAS.",
+      "deals": [
+        {
+          "n": "Echo Dot (5e gen.) Smart Speaker",
+          "c": "Smart Home",
+          "p": "€29,99",
+          "w": "€59,99",
+          "d": 50,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Echo+Dot+5"
+        },
+        {
+          "n": "Fire TV Stick 4K Max",
+          "c": "TV",
+          "p": "€39,99",
+          "w": "€64,99",
+          "d": 38,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Fire+TV+Stick+4K+Max"
+        },
+        {
+          "n": "Echo Show 8 (3e gen.)",
+          "c": "Smart Home",
+          "p": "€89,99",
+          "w": "€149,99",
+          "d": 40,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Echo+Show+8"
+        },
+        {
+          "n": "Nespresso Vertuo Next",
+          "c": "Keuken",
+          "p": "€79,99",
+          "w": "€129,99",
+          "d": 38,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Nespresso+Vertuo+Next"
+        },
+        {
+          "n": "Oral-B iO Series 7",
+          "c": "Verzorging",
+          "p": "€79,99",
+          "w": "€119,99",
+          "d": 33,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Oral-B+iO+Series+7"
+        },
+        {
+          "n": "iRobot Roomba i5+",
+          "c": "Smart Home",
+          "p": "€299,00",
+          "w": "€449,00",
+          "d": 33,
+          "u": "https://www.amazon.com.be/-/nl/s?k=iRobot+Roomba+i5"
+        },
+        {
+          "n": "Tefal EasyFry Precision+ Airfryer",
+          "c": "Keuken",
+          "p": "€89,99",
+          "w": "€129,99",
+          "d": 31,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Tefal+EasyFry+Precision"
+        },
+        {
+          "n": "WD My Passport 4TB",
+          "c": "Opslag",
+          "p": "€89,99",
+          "w": "€129,99",
+          "d": 31,
+          "u": "https://www.amazon.com.be/-/nl/s?k=WD+My+Passport+4TB"
+        },
+        {
+          "n": "Roborock Q8 Max+",
+          "c": "Smart Home",
+          "p": "€379,00",
+          "w": "€549,00",
+          "d": 31,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Roborock+Q8+Max"
+        },
+        {
+          "n": "De'Longhi Magnifica Evo",
+          "c": "Keuken",
+          "p": "€349,00",
+          "w": "€499,00",
+          "d": 30,
+          "u": "https://www.amazon.com.be/-/nl/s?k=DeLonghi+Magnifica+Evo"
+        },
+        {
+          "n": "Sony WH-1000XM6",
+          "c": "Audio",
+          "p": "€279,99",
+          "w": "€349,99",
+          "d": 20,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Sony+WH-1000XM6"
+        },
+        {
+          "n": "Apple AirPods Pro (2e gen.)",
+          "c": "Audio",
+          "p": "€199,00",
+          "w": "€249,00",
+          "d": 20,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Apple+AirPods+Pro+2"
+        },
+        {
+          "n": "Kindle Paperwhite 16GB",
+          "c": "E-reader",
+          "p": "€139,99",
+          "w": "€174,99",
+          "d": 20,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Kindle+Paperwhite+16GB"
+        },
+        {
+          "n": "Samsung 65\" QLED 4K",
+          "c": "TV",
+          "p": "€799,00",
+          "w": "€1.099,00",
+          "d": 27,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Samsung+65+QLED"
+        },
+        {
+          "n": "Fitbit Charge 6",
+          "c": "Wearables",
+          "p": "€119,99",
+          "w": "€159,99",
+          "d": 25,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Fitbit+Charge+6"
+        },
+        {
+          "n": "Govee RGBIC LED strip 10m",
+          "c": "Smart Home",
+          "p": "€24,99",
+          "w": "€39,99",
+          "d": 38,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Govee+RGBIC+LED"
+        },
+        {
+          "n": "Anker PowerCore 26800mAh",
+          "c": "Accessoires",
+          "p": "€39,99",
+          "w": "€59,99",
+          "d": 33,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Anker+PowerCore+26800"
+        },
+        {
+          "n": "HP DeskJet 4222e printer",
+          "c": "Kantoor",
+          "p": "€49,99",
+          "w": "€79,99",
+          "d": 38,
+          "u": "https://www.amazon.com.be/-/nl/s?k=HP+DeskJet+4222e"
+        },
+        {
+          "n": "Nintendo Switch 2 console",
+          "c": "Gaming",
+          "p": "€449,99",
+          "w": "",
+          "d": 0,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Nintendo+Switch+2"
+        },
+        {
+          "n": "Duracell AA Plus 20 stuks",
+          "c": "Accessoires",
+          "p": "€9,99",
+          "w": "€14,99",
+          "d": 33,
+          "u": "https://www.amazon.com.be/-/nl/s?k=Duracell+AA+Plus"
+        }
+      ],
+      "trending": [
+        {
+          "n": "FIFA World Cup 2026 fanartikelen",
+          "c": "Sport"
+        },
+        {
+          "n": "Nintendo Switch 2 games",
+          "c": "Gaming"
+        },
+        {
+          "n": "iPhone 17 accessoires",
+          "c": "Accessoires"
+        },
+        {
+          "n": "Tuinstoelen zomer",
+          "c": "Tuin"
+        },
+        {
+          "n": "Zonnebrandcrème SPF50+",
+          "c": "Skincare"
+        },
+        {
+          "n": "Bluetooth speakers outdoor",
+          "c": "Audio"
+        },
+        {
+          "n": "Airfryers diverse merken",
+          "c": "Keuken"
+        },
+        {
+          "n": "Kampeeruitrusting",
+          "c": "Outdoor"
+        },
+        {
+          "n": "Anti-mug producten",
+          "c": "Buiten"
+        },
+        {
+          "n": "Barbecue & grillsets",
+          "c": "BBQ"
+        },
+        {
+          "n": "Amazon Echo apparaten",
+          "c": "Smart Home"
+        },
+        {
+          "n": "MagSafe & Qi2 opladers",
+          "c": "Accessoires"
+        },
+        {
+          "n": "Babymonitors 2026",
+          "c": "Baby"
+        },
+        {
+          "n": "Gaming stoelen",
+          "c": "Gaming"
+        },
+        {
+          "n": "Elektrische scooters",
+          "c": "Vervoer"
+        },
+        {
+          "n": "Yoga accessoires",
+          "c": "Wellness"
+        },
+        {
+          "n": "Smart deurbellen",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Fitnesshorloges",
+          "c": "Wearables"
+        },
+        {
+          "n": "Koffiecups Nespresso",
+          "c": "Koffie"
+        },
+        {
+          "n": "Kinderboeken Nederlandstalig",
+          "c": "Boeken"
+        }
+      ],
+      "bestsellers": [
+        {
+          "n": "Echo Dot (5e gen.)",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Fire TV Stick 4K Max",
+          "c": "TV"
+        },
+        {
+          "n": "Oral-B iO Series 4",
+          "c": "Verzorging"
+        },
+        {
+          "n": "Nespresso Vertuo Next",
+          "c": "Keuken"
+        },
+        {
+          "n": "Samsung Galaxy A55 5G",
+          "c": "Smartphone"
+        },
+        {
+          "n": "Kindle Paperwhite 16GB",
+          "c": "E-reader"
+        },
+        {
+          "n": "Pampers Premium maat 4",
+          "c": "Baby"
+        },
+        {
+          "n": "Philips Airfryer 3000",
+          "c": "Keuken"
+        },
+        {
+          "n": "Apple AirPods (4e gen.)",
+          "c": "Audio"
+        },
+        {
+          "n": "Govee RGBIC LED strip",
+          "c": "Smart Home"
+        },
+        {
+          "n": "WD My Passport 2TB",
+          "c": "Opslag"
+        },
+        {
+          "n": "Anker PowerCore 26800",
+          "c": "Accessoires"
+        },
+        {
+          "n": "Nintendo Switch 2 console",
+          "c": "Gaming"
+        },
+        {
+          "n": "Sony WH-1000XM6",
+          "c": "Audio"
+        },
+        {
+          "n": "Fitbit Charge 6",
+          "c": "Wearables"
+        },
+        {
+          "n": "Duracell AA Plus 20st",
+          "c": "Accessoires"
+        },
+        {
+          "n": "HP DeskJet 4222e",
+          "c": "Kantoor"
+        },
+        {
+          "n": "Bose QuietComfort 45",
+          "c": "Audio"
+        },
+        {
+          "n": "Logitech MX Master 3S",
+          "c": "PC"
+        },
+        {
+          "n": "Apple Watch SE (2e gen.)",
+          "c": "Wearables"
+        }
+      ]
+    },
+    "amz_nl": {
+      "name": "amazon.nl",
+      "url": "https://www.amazon.nl/events/deals",
+      "bsUrl": "https://www.amazon.nl/gp/bestsellers",
+      "badge": "Initiële data",
+      "badgeBg": "#d1fae5",
+      "badgeTxt": "#065f46",
+      "note": "amazon.nl — initiële data. Live data beschikbaar na eerste cron-run op NAS.",
+      "deals": [
+        {
+          "n": "Echo Dot (5e gen.)",
+          "c": "Smart Home",
+          "p": "€29,99",
+          "w": "€59,99",
+          "d": 50,
+          "u": "https://www.amazon.nl/s?k=Echo+Dot+5"
+        },
+        {
+          "n": "Fire TV Stick 4K Max",
+          "c": "TV",
+          "p": "€39,99",
+          "w": "€64,99",
+          "d": 38,
+          "u": "https://www.amazon.nl/s?k=Fire+TV+Stick+4K+Max"
+        },
+        {
+          "n": "Echo Show 8 (3e gen.)",
+          "c": "Smart Home",
+          "p": "€89,99",
+          "w": "€149,99",
+          "d": 40,
+          "u": "https://www.amazon.nl/s?k=Echo+Show+8"
+        },
+        {
+          "n": "Oral-B iO Series 5",
+          "c": "Verzorging",
+          "p": "€69,99",
+          "w": "€109,99",
+          "d": 36,
+          "u": "https://www.amazon.nl/s?k=Oral-B+iO+Series+5"
+        },
+        {
+          "n": "Aquoxis High Pressure Washer",
+          "c": "Tuin",
+          "p": "€29,99",
+          "w": "€49,99",
+          "d": 40,
+          "u": "https://www.amazon.nl/s?k=Aquoxis+High+Pressure"
+        },
+        {
+          "n": "WD My Passport 2TB",
+          "c": "Opslag",
+          "p": "€59,99",
+          "w": "€89,99",
+          "d": 33,
+          "u": "https://www.amazon.nl/s?k=WD+My+Passport+2TB"
+        },
+        {
+          "n": "Govee RGBIC LED strip 5m",
+          "c": "Smart Home",
+          "p": "€19,99",
+          "w": "€29,99",
+          "d": 33,
+          "u": "https://www.amazon.nl/s?k=Govee+RGBIC+LED"
+        },
+        {
+          "n": "Anker PowerCore 26800mAh",
+          "c": "Accessoires",
+          "p": "€39,99",
+          "w": "€59,99",
+          "d": 33,
+          "u": "https://www.amazon.nl/s?k=Anker+PowerCore+26800"
+        },
+        {
+          "n": "Bose QuietComfort 45",
+          "c": "Audio",
+          "p": "€199,00",
+          "w": "€279,00",
+          "d": 29,
+          "u": "https://www.amazon.nl/s?k=Bose+QuietComfort+45"
+        },
+        {
+          "n": "Philips Airfryer Essential XL",
+          "c": "Keuken",
+          "p": "€79,99",
+          "w": "€109,99",
+          "d": 27,
+          "u": "https://www.amazon.nl/s?k=Philips+Airfryer+Essential+XL"
+        },
+        {
+          "n": "JBL Clip 5 Speaker",
+          "c": "Audio",
+          "p": "€49,99",
+          "w": "€64,99",
+          "d": 23,
+          "u": "https://www.amazon.nl/s?k=JBL+Clip+5"
+        },
+        {
+          "n": "Fitbit Inspire 3",
+          "c": "Wearables",
+          "p": "€79,99",
+          "w": "€109,99",
+          "d": 27,
+          "u": "https://www.amazon.nl/s?k=Fitbit+Inspire+3"
+        },
+        {
+          "n": "Kindle Paperwhite Signature",
+          "c": "E-reader",
+          "p": "€159,99",
+          "w": "€199,99",
+          "d": 20,
+          "u": "https://www.amazon.nl/s?k=Kindle+Paperwhite+Signature"
+        },
+        {
+          "n": "Samsung Galaxy Tab A9",
+          "c": "Tablet",
+          "p": "€179,00",
+          "w": "€249,00",
+          "d": 28,
+          "u": "https://www.amazon.nl/s?k=Samsung+Galaxy+Tab+A9"
+        },
+        {
+          "n": "Ring Video Doorbell 4",
+          "c": "Smart Home",
+          "p": "€89,99",
+          "w": "€129,99",
+          "d": 31,
+          "u": "https://www.amazon.nl/s?k=Ring+Video+Doorbell+4"
+        },
+        {
+          "n": "Duracell Plus AA 24-pack",
+          "c": "Accessoires",
+          "p": "€9,99",
+          "w": "€14,99",
+          "d": 33,
+          "u": "https://www.amazon.nl/s?k=Duracell+Plus+AA"
+        },
+        {
+          "n": "Apple AirPods (4e gen.)",
+          "c": "Audio",
+          "p": "€179,00",
+          "w": "€219,00",
+          "d": 18,
+          "u": "https://www.amazon.nl/s?k=Apple+AirPods+4"
+        },
+        {
+          "n": "Nintendo Switch 2 Mario Kart",
+          "c": "Gaming",
+          "p": "€64,99",
+          "w": "€74,99",
+          "d": 13,
+          "u": "https://www.amazon.nl/s?k=Nintendo+Switch+2+Mario+Kart"
+        },
+        {
+          "n": "Amazon Fire HD 10 tablet",
+          "c": "Tablet",
+          "p": "€99,99",
+          "w": "€149,99",
+          "d": 33,
+          "u": "https://www.amazon.nl/s?k=Amazon+Fire+HD+10"
+        },
+        {
+          "n": "Govee Smart Plug 4-pack",
+          "c": "Smart Home",
+          "p": "€19,99",
+          "w": "€29,99",
+          "d": 33,
+          "u": "https://www.amazon.nl/s?k=Govee+Smart+Plug"
+        }
+      ],
+      "trending": [
+        {
+          "n": "Aquoxis Pressure Washer (viral)",
+          "c": "Tuin"
+        },
+        {
+          "n": "FIFA WK 2026 Oranje",
+          "c": "Sport"
+        },
+        {
+          "n": "Nintendo Switch 2 console",
+          "c": "Gaming"
+        },
+        {
+          "n": "Zomerbadmode",
+          "c": "Mode"
+        },
+        {
+          "n": "Bluetooth speakers buiten",
+          "c": "Audio"
+        },
+        {
+          "n": "Anti-mug producten",
+          "c": "Buiten"
+        },
+        {
+          "n": "Campingstoel aluminium",
+          "c": "Outdoor"
+        },
+        {
+          "n": "Airfryers Philips & Tefal",
+          "c": "Keuken"
+        },
+        {
+          "n": "Luchtreinigers HEPA (pollen)",
+          "c": "Huishouden"
+        },
+        {
+          "n": "Toniebox kinderen",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Govee LED strips smart",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Garmin GPS outdoor",
+          "c": "Sport"
+        },
+        {
+          "n": "Reiskoffer harde schaal",
+          "c": "Reizen"
+        },
+        {
+          "n": "Gaming headsets",
+          "c": "Gaming"
+        },
+        {
+          "n": "Drones DJI Mini 4 Pro",
+          "c": "Camera"
+        },
+        {
+          "n": "Opblaaszwembaden kinderen",
+          "c": "Buiten"
+        },
+        {
+          "n": "Roborock S8 Plus",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Nintendo Switch 2 Pro Controller",
+          "c": "Gaming"
+        },
+        {
+          "n": "Vitamine D & B12 supplementen",
+          "c": "Gezondheid"
+        },
+        {
+          "n": "Smart TV box",
+          "c": "TV"
+        }
+      ],
+      "bestsellers": [
+        {
+          "n": "Echo Dot (5e gen.)",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Fire TV Stick 4K Max",
+          "c": "TV"
+        },
+        {
+          "n": "Optimum Nutrition Creatine",
+          "c": "Gezondheid"
+        },
+        {
+          "n": "Kindle Paperwhite 16GB",
+          "c": "E-reader"
+        },
+        {
+          "n": "Oral-B iO Series 4",
+          "c": "Verzorging"
+        },
+        {
+          "n": "Nespresso Vertuo Pop",
+          "c": "Keuken"
+        },
+        {
+          "n": "Anker PowerCore 26800mAh",
+          "c": "Accessoires"
+        },
+        {
+          "n": "Amazon Fire HD 10",
+          "c": "Tablet"
+        },
+        {
+          "n": "JBL Clip 5",
+          "c": "Audio"
+        },
+        {
+          "n": "Nintendo Switch 2",
+          "c": "Gaming"
+        },
+        {
+          "n": "Ring Video Doorbell 4",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Ariel All-in-1 Pods",
+          "c": "Huishouden"
+        },
+        {
+          "n": "Fitbit Inspire 3",
+          "c": "Wearables"
+        },
+        {
+          "n": "Duracell Plus AA 24st",
+          "c": "Accessoires"
+        },
+        {
+          "n": "Govee Smart Plug 4-pack",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Bosch EasyGrassCut",
+          "c": "Tuin"
+        },
+        {
+          "n": "Govee RGBIC LED strip",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Apple AirPods (4e gen.)",
+          "c": "Audio"
+        },
+        {
+          "n": "SanDisk Extreme Pro 64GB",
+          "c": "Accessoires"
+        },
+        {
+          "n": "HP 15s laptop i5",
+          "c": "PC"
+        }
+      ]
+    },
+    "amz_de": {
+      "name": "amazon.de",
+      "url": "https://www.amazon.de/deals",
+      "bsUrl": "https://www.amazon.de/gp/bestsellers",
+      "badge": "Initiële data",
+      "badgeBg": "#dbeafe",
+      "badgeTxt": "#1e40af",
+      "note": "amazon.de — initiële data. Live data beschikbaar na eerste cron-run op NAS.",
+      "deals": [
+        {
+          "n": "Echo Dot (5. Gen.)",
+          "c": "Smart Home",
+          "p": "€29,99",
+          "w": "€64,99",
+          "d": 54,
+          "u": "https://www.amazon.de/s?k=Echo+Dot+5"
+        },
+        {
+          "n": "Oral-B iO Series 9",
+          "c": "Pflege",
+          "p": "€149,99",
+          "w": "€249,99",
+          "d": 40,
+          "u": "https://www.amazon.de/s?k=Oral-B+iO+Series+9"
+        },
+        {
+          "n": "Tefal Ingenio Set 13-tlg.",
+          "c": "Küche",
+          "p": "€89,99",
+          "w": "€149,99",
+          "d": 40,
+          "u": "https://www.amazon.de/s?k=Tefal+Ingenio"
+        },
+        {
+          "n": "Fire TV Stick 4K Max",
+          "c": "TV",
+          "p": "€39,99",
+          "w": "€64,99",
+          "d": 38,
+          "u": "https://www.amazon.de/s?k=Fire+TV+Stick+4K+Max"
+        },
+        {
+          "n": "Crucial P3 Plus 2TB SSD",
+          "c": "PC",
+          "p": "€79,99",
+          "w": "€129,99",
+          "d": 38,
+          "u": "https://www.amazon.de/s?k=Crucial+P3+Plus+2TB"
+        },
+        {
+          "n": "Kärcher K5 Premium",
+          "c": "Garten",
+          "p": "€199,00",
+          "w": "€299,00",
+          "d": 33,
+          "u": "https://www.amazon.de/s?k=Kärcher+K5+Premium"
+        },
+        {
+          "n": "Braun Series 9 Pro+",
+          "c": "Pflege",
+          "p": "€199,99",
+          "w": "€299,99",
+          "d": 33,
+          "u": "https://www.amazon.de/s?k=Braun+Series+9+Pro"
+        },
+        {
+          "n": "JBL Charge 6",
+          "c": "Audio",
+          "p": "€139,00",
+          "w": "€199,00",
+          "d": 30,
+          "u": "https://www.amazon.de/s?k=JBL+Charge+6"
+        },
+        {
+          "n": "Pampers Premium Gr.4 204 St.",
+          "c": "Baby",
+          "p": "€34,99",
+          "w": "€49,99",
+          "d": 30,
+          "u": "https://www.amazon.de/s?k=Pampers+Premium+Gr.4"
+        },
+        {
+          "n": "De'Longhi Dinamica Plus",
+          "c": "Küche",
+          "p": "€499,00",
+          "w": "€699,00",
+          "d": 29,
+          "u": "https://www.amazon.de/s?k=DeLonghi+Dinamica+Plus"
+        },
+        {
+          "n": "Dyson V15 Detect Absolute",
+          "c": "Haushalt",
+          "p": "€499,00",
+          "w": "€699,00",
+          "d": 29,
+          "u": "https://www.amazon.de/s?k=Dyson+V15+Detect"
+        },
+        {
+          "n": "Miele Triflex HX2 Pro",
+          "c": "Haushalt",
+          "p": "€399,00",
+          "w": "€549,00",
+          "d": 27,
+          "u": "https://www.amazon.de/s?k=Miele+Triflex+HX2"
+        },
+        {
+          "n": "Samsung QLED Q7F2 55\"",
+          "c": "TV",
+          "p": "€799,00",
+          "w": "€1.099,00",
+          "d": 27,
+          "u": "https://www.amazon.de/s?k=Samsung+QLED+Q7F2+55"
+        },
+        {
+          "n": "LG OLED65G59LS 65\"",
+          "c": "TV",
+          "p": "€1.699,00",
+          "w": "€2.299,00",
+          "d": 26,
+          "u": "https://www.amazon.de/s?k=LG+OLED65G59LS"
+        },
+        {
+          "n": "AVM FRITZ!Box 7690",
+          "c": "Netzwerk",
+          "p": "€199,99",
+          "w": "€269,99",
+          "d": 26,
+          "u": "https://www.amazon.de/s?k=AVM+FRITZ+Box+7690"
+        },
+        {
+          "n": "Sony WH-1000XM6",
+          "c": "Audio",
+          "p": "€279,00",
+          "w": "€349,00",
+          "d": 20,
+          "u": "https://www.amazon.de/s?k=Sony+WH-1000XM6"
+        },
+        {
+          "n": "Govee Floor Lamp Pro RGBIC",
+          "c": "Smart Home",
+          "p": "€59,99",
+          "w": "€89,99",
+          "d": 33,
+          "u": "https://www.amazon.de/s?k=Govee+Floor+Lamp+Pro"
+        },
+        {
+          "n": "Nespresso Vertuo Next",
+          "c": "Küche",
+          "p": "€89,99",
+          "w": "€129,99",
+          "d": 31,
+          "u": "https://www.amazon.de/s?k=Nespresso+Vertuo+Next"
+        },
+        {
+          "n": "Samsung Galaxy S25 Ultra",
+          "c": "Smartphone",
+          "p": "€1.199,00",
+          "w": "€1.449,00",
+          "d": 17,
+          "u": "https://www.amazon.de/s?k=Samsung+Galaxy+S25+Ultra"
+        },
+        {
+          "n": "Apple MacBook Air M3",
+          "c": "PC",
+          "p": "€1.099,00",
+          "w": "€1.299,00",
+          "d": 15,
+          "u": "https://www.amazon.de/s?k=Apple+MacBook+Air+M3"
+        }
+      ],
+      "trending": [
+        {
+          "n": "Deutschland Trikot WM 2026",
+          "c": "Sport"
+        },
+        {
+          "n": "Omega 3 Kapseln 240 Stück",
+          "c": "Gesundheit"
+        },
+        {
+          "n": "Dr. Wack A1 Car Care",
+          "c": "Auto"
+        },
+        {
+          "n": "Nintendo Switch 2 Spiele",
+          "c": "Gaming"
+        },
+        {
+          "n": "Cargo Shorts Herren Sommer",
+          "c": "Mode"
+        },
+        {
+          "n": "Kärcher Hochdruckreiniger Sommer",
+          "c": "Garten"
+        },
+        {
+          "n": "Luftreiniger HEPA Pollen",
+          "c": "Haushalt"
+        },
+        {
+          "n": "Gillette Fusion5 ProGlide",
+          "c": "Pflege"
+        },
+        {
+          "n": "Samsung Galaxy Tab S10 FE",
+          "c": "Tablet"
+        },
+        {
+          "n": "Boho Damen Sommerhose",
+          "c": "Mode"
+        },
+        {
+          "n": "AVM FRITZ!Box 7690",
+          "c": "Netzwerk"
+        },
+        {
+          "n": "Ninja Double Stack XL Airfryer",
+          "c": "Küche"
+        },
+        {
+          "n": "Garmin Fenix 8 Solar",
+          "c": "Sport"
+        },
+        {
+          "n": "DJI Mini 4 Pro Drohne",
+          "c": "Kamera"
+        },
+        {
+          "n": "Insektenschutz Autan",
+          "c": "Garten"
+        },
+        {
+          "n": "Rasenroboter Husqvarna",
+          "c": "Garten"
+        },
+        {
+          "n": "LEGO Star Wars Millennium Falcon",
+          "c": "LEGO"
+        },
+        {
+          "n": "Protein Shakes Fitness",
+          "c": "Gesundheit"
+        },
+        {
+          "n": "Campingstuhl ultraleicht",
+          "c": "Outdoor"
+        },
+        {
+          "n": "Garten-Solarleuchten 10er",
+          "c": "Garten"
+        }
+      ],
+      "bestsellers": [
+        {
+          "n": "JVC Fire TV 24 Zoll (2026)",
+          "c": "TV"
+        },
+        {
+          "n": "Samsung QLED Q7F2 55\"",
+          "c": "TV"
+        },
+        {
+          "n": "TCL 55T8C QLED 4K Google TV",
+          "c": "TV"
+        },
+        {
+          "n": "LG OLED65G59LS 65\"",
+          "c": "TV"
+        },
+        {
+          "n": "Echo Dot (5. Gen.)",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Fire TV Stick 4K Max",
+          "c": "Streaming"
+        },
+        {
+          "n": "Pampers Premium Gr.4",
+          "c": "Baby"
+        },
+        {
+          "n": "Oral-B iO Series 4",
+          "c": "Pflege"
+        },
+        {
+          "n": "Gillette Fusion5 ProGlide 8er",
+          "c": "Pflege"
+        },
+        {
+          "n": "LEGO Icons Botanicals",
+          "c": "LEGO"
+        },
+        {
+          "n": "AVM FRITZ!Box 7690",
+          "c": "Netzwerk"
+        },
+        {
+          "n": "Samsung Galaxy A55 5G",
+          "c": "Smartphone"
+        },
+        {
+          "n": "Duracell Plus AA 20St.",
+          "c": "Zubehör"
+        },
+        {
+          "n": "Ariel All-in-1 PODS 90St.",
+          "c": "Haushalt"
+        },
+        {
+          "n": "Govee RGBIC LED Strip 10m",
+          "c": "Smart Home"
+        },
+        {
+          "n": "Nintendo Switch 2",
+          "c": "Gaming"
+        },
+        {
+          "n": "Apple AirPods (4. Gen.)",
+          "c": "Audio"
+        },
+        {
+          "n": "Logitech MX Keys S",
+          "c": "PC"
+        },
+        {
+          "n": "Crucial BX500 2TB SSD",
+          "c": "PC"
+        },
+        {
+          "n": "Kärcher K5 Premium",
+          "c": "Garten"
+        }
+      ]
+    }
+  }
+}
