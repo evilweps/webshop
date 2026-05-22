@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T11:23:59.123666+00:00",
-  "updated_fmt": "22 May 2026 om 11:23",
+  "updated": "2026-05-22T12:23:25.530832+00:00",
+  "updated_fmt": "22 May 2026 om 12:23",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 May 2026 11:23 UTC",
+      "note": "bol.com — gescraped 22 May 2026 12:23 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 May 2026 11:23 UTC",
+      "note": "amazon.nl — gescraped 22 May 2026 12:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 May 2026 11:23 UTC",
+      "note": "amazon.com.be — gescraped 22 May 2026 12:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,30 +1130,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
-          "c": "Algemeen"
-        },
-        {
           "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
@@ -1198,6 +1174,54 @@
           "c": "Algemeen"
         },
         {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mais comment tu fais ?: Couple, famille, boulot... Les conseils de Jill pour cré",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Le coupable n'est pas Léa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Toi d'Abord, le Reste Ensuite: 120 Séances de Vérités qui Dérangent pour Arrêter",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Deal: The addictive sports romance from TikTok sensation and bestselling aut",
+          "c": "Algemeen"
+        },
+        {
+          "n": "L'intruse",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bien dormir, c'est possible, même pour vous !",
+          "c": "Algemeen"
+        },
+        {
           "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
           "c": "Algemeen"
         },
@@ -1219,30 +1243,6 @@
         },
         {
           "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische kokosolie, 500 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "waterdrop Microenergy-set, energiedrank zonder suiker, kersendrank, 36 bruisblok",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 May 2026 11:23 UTC",
+      "note": "amazon.de — gescraped 22 May 2026 12:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1497,7 +1497,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 1.056,04/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 32,40",
+          "c": "Algemeen"
+        },
+        {
           "n": "d'alba Italian White Truffel First Spray Serum, vochtinbrengende gezichtsspray, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 30,45",
           "c": "Algemeen"
         },
         {
@@ -1505,7 +1517,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 34,84",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 13,24",
           "c": "Algemeen"
         },
         {
@@ -1513,7 +1533,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 3,90/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Bosch Ratelschroevendraaier met bitmagazijn, 12-delig (ratelschroevendraaier met",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11 aanbiedingen vanUSD 17,23",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1549,23 @@
           "c": "Algemeen"
         },
         {
+          "n": "3 aanbiedingen vanUSD 8,38",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,98",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 15,99",
+          "c": "Algemeen"
+        },
+        {
           "n": "Wago 221-413 Lasklem, 50 stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "7 aanbiedingen vanUSD 16,89",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1573,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "5 aanbiedingen vanUSD 13,92",
+          "c": "Algemeen"
+        },
+        {
           "n": "MORE Zerup, Peach Iced Tea, 65 ml, voor maximaal 8 l kant-en-klare drank, suiker",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 6,56",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1589,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 24,38/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "True Dates Sour Apple, natuurlijk gearomatiseerde dadels, zure appelsmaak, 100 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 2,03",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1605,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 1,49",
+          "c": "Algemeen"
+        },
+        {
           "n": "MORE Barista Zerup Vanilla, 65 ml, voor koffie, thee en warme dranken, veganisti",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 6,96",
           "c": "Algemeen"
         },
         {
@@ -1553,27 +1621,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jack & Jones Jjebasic Polo Ss Noos Poloshirt voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ONLY ONLMADISON Damesjeans met wijde pijpen, hoge taille, wijde pijpen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "n": "3 aanbiedingen vanUSD 4,63",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1629,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 13,92",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 18,70",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1645,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 39,03",
+          "c": "Algemeen"
+        },
+        {
+          "n": "7 aanbiedingen vanUSD 9,88",
+          "c": "Algemeen"
+        },
+        {
           "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Algemeen"
+        },
+        {
+          "n": "8 aanbiedingen vanUSD 13,97",
           "c": "Algemeen"
         },
         {
@@ -1597,100 +1665,32 @@
           "c": "Algemeen"
         },
         {
-          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten &",
+          "n": "USD 7,79",
           "c": "Algemeen"
         },
         {
-          "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
+          "n": "Jack & Jones Jjebasic Polo Ss Noos Poloshirt voor heren",
           "c": "Algemeen"
         },
         {
-          "n": "Ugreen Microfoonkabel high quality XLR stekker op XLR ingang, zwart, 2 m",
+          "n": "USD 9,74",
           "c": "Algemeen"
         },
         {
-          "n": "Cameo AHCLFDJ5L Vloeistof voor rookmachines, gemiddelde dichtheid/standtijd",
+          "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
           "c": "Algemeen"
         },
         {
-          "n": "SEBRUANC discobal, led-muziekgestuurd, DJ-partylicht, 360° roterende ballampen, ",
+          "n": "(USD 3,57/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "Ernie Ball Gitaarsnaren",
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "n": "1 aanbieding voorUSD 26,70",
           "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens TZ80002A Ontkalkingstabletten, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie elastisch hoeslaken van jerseykatoen",
-          "c": "Keuken"
-        },
-        {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
-          "c": "Keuken"
-        },
-        {
-          "n": "SWEET VIEW Olijfoliedispenser en oliesproeier, 470 ml glas, lichtdichte oliesche",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Giftgarden Fotolijst 50x70 zwart metaal",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pritt Lijmstift",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
-          "c": "Keuken"
-        },
-        {
-          "n": "Utopia Bedding Set van 2 kussenvullingen 40 x 40 cm, binnenkussen vulkussen hoof",
-          "c": "Keuken"
-        },
-        {
-          "n": "DeLonghi 5513292811 Waterfilter, wit, los, verpakking van 1, wit",
-          "c": "Keuken"
-        },
-        {
-          "n": "Matrasbeschermer, 140 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
-          "c": "Keuken"
-        },
-        {
-          "n": "rabbitgoo Raamfolie, ondoorzichtig, zichtwerende folie, raam, zelfklevend, melkg",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 40 x 80 cm, set van 2, anti-allergene kussens, wasbaar, ma",
-          "c": "Keuken"
         }
       ]
     }
