@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-23T17:52:50.082530+00:00",
-  "updated_fmt": "23 May 2026 om 17:52",
+  "updated": "2026-05-23T23:45:43.901712+00:00",
+  "updated_fmt": "23 May 2026 om 23:45",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 23 May 2026 17:52 UTC",
+      "note": "bol.com — gescraped 23 May 2026 23:45 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 23 May 2026 17:52 UTC",
+      "note": "amazon.nl — gescraped 23 May 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,7 +735,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Why Does Everybody Hate Me?: Living and Loving with Rejection Sensitivity Dyspho",
+          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 23 May 2026 17:52 UTC",
+      "note": "amazon.com.be — gescraped 23 May 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1202,6 +1202,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon, iPhone-microfoon en USB-C-aansluiting, draadloze mini-micro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Stagg 10 m XLR-microfoonkabel - phono van hoge kwaliteit, zwart",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Algemeen"
         },
@@ -1223,26 +1243,6 @@
         },
         {
           "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 6,3 inch, gehard glasfoli",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WaterWipes Original plasticvrije babydoekjes, 720 stuks (12 pakken), op basis va",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WaterWipes Original plasticvrije babydoekjes, 540 stuks Hardheid (9 pakken) 99,9",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "RAVIAN Autostoelspiegel voor baby's met kristalhelder zicht, onbreekbaar, verste",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 23 May 2026 17:52 UTC",
+      "note": "amazon.de — gescraped 23 May 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,7 +1537,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 12,75",
+          "n": "1 aanbieding voorUSD 12,75",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 16,20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,38",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bosch Ratelschroevendraaier met bitmagazijn, 12-delig (ratelschroevendraaier met",
+          "c": "Algemeen"
+        },
+        {
+          "n": "9 aanbiedingen vanUSD 17,22",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 16,27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 13,92",
           "c": "Algemeen"
         },
         {
@@ -1582,46 +1622,6 @@
         },
         {
           "n": "(USD 3,90/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,95",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 16,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,38",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bosch Ratelschroevendraaier met bitmagazijn, 12-delig (ratelschroevendraaier met",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10 aanbiedingen vanUSD 17,22",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,27",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 13,92",
           "c": "Algemeen"
         },
         {
