@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T23:56:22.710066+00:00",
-  "updated_fmt": "22 May 2026 om 23:56",
+  "updated": "2026-05-23T07:25:15.840636+00:00",
+  "updated_fmt": "23 May 2026 om 07:25",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 May 2026 23:56 UTC",
+      "note": "bol.com — gescraped 23 May 2026 07:25 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 May 2026 23:56 UTC",
+      "note": "amazon.nl — gescraped 23 May 2026 07:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,11 +735,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Why Does Everybody Hate Me?: Living and Loving with Rejection Sensitivity Dyspho",
           "c": "Algemeen"
         },
         {
@@ -795,11 +795,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Google TV Streamer 4K – ontspannen entertainment door snelle streaming en afstan",
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "n": "Google TV Streamer 4K – ontspannen entertainment door snelle streaming en afstan",
           "c": "Elektronica"
         },
         {
@@ -807,11 +807,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics Snelle snelheid tot 200MB/s Micro SD-kaart, 128 GB, zwart, 1-pack",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "Amazon Basics Snelle snelheid tot 200MB/s Micro SD-kaart, 128 GB, zwart, 1-pack",
           "c": "Elektronica"
         },
         {
@@ -851,7 +851,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Anker Nano 45W USB-C snellader met Smart Display, intelligente oplader met realt",
+          "n": "SanDisk Ultra USB 3.0-Flashdrive 128 GB (Overdrachtssnelheden Tot 130 MB/s, SanD",
           "c": "Elektronica"
         }
       ]
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 May 2026 23:56 UTC",
+      "note": "amazon.com.be — gescraped 23 May 2026 07:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1182,7 +1182,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
         {
@@ -1190,11 +1190,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
           "c": "Algemeen"
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple EarPods (USB-C)​​​​​​​",
           "c": "Algemeen"
         },
         {
@@ -1206,64 +1230,16 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
+          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
+          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
           "c": "Algemeen"
         },
         {
           "n": "Philips Avent Borstkompressen SCF254/61 voor dag en nacht, wegwerpbaar, 60 stuks",
           "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische kokosolie, 500 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "waterdrop Microenergy-set, energiedrank zonder suiker, kersendrank, 36 bruisblok",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
         },
         {
           "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 6,3 inch, gehard glasfoli",
@@ -1306,7 +1282,31 @@
           "c": "Elektronica"
         },
         {
+          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
+          "c": "Elektronica"
+        },
+        {
           "n": "UGREEN 8K HDMI 2.1-kabel, gecertificeerd 10K 8K 60Hz 4K 240Hz High Speed 48Gbps ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A56 5G, 9H gehard glas, krasbest",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Soundcore Anker P20i Draadloze Bluetooth-hoofdtelefoon, True Wireless Bluetooth ",
           "c": "Elektronica"
         }
       ]
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 May 2026 23:56 UTC",
+      "note": "amazon.de — gescraped 23 May 2026 07:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1493,15 +1493,63 @@
       ],
       "bestsellers": [
         {
+          "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,56/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 26,68",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jack & Jones Jjebasic Polo Ss Noos Poloshirt voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 16,24",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 7,93",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ONLY ONLMADISON Damesjeans met wijde pijpen, hoge taille, wijde pijpen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 35,54",
+          "c": "Algemeen"
+        },
+        {
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 19,72",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.056,04/l)",
+          "n": "(USD 1.055,39/l)",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,40",
+          "n": "2 aanbiedingen vanUSD 32,38",
           "c": "Algemeen"
         },
         {
@@ -1509,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 30,45",
+          "n": "3 aanbiedingen vanUSD 30,43",
           "c": "Algemeen"
         },
         {
@@ -1517,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 34,84",
+          "n": "2 aanbiedingen vanUSD 34,82",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,24",
+          "n": "1 aanbieding voorUSD 13,23",
           "c": "Algemeen"
         },
         {
@@ -1541,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11 aanbiedingen vanUSD 17,23",
+          "n": "11 aanbiedingen vanUSD 17,22",
           "c": "Algemeen"
         },
         {
@@ -1557,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 16,21",
+          "n": "5 aanbiedingen vanUSD 16,20",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 16,89",
+          "n": "7 aanbiedingen vanUSD 16,87",
           "c": "Algemeen"
         },
         {
@@ -1574,54 +1622,6 @@
         },
         {
           "n": "5 aanbiedingen vanUSD 13,92",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jack & Jones Jjebasic Polo Ss Noos Poloshirt voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,25",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,57/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 26,70",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ONLY ONLMADISON Damesjeans met wijde pijpen, hoge taille, wijde pijpen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 35,56",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 7,93",
-          "c": "Algemeen"
-        },
-        {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 19,73",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,70",
+          "n": "3 aanbiedingen vanUSD 18,69",
           "c": "Algemeen"
         },
         {
@@ -1645,11 +1645,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,03",
+          "n": "USD 39,01",
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 9,88",
+          "n": "7 aanbiedingen vanUSD 11,13",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 13,97",
+          "n": "8 aanbiedingen vanUSD 13,96",
           "c": "Algemeen"
         },
         {
@@ -1673,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 34,78",
+          "n": "1 aanbieding voorUSD 34,76",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 22,12",
+          "n": "2 aanbiedingen vanUSD 22,11",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1689,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 9,28",
+          "n": "8 aanbiedingen vanUSD 9,27",
           "c": "Algemeen"
         }
       ]
