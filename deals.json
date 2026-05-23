@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-23T11:53:16.021564+00:00",
-  "updated_fmt": "23 May 2026 om 11:53",
+  "updated": "2026-05-23T17:52:50.082530+00:00",
+  "updated_fmt": "23 May 2026 om 17:52",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 23 May 2026 11:53 UTC",
+      "note": "bol.com — gescraped 23 May 2026 17:52 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 23 May 2026 11:53 UTC",
+      "note": "amazon.nl — gescraped 23 May 2026 17:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,11 +735,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Why Does Everybody Hate Me?: Living and Loving with Rejection Sensitivity Dyspho",
           "c": "Algemeen"
         },
         {
-          "n": "Why Does Everybody Hate Me?: Living and Loving with Rejection Sensitivity Dyspho",
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 23 May 2026 11:53 UTC",
+      "note": "amazon.com.be — gescraped 23 May 2026 17:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 23 May 2026 11:53 UTC",
+      "note": "amazon.de — gescraped 23 May 2026 17:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 33,17",
+          "n": "USD 32,17",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,97",
+          "n": "USD 5,95",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11 aanbiedingen vanUSD 17,22",
+          "n": "10 aanbiedingen vanUSD 17,22",
           "c": "Algemeen"
         },
         {
