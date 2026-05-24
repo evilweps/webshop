@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T17:51:03.735678+00:00",
-  "updated_fmt": "24 May 2026 om 17:51",
+  "updated": "2026-05-24T23:49:42.345854+00:00",
+  "updated_fmt": "24 May 2026 om 23:49",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 May 2026 17:51 UTC",
+      "note": "bol.com — gescraped 24 May 2026 23:49 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 May 2026 17:51 UTC",
+      "note": "amazon.nl — gescraped 24 May 2026 23:49 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -727,6 +727,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NEU Apple Gift Card - voor Nederland - per e-mail",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Google Play-cadeaucode (geleverd per e-mail, alleen in Nederland)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
           "c": "Algemeen"
         },
@@ -755,39 +779,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Controle Over Je Gedachten: Praktische Strategieën om Negatieve Patronen te Door",
-          "c": "Algemeen"
-        },
-        {
           "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
           "c": "Algemeen"
         },
         {
+          "n": "Controle Over Je Gedachten: Praktische Strategieën om Negatieve Patronen te Door",
+          "c": "Algemeen"
+        },
+        {
           "n": "Moonwalk: Michael Jackson’s Only Official Autobiography - Perfect for fans of th",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Page wc papier - Compleet Schoon - 96 rollen - Voordeelverpakking",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2026 Innovatief Slaapmasker voor Mannen en Vrouwen, 100% Lichtblokkerend Ontwerp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe EasyPick Tandenstokers, Oranje, maat XS-S, 60st, tandplakverwijderaar, effi",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 May 2026 17:51 UTC",
+      "note": "amazon.com.be — gescraped 24 May 2026 23:49 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1202,30 +1202,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mixa Niacinamide Bright vochtinbrengende crème voor alle doeleinden geschikt voo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade Intimate, intiem scheren, trimmen en scheren met extra huidbesc",
-          "c": "Algemeen"
-        },
-        {
           "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
@@ -1247,6 +1223,30 @@
         },
         {
           "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon, iPhone-microfoon en USB-C-aansluiting, draadloze mini-micro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Beyerdynamic headphones DT770 PRO 80 ohm (studio) 25,4 x 12,7 x 20,3 cm, zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Stagg 10 m XLR-microfoonkabel - phono van hoge kwaliteit, zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 May 2026 17:51 UTC",
+      "note": "amazon.de — gescraped 24 May 2026 23:49 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1497,15 +1497,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,56/eenheid)",
-          "c": "Algemeen"
-        },
-        {
           "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 14,79",
           "c": "Algemeen"
         },
         {
@@ -1513,15 +1505,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,75",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lico Bioline herenpantoffels",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,45",
           "c": "Algemeen"
         },
         {
@@ -1529,23 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 19,72",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Unisex Kinder Adilette Aqua Badesandalen Kids",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,48",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 16,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,95",
           "c": "Algemeen"
         },
         {
@@ -1553,15 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,38",
-          "c": "Algemeen"
-        },
-        {
           "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,27",
           "c": "Algemeen"
         },
         {
@@ -1569,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 13,92",
-          "c": "Algemeen"
-        },
-        {
           "n": "Origineel Einhell systeem accu., 4511489",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10 aanbiedingen vanUSD 59,64",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 11,13",
+          "n": "7 aanbiedingen vanUSD 10,28",
           "c": "Algemeen"
         },
         {
@@ -1690,6 +1642,54 @@
         },
         {
           "n": "USD 172,91",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PUSTEFIX Navulling met bellenblaasvloeistof | Jerrycan van 2,5 liter | Leuke bel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,90/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 39,45",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Suright Lichtsnoer op zonne-energie, 8 m, 30 leds, lichtketting op zonne-energie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 10,90",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Linkax 3D LED-nachtlampje",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11 aanbiedingen vanUSD 11,59",
+          "c": "Algemeen"
+        },
+        {
+          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 27,60",
+          "c": "Algemeen"
+        },
+        {
+          "n": "btfarm 10 stuks vloerverlichting op zonne-energie, voor buiten, 8 leds, waterdic",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 29,57",
           "c": "Algemeen"
         }
       ]
