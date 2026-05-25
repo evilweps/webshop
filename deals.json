@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T18:20:59.112826+00:00",
-  "updated_fmt": "25 May 2026 om 18:20",
+  "updated": "2026-05-25T23:55:08.463736+00:00",
+  "updated_fmt": "25 May 2026 om 23:55",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 25 May 2026 18:20 UTC",
+      "note": "bol.com — gescraped 25 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 25 May 2026 18:20 UTC",
+      "note": "amazon.nl — gescraped 25 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -679,30 +679,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
           "c": "Algemeen"
         },
@@ -724,6 +700,30 @@
         },
         {
           "n": "HOOMEE Raamafdichting voor Mobiele Airconditioners, Airconditioners, Wasdrogers,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
@@ -760,10 +760,6 @@
         },
         {
           "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Controle Over Je Gedachten: Praktische Strategieën om Negatieve Patronen te Door",
           "c": "Algemeen"
         },
         {
@@ -853,6 +849,10 @@
         {
           "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
           "c": "Elektronica"
+        },
+        {
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
         }
       ]
     },
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 25 May 2026 18:20 UTC",
+      "note": "amazon.com.be — gescraped 25 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1202,6 +1202,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "20 teentjes Bourbon Vanille uit Madagaskar, 14-16 cm, maat L, Planifolia \"Reserv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Koffiepad, composteerbaar, recyclebaar, zwart mengsel, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "waterdrop® Microdrink Fruit Fusion-set, 48 hydratatietabletten, drankblokjes met",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ICE Beer Siroop concentraat zonder AZO en glycerine | 250 ml fles | concentraat ",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Algemeen"
         },
@@ -1223,30 +1247,6 @@
         },
         {
           "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Intex - Elektrische luchtpomp, 230 V",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Intex Classic DuraBeam Luchtbed Compact",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Adrenalyn XL Multiset FIFA Wereldkampioenschap 2026",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Xiaomi Smart Band 10 zwart - activiteitenarmband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 25 May 2026 18:20 UTC",
+      "note": "amazon.de — gescraped 25 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,95",
+          "n": "1 aanbieding voorUSD 20,94",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,74",
+          "n": "5 aanbiedingen vanUSD 9,10",
           "c": "Algemeen"
         },
         {
