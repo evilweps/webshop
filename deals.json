@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T23:49:42.345854+00:00",
-  "updated_fmt": "24 May 2026 om 23:49",
+  "updated": "2026-05-25T08:50:18.845221+00:00",
+  "updated_fmt": "25 May 2026 om 08:50",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 May 2026 23:49 UTC",
+      "note": "bol.com — gescraped 25 May 2026 08:50 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 May 2026 23:49 UTC",
+      "note": "amazon.nl — gescraped 25 May 2026 08:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -695,7 +695,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
           "c": "Algemeen"
         },
         {
@@ -724,30 +724,6 @@
         },
         {
           "n": "JURA originele CLARIS Smart+ filtercartridge met automatische filterherkenning -",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NEU Apple Gift Card - voor Nederland - per e-mail",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Google Play-cadeaucode (geleverd per e-mail, alleen in Nederland)",
           "c": "Algemeen"
         },
         {
@@ -791,6 +767,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Page wc papier - Compleet Schoon - 96 rollen - Voordeelverpakking",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2026 Innovatief Slaapmasker voor Mannen en Vrouwen, 100% Lichtblokkerend Ontwerp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TePe EasyPick Tandenstokers, Oranje, maat XS-S, 60st, tandplakverwijderaar, effi",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
           "c": "Elektronica"
         },
@@ -823,15 +823,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus 9V-batterijen (4 stuks) - Alkaline batterijen - 100% levensduurgar",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Lexar THOR DDR4 RAM 32 GB Kit (2x16GB) 3200 MHz, DRAM 288-pins UDIMM Desktop Geh",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL voor iPhone 17 Case Compatibel met MagSafe, Volledige Camerabescherming, S",
+          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
           "c": "Elektronica"
         },
         {
@@ -839,7 +831,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "TOCOL voor iPhone 17 Case Compatibel met MagSafe, Volledige Camerabescherming, S",
+          "c": "Elektronica"
+        },
+        {
           "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Lexar THOR DDR4 RAM 32 GB Kit (2x16GB) 3200 MHz, DRAM 288-pins UDIMM Desktop Geh",
           "c": "Elektronica"
         },
         {
@@ -847,11 +847,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 256 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 256 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
           "c": "Elektronica"
         }
       ]
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 May 2026 23:49 UTC",
+      "note": "amazon.com.be — gescraped 25 May 2026 08:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1146,11 +1146,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Waterfilter Cartridge MAXTRA PRO Pure Performance (All-In-1), 6 stuks",
+          "n": "Dreamzie Hoeslaken hoogte tot 33 cm, 100% microvezel, getest op schadelijke stof",
           "c": "Algemeen"
         },
         {
-          "n": "Dreamzie Hoeslaken hoogte tot 33 cm, 100% microvezel, getest op schadelijke stof",
+          "n": "BRITA Waterfilter Cartridge MAXTRA PRO Pure Performance (All-In-1), 6 stuks",
           "c": "Algemeen"
         },
         {
@@ -1178,6 +1178,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mixa Niacinamide Bright vochtinbrengende crème voor alle doeleinden geschikt voo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade Intimate, intiem scheren, trimmen en scheren met extra huidbesc",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Algemeen"
         },
@@ -1202,51 +1226,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
+          "n": "Le coupable n'est pas Léa",
           "c": "Algemeen"
         },
         {
-          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "n": "Mais comment tu fais ?: Couple, famille, boulot... Les conseils de Jill pour cré",
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
+          "n": "Spécimen: Roman",
           "c": "Algemeen"
         },
         {
-          "n": "007 First Light - Specialist Edition - PlayStation 5",
+          "n": "The deal",
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
+          "n": "L'intruse",
           "c": "Algemeen"
         },
         {
-          "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon, iPhone-microfoon en USB-C-aansluiting, draadloze mini-micro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Beyerdynamic headphones DT770 PRO 80 ohm (studio) 25,4 x 12,7 x 20,3 cm, zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Stagg 10 m XLR-microfoonkabel - phono van hoge kwaliteit, zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "n": "Toi d'Abord, le Reste Ensuite: 120 Séances de Vérités qui Dérangent pour Arrêter",
           "c": "Algemeen"
         },
         {
@@ -1274,15 +1274,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "TP-Link Tapo Bewakingscamera, wifi, binnenshuis, 360 °, Tapo C210, UHD 3 MP, per",
-          "c": "Elektronica"
-        },
-        {
           "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
+          "n": "TP-Link Tapo Bewakingscamera, wifi, binnenshuis, 360 °, Tapo C210, UHD 3 MP, per",
           "c": "Elektronica"
         },
         {
@@ -1298,15 +1294,19 @@
           "c": "Elektronica"
         },
         {
+          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
+          "c": "Elektronica"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor Samsung Galaxy A56 5G, 9H gehard glas, krasbest",
           "c": "Elektronica"
         },
         {
-          "n": "Longlife Power AA Pack 20 (10+10)",
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "n": "UGREEN 8K HDMI 2.1-kabel, gecertificeerd 10K 8K 60Hz 4K 240Hz High Speed 48Gbps ",
           "c": "Elektronica"
         }
       ]
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 May 2026 23:49 UTC",
+      "note": "amazon.de — gescraped 25 May 2026 08:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1497,7 +1497,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 3,57/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 17,44",
           "c": "Algemeen"
         },
         {
@@ -1505,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lico Bioline herenpantoffels",
+          "n": "1 aanbieding voorUSD 17,44",
           "c": "Algemeen"
         },
         {
@@ -1513,23 +1521,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "adidas Unisex Kinder Adilette Aqua Badesandalen Kids",
+          "n": "1 aanbieding voorUSD 23,26",
           "c": "Algemeen"
         },
         {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "n": "Lico Bioline herenpantoffels",
           "c": "Algemeen"
         },
         {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "n": "USD 17,50",
           "c": "Algemeen"
         },
         {
-          "n": "EasyMaxx Magic Click muggennet",
+          "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
           "c": "Algemeen"
         },
         {
-          "n": "Origineel Einhell systeem accu., 4511489",
+          "n": "1 aanbieding voorUSD 7,95",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.055,39/l)",
+          "n": "(USD 1.058,25/l)",
           "c": "Algemeen"
         },
         {
@@ -1545,19 +1553,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 30,43",
+          "n": "3 aanbiedingen vanUSD 30,51",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,38",
-          "c": "Algemeen"
-        },
-        {
-          "n": "d'alba Italian White Truffle Double Serum All-in-one Multi Balm, veganistische h",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 34,82",
+          "n": "2 aanbiedingen vanUSD 32,47",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,23",
+          "n": "1 aanbieding voorUSD 13,27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "d'alba Italian White Truffle Double Serum All-in-one Multi Balm, veganistische h",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 34,91",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1581,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,90/eenheid)",
+          "n": "(USD 3,91/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 16,45",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,97",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,40",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 12,24",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 13,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Origineel Einhell systeem accu., 4511489",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10 aanbiedingen vanUSD 59,80",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,92",
+          "n": "1 aanbieding voorUSD 13,95",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,69",
+          "n": "3 aanbiedingen vanUSD 18,74",
           "c": "Algemeen"
         },
         {
@@ -1597,11 +1645,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,01",
+          "n": "USD 39,11",
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 10,28",
+          "n": "6 aanbiedingen vanUSD 9,90",
           "c": "Algemeen"
         },
         {
@@ -1609,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 7,79",
+          "n": "USD 7,81",
           "c": "Algemeen"
         },
         {
@@ -1621,75 +1669,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "17 aanbiedingen vanUSD 34,75",
+          "n": "17 aanbiedingen vanUSD 34,84",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 93,41",
+          "n": "3 aanbiedingen vanUSD 93,67",
           "c": "Algemeen"
         },
         {
-          "n": "17 aanbiedingen vanUSD 18,56",
+          "n": "18 aanbiedingen vanUSD 18,61",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,49",
+          "n": "USD 15,54",
           "c": "Algemeen"
         },
         {
-          "n": "Panini - Offizielle FIFA World Cup 2026™ Stickerkollektion (Box mit 100 Tüten)",
+          "n": "Apple iPad met A16 Chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
           "c": "Algemeen"
         },
         {
-          "n": "USD 172,91",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PUSTEFIX Navulling met bellenblaasvloeistof | Jerrycan van 2,5 liter | Leuke bel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,90/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 39,45",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Suright Lichtsnoer op zonne-energie, 8 m, 30 leds, lichtketting op zonne-energie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 10,90",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Linkax 3D LED-nachtlampje",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11 aanbiedingen vanUSD 11,59",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 27,60",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm 10 stuks vloerverlichting op zonne-energie, voor buiten, 8 leds, waterdic",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 29,57",
+          "n": "25 aanbiedingen vanUSD 313,75",
           "c": "Algemeen"
         }
       ]
