@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T13:55:05.919736+00:00",
-  "updated_fmt": "25 May 2026 om 13:55",
+  "updated": "2026-05-25T18:20:59.112826+00:00",
+  "updated_fmt": "25 May 2026 om 18:20",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 25 May 2026 13:55 UTC",
+      "note": "bol.com — gescraped 25 May 2026 18:20 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 25 May 2026 13:55 UTC",
+      "note": "amazon.nl — gescraped 25 May 2026 18:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -755,11 +755,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "n": "Moonwalk: Michael Jackson’s Only Official Autobiography - Perfect for fans of th",
           "c": "Algemeen"
         },
         {
-          "n": "Moonwalk: Michael Jackson’s Only Official Autobiography - Perfect for fans of th",
+          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 25 May 2026 13:55 UTC",
+      "note": "amazon.com.be — gescraped 25 May 2026 18:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,30 +1130,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dreamzie Hoeslaken hoogte tot 33 cm, 100% microvezel, getest op schadelijke stof",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Russell Hobbs RHPDF0921 Draagbare tafelventilator, 23 cm, 2 snelheden, grote dra",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
           "c": "Algemeen"
         },
@@ -1175,6 +1151,30 @@
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dreamzie Hoeslaken hoogte tot 33 cm, 100% microvezel, getest op schadelijke stof",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Russell Hobbs RHPDF0921 Draagbare tafelventilator, 23 cm, 2 snelheden, grote dra",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 25 May 2026 13:55 UTC",
+      "note": "amazon.de — gescraped 25 May 2026 18:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 16,45",
+          "n": "2 aanbiedingen vanUSD 16,79",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.054,61/l)",
+          "n": "(USD 1.058,25/l)",
           "c": "Algemeen"
         },
         {
