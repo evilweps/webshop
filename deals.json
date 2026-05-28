@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T23:54:18.460791+00:00",
-  "updated_fmt": "27 May 2026 om 23:54",
+  "updated": "2026-05-28T08:37:52.194888+00:00",
+  "updated_fmt": "28 May 2026 om 08:37",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 27 May 2026 23:54 UTC",
+      "note": "bol.com — gescraped 28 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 27 May 2026 23:54 UTC",
+      "note": "amazon.nl — gescraped 28 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -755,7 +755,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 27 May 2026 23:54 UTC",
+      "note": "amazon.com.be — gescraped 28 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,7 +1210,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 27 May 2026 23:54 UTC",
+      "note": "amazon.de — gescraped 28 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1389,7 +1389,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,57/eenheid)",
+          "n": "(USD 3,56/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1397,7 +1397,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,51",
+          "n": "USD 17,43",
           "c": "Algemeen"
         },
         {
@@ -1405,7 +1405,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 29,09",
+          "n": "2 aanbiedingen vanUSD 28,96",
           "c": "Algemeen"
         },
         {
@@ -1413,11 +1413,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 16,46",
+          "c": "Algemeen"
+        },
+        {
           "n": "PUMA Unisex Unisex Sneaker Plain Sneaker Sock (3 stuks)",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,28/eenheid)",
+          "n": "(USD 2,27/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1425,7 +1429,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 8,14",
+          "n": "2 aanbiedingen vanUSD 8,10",
           "c": "Algemeen"
         },
         {
@@ -1433,7 +1437,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 12,75",
+          "n": "9 aanbiedingen vanUSD 12,69",
           "c": "Algemeen"
         },
         {
@@ -1441,7 +1445,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,27",
+          "n": "1 aanbieding voorUSD 13,21",
           "c": "Algemeen"
         },
         {
@@ -1449,11 +1453,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.058,51/l)",
+          "n": "(USD 1.053,93/l)",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,94",
+          "n": "1 aanbieding voorUSD 20,85",
           "c": "Algemeen"
         },
         {
@@ -1461,7 +1465,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 116,40/l)",
+          "n": "(USD 115,90/l)",
           "c": "Algemeen"
         },
         {
@@ -1469,11 +1473,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 10,77",
+          "n": "6 aanbiedingen vanUSD 10,72",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,96",
+          "n": "USD 5,93",
           "c": "Algemeen"
         },
         {
@@ -1481,7 +1485,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 12,00",
+          "n": "2 aanbiedingen vanUSD 16,25",
           "c": "Algemeen"
         },
         {
@@ -1489,11 +1493,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 13,96",
+          "n": "5 aanbiedingen vanUSD 13,90",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,63",
+          "n": "1 aanbieding voorUSD 11,58",
           "c": "Algemeen"
         },
         {
@@ -1501,7 +1505,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,40",
+          "n": "3 aanbiedingen vanUSD 8,37",
           "c": "Algemeen"
         },
         {
@@ -1509,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,19",
+          "n": "1 aanbieding voorUSD 11,14",
           "c": "Algemeen"
         },
         {
@@ -1517,15 +1521,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,10",
+          "n": "5 aanbiedingen vanUSD 9,06",
           "c": "Algemeen"
         },
         {
-          "n": "Utopia Bedding Hoeslaken; van geborstelde microvezel; ook geschikt voor extra di",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 9,24",
+          "n": "6 aanbiedingen vanUSD 9,34",
           "c": "Algemeen"
         },
         {
@@ -1533,7 +1533,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,12",
+          "n": "USD 38,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 7,78",
           "c": "Algemeen"
         },
         {
@@ -1541,15 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 104,75",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Levoit - DC motor torenventilator - 20dB zeer stille ventilator - 4 modi/12 stan",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 115,24",
+          "n": "1 aanbieding voorUSD 104,29",
           "c": "Algemeen"
         },
         {
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 39,56",
+          "n": "2 aanbiedingen vanUSD 39,39",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 34,56",
+          "n": "3 aanbiedingen vanUSD 34,41",
           "c": "Algemeen"
         },
         {
@@ -1573,15 +1573,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 10,93",
+          "n": "2 aanbiedingen vanUSD 10,88",
           "c": "Algemeen"
         },
         {
-          "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 23,26",
+          "n": "36 aanbiedingen vanUSD 10,60",
           "c": "Algemeen"
         }
       ]
