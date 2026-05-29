@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T00:01:07.677466+00:00",
-  "updated_fmt": "29 May 2026 om 00:01",
+  "updated": "2026-05-29T08:37:42.132237+00:00",
+  "updated_fmt": "29 May 2026 om 08:37",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 29 May 2026 00:01 UTC",
+      "note": "bol.com — gescraped 29 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 29 May 2026 00:01 UTC",
+      "note": "amazon.nl — gescraped 29 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -755,7 +755,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 29 May 2026 00:01 UTC",
+      "note": "amazon.com.be — gescraped 29 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,7 +1210,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 29 May 2026 00:01 UTC",
+      "note": "amazon.de — gescraped 29 May 2026 08:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1389,7 +1389,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,56/eenheid)",
+          "n": "(USD 3,57/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1397,7 +1397,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,43",
+          "n": "USD 17,51",
           "c": "Algemeen"
         },
         {
@@ -1405,7 +1405,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 30,13",
+          "n": "3 aanbiedingen vanUSD 30,26",
           "c": "Algemeen"
         },
         {
@@ -1413,7 +1413,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,46",
+          "n": "USD 16,53",
           "c": "Algemeen"
         },
         {
@@ -1421,15 +1421,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,27/eenheid)",
+          "n": "(USD 3,26/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "USD 9,64",
+          "n": "USD 9,68",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,85",
+          "n": "1 aanbieding voorUSD 20,94",
           "c": "Algemeen"
         },
         {
@@ -1437,7 +1437,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 12,69",
+          "n": "9 aanbiedingen vanUSD 12,75",
           "c": "Algemeen"
         },
         {
@@ -1445,7 +1445,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,21",
+          "n": "1 aanbieding voorUSD 13,27",
           "c": "Algemeen"
         },
         {
@@ -1453,7 +1453,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.053,93/l)",
+          "n": "(USD 1.058,48/l)",
           "c": "Algemeen"
         },
         {
@@ -1461,7 +1461,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 115,90/l)",
+          "n": "(USD 116,40/l)",
           "c": "Algemeen"
         },
         {
@@ -1469,11 +1469,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 10,72",
+          "n": "6 aanbiedingen vanUSD 10,77",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,92",
+          "n": "USD 5,95",
           "c": "Algemeen"
         },
         {
@@ -1481,7 +1481,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 12,60",
+          "n": "2 aanbiedingen vanUSD 16,32",
           "c": "Algemeen"
         },
         {
@@ -1489,15 +1489,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 13,90",
+          "n": "6 aanbiedingen vanUSD 13,96",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,58",
+          "n": "1 aanbieding voorUSD 11,63",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 16,11",
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,40",
           "c": "Algemeen"
         },
         {
@@ -1505,7 +1509,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,14",
+          "n": "1 aanbieding voorUSD 11,19",
           "c": "Algemeen"
         },
         {
@@ -1513,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 9,20",
+          "n": "4 aanbiedingen vanUSD 9,24",
           "c": "Algemeen"
         },
         {
@@ -1521,15 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,06",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DREO Nomad One, stille torenventilator, 20 dB, 10 m reikwijdte, 4 snelheden, 4 m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 82,60",
+          "n": "5 aanbiedingen vanUSD 9,10",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1533,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,95",
+          "n": "USD 39,12",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DREO Nomad One, stille torenventilator, 20 dB, 10 m reikwijdte, 4 snelheden, 4 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 104,74",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 7,78",
+          "n": "USD 7,81",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1557,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 39,39",
+          "n": "2 aanbiedingen vanUSD 39,56",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "c": "Algemeen"
+        },
+        {
+          "n": "36 aanbiedingen vanUSD 10,65",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 10,88",
+          "n": "2 aanbiedingen vanUSD 10,93",
           "c": "Algemeen"
         },
         {
@@ -1569,19 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 23,16",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm 10 stuks vloerverlichting op zonne-energie, voor buiten, 8 leds, waterdic",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 34,41",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "n": "2 aanbiedingen vanUSD 23,26",
           "c": "Algemeen"
         }
       ]
