@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T08:37:42.132237+00:00",
-  "updated_fmt": "29 May 2026 om 08:37",
+  "updated": "2026-05-29T13:53:01.638963+00:00",
+  "updated_fmt": "29 May 2026 om 13:53",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 29 May 2026 08:37 UTC",
+      "note": "bol.com — gescraped 29 May 2026 13:53 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 29 May 2026 08:37 UTC",
+      "note": "amazon.nl — gescraped 29 May 2026 13:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -755,7 +755,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 29 May 2026 08:37 UTC",
+      "note": "amazon.com.be — gescraped 29 May 2026 13:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,7 +1210,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 29 May 2026 08:37 UTC",
+      "note": "amazon.de — gescraped 29 May 2026 13:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1421,23 +1421,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,26/eenheid)",
+          "n": "(USD 2,28/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "USD 9,68",
+          "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 17,45",
           "c": "Algemeen"
         },
         {
           "n": "1 aanbieding voorUSD 20,94",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "9 aanbiedingen vanUSD 12,75",
           "c": "Algemeen"
         },
         {
@@ -1457,23 +1453,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "PAEDIPROTECT Zonneroller SPF 50+ 50 ml, koraalvriendelijke zonnecrème voor baby'",
+          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 116,40/l)",
+          "n": "8 aanbiedingen vanUSD 12,75",
           "c": "Algemeen"
         },
         {
-          "n": "NIVEA SUN Bescherming & verzorging zonnelotion SPF 50+, watervaste zonwering met",
+          "n": "Tea tree olie | Essentiële tea tree olie - aromatherapie skin care lichaam koudg",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 10,77",
+          "n": "1 aanbieding voorUSD 9,85",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,95",
+          "n": "BYROKKO Shine Brown bruiningsversneller zonnecrème (210 ml), effectief in solari",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 22,06",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 7,78",
           "c": "Algemeen"
         },
         {
@@ -1481,7 +1485,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,32",
+          "n": "3 aanbiedingen vanUSD 12,40",
           "c": "Algemeen"
         },
         {
@@ -1505,11 +1509,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 90x200 - 100x200 cm",
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,19",
+          "n": "1 aanbieding voorUSD 13,96",
           "c": "Algemeen"
         },
         {
@@ -1517,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 9,24",
+          "n": "5 aanbiedingen vanUSD 9,06",
           "c": "Algemeen"
         },
         {
@@ -1537,19 +1541,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "DREO Nomad One, stille torenventilator, 20 dB, 10 m reikwijdte, 4 snelheden, 4 m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 104,74",
-          "c": "Algemeen"
-        },
-        {
           "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
           "c": "Algemeen"
         },
         {
           "n": "USD 7,81",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DREO Nomad One, stille torenventilator, 20 dB, 10 m reikwijdte, 4 snelheden, 4 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 104,74",
           "c": "Algemeen"
         },
         {
@@ -1561,27 +1565,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
-          "n": "36 aanbiedingen vanUSD 10,65",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Suright Lichtsnoer op zonne-energie, 8 m, 30 leds, lichtketting op zonne-energie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 10,93",
-          "c": "Algemeen"
-        },
-        {
           "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
           "c": "Algemeen"
         },
         {
           "n": "2 aanbiedingen vanUSD 23,26",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "c": "Algemeen"
+        },
+        {
+          "n": "35 aanbiedingen vanUSD 10,65",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Suright Lichtsnoer op zonne-energie, 8 m, 30 leds, lichtketting op zonne-energie",
           "c": "Algemeen"
         }
       ]
