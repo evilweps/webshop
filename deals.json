@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T12:01:07.446921+00:00",
-  "updated_fmt": "30 May 2026 om 12:01",
+  "updated": "2026-05-30T17:56:10.763965+00:00",
+  "updated_fmt": "30 May 2026 om 17:56",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 May 2026 12:01 UTC",
+      "note": "bol.com — gescraped 30 May 2026 17:56 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 May 2026 12:01 UTC",
+      "note": "amazon.nl — gescraped 30 May 2026 17:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -731,10 +731,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Algemeen"
-        },
-        {
           "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
           "c": "Algemeen"
         },
@@ -775,84 +771,88 @@
           "c": "Algemeen"
         },
         {
-          "n": "La Roche-Posay Anthelios UVMune 400 Invisible Fluid LSF 50+ für empfindliche Hau",
-          "c": "Beauty"
+          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
+          "c": "Elektronica"
         },
         {
-          "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
-          "c": "Beauty"
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "Dr.Althea 345 Relief Cream | Moisturizer voor kalmerend herstel en puistjes verz",
-          "c": "Beauty"
+          "n": "TOCOL voor iPhone 17 Pro Max Case Compatibel met MagSafe, Volledige Camerabesche",
+          "c": "Elektronica"
         },
         {
-          "n": "USB Oplaadkabel 5V Ooplader compatibel met Philips QP2724, QP2720, QP2734, QP282",
-          "c": "Beauty"
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
+          "c": "Elektronica"
         },
         {
-          "n": "La Roche Posay Cicaplast Baume B5 Reparator Apaisant Foundation – met een aangen",
-          "c": "Beauty"
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
         },
         {
-          "n": "Catwalk by Tigi Curls Rock Amplifier crème voor krullend haar voor mooiere krull",
-          "c": "Beauty"
+          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "c": "Elektronica"
         },
         {
-          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
-          "c": "Beauty"
+          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
+          "c": "Elektronica"
         },
         {
-          "n": "Marcel's Green Soap - Handzeep Navulling Sinaasappel & Jasmijn - Refill - Navulv",
-          "c": "Beauty"
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
         },
         {
-          "n": "e.l.f. Camo Liquid Bronzer & Contour, hoog gepigmenteerde, natuurlijke glowy fin",
-          "c": "Beauty"
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
         },
         {
-          "n": "CeraVe Vochtinbrengende Lotion, 473 ml",
-          "c": "Beauty"
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "c": "Elektronica"
         },
         {
-          "n": "medicube Zalm DNA PDRN roze collageen gelmasker | 's nachts gezichtsmasker voor ",
-          "c": "Beauty"
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
         },
         {
-          "n": "La Roche-Posay Cicaplast Baume B5+ Hautbarriere-reparierender und beruhigender B",
-          "c": "Beauty"
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "NIVEA SUN Protect & Dry Touch Vernevelende Zonnebrand Spray - SPF50 - Zonnespray",
-          "c": "Beauty"
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "c": "Elektronica"
         },
         {
-          "n": "La Roche-Posay La Roche Posay Effaclar Zuiverende Gel 400 ml",
-          "c": "Beauty"
+          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
+          "c": "Elektronica"
         },
         {
-          "n": "Mixa Urea Cica Repair+ Huidvernieuwende crème met ureum en niacinamide, voor dro",
-          "c": "Beauty"
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "c": "Elektronica"
         },
         {
-          "n": "Cyperus Rotundus Olie voor ontharing, 2 verpakkingen 100% pure natuurlijke licha",
-          "c": "Beauty"
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro 6,3-Inch, Anti-Gluren Gehard ",
+          "c": "Elektronica"
         },
         {
-          "n": "Olaplex No.7 Bonding Oil, 30 ml",
-          "c": "Beauty"
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "c": "Elektronica"
         },
         {
-          "n": "Dove Men+Care Advanced Clean Comfort Anti-Transpirant Deodorant Spray, tot 72 uu",
-          "c": "Beauty"
+          "n": "TP-Link 5-poorts Desktop Gigabit Switch, 5 10/100 / 1000M RJ45-poorten, metalen ",
+          "c": "Elektronica"
         },
         {
-          "n": "Anua PDRN Collagen Glow Facial Serum Spray, hydraterende gezichtsmist, hyaluronz",
-          "c": "Beauty"
+          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
+          "c": "Elektronica"
         },
         {
-          "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
-          "c": "Beauty"
+          "n": "RISEOFLE 180cm Telefoonstatief & Selfiestick, Draagbaar All-in-One Uitschuifbaar",
+          "c": "Elektronica"
+        },
+        {
+          "n": "acer SD Kaartlezer, dubbele USB 3.0 USB C Connector Card Reader, Aluminium OTG-A",
+          "c": "Elektronica"
         }
       ]
     },
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 May 2026 12:01 UTC",
+      "note": "amazon.com.be — gescraped 30 May 2026 17:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1110,124 +1110,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
-          "c": "Beauty"
+          "n": "ALPIDEX T-shirts voor heren, 5 stuks, zwart, effen, ronde hals, maat S, M, L, XL",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Skechers Uno - Golden Air BasketsFemme",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Levi's Original Housemark T-shirt met korte mouwen voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
         },
         {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
-          "c": "Beauty"
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "c": "Algemeen"
         },
         {
           "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "Corine de Farme - Sensitive beschermende melk SPF50+ - Zeer hoge UVA & UVB-besch",
-          "c": "Beauty"
-        },
-        {
-          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
-          "c": "Beauty"
+          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
+          "c": "Algemeen"
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "Corine de Farme - Intensief bruinings melkvet - Bronzing Olie - Intensieve bruin",
-          "c": "Beauty"
+          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
+          "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
-          "c": "Beauty"
+          "n": "Intex - Elektrische luchtpomp, 230 V",
+          "c": "Algemeen"
         },
         {
-          "n": "Beauty of Joseon Relief Sun Rice + Probiotica SPF50+",
-          "c": "Beauty"
+          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
+          "c": "Algemeen"
         },
         {
-          "n": "Bionoble Organic Castor Oil 50ml - 100% Puur, Natuurlijk en Koudgeperst - Wimper",
-          "c": "Beauty"
+          "n": "Adrenalyn XL Multiset FIFA Wereldkampioenschap 2026",
+          "c": "Algemeen"
         },
         {
-          "n": "Mixa Niacinamide Bright vochtinbrengende crème voor alle doeleinden geschikt voo",
-          "c": "Beauty"
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
+          "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
-          "c": "Beauty"
+          "n": "BALIGO Koeltas voor lunch, 9 l, geïsoleerde lunchbox, koeltas voor lunch, kantoo",
+          "c": "Algemeen"
         },
         {
-          "n": "ETIAXIL anti-transpiratiemiddel, behandeling voor zweet, oksels, gevoelige huid,",
-          "c": "Beauty"
+          "n": "Xiaomi Smart Band 10 zwart - activiteitenarmband",
+          "c": "Algemeen"
         },
         {
-          "n": "L'Oréal Paris Infaillible 3-Second Setting Mist 150 ml",
-          "c": "Beauty"
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade Intimate, intiem scheren, trimmen en scheren met extra huidbesc",
-          "c": "Beauty"
+          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
+          "c": "Algemeen"
         },
         {
-          "n": "GRIFEMA Spuitfles 300 ml - ultradunne continue nevel, 360° sproeikop, ergonomisc",
-          "c": "Beauty"
+          "n": "Amazon Basics oscillerende zuilventilator 71 cm met 60 graden hoek voor slaapkam",
+          "c": "Algemeen"
         },
         {
-          "n": "CeraVe - Schuimende Reinigingsgel - 473 ml",
-          "c": "Beauty"
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
         },
         {
-          "n": "Corine de Farme - After Sun Repair Balsem - Hydraterende, voedende crème - Clean",
-          "c": "Beauty"
+          "n": "BRITA Waterfilter Cartridge MAXTRA PRO Pure Performance (All-In-1), 6 stuks",
+          "c": "Algemeen"
         },
         {
-          "n": "CeraVe Bodylotion met pompdispenser, voor droge tot zeer droge huid, hyaluroncrè",
-          "c": "Beauty"
+          "n": "WaterWipes Original plasticvrije babydoekjes, 540 stuks Hardheid (9 pakken) 99,9",
+          "c": "Algemeen"
         },
         {
-          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
-          "c": "Beauty"
+          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
+          "c": "Algemeen"
         },
         {
-          "n": "La Roche-Posay Kalmerende Cicaplast B5 balsem",
-          "c": "Beauty"
+          "n": "Philips Avent Borstkompressen SCF254/61 voor dag en nacht, wegwerpbaar, 60 stuks",
+          "c": "Algemeen"
         },
         {
-          "n": "Gillette Venus Comfortglide Breeze Navulmesjes X10, voor dames, 3 geïntegreerde ",
-          "c": "Beauty"
+          "n": "Naïf Minerale zonnestick - voor baby's en kinderen - SPF 50 - microplasticvrije ",
+          "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Lash Sensational Sky High Mascara, zwart voor extreem lange ",
-          "c": "Beauty"
+          "n": "RAVIAN Autostoelspiegel voor baby's met kristalhelder zicht, onbreekbaar, verste",
+          "c": "Algemeen"
         },
         {
-          "n": "Mixa Huidvernieuwende crème voor droge en gebarsten huid, hydraterende verzorgin",
-          "c": "Beauty"
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Elektronica"
         },
         {
-          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
-          "c": "Beauty"
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "c": "Elektronica"
         },
         {
-          "n": "BaByliss Turbo Smooth 2200 D572DE haardroger, zwart/zilver",
-          "c": "Beauty"
+          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
+          "c": "Elektronica"
         },
         {
-          "n": "Philips OneBlade 360 Autentisk Face & Body Electric Beard Trimmer, Shaver and Bo",
-          "c": "Beauty"
+          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "Kanzy Jojoba-olie, koudgeperst, voor gezicht, lichaam, haar, nagels en huid, 100",
-          "c": "Beauty"
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
+          "c": "Elektronica"
         },
         {
-          "n": "Remington Keratin Protect Hair Straightener, stijltang, geavanceerde keramische ",
-          "c": "Beauty"
+          "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk 256 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 150 MB/s, klasse 10",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 6,3 inch, gehard glasfoli",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JISULIFE Draagbare mini-handventilator, 3-in-1, oplaadbaar, ventilator op batter",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1238,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 May 2026 12:01 UTC",
+      "note": "amazon.de — gescraped 30 May 2026 17:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 13,98",
+          "n": "7 aanbiedingen vanUSD 12,48",
           "c": "Algemeen"
         },
         {
