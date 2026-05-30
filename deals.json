@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T00:01:27.462553+00:00",
-  "updated_fmt": "30 May 2026 om 00:01",
+  "updated": "2026-05-30T07:35:15.105659+00:00",
+  "updated_fmt": "30 May 2026 om 07:35",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 May 2026 00:01 UTC",
+      "note": "bol.com — gescraped 30 May 2026 07:35 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 May 2026 00:01 UTC",
+      "note": "amazon.nl — gescraped 30 May 2026 07:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -755,7 +755,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 May 2026 00:01 UTC",
+      "note": "amazon.com.be — gescraped 30 May 2026 07:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,7 +1130,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 May 2026 00:01 UTC",
+      "note": "amazon.de — gescraped 30 May 2026 07:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1309,7 +1309,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,57/eenheid)",
+          "n": "(USD 3,58/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1317,7 +1317,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,51",
+          "n": "USD 17,54",
           "c": "Algemeen"
         },
         {
@@ -1325,7 +1325,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 30,26",
+          "n": "2 aanbiedingen vanUSD 36,09",
           "c": "Algemeen"
         },
         {
@@ -1333,7 +1333,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,53",
+          "n": "USD 16,56",
           "c": "Algemeen"
         },
         {
@@ -1341,7 +1341,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,28/eenheid)",
+          "n": "(USD 2,29/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1349,19 +1349,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 17,45",
+          "n": "2 aanbiedingen vanUSD 17,48",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,94",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 13,27",
+          "n": "1 aanbieding voorUSD 20,98",
           "c": "Algemeen"
         },
         {
@@ -1369,7 +1361,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.058,48/l)",
+          "n": "(USD 1.060,48/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 13,29",
           "c": "Algemeen"
         },
         {
@@ -1377,7 +1377,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 12,75",
+          "n": "8 aanbiedingen vanUSD 12,77",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,92/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1385,19 +1393,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 9,85",
+          "n": "1 aanbieding voorUSD 9,87",
           "c": "Algemeen"
         },
         {
-          "n": "BYROKKO Shine Brown bruiningsversneller zonnecrème (210 ml), effectief in solari",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 22,06",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,94",
+          "n": "USD 4,89",
           "c": "Algemeen"
         },
         {
@@ -1405,7 +1405,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 19,19",
+          "n": "2 aanbiedingen vanUSD 19,23",
           "c": "Algemeen"
         },
         {
@@ -1413,11 +1413,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 13,96",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 11,63",
+          "n": "6 aanbiedingen vanUSD 13,98",
           "c": "Algemeen"
         },
         {
@@ -1425,7 +1421,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,40",
+          "n": "3 aanbiedingen vanUSD 8,42",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 11,65",
           "c": "Algemeen"
         },
         {
@@ -1433,7 +1433,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,96",
+          "n": "1 aanbieding voorUSD 13,98",
           "c": "Algemeen"
         },
         {
@@ -1441,7 +1441,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,24",
+          "n": "5 aanbiedingen vanUSD 9,26",
           "c": "Algemeen"
         },
         {
@@ -1449,7 +1449,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,10",
+          "n": "5 aanbiedingen vanUSD 9,12",
           "c": "Algemeen"
         },
         {
@@ -1457,7 +1457,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,12",
+          "n": "USD 39,19",
           "c": "Algemeen"
         },
         {
@@ -1465,7 +1465,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 7,81",
+          "n": "USD 7,82",
           "c": "Algemeen"
         },
         {
@@ -1473,7 +1473,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 104,74",
+          "n": "1 aanbieding voorUSD 104,94",
           "c": "Algemeen"
         },
         {
@@ -1481,7 +1481,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 39,56",
+          "n": "2 aanbiedingen vanUSD 39,64",
           "c": "Algemeen"
         },
         {
@@ -1489,7 +1489,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 23,26",
+          "n": "2 aanbiedingen vanUSD 23,30",
           "c": "Algemeen"
         },
         {
@@ -1497,7 +1497,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "36 aanbiedingen vanUSD 10,65",
+          "n": "36 aanbiedingen vanUSD 10,67",
           "c": "Algemeen"
         },
         {
