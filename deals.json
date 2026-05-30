@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T07:35:15.105659+00:00",
-  "updated_fmt": "30 May 2026 om 07:35",
+  "updated": "2026-05-30T12:01:07.446921+00:00",
+  "updated_fmt": "30 May 2026 om 12:01",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 May 2026 07:35 UTC",
+      "note": "bol.com — gescraped 30 May 2026 12:01 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 May 2026 07:35 UTC",
+      "note": "amazon.nl — gescraped 30 May 2026 12:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -655,96 +655,204 @@
       ],
       "bestsellers": [
         {
+          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIVEA SUN Protect & Hydrate Zonnebrand Spray - SPF 50 - Zonnespray - Beschermt e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Maxtra Pro All-in-1 Waterfilterpatroon 6 stuks (halfjaarvoorraad) - vervan",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
+          "c": "Algemeen"
+        },
+        {
           "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Boeken"
-        },
-        {
-          "n": "Moonwalk: Michael Jackson’s Only Official Autobiography - Perfect for fans of th",
-          "c": "Boeken"
-        },
-        {
-          "n": "Controle Over Je Gedachten: Praktische Strategieën om Negatieve Patronen te Door",
-          "c": "Boeken"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Boeken"
-        },
-        {
-          "n": "Gezinsmomenten: 150 leuke activiteiten, spelletjes en uitdagingen voor kinderen ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
-          "c": "Boeken"
-        },
-        {
-          "n": "The Hobbit Graphic Novel: Revised and Expanded",
-          "c": "Boeken"
+          "c": "Algemeen"
         },
         {
           "n": "The Deal: Now an Original Series on Amazon Prime: 1",
-          "c": "Boeken"
+          "c": "Algemeen"
         },
         {
-          "n": "Why Does Everybody Hate Me?: Living and Loving with Rejection Sensitivity Dyspho",
-          "c": "Boeken"
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
         },
         {
-          "n": "Omdat je een geweldige jongen bent: Een bijzonder kinderboek over moed, innerlij",
-          "c": "Boeken"
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
+          "c": "Algemeen"
         },
         {
-          "n": "Temperówka plastikowa podwójna Donau",
-          "c": "Boeken"
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
+          "c": "Algemeen"
         },
         {
-          "n": "Fever Dream: DISCOVER THE BRAND NEW SMALL TOWN ROMANCE SERIES FROM THE NO.1 SUND",
-          "c": "Boeken"
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "c": "Algemeen"
         },
         {
-          "n": "Cozy Europe: Cute Coloring Book for Adults and Teens with Charming Characters an",
-          "c": "Boeken"
+          "n": "Creatine monohydraat poeder 1 kg / 1000 g - Ultra zuiver creatine monohydraat me",
+          "c": "Algemeen"
         },
         {
-          "n": "Leren Tekenen 101 Schattigste Dingen: Stap voor Stap Tekenen voor Kinderen",
-          "c": "Boeken"
+          "n": "MARVIS® Whitening Mint 85 ml I Tandpasta vor een wittere glimlach I langdurige f",
+          "c": "Algemeen"
         },
         {
-          "n": "Voetbal Kleurboek - Beste Voetbalclubs: Kleur de Wapenschilden van Topclubs – Pe",
-          "c": "Boeken"
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
         },
         {
-          "n": "Meditations: Marcus Aurelius",
-          "c": "Boeken"
+          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
+          "c": "Algemeen"
         },
         {
-          "n": "De Vergeten Kruidenapotheek: 250 Krachtige kruidenremedies die je zó kunt maken",
-          "c": "Boeken"
+          "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
+          "c": "Algemeen"
         },
         {
-          "n": "Do Your Thing: Lessons from Banking’s Biggest Digital Transformation",
-          "c": "Boeken"
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
+          "c": "Algemeen"
         },
         {
-          "n": "De Zen-aap en de Lotusbloem: 52 verhalen die je leven zullen veranderen",
-          "c": "Boeken"
+          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "c": "Algemeen"
         },
         {
-          "n": "Coloriages mystères Disney - Grands classiques Tome 13: Colorie les chiffres et ",
-          "c": "Boeken"
+          "n": "La Roche-Posay Anthelios UVMune 400 Invisible Fluid LSF 50+ für empfindliche Hau",
+          "c": "Beauty"
         },
         {
-          "n": "Witch Hat Atelier: Grimoire Edition 1",
-          "c": "Boeken"
+          "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
+          "c": "Beauty"
         },
         {
-          "n": "Atomic Habits - Tiny Challenges, Remarkable Results",
-          "c": "Boeken"
+          "n": "Dr.Althea 345 Relief Cream | Moisturizer voor kalmerend herstel en puistjes verz",
+          "c": "Beauty"
         },
         {
-          "n": "Coloriages mystères Disney - Très grands classiques: Colorie les chiffres et déc",
-          "c": "Boeken"
+          "n": "USB Oplaadkabel 5V Ooplader compatibel met Philips QP2724, QP2720, QP2734, QP282",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche Posay Cicaplast Baume B5 Reparator Apaisant Foundation – met een aangen",
+          "c": "Beauty"
+        },
+        {
+          "n": "Catwalk by Tigi Curls Rock Amplifier crème voor krullend haar voor mooiere krull",
+          "c": "Beauty"
+        },
+        {
+          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
+          "c": "Beauty"
+        },
+        {
+          "n": "Marcel's Green Soap - Handzeep Navulling Sinaasappel & Jasmijn - Refill - Navulv",
+          "c": "Beauty"
+        },
+        {
+          "n": "e.l.f. Camo Liquid Bronzer & Contour, hoog gepigmenteerde, natuurlijke glowy fin",
+          "c": "Beauty"
+        },
+        {
+          "n": "CeraVe Vochtinbrengende Lotion, 473 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "medicube Zalm DNA PDRN roze collageen gelmasker | 's nachts gezichtsmasker voor ",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche-Posay Cicaplast Baume B5+ Hautbarriere-reparierender und beruhigender B",
+          "c": "Beauty"
+        },
+        {
+          "n": "NIVEA SUN Protect & Dry Touch Vernevelende Zonnebrand Spray - SPF50 - Zonnespray",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche-Posay La Roche Posay Effaclar Zuiverende Gel 400 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Mixa Urea Cica Repair+ Huidvernieuwende crème met ureum en niacinamide, voor dro",
+          "c": "Beauty"
+        },
+        {
+          "n": "Cyperus Rotundus Olie voor ontharing, 2 verpakkingen 100% pure natuurlijke licha",
+          "c": "Beauty"
+        },
+        {
+          "n": "Olaplex No.7 Bonding Oil, 30 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Dove Men+Care Advanced Clean Comfort Anti-Transpirant Deodorant Spray, tot 72 uu",
+          "c": "Beauty"
+        },
+        {
+          "n": "Anua PDRN Collagen Glow Facial Serum Spray, hydraterende gezichtsmist, hyaluronz",
+          "c": "Beauty"
+        },
+        {
+          "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
+          "c": "Beauty"
         }
       ]
     },
@@ -755,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 May 2026 07:35 UTC",
+      "note": "amazon.com.be — gescraped 30 May 2026 12:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,7 +1238,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 May 2026 07:35 UTC",
+      "note": "amazon.de — gescraped 30 May 2026 12:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1321,6 +1429,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,48",
+          "c": "Algemeen"
+        },
+        {
           "n": "Calvin Klein Set van 3 boxershorts voor heren, ondergoed",
           "c": "Algemeen"
         },
@@ -1345,11 +1461,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 17,48",
+          "n": "1 aanbieding voorUSD 13,29",
           "c": "Algemeen"
         },
         {
@@ -1365,27 +1481,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 13,29",
-          "c": "Algemeen"
-        },
-        {
           "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
           "c": "Algemeen"
         },
         {
           "n": "8 aanbiedingen vanUSD 12,77",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,92/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1397,15 +1497,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,92/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "USD 4,89",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 19,23",
           "c": "Algemeen"
         },
         {
@@ -1414,6 +1514,14 @@
         },
         {
           "n": "6 aanbiedingen vanUSD 13,98",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,23",
           "c": "Algemeen"
         },
         {
@@ -1449,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,12",
+          "n": "4 aanbiedingen vanUSD 9,12",
           "c": "Algemeen"
         },
         {
@@ -1469,11 +1577,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "DREO Nomad One, stille torenventilator, 20 dB, 10 m reikwijdte, 4 snelheden, 4 m",
+          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 104,94",
+          "n": "(USD 0,55/eenheid)",
           "c": "Algemeen"
         },
         {
