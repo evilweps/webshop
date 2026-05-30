@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T17:56:10.763965+00:00",
-  "updated_fmt": "30 May 2026 om 17:56",
+  "updated": "2026-05-30T23:50:59.501300+00:00",
+  "updated_fmt": "30 May 2026 om 23:50",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 May 2026 17:56 UTC",
+      "note": "bol.com — gescraped 30 May 2026 23:50 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 May 2026 17:56 UTC",
+      "note": "amazon.nl — gescraped 30 May 2026 23:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 May 2026 17:56 UTC",
+      "note": "amazon.com.be — gescraped 30 May 2026 23:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1182,6 +1182,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics oscillerende zuilventilator 71 cm met 60 graden hoek voor slaapkam",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfilter Cartridge MAXTRA PRO Pure Performance (All-In-1), 6 stuks",
+          "c": "Algemeen"
+        },
+        {
           "n": "Intex - Elektrische luchtpomp, 230 V",
           "c": "Algemeen"
         },
@@ -1206,68 +1226,28 @@
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics oscillerende zuilventilator 71 cm met 60 graden hoek voor slaapkam",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfilter Cartridge MAXTRA PRO Pure Performance (All-In-1), 6 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WaterWipes Original plasticvrije babydoekjes, 540 stuks Hardheid (9 pakken) 99,9",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Borstkompressen SCF254/61 voor dag en nacht, wegwerpbaar, 60 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Naïf Minerale zonnestick - voor baby's en kinderen - SPF 50 - microplasticvrije ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "RAVIAN Autostoelspiegel voor baby's met kristalhelder zicht, onbreekbaar, verste",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "SanDisk 256 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 150 MB/s, klasse 10",
@@ -1308,6 +1288,26 @@
         {
           "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
           "c": "Elektronica"
+        },
+        {
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, originele Samsung TV Remote ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Soundcore Anker P20i Draadloze Bluetooth-hoofdtelefoon, True Wireless Bluetooth ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Gehard glas voor iPhone 17 Pro, automatische stofverwijdering, zonder luch",
+          "c": "Elektronica"
+        },
+        {
+          "n": "HP 305-3YM61AE/3YM60AE Multipack originele inktcartridgeset, zwart en drie kleur",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Azororo Beschermhoes voor Samsung Galaxy A55 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 May 2026 17:56 UTC",
+      "note": "amazon.de — gescraped 30 May 2026 23:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
