@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T17:53:23.902070+00:00",
-  "updated_fmt": "31 May 2026 om 17:53",
+  "updated": "2026-05-31T23:55:07.028658+00:00",
+  "updated_fmt": "31 May 2026 om 23:55",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 31 May 2026 17:53 UTC",
+      "note": "bol.com — gescraped 31 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 31 May 2026 17:53 UTC",
+      "note": "amazon.nl — gescraped 31 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -727,7 +727,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Moonwalk: Michael Jackson’s Only Official Autobiography - Perfect for fans of th",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 31 May 2026 17:53 UTC",
+      "note": "amazon.com.be — gescraped 31 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 31 May 2026 17:53 UTC",
+      "note": "amazon.de — gescraped 31 May 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 17,48",
+          "n": "2 aanbiedingen vanUSD 14,86",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 9,12",
+          "n": "3 aanbiedingen vanUSD 18,78",
           "c": "Algemeen"
         },
         {
@@ -1630,6 +1630,10 @@
         },
         {
           "n": "USD 4,89",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,83",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 39,64",
+          "n": "2 aanbiedingen vanUSD 31,46",
           "c": "Algemeen"
         },
         {
@@ -1686,10 +1690,6 @@
         },
         {
           "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 23,30",
           "c": "Algemeen"
         }
       ]
