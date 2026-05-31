@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T23:50:59.501300+00:00",
-  "updated_fmt": "30 May 2026 om 23:50",
+  "updated": "2026-05-31T08:08:50.642934+00:00",
+  "updated_fmt": "31 May 2026 om 08:08",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 May 2026 23:50 UTC",
+      "note": "bol.com — gescraped 31 May 2026 08:08 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 May 2026 23:50 UTC",
+      "note": "amazon.nl — gescraped 31 May 2026 08:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -675,7 +675,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
+          "n": "La Roche-Posay Anthelios UVMune 400 Invisible Fluid LSF 50+ für empfindliche Hau",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Maxtra Pro All-in-1 Waterfilterpatroon 6 stuks (halfjaarvoorraad) - vervan",
           "c": "Algemeen"
         },
         {
@@ -703,23 +723,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
+          "n": "Thriller",
           "c": "Algemeen"
         },
         {
-          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "n": "Currents",
           "c": "Algemeen"
         },
         {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "n": "Michael Jackson - Bad",
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Maxtra Pro All-in-1 Waterfilterpatroon 6 stuks (halfjaarvoorraad) - vervan",
+          "n": "Buena Vista Social Club",
           "c": "Algemeen"
         },
         {
-          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
+          "n": "Off the Wall",
           "c": "Algemeen"
         },
         {
@@ -727,27 +747,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Creatine monohydraat poeder 1 kg / 1000 g - Ultra zuiver creatine monohydraat me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "MARVIS® Whitening Mint 85 ml I Tandpasta vor een wittere glimlach I langdurige f",
+          "n": "Moonwalk: Michael Jackson’s Only Official Autobiography - Perfect for fans of th",
           "c": "Algemeen"
         },
         {
@@ -767,7 +767,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
@@ -791,11 +791,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
+          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
           "c": "Elektronica"
         },
         {
@@ -823,11 +823,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
           "c": "Elektronica"
         },
         {
@@ -851,7 +851,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "acer SD Kaartlezer, dubbele USB 3.0 USB C Connector Card Reader, Aluminium OTG-A",
+          "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
         }
       ]
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 May 2026 23:50 UTC",
+      "note": "amazon.com.be — gescraped 31 May 2026 08:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1154,7 +1154,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
           "c": "Algemeen"
         },
         {
@@ -1170,11 +1170,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
           "c": "Algemeen"
         },
         {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
           "c": "Algemeen"
         },
         {
@@ -1230,11 +1230,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
           "c": "Algemeen"
         },
         {
-          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
           "c": "Algemeen"
         },
         {
@@ -1242,15 +1242,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
-          "c": "Algemeen"
-        },
-        {
           "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
           "c": "Algemeen"
         },
         {
-          "n": "SanDisk 256 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 150 MB/s, klasse 10",
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
@@ -1290,6 +1290,14 @@
           "c": "Elektronica"
         },
         {
+          "n": "Azororo Beschermhoes voor Samsung Galaxy A55 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Gehard glas voor iPhone 17 Pro, automatische stofverwijdering, zonder luch",
+          "c": "Elektronica"
+        },
+        {
           "n": "Universele afstandsbediening voor Samsung-Smart TV, originele Samsung TV Remote ",
           "c": "Elektronica"
         },
@@ -1298,15 +1306,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Gehard glas voor iPhone 17 Pro, automatische stofverwijdering, zonder luch",
-          "c": "Elektronica"
-        },
-        {
           "n": "HP 305-3YM61AE/3YM60AE Multipack originele inktcartridgeset, zwart en drie kleur",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy A55 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
         }
       ]
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 May 2026 23:50 UTC",
+      "note": "amazon.de — gescraped 31 May 2026 08:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1541,6 +1541,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 1.060,48/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
           "c": "Algemeen"
         },
@@ -1550,14 +1558,6 @@
         },
         {
           "n": "1 aanbieding voorUSD 20,98",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 1.060,48/l)",
           "c": "Algemeen"
         },
         {
@@ -1582,38 +1582,6 @@
         },
         {
           "n": "(USD 3,92/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 4,89",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "7 aanbiedingen vanUSD 12,48",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 19,23",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,42",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 11,65",
           "c": "Algemeen"
         },
         {
@@ -1665,31 +1633,63 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "n": "USD 4,89",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 39,64",
+          "n": "EasyMaxx Magic Click muggennet",
           "c": "Algemeen"
         },
         {
-          "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
+          "n": "7 aanbiedingen vanUSD 12,48",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 23,30",
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "n": "2 aanbiedingen vanUSD 19,23",
           "c": "Algemeen"
         },
         {
-          "n": "36 aanbiedingen vanUSD 10,67",
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
           "c": "Algemeen"
         },
         {
-          "n": "Suright Lichtsnoer op zonne-energie, 8 m, 30 leds, lichtketting op zonne-energie",
+          "n": "3 aanbiedingen vanUSD 8,42",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 11,65",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 50,13",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bestway Kinderbadje Deep Dive Ø 152 x 30 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "7 aanbiedingen vanUSD 13,98",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 90,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PUSTEFIX Navulling met bellenblaasvloeistof | Jerrycan van 2,5 liter | Leuke bel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,92/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,57",
           "c": "Algemeen"
         }
       ]
