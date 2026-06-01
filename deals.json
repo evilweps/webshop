@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T16:31:40.900510+00:00",
-  "updated_fmt": "1 June 2026 om 16:31",
+  "updated": "2026-06-01T20:50:07.287286+00:00",
+  "updated_fmt": "1 June 2026 om 20:50",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Jun 2026 16:31 UTC",
+      "note": "bol.com — gescraped 1 Jun 2026 20:50 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -36,52 +36,12 @@
           "u": "https://www.bol.com/nl/nl/p/siltcon-powerbank-30000-mah-powerbanks-22-5w-snellader-usb-a-usb-c-led-indicatie-powerbank-iphone-geschikt-noodpakket-universeel-geschikt-o-a-ios-android-incl-22-5w-usb-c-snellaadkabel/9300000232318310/?promo=promotionpage_100_product"
         },
         {
-          "n": "Samsung Galaxy A16 4G (LTE) - 128GB - Zwart",
+          "n": "CHiQ LF32FT - Smart TV 32 Inch - Full HD - Metalen Randloos - Google TV - Dolby ",
           "c": "Aanbieding",
           "p": "",
           "w": "",
           "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/samsung-galaxy-a16-4g-128gb-zwart/9300000191610730/?promo=promotionpage_100_product"
-        },
-        {
-          "n": "De kreeftenvrouwen",
-          "c": "Aanbieding",
-          "p": "",
-          "w": "",
-          "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/de-kreeftenvrouwen-ebook/9300000248968608/?promo=promotionpage_100_product"
-        },
-        {
-          "n": "Prisma woordenboek Nederlands",
-          "c": "Aanbieding",
-          "p": "",
-          "w": "",
-          "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/prisma-woordenboek-nederlands/9200000088082118/?promo=promotionpage_100_product"
-        },
-        {
-          "n": "Van Dale Pocketwoordenboek Nederlands",
-          "c": "Aanbieding",
-          "p": "",
-          "w": "",
-          "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/van-dale-pocketwoordenboek-nederlands/9300000065119381/?promo=promotionpage_100_product"
-        },
-        {
-          "n": "Asmodee Quickstop - Nederlandstalig kaartspel - Party- en familiespel - 8+ jaar",
-          "c": "Aanbieding",
-          "p": "",
-          "w": "",
-          "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/quickstop-nederlandstalig-kaartspel-party-en-familiespel-snel-en-hilarisch-2-tot-7-spelers/9300000231117520/?promo=promotionpage_100_product"
-        },
-        {
-          "n": "LEGO Minifiguren - Serie 29 Verrassingsdoosje met Speelgoed Figuur voor Kinderen",
-          "c": "Aanbieding",
-          "p": "",
-          "w": "",
-          "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/lego-minifiguren-serie-29-verrassingsdoosje-met-speelgoed-figuur-voor-kinderen-71052/9300000257637895/?promo=promotionpage_100_product"
+          "u": "https://www.bol.com/nl/nl/p/chiq-lf32ft-smart-tv-32-inch-fhd-metalen-randloos-google-tv-dolby-audio-hdmi-2025-nieuw/9300000238045547/?promo=promotionpage_100_product"
         },
         {
           "n": "LEGO City Avontuurlijke camper voertuigset - 60454",
@@ -100,20 +60,68 @@
           "u": "https://www.bol.com/nl/nl/p/beverbende-kaartspel/1004004006487381/?promo=promotionpage_100_product"
         },
         {
-          "n": "L'Oréal Paris Elseve Extraordinary Oil Haarolie - haarverzorging voor droog haar",
+          "n": "LEGO Minifiguren - Serie 29 Verrassingsdoosje met Speelgoed Figuur voor Kinderen",
           "c": "Aanbieding",
           "p": "",
           "w": "",
           "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/l-oreal-paris-elseve-extraordinary-oil-alle-haartypes-100-ml-haarolie/9200000114687954/?promo=promotionpage_100_product"
+          "u": "https://www.bol.com/nl/nl/p/lego-minifiguren-serie-29-verrassingsdoosje-met-speelgoed-figuur-voor-kinderen-71052/9300000257637895/?promo=promotionpage_100_product"
         },
         {
-          "n": "Garnier SkinActive - Micellair Reinigingswater voor de Gevoelige Huid - 3 x 400m",
+          "n": "Ultra Pro Toploader 3x4 Regular - Deck Protectors voor kaarten - 25 stuks",
           "c": "Aanbieding",
           "p": "",
           "w": "",
           "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/garnier-skinactive-micellair-reinigingswater-voor-de-gevoelige-huid-3-x-400ml/9300000239610326/?promo=promotionpage_100_product"
+          "u": "https://www.bol.com/nl/nl/p/ultra-pro-regular-toploader-3x4-76-2-x101-6mm-25-stuks/9200000040440434/?promo=promotionpage_100_product"
+        },
+        {
+          "n": "De kreeftenvrouwen",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/de-kreeftenvrouwen-ebook/9300000248968608/?promo=promotionpage_100_product"
+        },
+        {
+          "n": "Wat ik je niet heb verteld",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/wat-ik-je-niet-heb-verteld-ebook/9300000248577475/?promo=promotionpage_100_product"
+        },
+        {
+          "n": "Gebroken engelen",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/gebroken-engelen-ebook/9300000198946867/?promo=promotionpage_100_product"
+        },
+        {
+          "n": "Prisma woordenboek Nederlands",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/prisma-woordenboek-nederlands/9200000088082118/?promo=promotionpage_100_product"
+        },
+        {
+          "n": "Philips Lumea Prestige 9000 Series - IPL Ontharingsapparaat - 3 opzetstukken - B",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/philips-lumea-prestige-9000-series-bri955-00-ipl-ontharingsapparaat/9300000029458132/?promo=promotionpage_100_product"
+        },
+        {
+          "n": "Philips OneBlade 360 Blade - Vervangmesjes - Scheermesjes - 4 stuks - QP440/50",
+          "c": "Aanbieding",
+          "p": "",
+          "w": "",
+          "d": 0,
+          "u": "https://www.bol.com/nl/nl/p/philips-oneblade-360-blade-qp440-50-vervangmesjes-verpakking-van-4/9300000156838516/?promo=promotionpage_100_product"
         },
         {
           "n": "Philips OneBlade Pro 360 Face + Body - Zwart - Trimmer, scheerapparaat en styler",
@@ -124,12 +132,12 @@
           "u": "https://www.bol.com/nl/nl/p/philips-oneblade-pro-360-face-body-zwart-trimmer-scheerapparaat-en-styler-in-1-qp6542-15/9300000182633578/?promo=promotionpage_100_product"
         },
         {
-          "n": "Philips OneBlade 360 Blade - Vervangmesjes - Scheermesjes - 4 stuks - QP440/50",
+          "n": "NIVEA SUN Protect & Hydrate Zonnebrand Spray - SPF 50 - Zonnespray - Hydrateert ",
           "c": "Aanbieding",
           "p": "",
           "w": "",
           "d": 0,
-          "u": "https://www.bol.com/nl/nl/p/philips-oneblade-360-blade-qp440-50-vervangmesjes-verpakking-van-4/9300000156838516/?promo=promotionpage_100_product"
+          "u": "https://www.bol.com/nl/nl/p/nivea-sun-zonnebrand-spray-protect-hydrate-spf-50-200-ml/9200000075382264/?promo=promotionpage_100_product"
         }
       ],
       "trending": [
@@ -216,11 +224,11 @@
       ],
       "bestsellers": [
         {
-          "n": "De machtscode",
+          "n": "Wateratlas Nederland Noord",
           "c": "Bestsellers"
         },
         {
-          "n": "De familie aan de overkant",
+          "n": "Wateratlas Nederland Midden",
           "c": "Bestsellers"
         },
         {
@@ -236,15 +244,39 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Onderstroom",
+          "n": "Wat ik je niet heb verteld",
           "c": "Bestsellers"
         },
         {
-          "n": "E-book12,99",
+          "n": "Paperback18,99",
           "c": "Bestsellers"
         },
         {
-          "n": "De avonturen van Blake en Mortimer 1 - De avonturen van Blake en Mortimer integr",
+          "n": "Digitaal luisterboek18,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "De familie aan de overkant",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Paperback10,31",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Club Kokoro - Kokoro Spring",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "ANWB Wereldreisgids - Indonesië",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Spelen met Bladmuziek 1 - Noten leren lezen en spelen",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "ANWB Ontdek - Ontdek Noorwegen, fjorden",
           "c": "Bestsellers"
         },
         {
@@ -260,15 +292,15 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Rechercheur Maud O'Connor - Verkeerde afslag",
+          "n": "Onderstroom",
           "c": "Bestsellers"
         },
         {
-          "n": "Paperback24,99",
+          "n": "E-book12,99",
           "c": "Bestsellers"
         },
         {
-          "n": "Hardcover27,99",
+          "n": "Murdoku 2 - Murdoku - Terug in de tijd",
           "c": "Bestsellers"
         },
         {
@@ -281,6 +313,50 @@
         },
         {
           "n": "Digitaal luisterboek17,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Al het blauw van de hemel",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Digitaal luisterboek19,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Off-Campus - The Deal",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Rechercheur Maud O'Connor - Verkeerde afslag",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Paperback24,99",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Hardcover29,48",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het droompad",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Murdle - Bloedstollende moordmysteries voor pientere puzzelaars",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het Droompad",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "De Mergellandmoorden 1 - Terugkeer",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het cozy puzzelboek voor ontspannen zomerdagen",
           "c": "Bestsellers"
         },
         {
@@ -300,27 +376,7 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Murdle - Bloedstollende moordmysteries voor pientere puzzelaars",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Murdoku 2 - Murdoku - Terug in de tijd",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Het Grote Ontprikkelboek",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "E-book16,99",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Al het blauw van de hemel",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Digitaal luisterboek19,99",
+          "n": "Omdat ik je zie",
           "c": "Bestsellers"
         },
         {
@@ -328,75 +384,27 @@
           "c": "Bestsellers"
         },
         {
-          "n": "De Mergellandmoorden 1 - Terugkeer",
+          "n": "Het Grote Ontprikkelboek",
           "c": "Bestsellers"
         },
         {
-          "n": "E-book6,99",
+          "n": "E-book4,99",
           "c": "Bestsellers"
         },
         {
-          "n": "Voor altijd jong",
+          "n": "Suske en Wiske 384 - Het laatste lint",
           "c": "Bestsellers"
         },
         {
-          "n": "E-book13,99",
+          "n": "Stille geheimen",
           "c": "Bestsellers"
         },
         {
-          "n": "Het Droompad",
+          "n": "Hardcover27,99",
           "c": "Bestsellers"
         },
         {
-          "n": "Cozy & cute in de bakkerij",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Prisma woordenboek Nederlands",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Paperback11,99",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Het cozy puzzelboek voor ontspannen zomerdagen",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Nash 2 - De terugkeer",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Off-Campus - The Deal",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Van doel naar deal",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "E-book21,00",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Snel, simpel & puur",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Het droompad",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "KleurLab - Japanse Tuinen - Kleurboeken voor volwassenen - 48 kleurplaten op A4 ",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "De 100 mooiste campertrips van Nederland & België",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Ik zie, ik zie",
+          "n": "Nash - De terugkeer",
           "c": "Bestsellers"
         }
       ]
@@ -408,7 +416,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Jun 2026 16:31 UTC",
+      "note": "amazon.nl — gescraped 1 Jun 2026 20:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -699,14 +707,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Legend of Zelda Encyclopedia",
-          "c": "Algemeen"
-        },
-        {
           "n": "Grabie Acrylmarkers met Soft Brush Tip, 36 Stuks (72 Kleuren), Dual-Tip Verfpenn",
           "c": "Algemeen"
         },
@@ -716,6 +716,18 @@
         },
         {
           "n": "Vicloon Strass Stickers, 9 Vellen 940 Stuks zelfklevende Kristallen Stickers Fac",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Legend of Zelda Encyclopedia",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -849,10 +861,6 @@
         {
           "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
           "c": "Elektronica"
-        },
-        {
-          "n": "voor Samsung-Afstandsbediening-Smart-TV, Universele Afstandsbediening Compatibel",
-          "c": "Elektronica"
         }
       ]
     },
@@ -863,7 +871,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Jun 2026 16:31 UTC",
+      "note": "amazon.com.be — gescraped 1 Jun 2026 20:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1182,30 +1190,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
-          "c": "Algemeen"
-        },
-        {
-          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CeraVe - Hydraterende gezichtscrème SPF50 - Dagcrème met UVB + UVA-bescherming, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
-          "c": "Algemeen"
-        },
-        {
           "n": "Intex - Elektrische luchtpomp, 230 V",
           "c": "Algemeen"
         },
@@ -1251,6 +1235,30 @@
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
         {
@@ -1318,7 +1326,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Jun 2026 16:31 UTC",
+      "note": "amazon.de — gescraped 1 Jun 2026 20:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1641,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 12,46",
+          "n": "7 aanbiedingen vanUSD 12,46",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 19,20",
+          "n": "4 aanbiedingen vanUSD 12,57",
           "c": "Algemeen"
         },
         {
