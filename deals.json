@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T10:10:32.758412+00:00",
-  "updated_fmt": "1 June 2026 om 10:10",
+  "updated": "2026-06-01T16:31:40.900510+00:00",
+  "updated_fmt": "1 June 2026 om 16:31",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Jun 2026 10:10 UTC",
+      "note": "bol.com — gescraped 1 Jun 2026 16:31 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -408,7 +408,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Jun 2026 10:10 UTC",
+      "note": "amazon.nl — gescraped 1 Jun 2026 16:31 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -703,7 +703,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "The Legend of Zelda Encyclopedia",
           "c": "Algemeen"
         },
         {
@@ -863,7 +863,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Jun 2026 10:10 UTC",
+      "note": "amazon.com.be — gescraped 1 Jun 2026 16:31 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1318,7 +1318,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Jun 2026 10:10 UTC",
+      "note": "amazon.de — gescraped 1 Jun 2026 16:31 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1497,7 +1497,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 36,04",
+          "n": "2 aanbiedingen vanUSD 31,43",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 13,83",
+          "n": "2 aanbiedingen vanUSD 32,49",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 12,75",
+          "n": "8 aanbiedingen vanUSD 10,20",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,75",
+          "n": "3 aanbiedingen vanUSD 18,85",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,42",
+          "n": "1 aanbieding voorUSD 46,57",
           "c": "Algemeen"
         },
         {
@@ -1685,11 +1685,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,43",
+          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
           "c": "Algemeen"
         },
         {
-          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
+          "n": "26 aanbiedingen vanUSD 10,15",
           "c": "Algemeen"
         }
       ]
