@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T14:41:35.474119+00:00",
-  "updated_fmt": "2 June 2026 om 14:41",
+  "updated": "2026-06-02T19:59:58.998842+00:00",
+  "updated_fmt": "2 June 2026 om 19:59",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Jun 2026 14:41 UTC",
+      "note": "bol.com — gescraped 2 Jun 2026 19:59 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -416,7 +416,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Jun 2026 14:41 UTC",
+      "note": "amazon.nl — gescraped 2 Jun 2026 19:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -731,6 +731,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
+        },
+        {
           "n": "Grabie Acrylmarkers met Soft Brush Tip, 36 Stuks (72 Kleuren), Dual-Tip Verfpenn",
           "c": "Algemeen"
         },
@@ -857,10 +861,6 @@
         {
           "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
           "c": "Elektronica"
-        },
-        {
-          "n": "voor Samsung-Afstandsbediening-Smart-TV, Universele Afstandsbediening Compatibel",
-          "c": "Elektronica"
         }
       ]
     },
@@ -871,7 +871,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Jun 2026 14:41 UTC",
+      "note": "amazon.com.be — gescraped 2 Jun 2026 19:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1326,7 +1326,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Jun 2026 14:41 UTC",
+      "note": "amazon.de — gescraped 2 Jun 2026 19:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 29,09",
+          "n": "2 aanbiedingen vanUSD 36,01",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 14,82",
+          "n": "1 aanbieding voorUSD 14,82",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,15",
+          "n": "1 aanbieding voorUSD 18,50",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,39",
+          "n": "1 aanbieding voorUSD 46,53",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "36 aanbiedingen vanUSD 10,65",
+          "n": "37 aanbiedingen vanUSD 10,65",
           "c": "Algemeen"
         },
         {
