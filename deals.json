@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T00:04:50.148503+00:00",
-  "updated_fmt": "2 June 2026 om 00:04",
+  "updated": "2026-06-02T09:01:01.864092+00:00",
+  "updated_fmt": "2 June 2026 om 09:01",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Jun 2026 00:04 UTC",
+      "note": "bol.com — gescraped 2 Jun 2026 09:01 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -416,7 +416,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Jun 2026 00:04 UTC",
+      "note": "amazon.nl — gescraped 2 Jun 2026 09:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -687,10 +687,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -699,11 +695,39 @@
           "c": "Algemeen"
         },
         {
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Bedrade videodeurbel (Wired Video Doorbell) (nieuwste generatie) | Deurbelc",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DualSense Wireless Controller - Cosmic Red (PS5)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Wireless Controller Carbon Black",
+          "c": "Algemeen"
+        },
+        {
+          "n": "amFilm OneTouch Glass Screen Protector Ontworpen voor Nintendo Switch 2 Model 20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nintendo Switch 2, Mario Kart World",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Luna Premium",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nintendo Switch 2 Micro SD Kaart, Samsung",
           "c": "Algemeen"
         },
         {
@@ -747,26 +771,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Marcel's Green Soap - Allesreiniger Spray Lavendel & Rozemarijn - Microplastic-v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Creatine monohydraat poeder 1 kg / 1000 g - Ultra zuiver creatine monohydraat me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
           "c": "Elektronica"
         },
@@ -787,7 +791,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus C-batterijen (4 stuks) - 1,5V-alkaline batterijen - 100% levensduu",
+          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
           "c": "Elektronica"
         },
         {
@@ -819,7 +823,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
           "c": "Elektronica"
         },
         {
@@ -831,7 +835,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
         },
         {
@@ -843,23 +851,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
           "c": "Elektronica"
         },
         {
           "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
-          "c": "Elektronica"
-        },
-        {
-          "n": "voor Samsung-Afstandsbediening-Smart-TV, Universele Afstandsbediening Compatibel",
           "c": "Elektronica"
         }
       ]
@@ -871,7 +871,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Jun 2026 00:04 UTC",
+      "note": "amazon.com.be — gescraped 2 Jun 2026 09:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1134,11 +1134,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
+          "n": "Calvin Klein Set van 3 herenonderbroeken",
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Set van 3 herenonderbroeken",
+          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
           "c": "Algemeen"
         },
         {
@@ -1178,15 +1178,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Dreamzie Hoeslaken hoogte tot 33 cm, 100% microvezel, getest op schadelijke stof",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics oscillerende zuilventilator 71 cm met 60 graden hoek voor slaapkam",
+          "n": "Dreamzie Hoeslaken hoogte tot 33 cm, 100% microvezel, getest op schadelijke stof",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfilter Cartridge MAXTRA PRO Pure Performance (All-In-1), 6 stuks",
           "c": "Algemeen"
         },
         {
@@ -1266,11 +1266,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "n": "SanDisk 256 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 150 MB/s, klasse 10",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk 256 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 150 MB/s, klasse 10",
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
           "c": "Elektronica"
         },
         {
@@ -1290,23 +1290,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
+          "n": "Azororo Beschermhoes voor Samsung Galaxy A56 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
         },
         {
           "n": "TOCOL Gehard glas voor iPhone 17 Pro Max, automatische stofverwijdering, zonder ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme MicroSD-Kaart Voor Actiecameras En Drones Met Adapter 128 GB 1 J",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JISULIFE Draagbare mini-handventilator, 3-in-1, oplaadbaar, ventilator op batter",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy A56 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
         },
         {
@@ -1315,6 +1303,18 @@
         },
         {
           "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Soundcore Anker P20i Draadloze Bluetooth-hoofdtelefoon, True Wireless Bluetooth ",
           "c": "Elektronica"
         }
       ]
@@ -1326,7 +1326,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Jun 2026 00:04 UTC",
+      "note": "amazon.de — gescraped 2 Jun 2026 09:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1505,7 +1505,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,43",
+          "n": "2 aanbiedingen vanUSD 31,40",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,46",
+          "n": "1 aanbieding voorUSD 17,44",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,51",
+          "n": "USD 17,50",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 14,84",
+          "n": "2 aanbiedingen vanUSD 14,82",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,28",
+          "n": "1 aanbieding voorUSD 13,26",
           "c": "Algemeen"
         },
         {
@@ -1561,15 +1561,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.059,01/l)",
+          "n": "(USD 1.058,09/l)",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,95",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 32,49",
+          "n": "1 aanbieding voorUSD 20,93",
           "c": "Algemeen"
         },
         {
@@ -1581,11 +1577,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
+          "n": "2 aanbiedingen vanUSD 32,46",
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 10,20",
+          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 195,24/l)",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,96",
+          "n": "1 aanbieding voorUSD 13,95",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 9,06",
+          "n": "6 aanbiedingen vanUSD 9,05",
           "c": "Algemeen"
         },
         {
@@ -1609,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,85",
+          "n": "3 aanbiedingen vanUSD 18,84",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,14",
+          "n": "USD 39,11",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,81",
+          "n": "1 aanbieding voorUSD 17,79",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 12,46",
+          "n": "7 aanbiedingen vanUSD 12,45",
           "c": "Algemeen"
         },
         {
@@ -1657,11 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 12,57",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,37",
+          "n": "2 aanbiedingen vanUSD 19,19",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1665,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,41",
+          "n": "3 aanbiedingen vanUSD 8,40",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 16,36",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 46,57",
+          "n": "2 aanbiedingen vanUSD 31,39",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "36 aanbiedingen vanUSD 10,66",
+          "n": "36 aanbiedingen vanUSD 10,65",
           "c": "Algemeen"
         },
         {
