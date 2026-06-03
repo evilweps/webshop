@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T19:59:58.998842+00:00",
-  "updated_fmt": "2 June 2026 om 19:59",
+  "updated": "2026-06-03T00:23:09.868581+00:00",
+  "updated_fmt": "3 June 2026 om 00:23",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Jun 2026 19:59 UTC",
+      "note": "bol.com — gescraped 3 Jun 2026 00:23 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -416,7 +416,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Jun 2026 19:59 UTC",
+      "note": "amazon.nl — gescraped 3 Jun 2026 00:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -731,10 +731,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Algemeen"
-        },
-        {
           "n": "Grabie Acrylmarkers met Soft Brush Tip, 36 Stuks (72 Kleuren), Dual-Tip Verfpenn",
           "c": "Algemeen"
         },
@@ -861,6 +857,10 @@
         {
           "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
           "c": "Elektronica"
+        },
+        {
+          "n": "voor Samsung-Afstandsbediening-Smart-TV, Universele Afstandsbediening Compatibel",
+          "c": "Elektronica"
         }
       ]
     },
@@ -871,7 +871,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Jun 2026 19:59 UTC",
+      "note": "amazon.com.be — gescraped 3 Jun 2026 00:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1238,28 +1238,48 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "n": "FIXCHORD Strijkband, strijkband voor zoom, Wonder Web zoomband, naadloos opstrij",
           "c": "Algemeen"
+        },
+        {
+          "n": "Grundl 865-01 Cotton Quick Uni breigaren 50 g wit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ballon in de vorm van een cijfer 1, beige, crèmewit, zandwit, 101 cm, aluminium,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blooven Plakband 8 m, 20 mm, zelfklevende strips, kleefband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BIC Velleda 12 markeerstiften voor kantoor of klaslokaal met goede wisbaarheid, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Elektronica"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
@@ -1296,26 +1316,6 @@
         {
           "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
           "c": "Elektronica"
-        },
-        {
-          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A56 5G, 9H gehard glas, krasbest",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, originele Samsung TV Remote ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1326,7 +1326,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Jun 2026 19:59 UTC",
+      "note": "amazon.de — gescraped 3 Jun 2026 00:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 36,01",
+          "n": "2 aanbiedingen vanUSD 29,09",
           "c": "Algemeen"
         },
         {
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 19,19",
+          "n": "3 aanbiedingen vanUSD 12,81",
           "c": "Algemeen"
         },
         {
