@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T19:11:54.991048+00:00",
-  "updated_fmt": "4 June 2026 om 19:11",
+  "updated": "2026-06-04T23:58:59.862168+00:00",
+  "updated_fmt": "4 June 2026 om 23:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Jun 2026 19:11 UTC",
+      "note": "bol.com — gescraped 4 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Jun 2026 19:11 UTC",
+      "note": "amazon.nl — gescraped 4 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,6 +719,42 @@
           "c": "Algemeen"
         },
         {
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Deal: Now an Original Series on Amazon Prime",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "c": "Algemeen"
+        },
+        {
+          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament Maatnauwkeurigheid +/- 0",
+          "c": "Algemeen"
+        },
+        {
+          "n": "eSUN PLA+ Filament 1.75mm, Verbeterde Taaiheid 3D Printer Filament PLA Plus, Dim",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SUNLU PETG-filament 1,75 mm, minder rek, goede hechting van de lagen, hoge weers",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GEEETECH PLA Filament 1,75mm Zijde Goud, 3D Printer Filament PLA 1kg Spoel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ISOLATECH Silica Gel regenereerbaar, droogmiddel, oranje, 0,9 kg, zak, silicagel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alcoholdoekjes set Medi-Inn 30 x 65 mm set van 2 (2 x 100 stuks)",
+          "c": "Algemeen"
+        },
+        {
           "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
@@ -756,38 +792,6 @@
         },
         {
           "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal: Now an Original Series on Amazon Prime",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Legend of Zelda Encyclopedia",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Marcel's Green Soap - Allesreiniger Spray Sandelhout & Kardemom - Microplastic-v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code O, 120 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe Interdentale rager, Original, Groen, 0.8mm/ISO 5, 20st, efficiënte reinigin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
           "c": "Elektronica"
-        },
-        {
-          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Jun 2026 19:11 UTC",
+      "note": "amazon.com.be — gescraped 4 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Jun 2026 19:11 UTC",
+      "note": "amazon.de — gescraped 4 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
