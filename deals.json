@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T20:13:11.125256+00:00",
-  "updated_fmt": "3 June 2026 om 20:13",
+  "updated": "2026-06-04T00:25:01.702719+00:00",
+  "updated_fmt": "4 June 2026 om 00:25",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Jun 2026 20:13 UTC",
+      "note": "bol.com — gescraped 4 Jun 2026 00:25 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -224,11 +224,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Wateratlas Nederland Noord",
+          "n": "Annemiek van Vleuten",
           "c": "Bestsellers"
         },
         {
-          "n": "Wateratlas Nederland Midden",
+          "n": "De scheiding",
           "c": "Bestsellers"
         },
         {
@@ -264,22 +264,6 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Club Kokoro - Kokoro Spring",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "ANWB Wereldreisgids - Indonesië",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Spelen met Bladmuziek 1 - Noten leren lezen en spelen",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "ANWB Ontdek - Ontdek Noorwegen, fjorden",
-          "c": "Bestsellers"
-        },
-        {
           "n": "Niemand vertellen",
           "c": "Bestsellers"
         },
@@ -304,6 +288,14 @@
           "c": "Bestsellers"
         },
         {
+          "n": "Het Grote Ontprikkelboek",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "E-book16,99",
+          "c": "Bestsellers"
+        },
+        {
           "n": "Aan het einde van de oorlog",
           "c": "Bestsellers"
         },
@@ -324,11 +316,7 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Off-Campus - The Deal",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Rechercheur Maud O'Connor - Verkeerde afslag",
+          "n": "Stille geheimen",
           "c": "Bestsellers"
         },
         {
@@ -336,11 +324,7 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Hardcover29,48",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Het droompad",
+          "n": "Hardcover27,99",
           "c": "Bestsellers"
         },
         {
@@ -348,7 +332,19 @@
           "c": "Bestsellers"
         },
         {
+          "n": "Off-Campus - The Deal",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het cozy puzzelboek voor ontspannen zomerdagen",
+          "c": "Bestsellers"
+        },
+        {
           "n": "Het Droompad",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Het droompad",
           "c": "Bestsellers"
         },
         {
@@ -356,7 +352,11 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Het cozy puzzelboek voor ontspannen zomerdagen",
+          "n": "Rechercheur Maud O'Connor - Verkeerde afslag",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Hardcover29,48",
           "c": "Bestsellers"
         },
         {
@@ -376,35 +376,43 @@
           "c": "Bestsellers"
         },
         {
-          "n": "Omdat ik je zie",
-          "c": "Bestsellers"
-        },
-        {
           "n": "Coco Wyo Cozy Cuties - Kleurboek voor alle leeftijden - 45 handgetekende pagina'",
           "c": "Bestsellers"
         },
         {
-          "n": "Het Grote Ontprikkelboek",
+          "n": "Off campus 1 - De deal",
           "c": "Bestsellers"
         },
         {
-          "n": "E-book4,99",
+          "n": "Paperback17,50",
           "c": "Bestsellers"
         },
         {
-          "n": "Suske en Wiske 384 - Het laatste lint",
+          "n": "Digitaal luisterboek12,99",
           "c": "Bestsellers"
         },
         {
-          "n": "Stille geheimen",
-          "c": "Bestsellers"
-        },
-        {
-          "n": "Hardcover27,99",
+          "n": "Omdat ik je zie",
           "c": "Bestsellers"
         },
         {
           "n": "Nash - De terugkeer",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Vooruit kijken - boek",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "De oerpijn van trauma",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "Muziekpuzzelboek 70’s 80’s 90’s – Muziekquiz, Popquiz & Trivia | Puzzelboek met ",
+          "c": "Bestsellers"
+        },
+        {
+          "n": "time to momo - Sevilla",
           "c": "Bestsellers"
         }
       ]
@@ -416,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Jun 2026 20:13 UTC",
+      "note": "amazon.nl — gescraped 4 Jun 2026 00:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -751,18 +759,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Legend of Zelda Encyclopedia",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
           "c": "Algemeen"
         },
@@ -783,84 +779,96 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
-          "c": "Elektronica"
+          "n": "Marcel's Green Soap - Allesreiniger Spray Lavendel & Rozemarijn - Microplastic-v",
+          "c": "Algemeen"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "c": "Algemeen"
         },
         {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
+          "c": "Algemeen"
         },
         {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
+          "c": "Algemeen"
         },
         {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
-          "c": "Elektronica"
+          "n": "TePe Interdentale rager, Original, Blauw, 0.6mm/ISO 3, 20st, tandplakverwijderin",
+          "c": "Algemeen"
         },
         {
-          "n": "Duracell Plus C-batterijen (4 stuks) - 1,5V-alkaline batterijen - 100% levensduu",
-          "c": "Elektronica"
+          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
+          "c": "Beauty"
         },
         {
-          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
-          "c": "Elektronica"
+          "n": "Dr.Althea 345 Relief Cream | Moisturizer voor kalmerend herstel en puistjes verz",
+          "c": "Beauty"
         },
         {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
+          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
+          "c": "Beauty"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
-          "c": "Elektronica"
+          "n": "La Roche Posay Cicaplast Baume B5 Reparator Apaisant Foundation – met een aangen",
+          "c": "Beauty"
         },
         {
-          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
-          "c": "Elektronica"
+          "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
+          "c": "Beauty"
         },
         {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
+          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
+          "c": "Beauty"
         },
         {
-          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
-          "c": "Elektronica"
+          "n": "NIVEA SUN Protect & Hydrate Zonnebrand Spray - SPF 50 - Zonnespray - Beschermt e",
+          "c": "Beauty"
         },
         {
-          "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
+          "n": "CeraVe Vochtinbrengende Lotion, 473 ml",
+          "c": "Beauty"
         },
         {
-          "n": "TP-Link 5-poorts Desktop Gigabit Switch, 5 10/100 / 1000M RJ45-poorten, metalen ",
-          "c": "Elektronica"
+          "n": "USB Oplaadkabel 5V Ooplader compatibel met Philips QP2724, QP2720, QP2734, QP282",
+          "c": "Beauty"
         },
         {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
-          "c": "Elektronica"
+          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
+          "c": "Beauty"
         },
         {
-          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
-          "c": "Elektronica"
+          "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
+          "c": "Beauty"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro Max 6,9-Inch, Anti-Gluren Geh",
-          "c": "Elektronica"
+          "n": "Catwalk by Tigi Curls Rock Amplifier crème voor krullend haar voor mooiere krull",
+          "c": "Beauty"
         },
         {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
-          "c": "Elektronica"
+          "n": "Geek & Gorgeous - A-Game 5 - Licht Serum met 0,05% Retinal voor het Gezicht, Bes",
+          "c": "Beauty"
         },
         {
-          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
-          "c": "Elektronica"
+          "n": "La Roche-Posay Cicaplast Baume B5+ Hautbarriere-reparierender und beruhigender B",
+          "c": "Beauty"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
+          "n": "medicube Zalm DNA PDRN roze collageen gelmasker | 's nachts gezichtsmasker voor ",
+          "c": "Beauty"
+        },
+        {
+          "n": "Olaplex No.7 Bonding Oil, 30 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Mixa Urea Cica Repair+ Huidvernieuwende crème met ureum en niacinamide, voor dro",
+          "c": "Beauty"
+        },
+        {
+          "n": "Anua PDRN Collagen Glow Facial Serum Spray, hydraterende gezichtsmist, hyaluronz",
+          "c": "Beauty"
         }
       ]
     },
@@ -871,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Jun 2026 20:13 UTC",
+      "note": "amazon.com.be — gescraped 4 Jun 2026 00:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1326,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Jun 2026 20:13 UTC",
+      "note": "amazon.de — gescraped 4 Jun 2026 00:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1665,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,55/eenheid)",
+          "n": "(USD 0,72/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1697,7 +1705,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11 aanbiedingen vanUSD 7,84",
+          "n": "10 aanbiedingen vanUSD 7,84",
           "c": "Algemeen"
         }
       ]
