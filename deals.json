@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T00:25:01.702719+00:00",
-  "updated_fmt": "4 June 2026 om 00:25",
+  "updated": "2026-06-04T08:43:05.221148+00:00",
+  "updated_fmt": "4 June 2026 om 08:43",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Jun 2026 00:25 UTC",
+      "note": "bol.com — gescraped 4 Jun 2026 08:43 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Jun 2026 00:25 UTC",
+      "note": "amazon.nl — gescraped 4 Jun 2026 08:43 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,30 +671,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Maxtra Pro All-in-1 Waterfilterpatroon 6 stuks (halfjaarvoorraad) - vervan",
-          "c": "Algemeen"
-        },
-        {
-          "n": "KICHLY Glazen voorraadpotten - Transparante eerste klas glazen potten met deksel",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
@@ -719,27 +695,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
           "c": "Algemeen"
         },
         {
-          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
           "c": "Algemeen"
         },
         {
-          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
           "c": "Algemeen"
         },
         {
-          "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
+          "n": "BRITA Maxtra Pro All-in-1 Waterfilterpatroon 6 stuks (halfjaarvoorraad) - vervan",
           "c": "Algemeen"
         },
         {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
+          "n": "KICHLY Glazen voorraadpotten - Transparante eerste klas glazen potten met deksel",
           "c": "Algemeen"
         },
         {
@@ -755,7 +731,43 @@
           "c": "Algemeen"
         },
         {
-          "n": "Michael Jackson - Thriller",
+          "n": "Off the Wall",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Legend of Zelda Encyclopedia",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
           "c": "Algemeen"
         },
         {
@@ -779,96 +791,84 @@
           "c": "Algemeen"
         },
         {
-          "n": "Marcel's Green Soap - Allesreiniger Spray Lavendel & Rozemarijn - Microplastic-v",
-          "c": "Algemeen"
+          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
+          "c": "Elektronica"
         },
         {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
         },
         {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
-          "c": "Algemeen"
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
+          "c": "Elektronica"
         },
         {
-          "n": "TePe Interdentale rager, Original, Blauw, 0.6mm/ISO 3, 20st, tandplakverwijderin",
-          "c": "Algemeen"
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
+          "c": "Elektronica"
         },
         {
-          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
-          "c": "Beauty"
+          "n": "Duracell Plus C-batterijen (4 stuks) - 1,5V-alkaline batterijen - 100% levensduu",
+          "c": "Elektronica"
         },
         {
-          "n": "Dr.Althea 345 Relief Cream | Moisturizer voor kalmerend herstel en puistjes verz",
-          "c": "Beauty"
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
         },
         {
-          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
-          "c": "Beauty"
+          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "c": "Elektronica"
         },
         {
-          "n": "La Roche Posay Cicaplast Baume B5 Reparator Apaisant Foundation – met een aangen",
-          "c": "Beauty"
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
         },
         {
-          "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
-          "c": "Beauty"
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "c": "Elektronica"
         },
         {
-          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
-          "c": "Beauty"
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "c": "Elektronica"
         },
         {
-          "n": "NIVEA SUN Protect & Hydrate Zonnebrand Spray - SPF 50 - Zonnespray - Beschermt e",
-          "c": "Beauty"
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
         },
         {
-          "n": "CeraVe Vochtinbrengende Lotion, 473 ml",
-          "c": "Beauty"
+          "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
+          "c": "Elektronica"
         },
         {
-          "n": "USB Oplaadkabel 5V Ooplader compatibel met Philips QP2724, QP2720, QP2734, QP282",
-          "c": "Beauty"
+          "n": "TP-Link 5-poorts Desktop Gigabit Switch, 5 10/100 / 1000M RJ45-poorten, metalen ",
+          "c": "Elektronica"
         },
         {
-          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
-          "c": "Beauty"
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
-          "c": "Beauty"
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "c": "Elektronica"
         },
         {
-          "n": "Catwalk by Tigi Curls Rock Amplifier crème voor krullend haar voor mooiere krull",
-          "c": "Beauty"
+          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
+          "c": "Elektronica"
         },
         {
-          "n": "Geek & Gorgeous - A-Game 5 - Licht Serum met 0,05% Retinal voor het Gezicht, Bes",
-          "c": "Beauty"
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro Max 6,9-Inch, Anti-Gluren Geh",
+          "c": "Elektronica"
         },
         {
-          "n": "La Roche-Posay Cicaplast Baume B5+ Hautbarriere-reparierender und beruhigender B",
-          "c": "Beauty"
+          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
+          "c": "Elektronica"
         },
         {
-          "n": "medicube Zalm DNA PDRN roze collageen gelmasker | 's nachts gezichtsmasker voor ",
-          "c": "Beauty"
-        },
-        {
-          "n": "Olaplex No.7 Bonding Oil, 30 ml",
-          "c": "Beauty"
-        },
-        {
-          "n": "Mixa Urea Cica Repair+ Huidvernieuwende crème met ureum en niacinamide, voor dro",
-          "c": "Beauty"
-        },
-        {
-          "n": "Anua PDRN Collagen Glow Facial Serum Spray, hydraterende gezichtsmist, hyaluronz",
-          "c": "Beauty"
+          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Jun 2026 00:25 UTC",
+      "note": "amazon.com.be — gescraped 4 Jun 2026 08:43 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,11 +1142,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Allinone-Kitchen Draagbare digitale bagageweegschaal om op te hangen voor koffer",
+          "n": "Calvin Klein Set van 3 herenonderbroeken",
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Set van 3 herenonderbroeken",
+          "n": "Allinone-Kitchen Draagbare digitale bagageweegschaal om op te hangen voor koffer",
           "c": "Algemeen"
         },
         {
@@ -1214,31 +1214,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
-          "c": "Algemeen"
-        },
-        {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
         {
-          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
           "c": "Algemeen"
         },
         {
-          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "n": "Zootopie 2",
           "c": "Algemeen"
         },
         {
-          "n": "Stagg 6 m XLR-microfoonkabel, hoogwaardig, zwart",
+          "n": "Jurassic World : Renaissance",
           "c": "Algemeen"
         },
         {
-          "n": "Alesis Keyboard met 88 toetsen met 480 geluiden, luidsprekers, MIDI-USB, draagta",
+          "n": "TRON - Ares",
           "c": "Algemeen"
         },
         {
-          "n": "TONOR TC310+ Micro PC Gaming RGB, USB-condensatormicrofoon, professioneel, micro",
+          "n": "Equalizer - la trilogie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Predator : Badlands",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Marsupilami",
           "c": "Algemeen"
         },
         {
@@ -1266,64 +1270,60 @@
           "c": "Algemeen"
         },
         {
-          "n": "Adrenalyn XL Multiset FIFA Wereldkampioenschap 2026",
-          "c": "Sport"
+          "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 Pro Max 6,9 inch, gehard ",
+          "c": "Elektronica"
         },
         {
-          "n": "Xiaomi Smart Band 10 zwart - activiteitenarmband",
-          "c": "Sport"
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
+          "c": "Elektronica"
         },
         {
-          "n": "Intex - Elektrische luchtpomp, 230 V",
-          "c": "Sport"
+          "n": "SanDisk 256 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 150 MB/s, klasse 10",
+          "c": "Elektronica"
         },
         {
-          "n": "flintronic Set weerstandsbanden, verschillende niveaus weerstandsbanden, fitness",
-          "c": "Sport"
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "c": "Elektronica"
         },
         {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
-          "c": "Sport"
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
         },
         {
-          "n": "Gritin Bande Élastique Fitness, Lot de 5 Bande de Résistance Élastique en Latex ",
-          "c": "Sport"
+          "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
+          "c": "Elektronica"
         },
         {
-          "n": "BALIGO Koeltas voor lunch, 6,4 l, geïsoleerde lunchbox, koeltas voor lunch, kant",
-          "c": "Sport"
+          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
+          "c": "Elektronica"
         },
         {
-          "n": "100 stuks grondankers + 16 sluitringen inbegrepen - 150 mm lang, 25 mm breed, Ø ",
-          "c": "Sport"
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, originele Samsung TV Remote ",
+          "c": "Elektronica"
         },
         {
-          "n": "Speedo Biofuse 2.0 Zwembril, uniseks, 1 stuk",
-          "c": "Sport"
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
+          "c": "Elektronica"
         },
         {
-          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
-          "c": "Sport"
+          "n": "TOCOL Gehard glas voor iPhone 17, automatische stofverwijdering, zonder luchtbel",
+          "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics",
-          "c": "Sport"
+          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
+          "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics Pilates oefenmat, antislip, extra dik, 183 × 61 × 1 cm, zwart",
-          "c": "Sport"
+          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
+          "c": "Elektronica"
         },
         {
-          "n": "WADEO Campingdoucheset, oplaadbare elektrische douchepomp, douchekop met intelli",
-          "c": "Sport"
+          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A26 5G, 9H gehard glas, krasbest",
+          "c": "Elektronica"
         },
         {
-          "n": "KO Defence 40 ml, de ultieme oplossing voor onmiddellijke veiligheid, effectief ",
-          "c": "Sport"
-        },
-        {
-          "n": "Sportmat voor fitnessstudio's, schuimrubberen platen zonder BPA + randen, matras",
-          "c": "Sport"
+          "n": "Azororo Beschermhoes voor Samsung Galaxy S25 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Jun 2026 00:25 UTC",
+      "note": "amazon.de — gescraped 4 Jun 2026 08:43 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,19 +1509,11 @@
       ],
       "bestsellers": [
         {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 17,43",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Set van 3 boxershorts voor heren, ondergoed",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 29,07",
+          "n": "2 aanbiedingen vanUSD 29,02",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1521,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 5,95/eenheid)",
+          "n": "(USD 5,94/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,40",
           "c": "Algemeen"
         },
         {
@@ -1537,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,81",
-          "c": "Algemeen"
-        },
-        {
-          "n": "YouShow 10 paar sneakersokken voor dames en heren, ademende katoenen sokken, kor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 12,78",
+          "n": "2 aanbiedingen vanUSD 14,79",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1545,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,49",
+          "n": "USD 17,46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "YouShow 10 paar sneakersokken voor dames en heren, ademende katoenen sokken, kor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 12,76",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.057,48/l)",
+          "n": "(USD 1.055,48/l)",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,26",
+          "n": "1 aanbieding voorUSD 13,23",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 195,13/l)",
+          "n": "(USD 194,76/l)",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,91/eenheid)",
+          "n": "(USD 3,90/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1593,19 +1593,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,05",
+          "n": "1 aanbieding voorUSD 6,04",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,44",
+          "n": "2 aanbiedingen vanUSD 32,38",
           "c": "Algemeen"
         },
         {
-          "n": "USD 4,87",
+          "n": "USD 4,86",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,78",
+          "n": "1 aanbieding voorUSD 17,75",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 15,81",
+          "n": "6 aanbiedingen vanUSD 15,78",
           "c": "Algemeen"
         },
         {
@@ -1621,15 +1621,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,40",
+          "n": "3 aanbiedingen vanUSD 8,38",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,62",
+          "n": "1 aanbieding voorUSD 11,59",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,35",
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 12,94",
           "c": "Algemeen"
         },
         {
@@ -1637,11 +1641,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,94",
+          "n": "1 aanbieding voorUSD 13,92",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 9,90",
+          "n": "6 aanbiedingen vanUSD 9,88",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,08",
+          "n": "USD 39,01",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,83",
+          "n": "3 aanbiedingen vanUSD 18,79",
           "c": "Algemeen"
         },
         {
@@ -1665,15 +1669,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,85",
+          "n": "1 aanbieding voorUSD 11,83",
           "c": "Algemeen"
         },
         {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,72/eenheid)",
+          "n": "USD 7,79",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,37",
+          "n": "3 aanbiedingen vanUSD 29,28",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,44",
+          "n": "1 aanbieding voorUSD 10,42",
           "c": "Algemeen"
         },
         {
@@ -1697,15 +1701,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "36 aanbiedingen vanUSD 10,64",
+          "n": "36 aanbiedingen vanUSD 10,62",
           "c": "Algemeen"
         },
         {
-          "n": "slochi Plafondlamp, platte led-plafondlamp, 3 kleuren, 3000 K/4000 K/6500 K, IP4",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10 aanbiedingen vanUSD 7,84",
+          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
           "c": "Algemeen"
         }
       ]
