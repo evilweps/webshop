@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T23:58:59.862168+00:00",
-  "updated_fmt": "4 June 2026 om 23:58",
+  "updated": "2026-06-05T08:38:04.079041+00:00",
+  "updated_fmt": "5 June 2026 om 08:38",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Jun 2026 23:58 UTC",
+      "note": "bol.com — gescraped 5 Jun 2026 08:38 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Jun 2026 23:58 UTC",
+      "note": "amazon.nl — gescraped 5 Jun 2026 08:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,11 +671,35 @@
       ],
       "bestsellers": [
         {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
           "c": "Algemeen"
         },
         {
@@ -695,30 +719,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
           "c": "Algemeen"
         },
@@ -731,27 +731,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament Maatnauwkeurigheid +/- 0",
-          "c": "Algemeen"
-        },
-        {
-          "n": "eSUN PLA+ Filament 1.75mm, Verbeterde Taaiheid 3D Printer Filament PLA Plus, Dim",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SUNLU PETG-filament 1,75 mm, minder rek, goede hechting van de lagen, hoge weers",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GEEETECH PLA Filament 1,75mm Zijde Goud, 3D Printer Filament PLA 1kg Spoel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ISOLATECH Silica Gel regenereerbaar, droogmiddel, oranje, 0,9 kg, zak, silicagel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alcoholdoekjes set Medi-Inn 30 x 65 mm set van 2 (2 x 100 stuks)",
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -775,6 +755,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
           "c": "Algemeen"
         },
@@ -787,11 +771,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "AXE Deodorant Bodyspray Collision - 6 x 150ml",
+          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
+          "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Thriller",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Currents",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Best of Sade",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Californication [Vinyl LP]",
           "c": "Algemeen"
         },
         {
@@ -835,19 +835,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
-        },
-        {
           "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
           "c": "Elektronica"
         },
         {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Jun 2026 23:58 UTC",
+      "note": "amazon.com.be — gescraped 5 Jun 2026 08:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,7 +1126,7 @@
       ],
       "bestsellers": [
         {
-          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
+          "n": "Skechers Uno Stand On Air Sneakers voor heren",
           "c": "Algemeen"
         },
         {
@@ -1138,7 +1138,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
           "c": "Algemeen"
         },
         {
@@ -1158,11 +1158,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "PIC Mottenval voor kleding, driedelige verpakkingen x 6 – product tegen motten, ",
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
           "c": "Algemeen"
         },
         {
-          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
+          "n": "PIC Mottenval voor kleding, driedelige verpakkingen x 6 – product tegen motten, ",
           "c": "Algemeen"
         },
         {
@@ -1186,7 +1186,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 8 (nieuwste generatie), kleurrijk HD-scherm van 8,7 inch met ru",
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
           "c": "Algemeen"
         },
         {
@@ -1214,6 +1214,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mullvad VPN - 12 Maanden VPN-Abonnement voor 5 Apparaten - Bescherm je Privacy m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nero L’Original 2026 | Nero Burning ROM | Logiciel de Gravure CD DVD Blu-ray | G",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Norton 360 FOR GAMERS 2021 | 3 Appareils | Cyberprotection puissante optimisée p",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Algemeen"
         },
@@ -1235,26 +1259,6 @@
         },
         {
           "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 Pro Max 6,9 inch, gehard ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Borstkompressen SCF254/61 voor dag en nacht, wegwerpbaar, 60 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "RAVIAN Autostoelspiegel voor baby's met kristalhelder zicht, onbreekbaar, verste",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Set van 2 Natural Response 0% BPA, Flow 5 spenen voor baby's van 6",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
           "c": "Algemeen"
         },
         {
@@ -1320,10 +1324,6 @@
         {
           "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
           "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 128 GB Extreme PRO SDXC + RescuePRO Deluxe, tot 200 MB/s, UHS-I, klasse ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Jun 2026 23:58 UTC",
+      "note": "amazon.de — gescraped 5 Jun 2026 08:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 29,02",
+          "n": "2 aanbiedingen vanUSD 29,04",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,40",
+          "n": "1 aanbieding voorUSD 17,41",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 5,94/eenheid)",
+          "n": "(USD 5,95/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,79",
+          "n": "1 aanbieding voorUSD 14,80",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 19,72",
+          "n": "1 aanbieding voorUSD 19,74",
           "c": "Algemeen"
         },
         {
@@ -1553,15 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 12,76",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 13,23",
+          "n": "2 aanbiedingen vanUSD 12,77",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1561,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.055,48/l)",
+          "n": "(USD 1.056,34/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 13,24",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 194,76/l)",
+          "n": "(USD 194,92/l)",
           "c": "Algemeen"
         },
         {
@@ -1597,15 +1597,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,38",
+          "n": "2 aanbiedingen vanUSD 32,41",
           "c": "Algemeen"
         },
         {
-          "n": "USD 4,86",
+          "n": "USD 4,87",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,75",
+          "n": "1 aanbieding voorUSD 17,76",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,38",
+          "n": "3 aanbiedingen vanUSD 8,39",
           "c": "Algemeen"
         },
         {
@@ -1621,19 +1621,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 15,78",
+          "n": "6 aanbiedingen vanUSD 15,79",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,26",
+          "n": "1 aanbieding voorUSD 14,28",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,59",
+          "n": "1 aanbieding voorUSD 11,60",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 9,88",
+          "n": "6 aanbiedingen vanUSD 9,89",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,92",
+          "n": "1 aanbieding voorUSD 13,93",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 39,01",
+          "n": "USD 39,04",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,79",
+          "n": "3 aanbiedingen vanUSD 18,81",
           "c": "Algemeen"
         },
         {
@@ -1673,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,83",
+          "n": "1 aanbieding voorUSD 11,84",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 46,41",
+          "n": "2 aanbiedingen vanUSD 31,34",
           "c": "Algemeen"
         },
         {
@@ -1689,15 +1689,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,42",
+          "n": "1 aanbieding voorUSD 10,43",
           "c": "Algemeen"
         },
         {
-          "n": "slochi Plafondlamp, platte led-plafondlamp, 3 kleuren, 3000 K/4000 K/6500 K, IP4",
+          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 7,83",
+          "n": "23 aanbiedingen vanUSD 10,02",
           "c": "Algemeen"
         },
         {
@@ -1705,7 +1705,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 13,45",
+          "n": "4 aanbiedingen vanUSD 13,46",
           "c": "Algemeen"
         }
       ]
