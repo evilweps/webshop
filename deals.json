@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T18:53:37.238065+00:00",
-  "updated_fmt": "5 June 2026 om 18:53",
+  "updated": "2026-06-05T23:58:04.586315+00:00",
+  "updated_fmt": "5 June 2026 om 23:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 5 Jun 2026 18:53 UTC",
+      "note": "bol.com — gescraped 5 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 5 Jun 2026 18:53 UTC",
+      "note": "amazon.nl — gescraped 5 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,18 +743,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal: Now an Original Series on Amazon Prime",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
-          "c": "Algemeen"
-        },
-        {
           "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
@@ -772,6 +760,22 @@
         },
         {
           "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Deal: Now an Original Series on Amazon Prime",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
           "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 5 Jun 2026 18:53 UTC",
+      "note": "amazon.com.be — gescraped 5 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 5 Jun 2026 18:53 UTC",
+      "note": "amazon.de — gescraped 5 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 35,95",
+          "n": "2 aanbiedingen vanUSD 29,04",
           "c": "Algemeen"
         },
         {
@@ -1629,11 +1629,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,29",
+          "n": "1 aanbieding voorUSD 14,28",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 9,89",
+          "n": "5 aanbiedingen vanUSD 9,89",
           "c": "Algemeen"
         },
         {
