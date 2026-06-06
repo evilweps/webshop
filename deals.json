@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T17:59:51.509925+00:00",
-  "updated_fmt": "6 June 2026 om 17:59",
+  "updated": "2026-06-06T23:55:07.452633+00:00",
+  "updated_fmt": "6 June 2026 om 23:55",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 6 Jun 2026 17:59 UTC",
+      "note": "bol.com — gescraped 6 Jun 2026 23:55 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 6 Jun 2026 17:59 UTC",
+      "note": "amazon.nl — gescraped 6 Jun 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,7 +767,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 6 Jun 2026 17:59 UTC",
+      "note": "amazon.com.be — gescraped 6 Jun 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1146,26 +1146,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Felix Purina Délicieux Duo Kattenvoer, heerlijk duo, maxi-verpakking, 44 x 85 g,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biokat's Biokat's Diamond Care Fresh met talkgeur, fijne kattenbakvulling met ac",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SHEBA Mini-filets – versheidszakjes in saus, selectie van gevogelte voor volwass",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Candure Professionele borstel voor honden en katten, vachtverzorging, dubbelzijd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gourmet Perle Erlesene Streifen natvoer voor katten, 60 x 85 g, 60 stuks",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
           "c": "Algemeen"
         },
@@ -1230,28 +1210,76 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "n": "ICE Beer Siroop concentraat zonder AZO en glycerine | 250 ml fles | concentraat ",
           "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische kokosolie 150 ml – 100% maagd – Planète au Naturel – eerste kreukdru",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ICE Beer siroop zonder AZO en glycerine | 500 ml fles | concentraat voor slushy ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 Pro Max 6,9 inch, gehard ",
@@ -1296,34 +1324,6 @@
         {
           "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
           "c": "Elektronica"
-        },
-        {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, originele Samsung TV Remote ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
-          "c": "Elektronica"
-        },
-        {
-          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL Gehard glas voor iPhone 17, automatische stofverwijdering, zonder luchtbel",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Displaybeschermfolie voor iPad (A16) 11e/10e generatie (2025/2022), besch",
-          "c": "Elektronica"
-        },
-        {
-          "n": "HP 305-3YM61AE/3YM60AE Multipack originele inktcartridgeset, zwart en drie kleur",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 6 Jun 2026 17:59 UTC",
+      "note": "amazon.de — gescraped 6 Jun 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1697,7 +1697,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 13,35",
+          "n": "4 aanbiedingen vanUSD 13,16",
           "c": "Algemeen"
         },
         {
