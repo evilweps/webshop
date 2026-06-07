@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T17:57:54.001907+00:00",
-  "updated_fmt": "7 June 2026 om 17:57",
+  "updated": "2026-06-07T23:57:09.258639+00:00",
+  "updated_fmt": "7 June 2026 om 23:57",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 7 Jun 2026 17:57 UTC",
+      "note": "bol.com — gescraped 7 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 7 Jun 2026 17:57 UTC",
+      "note": "amazon.nl — gescraped 7 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,26 +739,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Sharpie Permanentmarker 2 Stuk zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dymo LetraTag 200B Bluetooth-labelmaker | Compacte labelprinter | Maakt via Blue",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ORGSTA Label Maker Machine met Tape Bluetooth Draagbare Thermische Etikettering ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hinrichs 20 m rol geperforeerd bubbelpapier - bubbelfolie rol voor verpakking - ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pentel BL77-CO gel-inktroller EnerGel met drukmechanisme A 1 Stuk zwart",
-          "c": "Algemeen"
-        },
-        {
           "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
           "c": "Algemeen"
         },
@@ -787,11 +767,27 @@
           "c": "Algemeen"
         },
         {
+          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Score: Now an Original Series on Amazon Prime: 3",
           "c": "Algemeen"
         },
         {
-          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Waterfles Ellipse 500 ml - Nordic blue",
           "c": "Algemeen"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 7 Jun 2026 17:57 UTC",
+      "note": "amazon.com.be — gescraped 7 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 7 Jun 2026 17:57 UTC",
+      "note": "amazon.de — gescraped 7 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,15 +1521,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "6 aanbiedingen vanUSD 12,66",
+          "c": "Algemeen"
+        },
+        {
           "n": "USD 15,38",
           "c": "Algemeen"
         },
         {
           "n": "10 aanbiedingen vanUSD 28,79",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 12,66",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,27",
+          "n": "1 aanbieding voorUSD 29,95",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,68",
+          "n": "1 aanbieding voorUSD 17,27",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 19,58",
+          "n": "1 aanbieding voorUSD 23,03",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,62",
+          "n": "1 aanbieding voorUSD 20,73",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,20",
+          "n": "2 aanbiedingen vanUSD 19,00",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,74",
+          "n": "1 aanbieding voorUSD 18,32",
           "c": "Algemeen"
         },
         {
