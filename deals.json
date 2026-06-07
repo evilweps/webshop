@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T23:55:07.452633+00:00",
-  "updated_fmt": "6 June 2026 om 23:55",
+  "updated": "2026-06-07T08:18:22.998671+00:00",
+  "updated_fmt": "7 June 2026 om 08:18",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 6 Jun 2026 23:55 UTC",
+      "note": "bol.com — gescraped 7 Jun 2026 08:18 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 6 Jun 2026 23:55 UTC",
+      "note": "amazon.nl — gescraped 7 Jun 2026 08:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -675,6 +675,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
+          "c": "Algemeen"
+        },
+        {
           "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
           "c": "Algemeen"
         },
@@ -683,15 +687,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vleesthermometer, DOQAUS Keukenthermometer Barbecuethermometer, Digitale Instant",
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
           "c": "Algemeen"
         },
         {
           "n": "Oeko TEX Gecertificeerde Waterdichte Matrasbeschermer 140x200 van Twinzen - Ales",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York LASH SENSATIONAL SKY HIGH mascara bruin 7,2 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
           "c": "Algemeen"
         },
         {
@@ -715,27 +735,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York LASH SENSATIONAL SKY HIGH mascara bruin 7,2 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
           "c": "Algemeen"
         },
         {
@@ -783,11 +783,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
+          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
           "c": "Algemeen"
         },
         {
-          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
           "c": "Algemeen"
         },
         {
@@ -823,11 +827,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
           "c": "Elektronica"
         },
         {
@@ -843,15 +847,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro 6,3-Inch, Anti-Gluren Gehard ",
+          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
           "c": "Elektronica"
         },
         {
@@ -859,7 +859,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro 6,3-Inch, Anti-Gluren Gehard ",
           "c": "Elektronica"
         },
         {
@@ -867,7 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
+          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 6 Jun 2026 23:55 UTC",
+      "note": "amazon.com.be — gescraped 7 Jun 2026 08:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,11 +1126,35 @@
       ],
       "bestsellers": [
         {
-          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
+          "n": "Adrenalyn XL Multiset FIFA Wereldkampioenschap 2026",
+          "c": "Algemeen"
+        },
+        {
+          "n": "flintronic Set weerstandsbanden, verschillende niveaus weerstandsbanden, fitness",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blukar Oplaadbare hoofdlamp, superhelder, licht, krachtige led-hoofdlamp met roo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Intex - Elektrische luchtpomp, 230 V",
           "c": "Algemeen"
         },
         {
           "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
           "c": "Algemeen"
         },
         {
@@ -1170,11 +1194,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
           "c": "Algemeen"
         },
         {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
@@ -1210,76 +1234,28 @@
           "c": "Algemeen"
         },
         {
-          "n": "ICE Beer Siroop concentraat zonder AZO en glycerine | 250 ml fles | concentraat ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische kokosolie 150 ml – 100% maagd – Planète au Naturel – eerste kreukdru",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ICE Beer siroop zonder AZO en glycerine | 500 ml fles | concentraat voor slushy ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Elektronica"
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "c": "Algemeen"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 Pro Max 6,9 inch, gehard ",
@@ -1310,11 +1286,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Azororo Beschermhoes voor Samsung Galaxy A26 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor Samsung Galaxy A17 5G / 4G 6,7 inch, 9H gehard ",
           "c": "Elektronica"
         },
         {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy A26 5G, premium lederen beschermhoes, p",
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
           "c": "Elektronica"
         },
         {
@@ -1322,7 +1302,27 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, originele Samsung TV Remote ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact compatibel me",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Gehard glas voor iPhone 17, automatische stofverwijdering, zonder luchtbel",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor iPad (A16) 11e/10e generatie (2025/2022), besch",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 6 Jun 2026 23:55 UTC",
+      "note": "amazon.de — gescraped 7 Jun 2026 08:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,36",
+          "n": "USD 17,33",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 4,83",
+          "n": "USD 5,97",
           "c": "Algemeen"
         },
         {
@@ -1625,15 +1625,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,20",
-          "c": "Algemeen"
-        },
-        {
           "n": "Wago 221-413 Lasklem, 50 stuks",
           "c": "Algemeen"
         },
         {
           "n": "5 aanbiedingen vanUSD 25,14",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 16,20",
           "c": "Algemeen"
         },
         {
@@ -1693,19 +1693,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Gritin Leeslamp met klem, USB-oplaadbare boekenlamp met 19 leds, 3 kleurtemperat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 13,16",
-          "c": "Algemeen"
-        },
-        {
           "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
           "c": "Algemeen"
         },
         {
           "n": "24 aanbiedingen vanUSD 9,94",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gritin Leeslamp met klem, USB-oplaadbare boekenlamp met 19 leds, 3 kleurtemperat",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 13,16",
           "c": "Algemeen"
         }
       ]
