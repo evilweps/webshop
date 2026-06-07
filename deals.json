@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T12:15:44.594717+00:00",
-  "updated_fmt": "7 June 2026 om 12:15",
+  "updated": "2026-06-07T17:57:54.001907+00:00",
+  "updated_fmt": "7 June 2026 om 17:57",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 7 Jun 2026 12:15 UTC",
+      "note": "bol.com — gescraped 7 Jun 2026 17:57 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 7 Jun 2026 12:15 UTC",
+      "note": "amazon.nl — gescraped 7 Jun 2026 17:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,6 +739,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Sharpie Permanentmarker 2 Stuk zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dymo LetraTag 200B Bluetooth-labelmaker | Compacte labelprinter | Maakt via Blue",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ORGSTA Label Maker Machine met Tape Bluetooth Draagbare Thermische Etikettering ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hinrichs 20 m rol geperforeerd bubbelpapier - bubbelfolie rol voor verpakking - ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pentel BL77-CO gel-inktroller EnerGel met drukmechanisme A 1 Stuk zwart",
+          "c": "Algemeen"
+        },
+        {
           "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
           "c": "Algemeen"
         },
@@ -772,22 +792,6 @@
         },
         {
           "n": "The Deal: Now an Original Series on Amazon Prime: 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterfles Ellipse 500 ml - Nordic blue",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 7 Jun 2026 12:15 UTC",
+      "note": "amazon.com.be — gescraped 7 Jun 2026 17:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 7 Jun 2026 12:15 UTC",
+      "note": "amazon.de — gescraped 7 Jun 2026 17:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,7 +1509,7 @@
       ],
       "bestsellers": [
         {
-          "n": "6 aanbiedingen vanUSD 12,66",
+          "n": "7 aanbiedingen vanUSD 12,66",
           "c": "Algemeen"
         },
         {
@@ -1525,11 +1525,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 28,79",
+          "n": "10 aanbiedingen vanUSD 28,79",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 12,66",
+          "n": "6 aanbiedingen vanUSD 12,66",
           "c": "Algemeen"
         },
         {
