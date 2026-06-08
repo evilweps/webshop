@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T19:13:58.291198+00:00",
-  "updated_fmt": "8 June 2026 om 19:13",
+  "updated": "2026-06-08T23:57:00.478554+00:00",
+  "updated_fmt": "8 June 2026 om 23:57",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Jun 2026 19:13 UTC",
+      "note": "bol.com — gescraped 8 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Jun 2026 19:13 UTC",
+      "note": "amazon.nl — gescraped 8 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -747,15 +747,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "The Score: Now an Original Series on Amazon Prime: 3",
+          "c": "Algemeen"
+        },
+        {
           "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
           "c": "Algemeen"
         },
         {
           "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Score: Now an Original Series on Amazon Prime: 3",
           "c": "Algemeen"
         },
         {
@@ -847,6 +847,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "SANDISK Extreme draagbare SSD 2 TB (overdrachtssnelheden tot 2000 MB/s, USB Type",
+          "c": "Elektronica"
+        },
+        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Ultra USB 3.0-Flashdrive 64 GB Pak Van 3 (Overdrachtssnelheden Tot 130 M",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Jun 2026 19:13 UTC",
+      "note": "amazon.com.be — gescraped 8 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,7 +1210,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Mixa Niacinamide Bright vochtinbrengende crème voor alle doeleinden geschikt voo",
+          "n": "Mixa Vochtinbrengende crème tegen pigmentvlekken, geschikt voor gezicht, lichaam",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Jun 2026 19:13 UTC",
+      "note": "amazon.de — gescraped 8 Jun 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 12,67",
+          "n": "6 aanbiedingen vanUSD 12,67",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "26 aanbiedingen vanUSD 23,77",
+          "n": "24 aanbiedingen vanUSD 23,77",
           "c": "Algemeen"
         },
         {
@@ -1645,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,97",
+          "n": "USD 5,96",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,83",
+          "n": "1 aanbieding voorUSD 14,91",
           "c": "Algemeen"
         },
         {
