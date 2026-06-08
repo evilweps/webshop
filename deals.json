@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T23:57:09.258639+00:00",
-  "updated_fmt": "7 June 2026 om 23:57",
+  "updated": "2026-06-08T09:17:11.128956+00:00",
+  "updated_fmt": "8 June 2026 om 09:17",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 7 Jun 2026 23:57 UTC",
+      "note": "bol.com — gescraped 8 Jun 2026 09:17 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 7 Jun 2026 23:57 UTC",
+      "note": "amazon.nl — gescraped 8 Jun 2026 09:17 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,6 +671,30 @@
       ],
       "bestsellers": [
         {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
+          "c": "Algemeen"
+        },
+        {
+          "n": "KICHLY Glazen voorraadpotten - Transparante eerste klas glazen potten met deksel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oeko TEX Gecertificeerde Waterdichte Matrasbeschermer 140x200 van Twinzen - Ales",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
           "c": "Algemeen"
         },
@@ -683,11 +707,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
+          "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
           "c": "Algemeen"
         },
         {
           "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Medicube Collageen Nacht Wrapping Cream voor Elasticiteit en Hydratatie - Gezich",
           "c": "Algemeen"
         },
         {
@@ -711,31 +739,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "KICHLY Glazen voorraadpotten - Transparante eerste klas glazen potten met deksel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oeko TEX Gecertificeerde Waterdichte Matrasbeschermer 140x200 van Twinzen - Ales",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
           "c": "Algemeen"
         },
         {
@@ -755,15 +759,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "TePe EasyPick Tandenstokers, Oranje, maat XS-S, 60st, tandplakverwijderaar, effi",
+          "n": "Marcel's Green Soap - Allesreiniger Spray Sandelhout & Kardemom - Microplastic-v",
           "c": "Algemeen"
         },
         {
           "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
           "c": "Algemeen"
         },
         {
@@ -772,6 +772,10 @@
         },
         {
           "n": "The Score: Now an Original Series on Amazon Prime: 3",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
           "c": "Algemeen"
         },
         {
@@ -807,11 +811,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
           "c": "Elektronica"
         },
         {
@@ -823,15 +827,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
           "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
           "c": "Elektronica"
         },
         {
           "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
@@ -847,15 +851,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
           "c": "Elektronica"
         },
         {
-          "n": "Mobiele Telefoon Statief 145cm, Magnetische Selfie Stick met Afstandsbediening, ",
+          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
           "c": "Elektronica"
         },
         {
@@ -867,7 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
+          "n": "Mobiele Telefoon Statief 145cm, Magnetische Selfie Stick met Afstandsbediening, ",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 7 Jun 2026 23:57 UTC",
+      "note": "amazon.com.be — gescraped 8 Jun 2026 09:17 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,11 +1126,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
+          "n": "Skechers Uno Stand On Air Sneakers voor heren",
           "c": "Algemeen"
         },
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "n": "Luveon Leggings 3D anti-cellulitis sport dames hoge taille naadloze push-up stre",
           "c": "Algemeen"
         },
         {
@@ -1158,11 +1158,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
+          "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
           "c": "Algemeen"
         },
         {
-          "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
+          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
           "c": "Algemeen"
         },
         {
@@ -1214,30 +1214,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Algemeen"
-        },
-        {
           "n": "ICE Beer Siroop concentraat zonder AZO en glycerine | 250 ml fles | concentraat ",
           "c": "Algemeen"
         },
@@ -1250,6 +1226,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Biologische kokosolie 150 ml – 100% maagd – Planète au Naturel – eerste kreukdru",
+          "c": "Algemeen"
+        },
+        {
           "n": "ICE Beer siroop zonder AZO en glycerine | 500 ml fles | concentraat voor slushy ",
           "c": "Algemeen"
         },
@@ -1258,7 +1238,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biologische kokosolie 150 ml – 100% maagd – Planète au Naturel – eerste kreukdru",
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
           "c": "Algemeen"
         },
         {
@@ -1310,11 +1310,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Gehard glas voor iPhone 17, automatische stofverwijdering, zonder luchtbel",
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "n": "TOCOL Gehard glas voor iPhone 17, automatische stofverwijdering, zonder luchtbel",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 7 Jun 2026 23:57 UTC",
+      "note": "amazon.de — gescraped 8 Jun 2026 09:17 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,7 +1509,7 @@
       ],
       "bestsellers": [
         {
-          "n": "7 aanbiedingen vanUSD 12,66",
+          "n": "5 aanbiedingen vanUSD 12,67",
           "c": "Algemeen"
         },
         {
@@ -1517,19 +1517,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 172,70",
+          "n": "1 aanbieding voorUSD 172,87",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 12,66",
+          "n": "USD 15,40",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,38",
+          "n": "6 aanbiedingen vanUSD 12,67",
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 28,79",
+          "n": "Apple iPad met A16 Chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD 372,15",
+          "c": "Algemeen"
+        },
+        {
+          "n": "14 aanbiedingen vanUSD 28,82",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 35,66",
+          "n": "2 aanbiedingen vanUSD 40,35",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 29,95",
+          "n": "1 aanbieding voorUSD 20,81",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,27",
+          "n": "1 aanbieding voorUSD 17,29",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,33",
+          "n": "USD 17,35",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 23,03",
+          "n": "1 aanbieding voorUSD 23,05",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,14",
+          "n": "1 aanbieding voorUSD 13,15",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.205,01/l)",
+          "n": "(USD 1.206,17/l)",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 193,34/l)",
+          "n": "(USD 193,53/l)",
           "c": "Algemeen"
         },
         {
@@ -1609,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,87/eenheid)",
+          "n": "(USD 3,88/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1617,11 +1625,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 5,99",
+          "n": "1 aanbieding voorUSD 6,00",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,15",
+          "n": "2 aanbiedingen vanUSD 32,18",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,73",
+          "n": "1 aanbieding voorUSD 20,75",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,32",
+          "n": "3 aanbiedingen vanUSD 8,33",
           "c": "Algemeen"
         },
         {
@@ -1645,11 +1653,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 14,24",
+          "n": "7 aanbiedingen vanUSD 14,25",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 19,00",
+          "n": "2 aanbiedingen vanUSD 18,07",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 25,14",
+          "n": "5 aanbiedingen vanUSD 25,17",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,81",
+          "n": "1 aanbieding voorUSD 13,83",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,73",
+          "n": "USD 38,76",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,65",
+          "n": "3 aanbiedingen vanUSD 18,67",
           "c": "Algemeen"
         },
         {
@@ -1693,19 +1701,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 18,32",
+          "n": "1 aanbieding voorUSD 18,34",
           "c": "Algemeen"
         },
         {
           "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 7,73",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
           "c": "Algemeen"
         }
       ]
