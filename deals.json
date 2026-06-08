@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T14:41:29.471836+00:00",
-  "updated_fmt": "8 June 2026 om 14:41",
+  "updated": "2026-06-08T19:13:58.291198+00:00",
+  "updated_fmt": "8 June 2026 om 19:13",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Jun 2026 14:41 UTC",
+      "note": "bol.com — gescraped 8 Jun 2026 19:13 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Jun 2026 14:41 UTC",
+      "note": "amazon.nl — gescraped 8 Jun 2026 19:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,11 +743,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
           "c": "Algemeen"
         },
         {
-          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
           "c": "Algemeen"
         },
         {
@@ -756,6 +756,22 @@
         },
         {
           "n": "The Score: Now an Original Series on Amazon Prime: 3",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dunlop Fietspomp 160/180PSI-11/12Bar - Fiets Pomp voor Dunlop, Schrader en Frans",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
@@ -768,26 +784,6 @@
         },
         {
           "n": "Zenacolor 40 textiel- en textielmarkers - niet-giftig, onuitwisbaar en permanent",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe Interdentale rager, Original, Geel, 0.7mm/ISO 4, 20st, efficiënte reiniging",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vitafit Personenweegschaal door Ons Professionele Weegschaalfabriek Sinds 2001, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe EasyPick Tandenstokers, Oranje, maat XS-S, 60st, tandplakverwijderaar, effi",
           "c": "Algemeen"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra USB 3.0-Flashdrive 64 GB Pak Van 3 (Overdrachtssnelheden Tot 130 M",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Jun 2026 14:41 UTC",
+      "note": "amazon.com.be — gescraped 8 Jun 2026 19:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Jun 2026 14:41 UTC",
+      "note": "amazon.de — gescraped 8 Jun 2026 19:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 364,48",
+          "n": "7 aanbiedingen vanUSD 372,15",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 40,35",
+          "n": "3 aanbiedingen vanUSD 38,64",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,18",
+          "n": "(USD 1.327,03/kg)",
           "c": "Algemeen"
         },
         {
