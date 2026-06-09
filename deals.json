@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T23:57:00.478554+00:00",
-  "updated_fmt": "8 June 2026 om 23:57",
+  "updated": "2026-06-09T08:26:06.642551+00:00",
+  "updated_fmt": "9 June 2026 om 08:26",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Jun 2026 23:57 UTC",
+      "note": "bol.com — gescraped 9 Jun 2026 08:26 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Jun 2026 23:57 UTC",
+      "note": "amazon.nl — gescraped 9 Jun 2026 08:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -723,7 +723,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Utopia Bedding Hoeslaken met elastische hoeken, geborstelde microvezel, wit, 200",
+          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
           "c": "Algemeen"
         },
         {
@@ -743,15 +743,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Deal: Now an Original Series on Amazon Prime: 1",
           "c": "Algemeen"
         },
         {
           "n": "The Score: Now an Original Series on Amazon Prime: 3",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
           "c": "Algemeen"
         },
         {
@@ -807,11 +807,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
           "c": "Elektronica"
         },
         {
@@ -823,15 +823,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
-          "c": "Elektronica"
-        },
-        {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
+          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
           "c": "Elektronica"
         },
         {
@@ -843,15 +839,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme draagbare SSD 2 TB (overdrachtssnelheden tot 2000 MB/s, USB Type",
+          "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
           "c": "Elektronica"
         },
         {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
           "c": "Elektronica"
         },
         {
@@ -860,6 +856,10 @@
         },
         {
           "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SANDISK Extreme draagbare SSD 2 TB (overdrachtssnelheden tot 2000 MB/s, USB Type",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Jun 2026 23:57 UTC",
+      "note": "amazon.com.be — gescraped 9 Jun 2026 08:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,11 +1126,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
+          "n": "Skechers Uno Stand On Air Sneakers voor heren",
           "c": "Algemeen"
         },
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
           "c": "Algemeen"
         },
         {
@@ -1206,11 +1206,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "n": "Mixa Vochtinbrengende crème tegen pigmentvlekken, geschikt voor gezicht, lichaam",
           "c": "Algemeen"
         },
         {
-          "n": "Mixa Vochtinbrengende crème tegen pigmentvlekken, geschikt voor gezicht, lichaam",
+          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adrenalyn XL Multiset FIFA Wereldkampioenschap 2026",
           "c": "Algemeen"
         },
         {
@@ -1242,11 +1246,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "AMFUN Clip-on gitaarstemapparaat, digitale gitaaraccessoires tuners met lcd-disp",
+          "n": "Stagg 6 m XLR-microfoonkabel, hoogwaardig, zwart",
           "c": "Algemeen"
         },
         {
-          "n": "Stagg 6 m XLR-microfoonkabel, hoogwaardig, zwart",
+          "n": "AMFUN Clip-on gitaarstemapparaat, digitale gitaaraccessoires tuners met lcd-disp",
           "c": "Algemeen"
         },
         {
@@ -1266,11 +1270,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
           "c": "Elektronica"
         },
         {
-          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
           "c": "Elektronica"
         },
         {
@@ -1310,10 +1314,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
-          "c": "Elektronica"
-        },
-        {
           "n": "JETech Displaybeschermfolie voor Samsung Galaxy A16 5G / 4G 6,7 inch, 9H gehard ",
           "c": "Elektronica"
         },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Jun 2026 23:57 UTC",
+      "note": "amazon.de — gescraped 9 Jun 2026 08:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,51 +1509,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 100 zakjes)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 172,87",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 12,67",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,40",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "24 aanbiedingen vanUSD 23,77",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Apple iPad met A16 Chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "7 aanbiedingen vanUSD 372,15",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PUSTEFIX Navulling met bellenblaasvloeistof | Jerrycan van 2,5 liter | Leuke bel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,88/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Set van 3 boxershorts voor heren, ondergoed",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 38,64",
+          "n": "3 aanbiedingen vanUSD 38,65",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,81",
+          "n": "1 aanbieding voorUSD 20,82",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,29",
+          "n": "1 aanbieding voorUSD 17,30",
+          "c": "Algemeen"
+        },
+        {
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 23,07",
           "c": "Algemeen"
         },
         {
@@ -1581,19 +1549,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 23,05",
-          "c": "Algemeen"
-        },
-        {
           "n": "FM London Heren T-shirt 3/5 stuks - Hoogwaardige T-shirts met licht getailleerd ",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 5,90/eenheid)",
+          "n": "(USD 5,91/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1609,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.206,17/l)",
+          "n": "(USD 1.206,74/l)",
           "c": "Algemeen"
         },
         {
@@ -1625,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 193,53/l)",
+          "n": "(USD 193,62/l)",
           "c": "Algemeen"
         },
         {
@@ -1637,15 +1597,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.327,03/kg)",
+          "n": "(USD 1.327,67/kg)",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,75",
+          "n": "USD 5,97",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,96",
+          "n": "1 aanbieding voorUSD 20,76",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 18,07",
+          "n": "2 aanbiedingen vanUSD 18,08",
           "c": "Algemeen"
         },
         {
@@ -1673,11 +1633,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 25,17",
+          "n": "5 aanbiedingen vanUSD 25,18",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,81",
+          "n": "5 aanbiedingen vanUSD 9,82",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,91",
+          "n": "1 aanbieding voorUSD 14,92",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,76",
+          "n": "USD 38,78",
           "c": "Algemeen"
         },
         {
@@ -1701,11 +1661,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,67",
+          "n": "3 aanbiedingen vanUSD 18,68",
           "c": "Algemeen"
         },
         {
           "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 18,35",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 7,74",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 39,22",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gritin Leeslamp met klem, USB-oplaadbare boekenlamp met 19 leds, 3 kleurtemperat",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,60",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 21,91",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "24 aanbiedingen vanUSD 9,97",
           "c": "Algemeen"
         }
       ]
