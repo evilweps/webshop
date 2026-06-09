@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T13:35:49.009873+00:00",
-  "updated_fmt": "9 June 2026 om 13:35",
+  "updated": "2026-06-09T19:05:50.896024+00:00",
+  "updated_fmt": "9 June 2026 om 19:05",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Jun 2026 13:35 UTC",
+      "note": "bol.com — gescraped 9 Jun 2026 19:05 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Jun 2026 13:35 UTC",
+      "note": "amazon.nl — gescraped 9 Jun 2026 19:05 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,22 +739,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Score: Now an Original Series on Amazon Prime: 3",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Thriller",
           "c": "Algemeen"
         },
@@ -771,27 +755,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biokat's Diamond Care Fresh, geurend - Fijne kattenbakvulling met actieve kool e",
+          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
           "c": "Algemeen"
         },
         {
-          "n": "Sheba Sauscollectie vershoudzakjes nat voer selectie vissen voor volwassen katte",
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
           "c": "Algemeen"
         },
         {
-          "n": "Felix Mix Selectie in Gelei Kattenvoer, Natvoer maaltijdzakjes met Rund, Kip, Za",
+          "n": "The Score: Now an Original Series on Amazon Prime: 3",
           "c": "Algemeen"
         },
         {
-          "n": "Kattenfontein roestvrij stalen drinkfontein voor katten: kattenfontein voor katt",
+          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
           "c": "Algemeen"
         },
         {
-          "n": "Gourmet Perle Mini Filets Kattenvoer, Natvoer met Rund, Kip, Konijn, Zalm in Sau",
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics Trainingspads voor honden en puppy's, lekvrij 5-laags design met s",
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
           "c": "Algemeen"
         },
         {
@@ -869,6 +861,14 @@
         {
           "n": "TP-Link 5-poorts Desktop Gigabit Switch, 5 10/100 / 1000M RJ45-poorten, metalen ",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Jun 2026 13:35 UTC",
+      "note": "amazon.com.be — gescraped 9 Jun 2026 19:05 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1146,6 +1146,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "HXSEMAYIG 100 stuks sleutelhangers met sleutelhangers, metalen draaibare karabij",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
@@ -1206,11 +1210,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Bionoble Organic Castor Oil 50ml - 100% Puur, Natuurlijk en Koudgeperst - Wimper",
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "n": "Bionoble Organic Castor Oil 50ml - 100% Puur, Natuurlijk en Koudgeperst - Wimper",
           "c": "Algemeen"
         },
         {
@@ -1320,10 +1324,6 @@
         {
           "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
           "c": "Elektronica"
-        },
-        {
-          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A16 5G / 4G 6,7 inch, 9H gehard ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Jun 2026 13:35 UTC",
+      "note": "amazon.de — gescraped 9 Jun 2026 19:05 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.206,74/l)",
+          "n": "(USD 1.049,30/l)",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 16,78",
+          "n": "5 aanbiedingen vanUSD 25,18",
           "c": "Algemeen"
         },
         {
