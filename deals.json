@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T00:04:38.829812+00:00",
-  "updated_fmt": "10 June 2026 om 00:04",
+  "updated": "2026-06-10T08:42:42.457908+00:00",
+  "updated_fmt": "10 June 2026 om 08:42",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Jun 2026 00:04 UTC",
+      "note": "bol.com — gescraped 10 Jun 2026 08:42 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Jun 2026 00:04 UTC",
+      "note": "amazon.nl — gescraped 10 Jun 2026 08:42 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,30 +671,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WMF Touch Keukenschaar Zwart, Ergonomisch ontwerp, Soft-Touch Hangrepen, Links- ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Utopia Bedding Hoeslaken met elastische hoeken, geborstelde microvezel, wit, 200",
-          "c": "Algemeen"
-        },
-        {
-          "n": "KICHLY Glazen voorraadpotten - Transparante eerste klas glazen potten met deksel",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
           "c": "Algemeen"
         },
@@ -711,7 +687,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Authentiek Elektrische baardtrimmer en scheerapparaat, 2x 3",
+          "n": "Kanzy Rozenbottelolie voor het gezicht 120 ml – Koudgeperst, 100% puur, veganist",
           "c": "Algemeen"
         },
         {
@@ -735,7 +711,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "WMF Touch Keukenschaar Zwart, Ergonomisch ontwerp, Soft-Touch Hangrepen, Links- ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding Hoeslaken met elastische hoeken, geborstelde microvezel, wit, 200",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Statief Ventilator Serie 2000. Krachtig & ultrastil met SilentWings-tech",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Thriller",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Currents",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nevermind",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kanye West - Graduation (UK Version)",
           "c": "Algemeen"
         },
         {
@@ -747,23 +763,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Score: Now an Original Series on Amazon Prime: 3",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Thriller",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nevermind",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Currents",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kanye West - Graduation (UK Version)",
+          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
           "c": "Algemeen"
         },
         {
@@ -815,19 +815,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Google TV Streamer 4K - ontspannen entertainment door snelle streaming en afstan",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
+          "n": "Google TV Streamer 4K - ontspannen entertainment door snelle streaming en afstan",
           "c": "Elektronica"
         },
         {
-          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
@@ -835,7 +831,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra Android MicroSDXC UHS-I-Kaart 64 GB + SD-Adapter (Voor Smartphones",
           "c": "Elektronica"
         },
         {
@@ -851,7 +851,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
         },
         {
@@ -863,11 +863,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "n": "Hama MicroSD | microSDHC | microSDXC kaart 32GB 80MB/s overdrachtssnelheid Class",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
+          "n": "SanDisk Ultra USB 3.0-Flashdrive 64 GB Pak Van 3 (Overdrachtssnelheden Tot 130 M",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Jun 2026 00:04 UTC",
+      "note": "amazon.com.be — gescraped 10 Jun 2026 08:42 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1186,11 +1186,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "TrendPlain Keukenoliespray, 470 ml, luchtfryer oliesproeier 2-in-1 voor koken, s",
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "n": "TrendPlain Keukenoliespray, 470 ml, luchtfryer oliesproeier 2-in-1 voor koken, s",
           "c": "Algemeen"
         },
         {
@@ -1254,15 +1254,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
           "c": "Algemeen"
         },
         {
-          "n": "Trust Gaming GXT 498W Forta PS5 hoofdtelefoon, duurzaam, officiële licentie voor",
+          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
           "c": "Algemeen"
         },
         {
@@ -1306,11 +1306,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
           "c": "Elektronica"
         },
         {
@@ -1322,7 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
+          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A16 5G / 4G 6,7 inch, 9H gehard ",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Jun 2026 00:04 UTC",
+      "note": "amazon.de — gescraped 10 Jun 2026 08:42 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 38,65",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 17,30",
+          "n": "3 aanbiedingen vanUSD 38,70",
           "c": "Algemeen"
         },
         {
@@ -1529,15 +1521,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,35",
+          "n": "USD 17,37",
           "c": "Algemeen"
         },
         {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,82",
+          "n": "1 aanbieding voorUSD 17,31",
           "c": "Algemeen"
         },
         {
@@ -1549,11 +1541,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "n": "adidas Unisex Cushioned Crew Socks 6 paar sokken",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 23,07",
+          "n": "USD 18,44",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 20,84",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,15",
+          "n": "1 aanbieding voorUSD 13,17",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.049,30/l)",
+          "n": "(USD 1.050,42/l)",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 193,62/l)",
+          "n": "(USD 193,82/l)",
           "c": "Algemeen"
         },
         {
@@ -1593,19 +1593,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,00",
+          "n": "1 aanbieding voorUSD 6,01",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 32,19",
+          "n": "Kanzy Jojoba-olie, koudgeperst, 100% puur goud, 120 ml, voor huid, haren en nage",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,97",
+          "n": "1 aanbieding voorUSD 10,89",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,76",
+          "n": "USD 5,88",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 20,78",
           "c": "Algemeen"
         },
         {
@@ -1613,15 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,33",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "8 aanbiedingen vanUSD 13,97",
+          "n": "3 aanbiedingen vanUSD 8,34",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1625,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 25,18",
+          "n": "5 aanbiedingen vanUSD 25,20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "9 aanbiedingen vanUSD 14,51",
           "c": "Algemeen"
         },
         {
@@ -1637,11 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,18",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 8,07",
+          "n": "3 aanbiedingen vanUSD 13,19",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,92",
+          "n": "1 aanbieding voorUSD 14,94",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 8,08",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,78",
+          "n": "USD 38,82",
           "c": "Algemeen"
         },
         {
@@ -1665,47 +1669,43 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 18,68",
+          "n": "3 aanbiedingen vanUSD 18,70",
           "c": "Algemeen"
         },
         {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "n": "Philips STH3000/20 Draagbare kledingstomer, 1000 W, compact en opvouwbaar, water",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 18,35",
+          "n": "27 aanbiedingen vanUSD 26,31",
           "c": "Algemeen"
         },
         {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
           "c": "Algemeen"
         },
         {
-          "n": "USD 7,74",
+          "n": "USD 20,90",
           "c": "Algemeen"
         },
         {
-          "n": "Audible Standard",
+          "n": "2 aanbiedingen vanUSD 66,88",
           "c": "Algemeen"
         },
         {
-          "n": "USD 0,00",
+          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 100 zakjes)",
           "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "n": "1 aanbieding voorUSD 173,14",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,08",
+          "n": "Apple iPad met A16 Chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,57",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dreihundert Männer: Aufstieg und Fall der Deutschland AG | Eine glänzend erzählt",
+          "n": "9 aanbiedingen vanUSD 360,48",
           "c": "Algemeen"
         }
       ]
