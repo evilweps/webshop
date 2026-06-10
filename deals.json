@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T19:05:50.896024+00:00",
-  "updated_fmt": "9 June 2026 om 19:05",
+  "updated": "2026-06-10T00:04:38.829812+00:00",
+  "updated_fmt": "10 June 2026 om 00:04",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Jun 2026 19:05 UTC",
+      "note": "bol.com — gescraped 10 Jun 2026 00:04 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Jun 2026 19:05 UTC",
+      "note": "amazon.nl — gescraped 10 Jun 2026 00:04 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,6 +739,18 @@
           "c": "Algemeen"
         },
         {
+          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Score: Now an Original Series on Amazon Prime: 3",
+          "c": "Algemeen"
+        },
+        {
           "n": "Thriller",
           "c": "Algemeen"
         },
@@ -752,22 +764,6 @@
         },
         {
           "n": "Kanye West - Graduation (UK Version)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Score: Now an Original Series on Amazon Prime: 3",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
           "c": "Algemeen"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Power Bank, 20000mAh 45W Snel Opladen met Geïntegreerde USB-C Kabel & Bid",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Jun 2026 19:05 UTC",
+      "note": "amazon.com.be — gescraped 10 Jun 2026 00:04 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1262,7 +1262,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "n": "Trust Gaming GXT 498W Forta PS5 hoofdtelefoon, duurzaam, officiële licentie voor",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Jun 2026 19:05 UTC",
+      "note": "amazon.de — gescraped 10 Jun 2026 00:04 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1597,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.313,01/kg)",
+          "n": "2 aanbiedingen vanUSD 32,19",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 9,82",
+          "n": "5 aanbiedingen vanUSD 8,07",
           "c": "Algemeen"
         },
         {
@@ -1685,27 +1685,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,91",
+          "n": "Audible Standard",
           "c": "Algemeen"
         },
         {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "n": "USD 0,00",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 29,86",
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
           "c": "Algemeen"
         },
         {
-          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
+          "n": "USD 15,08",
           "c": "Algemeen"
         },
         {
-          "n": "24 aanbiedingen vanUSD 10,07",
+          "n": "USD 13,57",
           "c": "Algemeen"
         },
         {
-          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
+          "n": "Dreihundert Männer: Aufstieg und Fall der Deutschland AG | Eine glänzend erzählt",
           "c": "Algemeen"
         }
       ]
