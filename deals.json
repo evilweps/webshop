@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T14:16:10.562115+00:00",
-  "updated_fmt": "10 June 2026 om 14:16",
+  "updated": "2026-06-10T19:28:49.176434+00:00",
+  "updated_fmt": "10 June 2026 om 19:28",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Jun 2026 14:16 UTC",
+      "note": "bol.com — gescraped 10 Jun 2026 19:28 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Jun 2026 14:16 UTC",
+      "note": "amazon.nl — gescraped 10 Jun 2026 19:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Jun 2026 14:16 UTC",
+      "note": "amazon.com.be — gescraped 10 Jun 2026 19:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1218,6 +1218,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DIK Magnetisch vliegengaas voor deur, 90 x 210 cm, fijn net, Tenda deur met voll",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Rapesco 1697 rollen duurzame verpakkingstape, 50 mm x 60 m, transparant, 2 stuks",
+          "c": "Algemeen"
+        },
+        {
           "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
           "c": "Algemeen"
         },
@@ -1243,27 +1267,27 @@
         },
         {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Duracell Plus AA-batterijen (20 stuks) – alkaline 1,5 V – tot 100% langer – idea",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
@@ -1300,30 +1324,6 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy A17 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
-        },
-        {
-          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
-          "c": "Elektronica"
-        },
-        {
-          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 256 GB Extreme microSDXC, micro-SD-kaart + SD-adapter, UHS-I, tot 190 MB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A16 5G / 4G 6,7 inch, 9H gehard ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Jun 2026 14:16 UTC",
+      "note": "amazon.de — gescraped 10 Jun 2026 19:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,88",
+          "n": "USD 5,90",
           "c": "Algemeen"
         },
         {
