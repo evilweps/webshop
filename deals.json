@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T09:06:53.289465+00:00",
-  "updated_fmt": "11 June 2026 om 09:06",
+  "updated": "2026-06-11T14:28:57.139271+00:00",
+  "updated_fmt": "11 June 2026 om 14:28",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Jun 2026 09:06 UTC",
+      "note": "bol.com — gescraped 11 Jun 2026 14:28 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Jun 2026 09:06 UTC",
+      "note": "amazon.nl — gescraped 11 Jun 2026 14:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,6 +735,22 @@
           "c": "Algemeen"
         },
         {
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 120 Stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TePe Interdentale rager, Original, Geel, 0.7mm/ISO 4, 20st, efficiënte reiniging",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Beurer BiteX Original insectenbeet heler BR 60, muggenbeet-warmtestift voor de b",
+          "c": "Algemeen"
+        },
+        {
           "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
           "c": "Algemeen"
         },
@@ -751,27 +767,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
         {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 120 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe Interdentale rager, Original, Geel, 0.7mm/ISO 4, 20st, efficiënte reiniging",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Beurer BiteX Original insectenbeet heler BR 60, muggenbeet-warmtestift voor de b",
+          "n": "Salute - Das letzte Foto: Ein Fall für Lanza & Zeitler, Band 4",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Jun 2026 09:06 UTC",
+      "note": "amazon.com.be — gescraped 11 Jun 2026 14:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1174,30 +1174,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Manette Xbox Blanche Sans Fil - Robot White",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Trust Gaming GXT 498W Forta PS5 hoofdtelefoon, duurzaam, officiële licentie voor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
           "c": "Algemeen"
         },
@@ -1242,27 +1218,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
+          "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
           "c": "Algemeen"
         },
         {
-          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
+          "n": "Manette Xbox Blanche Sans Fil - Robot White",
           "c": "Algemeen"
         },
         {
-          "n": "DIK Magnetisch vliegengaas voor deur, 90 x 210 cm, fijn net, Tenda deur met voll",
+          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
+          "n": "Trust Gaming GXT 498W Forta PS5 hoofdtelefoon, duurzaam, officiële licentie voor",
           "c": "Algemeen"
         },
         {
-          "n": "ERNESTINE - Meetlint I love you papa cadeau - Vaderdag en grootvaderdag - gepers",
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
           "c": "Algemeen"
         },
         {
-          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
+          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Avent Natuurlijke Zuigreflex-babyfles, 330 ml, BPA-vrij, voor baby's van",
+          "c": "Algemeen"
+        },
+        {
+          "n": "WaterWipes Original plasticvrije babydoekjes, 720 stuks (12 pakken), op basis va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Babykruipmat, opvouwbaar, dik, omkeerbaar, 150 x 180 x 1 cm, speelvloer voor kin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Huggies, pure babydoekjes - 99% water, gevoelig, geurvrij, 18 pakjes, 56 stuks (",
           "c": "Algemeen"
         },
         {
@@ -1324,6 +1320,10 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy A26 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Jun 2026 09:06 UTC",
+      "note": "amazon.de — gescraped 11 Jun 2026 14:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "adidas Unisex Adilette Aqua Slidesslip",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
         {
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,90",
+          "n": "USD 5,88",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "28 aanbiedingen vanUSD 26,30",
+          "n": "30 aanbiedingen vanUSD 26,30",
           "c": "Algemeen"
         },
         {
