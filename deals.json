@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T19:28:49.176434+00:00",
-  "updated_fmt": "10 June 2026 om 19:28",
+  "updated": "2026-06-11T00:07:35.447137+00:00",
+  "updated_fmt": "11 June 2026 om 00:07",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Jun 2026 19:28 UTC",
+      "note": "bol.com — gescraped 11 Jun 2026 00:07 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Jun 2026 19:28 UTC",
+      "note": "amazon.nl — gescraped 11 Jun 2026 00:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -727,23 +727,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Currents",
+          "n": "Michael Jackson - Dangerous",
           "c": "Algemeen"
         },
         {
-          "n": "Guardians of the Galaxy: Awesome Mix Vol. 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal: Now an Original Series on Amazon Prime: 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cosy coloriage - La petite vie cosy de Diddl: Coloriages cultes et mignons",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Mistake: Now an Original Series on Amazon Prime: 2",
+          "n": "Berserk Deluxe Volume 5: deluxe edition",
           "c": "Algemeen"
         },
         {
@@ -764,6 +752,30 @@
         },
         {
           "n": "Neutrogena® Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Salute - Das letzte Foto: Ein Fall für Lanza & Zeitler, Band 4",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
         {
@@ -857,18 +869,6 @@
         {
           "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TP-Link 5-poorts Desktop Gigabit Switch, 5 10/100 / 1000M RJ45-poorten, metalen ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Jun 2026 19:28 UTC",
+      "note": "amazon.com.be — gescraped 11 Jun 2026 00:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1218,30 +1218,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DIK Magnetisch vliegengaas voor deur, 90 x 210 cm, fijn net, Tenda deur met voll",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Rapesco 1697 rollen duurzame verpakkingstape, 50 mm x 60 m, transparant, 2 stuks",
-          "c": "Algemeen"
-        },
-        {
           "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
           "c": "Algemeen"
         },
@@ -1258,36 +1234,36 @@
           "c": "Algemeen"
         },
         {
-          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Trust Gaming GXT 498W Forta PS5 hoofdtelefoon, duurzaam, officiële licentie voor",
           "c": "Algemeen"
         },
         {
+          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Duracell Plus AA-batterijen (20 stuks) – alkaline 1,5 V – tot 100% langer – idea",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
@@ -1324,6 +1300,30 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy A17 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
+        },
+        {
+          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "c": "Elektronica"
+        },
+        {
+          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk 256 GB Extreme microSDXC, micro-SD-kaart + SD-adapter, UHS-I, tot 190 MB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A16 5G / 4G 6,7 inch, 9H gehard ",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Jun 2026 19:28 UTC",
+      "note": "amazon.de — gescraped 11 Jun 2026 00:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,11 +1509,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Calvin Klein Set van 3 boxershorts voor heren, ondergoed",
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, stretch",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 38,70",
+          "n": "1 aanbieding voorUSD 38,70",
           "c": "Algemeen"
         },
         {
@@ -1605,46 +1605,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,90",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 20,78",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,34",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wago 221-413 Lasklem, 50 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 25,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "9 aanbiedingen vanUSD 14,51",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,19",
-          "c": "Algemeen"
-        },
-        {
           "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
@@ -1677,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "27 aanbiedingen vanUSD 26,31",
+          "n": "28 aanbiedingen vanUSD 26,31",
           "c": "Algemeen"
         },
         {
@@ -1686,6 +1646,46 @@
         },
         {
           "n": "USD 20,90",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,90",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 20,78",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,34",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brennenstuhl H05VV-F3G1 Verlengsnoer van 2 meter met haakse platte stekker, wit,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 8,34",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Wago 221-413 Lasklem, 50 stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 25,20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "9 aanbiedingen vanUSD 14,51",
           "c": "Algemeen"
         },
         {
