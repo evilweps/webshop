@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T19:28:34.043460+00:00",
-  "updated_fmt": "11 June 2026 om 19:28",
+  "updated": "2026-06-12T00:13:46.653191+00:00",
+  "updated_fmt": "12 June 2026 om 00:13",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Jun 2026 19:28 UTC",
+      "note": "bol.com — gescraped 12 Jun 2026 00:13 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Jun 2026 19:28 UTC",
+      "note": "amazon.nl — gescraped 12 Jun 2026 00:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -771,7 +771,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Salute - Das letzte Foto: Ein Fall für Lanza & Zeitler, Band 4",
+          "n": "Häftling",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Jun 2026 19:28 UTC",
+      "note": "amazon.com.be — gescraped 12 Jun 2026 00:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1218,6 +1218,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Avent Natuurlijke Zuigreflex-babyfles, 330 ml, BPA-vrij, voor baby's van",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Babykruipmat, opvouwbaar, dik, omkeerbaar, 150 x 180 x 1 cm, speelvloer voor kin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "WaterWipes Original plasticvrije babydoekjes, 720 stuks (12 pakken), op basis va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Huggies, pure babydoekjes - 99% water, gevoelig, geurvrij, 18 pakjes, 56 stuks (",
+          "c": "Algemeen"
+        },
+        {
           "n": "Playstation, Gamepad, playstation_5, draadloos, DualSense, rood",
           "c": "Algemeen"
         },
@@ -1239,26 +1259,6 @@
         },
         {
           "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Avent Natuurlijke Zuigreflex-babyfles, 330 ml, BPA-vrij, voor baby's van",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WaterWipes Original plasticvrije babydoekjes, 720 stuks (12 pakken), op basis va",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Babykruipmat, opvouwbaar, dik, omkeerbaar, 150 x 180 x 1 cm, speelvloer voor kin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Huggies, pure babydoekjes - 99% water, gevoelig, geurvrij, 18 pakjes, 56 stuks (",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Jun 2026 19:28 UTC",
+      "note": "amazon.de — gescraped 12 Jun 2026 00:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "33 aanbiedingen vanUSD 26,30",
+          "n": "34 aanbiedingen vanUSD 26,30",
           "c": "Algemeen"
         },
         {
