@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T18:02:16.023296+00:00",
-  "updated_fmt": "13 June 2026 om 18:02",
+  "updated": "2026-06-13T23:56:39.496447+00:00",
+  "updated_fmt": "13 June 2026 om 23:56",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 13 Jun 2026 18:02 UTC",
+      "note": "bol.com — gescraped 13 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 13 Jun 2026 18:02 UTC",
+      "note": "amazon.nl — gescraped 13 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,10 +743,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
-          "c": "Algemeen"
-        },
-        {
           "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
@@ -756,6 +752,10 @@
         },
         {
           "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 13 Jun 2026 18:02 UTC",
+      "note": "amazon.com.be — gescraped 13 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 13 Jun 2026 18:02 UTC",
+      "note": "amazon.de — gescraped 13 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,22",
+          "n": "3 aanbiedingen vanUSD 4,62",
           "c": "Algemeen"
         },
         {
