@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T18:57:19.779594+00:00",
-  "updated_fmt": "12 June 2026 om 18:57",
+  "updated": "2026-06-13T00:12:20.730869+00:00",
+  "updated_fmt": "13 June 2026 om 00:12",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 12 Jun 2026 18:57 UTC",
+      "note": "bol.com — gescraped 13 Jun 2026 00:12 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 12 Jun 2026 18:57 UTC",
+      "note": "amazon.nl — gescraped 13 Jun 2026 00:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -747,11 +747,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
         {
-          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
+          "n": "The Mistake - Niemand ist perfekt: Off-Campus 2",
           "c": "Algemeen"
         },
         {
@@ -779,15 +779,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Grabie Acrylmarkers met Soft Brush Tip, 36 Stuks (72 Kleuren), Dual-Tip Verfpenn",
+          "n": "The Deal (Off-Campus Book 1) (English Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "Zenacolor 40 textiel- en textielmarkers - niet-giftig, onuitwisbaar en permanent",
+          "n": "Into the Blue: The Reese's Book Club Pick! The will-they-won't-they love story w",
           "c": "Algemeen"
         },
         {
-          "n": "Oriento Meetlint voor het meten van lichaam, 150 cm, centimeter voor kleermaken,",
+          "n": "Every Summer After: the PHENOMENAL BESTSELLING ROMANCE - Now an Original Series ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Score (Off-Campus Book 3) (English Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Mistake (Off-Campus Book 2) (English Edition)",
           "c": "Algemeen"
         },
         {
@@ -861,14 +869,6 @@
         {
           "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
           "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 12 Jun 2026 18:57 UTC",
+      "note": "amazon.com.be — gescraped 13 Jun 2026 00:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 12 Jun 2026 18:57 UTC",
+      "note": "amazon.de — gescraped 13 Jun 2026 00:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 4,14",
+          "n": "USD 3,87",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "36 aanbiedingen vanUSD 26,36",
+          "n": "USD 23,32",
           "c": "Algemeen"
         },
         {
@@ -1705,7 +1705,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 16,59",
+          "n": "USD 14,49",
           "c": "Algemeen"
         }
       ]
