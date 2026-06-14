@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T08:37:26.978569+00:00",
-  "updated_fmt": "14 June 2026 om 08:37",
+  "updated": "2026-06-14T12:56:41.935234+00:00",
+  "updated_fmt": "14 June 2026 om 12:56",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 14 Jun 2026 08:37 UTC",
+      "note": "bol.com — gescraped 14 Jun 2026 12:56 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 14 Jun 2026 08:37 UTC",
+      "note": "amazon.nl — gescraped 14 Jun 2026 12:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 14 Jun 2026 08:37 UTC",
+      "note": "amazon.com.be — gescraped 14 Jun 2026 12:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,30 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
-          "c": "Algemeen"
-        },
-        {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Handbagage van 55 x 40 x 20 cm, rugzak voor in het vliegtuig, 44 liter, grote re",
           "c": "Algemeen"
         },
@@ -1266,6 +1242,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "WaterWipes Original plasticvrije babydoekjes, 720 stuks (12 pakken), op basis va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Avent Set van 2 Natural Response glazen flessen - 240 ml fles, BPA-vrij ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Avent Natuurlijke Zuigreflex-babyflessen, 3 stuks van 260 ml, BPA-vrij, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Huggies, pure babydoekjes - 99% water, gevoelig, geurvrij, 18 pakjes, 56 stuks (",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fisher-Price Sluimer-otter",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Elektronica"
         },
@@ -1324,6 +1320,10 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy S26 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
+        },
+        {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 14 Jun 2026 08:37 UTC",
+      "note": "amazon.de — gescraped 14 Jun 2026 12:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 173,41",
-          "c": "Algemeen"
-        },
-        {
           "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "24 aanbiedingen vanUSD 24,60",
           "c": "Algemeen"
         },
         {
@@ -1529,19 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 92,34",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,44",
-          "c": "Algemeen"
-        },
-        {
           "n": "WM 2026 Sticker - 20 Tüten + Exklusive Collect-it Hüllen (Eigenmarke Budle)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 40,48",
           "c": "Algemeen"
         },
         {
@@ -1549,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 364,88",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, stretch",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 43,90",
           "c": "Algemeen"
         },
         {
@@ -1565,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,43",
-          "c": "Algemeen"
-        },
-        {
           "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 7,90",
           "c": "Algemeen"
         },
         {
@@ -1581,15 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 5,92/eenheid)",
-          "c": "Algemeen"
-        },
-        {
           "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 20,87",
           "c": "Algemeen"
         },
         {
@@ -1597,23 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,73",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,98",
-          "c": "Algemeen"
-        },
-        {
           "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,35",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 20,81",
           "c": "Algemeen"
         },
         {
@@ -1621,15 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 3,86",
-          "c": "Algemeen"
-        },
-        {
           "n": "Wago 221-413 Lasklem, 50 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 25,24",
           "c": "Algemeen"
         },
         {
@@ -1637,15 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,22",
-          "c": "Algemeen"
-        },
-        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 1.183,41/l)",
           "c": "Algemeen"
         },
         {
@@ -1653,15 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,14",
-          "c": "Algemeen"
-        },
-        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,89/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1673,15 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 194,13/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 6,02",
           "c": "Algemeen"
         },
         {
@@ -1689,15 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,40",
-          "c": "Algemeen"
-        },
-        {
           "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,88",
           "c": "Algemeen"
         },
         {
@@ -1705,8 +1605,108 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 13,30",
+          "n": "Philips STH3000/20 Draagbare kledingstomer, 1000 W, compact en opvouwbaar, water",
           "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips LED Classic GU10 Lampen 6-er Pack (50 W), Reflektor LED Spots mit warmwe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "86lux Leeslamp, boekenklem, oplaadbare boekenlamp om te lezen in bed, ultralicht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Swiffer Stofmagneet navulverpakking, 25 doekjes (5 × 5) met febreze geur, vangt ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens TZ80002A Ontkalkingstabletten, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
+        },
+        {
+          "n": "Russell Hobbs SatisFry 27632-56 Heteluchtfriteuse, 8,3 liter, compacte behuizing",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
+          "c": "Keuken"
+        },
+        {
+          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "c": "Keuken"
+        },
+        {
+          "n": "DeLonghi 5513292811 Waterfilter, wit, los, verpakking van 1, wit",
+          "c": "Keuken"
+        },
+        {
+          "n": "Utopia Bedding Set van 4 kussenvullingen 45 x 45 cm, binnenkussen vulkussen bank",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie Premium Hoeslaken 180 x 200 cm, hoeslaken voor dikke matrassen tot 27 c",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Brita Intenza TZ70033A Waterfilter, 3 stuks, vermindert de hardheid van ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Blumtal® Hoeslaken 180 x 200 x 30 cm, van microvezel, Oekotex gecertificeerd lak",
+          "c": "Keuken"
+        },
+        {
+          "n": "reisenthel Carrybag Boodschappenmand met veel opbergruimte en praktische binnenz",
+          "c": "Keuken"
+        },
+        {
+          "n": "sleepling Hoofdkussen 40 x 80 cm, set van 2, anti-allergene kussens, wasbaar, ma",
+          "c": "Keuken"
         }
       ]
     }
