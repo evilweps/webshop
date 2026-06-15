@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T10:48:58.137333+00:00",
-  "updated_fmt": "15 June 2026 om 10:48",
+  "updated": "2026-06-15T16:12:07.938968+00:00",
+  "updated_fmt": "15 June 2026 om 16:12",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 15 Jun 2026 10:48 UTC",
+      "note": "bol.com — gescraped 15 Jun 2026 16:12 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 15 Jun 2026 10:48 UTC",
+      "note": "amazon.nl — gescraped 15 Jun 2026 16:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -751,11 +751,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
           "c": "Algemeen"
         },
         {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 15 Jun 2026 10:48 UTC",
+      "note": "amazon.com.be — gescraped 15 Jun 2026 16:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1214,6 +1214,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Algemeen"
+        },
+        {
           "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
           "c": "Algemeen"
         },
@@ -1236,54 +1260,6 @@
         {
           "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
           "c": "Algemeen"
-        },
-        {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arnomed Nitril handschoenen maat L, zwarte nitril handschoen, 100 stuks/doos, zw",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cinkee Dik vliegengaas voor deur, 120 x 220 cm, zeer dicht net, magnetisch, vlie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips LED-Spot 6-pack - Warmwit licht - GU10 - 50 W - Energiezuinige LED-verli",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
         },
         {
           "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
@@ -1324,6 +1300,30 @@
         {
           "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Samsung EVO Select (2024) microSD-kaart + SD-adapter 128 GB voor UHS-I U3 4K UHD",
+          "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A17 5G / 4G 6,7 inch, 9H gehard ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 15 Jun 2026 10:48 UTC",
+      "note": "amazon.de — gescraped 15 Jun 2026 16:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 16,48",
+          "c": "Algemeen"
+        },
+        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, stretch",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 35,92",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 5,94/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "SINOPHANT Leggings Damen High Waist - Blickdicht Leggins mit Bauchkontrolle für ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 7,93",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1545,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 20,94",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Unisex Cushioned Crew Socks 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,52",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,95",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1565,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "3 aanbiedingen vanUSD 8,38",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,75",
+          "c": "Algemeen"
+        },
+        {
           "n": "Brennenstuhl H05VV-F3G1 Verlengsnoer van 2 meter met haakse platte stekker, wit,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 3,85",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1585,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "6 aanbiedingen vanUSD 25,32",
+          "c": "Algemeen"
+        },
+        {
           "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 16,27",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1601,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 1.187,19/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 11,55",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1617,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 3,90/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 194,75/l)",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1633,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 10,94",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 6,04",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1649,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 10,43",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 13,35",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1665,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 39,01",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips STH3000/20 Draagbare kledingstomer, 1000 W, compact en opvouwbaar, water",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 23,39",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 12,24",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1685,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 21,88",
+          "c": "Algemeen"
+        },
+        {
           "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten &",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 34,76",
           "c": "Algemeen"
         },
         {
@@ -1601,112 +1701,12 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 22,11",
+          "c": "Algemeen"
+        },
+        {
           "n": "Alpine Tune oordopjes voor concerten en muziek, festivaloordopjes met geluidsdem",
           "c": "Algemeen"
-        },
-        {
-          "n": "Ernie Ball Gitaarsnaren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cameo AHCLFDJ5L Vloeistof voor rookmachines, gemiddelde dichtheid/standtijd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "86lux Leeslamp, boekenklem, oplaadbare boekenlamp om te lezen in bed, ultralicht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips LED Classic GU10 Lampen 6-er Pack (50 W), Reflektor LED Spots mit warmwe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Swiffer Stofmagneet navulverpakking, 25 doekjes (5 × 5) met febreze geur, vangt ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens TZ80002A Ontkalkingstabletten, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Keuken"
-        },
-        {
-          "n": "Russell Hobbs SatisFry 27632-56 Heteluchtfriteuse, 8,3 liter, compacte behuizing",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
-          "c": "Keuken"
-        },
-        {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie Premium Hoeslaken 200 x 200 cm, hoeslaken voor dikke matrassen tot 27 c",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal® Hoeslaken 180 x 200 x 30 cm, van microvezel, Oekotex gecertificeerd lak",
-          "c": "Keuken"
-        },
-        {
-          "n": "DeLonghi 5513292811 Waterfilter, wit, los, verpakking van 1, wit",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
-          "c": "Keuken"
-        },
-        {
-          "n": "Utopia Bedding Set van 4 kussenvullingen 45 x 45 cm, binnenkussen vulkussen bank",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Brita Intenza TZ70033A Waterfilter, 3 stuks, vermindert de hardheid van ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 40 x 80 cm, set van 2, anti-allergene kussens, wasbaar, ma",
-          "c": "Keuken"
         }
       ]
     }
