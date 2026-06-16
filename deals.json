@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T20:20:32.578662+00:00",
-  "updated_fmt": "15 June 2026 om 20:20",
+  "updated": "2026-06-16T00:21:57.537226+00:00",
+  "updated_fmt": "16 June 2026 om 00:21",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 15 Jun 2026 20:20 UTC",
+      "note": "bol.com — gescraped 16 Jun 2026 00:21 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 15 Jun 2026 20:20 UTC",
+      "note": "amazon.nl — gescraped 16 Jun 2026 00:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -787,23 +787,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
           "c": "Algemeen"
         },
         {
-          "n": "Scream 7",
+          "n": "TePe Interdentale rager, Original, Geel, 0.7mm/ISO 4, 20st, efficiënte reiniging",
           "c": "Algemeen"
         },
         {
-          "n": "1917 - 4k",
+          "n": "TePe EasyPick Tandenstokers, Oranje, maat XS-S, 60st, tandplakverwijderaar, effi",
           "c": "Algemeen"
         },
         {
-          "n": "Blu-Ray Epic: Elvis Presley In Concert",
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel",
           "c": "Algemeen"
         },
         {
-          "n": "Airwolf - Die komplette Serie",
+          "n": "Page toiletpapier - Kussenzacht wc papier - 36 rollen - met extra zijde - Voorde",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 15 Jun 2026 20:20 UTC",
+      "note": "amazon.com.be — gescraped 16 Jun 2026 00:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,6 +1150,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
           "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
           "c": "Algemeen"
         },
@@ -1190,27 +1214,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "eSUN PLA-filament 1,75 mm, maatnauwkeurigheid +/- 0,05 mm, spoel van 1 kg (2,2 l",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "n": "eSUN Verbeterd mat PLA filament 1,75 mm, 3D-printer, PLA-filament, mat, kleur zo",
           "c": "Algemeen"
         },
         {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "n": "OFFCUP Plastic injectiespuit, 10 stuks voedselspuit, 5 ml kunststof spuiten voor",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Surgicals Nitril handschoenen, poedervrij, in levensmiddelenkwaliteit, blauw, 10",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "n": "eSUN PLA+ filament 1,75 mm PLA Plus Spoolless navulverpakking, maatnauwkeurighei",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "n": "Papernet Zelfontstoken toiletpapier - Bio Tech, 2-ply - 24 rollen",
           "c": "Algemeen"
         },
         {
@@ -1235,30 +1259,6 @@
         },
         {
           "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arnomed Nitril handschoenen maat L, zwarte nitril handschoen, 100 stuks/doos, zw",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cinkee Dik vliegengaas voor deur, 120 x 220 cm, zeer dicht net, magnetisch, vlie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips LED-Spot 6-pack - Warmwit licht - GU10 - 50 W - Energiezuinige LED-verli",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 15 Jun 2026 20:20 UTC",
+      "note": "amazon.de — gescraped 16 Jun 2026 00:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1593,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,27",
+          "n": "3 aanbiedingen vanUSD 13,31",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,94",
+          "n": "1 aanbieding voorUSD 16,24",
           "c": "Algemeen"
         },
         {
