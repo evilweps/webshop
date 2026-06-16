@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T15:48:13.658218+00:00",
-  "updated_fmt": "16 June 2026 om 15:48",
+  "updated": "2026-06-16T20:01:19.143768+00:00",
+  "updated_fmt": "16 June 2026 om 20:01",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Jun 2026 15:48 UTC",
+      "note": "bol.com — gescraped 16 Jun 2026 20:01 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Jun 2026 15:48 UTC",
+      "note": "amazon.nl — gescraped 16 Jun 2026 20:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -771,11 +771,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
           "c": "Algemeen"
         },
         {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
+          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
           "c": "Algemeen"
         },
         {
@@ -783,7 +783,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Jun 2026 15:48 UTC",
+      "note": "amazon.com.be — gescraped 16 Jun 2026 20:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1174,6 +1174,22 @@
           "c": "Algemeen"
         },
         {
+          "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
+          "c": "Algemeen"
+        },
+        {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
@@ -1195,22 +1211,6 @@
         },
         {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Ondoorzichtige raamfolie: statische zelfklevende melkglasfolie voor ram",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Jun 2026 15:48 UTC",
+      "note": "amazon.de — gescraped 16 Jun 2026 20:01 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
