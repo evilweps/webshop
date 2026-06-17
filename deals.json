@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T20:01:19.143768+00:00",
-  "updated_fmt": "16 June 2026 om 20:01",
+  "updated": "2026-06-17T00:08:11.741258+00:00",
+  "updated_fmt": "17 June 2026 om 00:08",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Jun 2026 20:01 UTC",
+      "note": "bol.com — gescraped 17 Jun 2026 00:08 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Jun 2026 20:01 UTC",
+      "note": "amazon.nl — gescraped 17 Jun 2026 00:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -787,27 +787,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "Sharpie Permanentmarker 2 Stuk zwart",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "n": "Sakura Gelly Roll Basic White Gel Pen Set van 3, Assorti Maten | Dekkende Stifte",
           "c": "Algemeen"
         },
         {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "n": "Hinrichs 20 m rol geperforeerd bubbelpapier - bubbelfolie rol voor verpakking - ",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "n": "Dymo LetraTag 200B Bluetooth-labelmaker | Compacte labelprinter | Maakt via Blue",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "PAKNOR® Papieren zakken, 40 stuks, kleurrijke cadeauzakjes met 60 stickers, snoe",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
+          "n": "Ohuhu Kleurpennen 320 Kleuren Dubbele Punt Penseel & Fijne Punt Kunstmarkers voo",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Jun 2026 20:01 UTC",
+      "note": "amazon.com.be — gescraped 17 Jun 2026 00:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1214,30 +1214,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ICE Beer siroop zonder AZO en glycerine | 500 ml fles | concentraat voor slushy ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone koffiepad, composteerbaar, recyclebaar, blauw, 100 dranken, ESE-sy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterdrop® Microdrink Hydraterende dranken, veganistisch, klassieke vruchtensmak",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ORIGEENS biologische hibiscus 200 g - Hibiscusbloemen voor bissap, ijsthee, infu",
-          "c": "Algemeen"
-        },
-        {
           "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
           "c": "Algemeen"
         },
@@ -1259,6 +1235,26 @@
         },
         {
           "n": "EA SPORTS FC 26 Standard Edition PS4 | Videospel | Frans",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Stagg Gitaar, 20 m, zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alpine MusicSafe oordopjes: gehoorbescherming voor muzikanten, hoge geluidskwali",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario Akoestische Gitaarsnaren | Volksgitaarsnaren | EJ15 | Fosfor Bronzen A",
           "c": "Algemeen"
         },
         {
@@ -1324,6 +1320,10 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy A26 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Jun 2026 20:01 UTC",
+      "note": "amazon.de — gescraped 17 Jun 2026 00:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,46 +1509,6 @@
       ],
       "bestsellers": [
         {
-          "n": "USD 5,94",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blink-Kamera Outdoor 4 | Kabellose intelligente HD-Sicherheitskamera, zwei Jahre",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 92,69",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 17,72",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,37",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brennenstuhl H05VV-F3G1 Verlengsnoer van 2 meter met haakse platte stekker, wit,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 3,85",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blink Videotürklingel | Einzelgerät | Kopf-bis-Fuß-Aufnahme in HD, 2 Jahre Batte",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 63,72",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, stretch",
           "c": "Algemeen"
         },
@@ -1597,11 +1557,51 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 5,94",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blink-Kamera Outdoor 4 | Kabellose intelligente HD-Sicherheitskamera, zwei Jahre",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 92,69",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,72",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,37",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brennenstuhl H05VV-F3G1 Verlengsnoer van 2 meter met haakse platte stekker, wit,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 3,85",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blink Videotürklingel | Einzelgerät | Kopf-bis-Fuß-Aufnahme in HD, 2 Jahre Batte",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 63,72",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.185,36/l)",
+          "n": "(USD 1.110,51/l)",
           "c": "Algemeen"
         },
         {
@@ -1609,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,53",
+          "n": "1 aanbieding voorUSD 16,17",
           "c": "Algemeen"
         },
         {
