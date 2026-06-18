@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T14:13:49.072104+00:00",
-  "updated_fmt": "18 June 2026 om 14:13",
+  "updated": "2026-06-18T19:15:52.498370+00:00",
+  "updated_fmt": "18 June 2026 om 19:15",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 18 Jun 2026 14:13 UTC",
+      "note": "bol.com — gescraped 18 Jun 2026 19:15 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 18 Jun 2026 14:13 UTC",
+      "note": "amazon.nl — gescraped 18 Jun 2026 19:15 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 18 Jun 2026 14:13 UTC",
+      "note": "amazon.com.be — gescraped 18 Jun 2026 19:15 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,27 +1150,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
           "c": "Algemeen"
         },
         {
-          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
+          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "n": "Autobandenpomp Luchtcompressor: 150 psi mini draagbare luchtcompressor met 6000 ",
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
+          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
           "c": "Algemeen"
         },
         {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "n": "ClimaSet R134a koelgas vervanging, 1 x 235 g, voor airconditioning, aircondition",
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Autentisk Face & Body Electric Beard Trimmer, Shaver and Bo",
+          "n": "KITBEST Achteruitkijkspiegel met zuignap voor rijlessen, universele binnenspiege",
           "c": "Algemeen"
         },
         {
@@ -1238,27 +1238,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
         {
-          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
+          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
           "c": "Algemeen"
         },
         {
-          "n": "Autobandenpomp Luchtcompressor: 150 psi mini draagbare luchtcompressor met 6000 ",
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
+          "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
           "c": "Algemeen"
         },
         {
-          "n": "ClimaSet R134a koelgas vervanging, 1 x 235 g, voor airconditioning, aircondition",
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
           "c": "Algemeen"
         },
         {
-          "n": "KITBEST Achteruitkijkspiegel met zuignap voor rijlessen, universele binnenspiege",
+          "n": "Philips OneBlade 360 Autentisk Face & Body Electric Beard Trimmer, Shaver and Bo",
           "c": "Algemeen"
         },
         {
@@ -1310,10 +1310,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
-          "c": "Elektronica"
-        },
-        {
           "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
           "c": "Elektronica"
         },
@@ -1323,6 +1319,10 @@
         },
         {
           "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TAURI Beschermhoes voor iPhone 17 Pro Max met schermbescherming van gehard glas,",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 18 Jun 2026 14:13 UTC",
+      "note": "amazon.de — gescraped 18 Jun 2026 19:15 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 214,52",
+          "n": "5 aanbiedingen vanUSD 298,52",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 371,18",
+          "n": "8 aanbiedingen vanUSD 363,53",
           "c": "Algemeen"
         },
         {
@@ -1593,6 +1593,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 20,63",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Adilette Shower Slidesandalen, uniseks",
           "c": "Algemeen"
         },
@@ -1613,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,39",
+          "n": "1 aanbieding voorUSD 16,08",
           "c": "Algemeen"
         },
         {
@@ -1702,10 +1706,6 @@
         },
         {
           "n": "2 aanbiedingen vanUSD 31,10",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
           "c": "Algemeen"
         }
       ]
