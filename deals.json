@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T18:27:36.014620+00:00",
-  "updated_fmt": "19 June 2026 om 18:27",
+  "updated": "2026-06-19T23:58:17.683147+00:00",
+  "updated_fmt": "19 June 2026 om 23:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 19 Jun 2026 18:27 UTC",
+      "note": "bol.com — gescraped 19 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 19 Jun 2026 18:27 UTC",
+      "note": "amazon.nl — gescraped 19 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,30 +735,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
-          "c": "Algemeen"
-        },
-        {
           "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
           "c": "Algemeen"
         },
@@ -783,27 +759,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
+          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Buitencamera op batterij (Stick Up Cam) | HD-beveiligingscamera met tweeweg",
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
+          "n": "Häftling",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GARDINIA Veelzijdige zonwering, lichtdoorlatend, incl. 8 zuignappen, zwart, 100 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Castrol EDGE 5W-30 LL, 1L",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draagbare Luchtcompressor, Elektrische luchtpomp met dubbel digitaal LCD-display",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ClimaSet-gasvervanging R134a 1 x 235 g + slang voor auto-airco – voor auto's van",
+          "c": "Algemeen"
+        },
+        {
+          "n": "URAQT Microvezeldoeken, 6 stuks microvezel autoreinigingsdoeken van 500 g/m², mu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "CLIMASET - 4-In-1 Airco-Bijvulgas R134a, Olie, Lekdichtingsmiddel Met UV-Kleurst",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 19 Jun 2026 18:27 UTC",
+      "note": "amazon.com.be — gescraped 19 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1218,6 +1218,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Intex - Elektrische luchtpomp, 230 V",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adrenalyn XL Multiset FIFA Wereldkampioenschap 2026",
+          "c": "Algemeen"
+        },
+        {
+          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Traxenta Set van 5 reddingsdekens met reddingsfolie, scheurvast en waterdicht, e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
+          "c": "Algemeen"
+        },
+        {
           "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
           "c": "Algemeen"
         },
@@ -1235,30 +1255,6 @@
         },
         {
           "n": "AZO Free Ice Beer Siroop | 250 ml fles | concentraat voor slushy ijsmachines dra",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cinkee Dik vliegengaas voor deur, 120 x 220 cm, zeer dicht net, magnetisch, vlie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Yrichtra Afvoerslang, 150 mm, pvc, 5 m, afvoerslang, 5 lagen met 2 halskettingen",
           "c": "Algemeen"
         },
         {
@@ -1324,6 +1320,10 @@
         {
           "n": "JISULIFE Draagbare mini-handventilator, 3-in-1, oplaadbaar, ventilator op batter",
           "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 19 Jun 2026 18:27 UTC",
+      "note": "amazon.de — gescraped 19 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "19 aanbiedingen vanUSD 24,33",
+          "n": "19 aanbiedingen vanUSD 23,59",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 314,68",
+          "n": "1 aanbieding voorUSD 431,31",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,27",
+          "n": "1 aanbieding voorUSD 13,05",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "13 aanbiedingen vanUSD 12,58",
+          "n": "13 aanbiedingen vanUSD 13,73",
           "c": "Algemeen"
         },
         {
