@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T19:15:52.498370+00:00",
-  "updated_fmt": "18 June 2026 om 19:15",
+  "updated": "2026-06-19T00:19:29.968135+00:00",
+  "updated_fmt": "19 June 2026 om 00:19",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 18 Jun 2026 19:15 UTC",
+      "note": "bol.com — gescraped 19 Jun 2026 00:19 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 18 Jun 2026 19:15 UTC",
+      "note": "amazon.nl — gescraped 19 Jun 2026 00:19 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -787,15 +787,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
           "c": "Algemeen"
         },
         {
           "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 18 Jun 2026 19:15 UTC",
+      "note": "amazon.com.be — gescraped 19 Jun 2026 00:19 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,30 +1150,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Autobandenpomp Luchtcompressor: 150 psi mini draagbare luchtcompressor met 6000 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ClimaSet R134a koelgas vervanging, 1 x 235 g, voor airconditioning, aircondition",
-          "c": "Algemeen"
-        },
-        {
-          "n": "KITBEST Achteruitkijkspiegel met zuignap voor rijlessen, universele binnenspiege",
-          "c": "Algemeen"
-        },
-        {
           "n": "Intex - Elektrische luchtpomp, 230 V",
           "c": "Algemeen"
         },
@@ -1218,23 +1194,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lifetree Raamfolie, hittebescherming, eenrichtingsbescherming, uv-bescherming, v",
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "n": "AZO Free Ice Beer Siroop | 250 ml fles | concentraat voor slushy ijsmachines dra",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
+          "n": "Waterdrop® Microdrink Hydraterende dranken, veganistisch, klassieke vruchtensmak",
           "c": "Algemeen"
         },
         {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "n": "ICE Beer siroop zonder AZO en glycerine | 500 ml fles | concentraat voor slushy ",
           "c": "Algemeen"
         },
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Koffiepad, composteerbaar, recyclebaar, zwart mengsel, 150 dranken",
           "c": "Algemeen"
         },
         {
@@ -1259,6 +1239,26 @@
         },
         {
           "n": "Philips OneBlade 360 Autentisk Face & Body Electric Beard Trimmer, Shaver and Bo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Raamfolie, hittebescherming, eenrichtingsbescherming, uv-bescherming, v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
@@ -1310,6 +1310,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
           "c": "Elektronica"
         },
@@ -1319,10 +1323,6 @@
         },
         {
           "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TAURI Beschermhoes voor iPhone 17 Pro Max met schermbescherming van gehard glas,",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 18 Jun 2026 19:15 UTC",
+      "note": "amazon.de — gescraped 19 Jun 2026 00:19 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "17 aanbiedingen vanUSD 24,50",
+          "n": "18 aanbiedingen vanUSD 24,50",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 298,52",
+          "n": "5 aanbiedingen vanUSD 221,37",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,08",
+          "n": "1 aanbieding voorUSD 17,39",
           "c": "Algemeen"
         },
         {
