@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T09:24:29.699072+00:00",
-  "updated_fmt": "19 June 2026 om 09:24",
+  "updated": "2026-06-19T13:58:01.288476+00:00",
+  "updated_fmt": "19 June 2026 om 13:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 19 Jun 2026 09:24 UTC",
+      "note": "bol.com — gescraped 19 Jun 2026 13:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 19 Jun 2026 09:24 UTC",
+      "note": "amazon.nl — gescraped 19 Jun 2026 13:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,15 +743,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
         {
           "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 19 Jun 2026 09:24 UTC",
+      "note": "amazon.com.be — gescraped 19 Jun 2026 13:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1238,28 +1238,52 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
           "c": "Algemeen"
+        },
+        {
+          "n": "Cinkee Dik vliegengaas voor deur, 120 x 220 cm, zeer dicht net, magnetisch, vlie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EASYmaxx Vliegengaas voor ramen met Magic Click, individueel op maat te snijden ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Yrichtra Afvoerslang, 150 mm, pvc, 5 m, afvoerslang, 5 lagen met 2 halskettingen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Elektronica"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor Samsung Galaxy S26 6,3 inch, compatibel met ",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
@@ -1300,30 +1324,6 @@
         {
           "n": "JISULIFE Draagbare mini-handventilator, 3-in-1, oplaadbaar, ventilator op batter",
           "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
-          "c": "Elektronica"
-        },
-        {
-          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 19 Jun 2026 09:24 UTC",
+      "note": "amazon.de — gescraped 19 Jun 2026 13:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,6 +1509,50 @@
       ],
       "bestsellers": [
         {
+          "n": "Mattel Games P1703 Uno H2O To Go kaartspel, met kunststof kaarten in een waterdi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 11,49",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "17 aanbiedingen vanUSD 24,33",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 100 zakjes)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 179,65",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bestway Kinderbadje Deep Dive Ø 152 x 30 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 14,42",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 23,97",
+          "c": "Algemeen"
+        },
+        {
+          "n": "WM 2026 Sticker - 20 Tüten (Original) + Exklusive Collect-it Hüllen (Eigenmarke ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 42,33",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jacobson jersey hoeslaken, katoen, grijs, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
@@ -1529,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 278,92",
+          "n": "3 aanbiedingen vanUSD 284,68",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,27",
+          "n": "1 aanbieding voorUSD 15,96",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "14 aanbiedingen vanUSD 12,47",
+          "n": "13 aanbiedingen vanUSD 12,58",
           "c": "Algemeen"
         },
         {
@@ -1662,50 +1706,6 @@
         },
         {
           "n": "(USD 2,88/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Mini-lichtketting met batterij, 6 x 20 micro-lichtketting voor buiten, ba",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 6,80",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 26,66",
-          "c": "Algemeen"
-        },
-        {
-          "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 30,89",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Plafondlamp, platte led-plafondlamp, 3 kleuren, 3000 K/4000 K/6500 K, IP4",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 11,58",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WoldoClean Isopropanol, 99,9% zuivere isopropylalcohol / 2-propanol (IPA), reini",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 11,43",
-          "c": "Algemeen"
-        },
-        {
-          "n": "instax Mini 12™ Mint-Green",
           "c": "Algemeen"
         }
       ]
