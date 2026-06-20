@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T08:17:09.679646+00:00",
-  "updated_fmt": "20 June 2026 om 08:17",
+  "updated": "2026-06-20T12:22:38.250899+00:00",
+  "updated_fmt": "20 June 2026 om 12:22",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 20 Jun 2026 08:17 UTC",
+      "note": "bol.com — gescraped 20 Jun 2026 12:22 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 20 Jun 2026 08:17 UTC",
+      "note": "amazon.nl — gescraped 20 Jun 2026 12:22 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,30 +735,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "DualSense Wireless Controller - White (PS5)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nintendo Switch 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DualSense Wireless-Controller - Midnight Black [PlayStation 5]",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Xbox Wireless Controller Robot White",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Luna Premium",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JETech Dragen Case voor Nintendo Switch 2 (2025) 7,9 Inch, Draagbare Reistas met",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -804,6 +780,30 @@
         },
         {
           "n": "Dune: Part Two - 4K UHD: 4K Ultra HD Blu-ray + Blu-ray",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biokat's Diamond Care Fresh, geurend - Fijne kattenbakvulling met actieve kool e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Rosewood Salmon Fillet Strips Large - Zachte Hondensnack met 97 procent Zalm, Ei",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Trixie Koelmat voor honden en katten, 28685, 50 x 40 cm, blauw, koelt meerdere u",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Felix Mix Selectie in Gelei Kattenvoer, Natvoer maaltijdzakjes met Rund, Kip, Za",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Koelmat voor Hond, Zelfkoel Hondenmat, Kat Koelmat, Niet-toxisch Huisdier Zelfko",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 20 Jun 2026 08:17 UTC",
+      "note": "amazon.com.be — gescraped 20 Jun 2026 12:22 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 20 Jun 2026 08:17 UTC",
+      "note": "amazon.de — gescraped 20 Jun 2026 12:22 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 20,64",
+          "n": "8 aanbiedingen vanUSD 20,64",
           "c": "Algemeen"
         },
         {
@@ -1697,7 +1697,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,08",
+          "n": "1 aanbieding voorUSD 17,32",
           "c": "Algemeen"
         },
         {
@@ -1705,7 +1705,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "13 aanbiedingen vanUSD 13,77",
+          "n": "12 aanbiedingen vanUSD 13,77",
           "c": "Algemeen"
         }
       ]
