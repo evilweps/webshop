@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T08:53:50.044805+00:00",
-  "updated_fmt": "21 June 2026 om 08:53",
+  "updated": "2026-06-21T13:00:21.219378+00:00",
+  "updated_fmt": "21 June 2026 om 13:00",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 21 Jun 2026 08:53 UTC",
+      "note": "bol.com — gescraped 21 Jun 2026 13:00 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 21 Jun 2026 08:53 UTC",
+      "note": "amazon.nl — gescraped 21 Jun 2026 13:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 21 Jun 2026 08:53 UTC",
+      "note": "amazon.com.be — gescraped 21 Jun 2026 13:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 21 Jun 2026 08:53 UTC",
+      "note": "amazon.de — gescraped 21 Jun 2026 13:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 20,64",
+          "n": "6 aanbiedingen vanUSD 20,64",
           "c": "Algemeen"
         },
         {
@@ -1546,10 +1546,6 @@
         },
         {
           "n": "VERTBAUDET Speelkeuken, hout FSC®, meerkleurig, één maat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 34,41",
           "c": "Algemeen"
         },
         {
@@ -1706,6 +1702,10 @@
         },
         {
           "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "8 aanbiedingen vanUSD 12,56",
           "c": "Algemeen"
         }
       ]
