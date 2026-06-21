@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T13:00:21.219378+00:00",
-  "updated_fmt": "21 June 2026 om 13:00",
+  "updated": "2026-06-21T18:14:04.849248+00:00",
+  "updated_fmt": "21 June 2026 om 18:14",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 21 Jun 2026 13:00 UTC",
+      "note": "bol.com — gescraped 21 Jun 2026 18:14 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 21 Jun 2026 13:00 UTC",
+      "note": "amazon.nl — gescraped 21 Jun 2026 18:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -747,7 +747,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -755,11 +755,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
+          "n": "Das bisschen Kuchen: (K)ein Diät-Roman",
           "c": "Algemeen"
         },
         {
@@ -787,27 +787,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
+          "n": "Zenacolor 40 textiel- en textielmarkers - niet-giftig, onuitwisbaar en permanent",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
+          "n": "Grabie Acrylmarkers met Soft Brush Tip, 36 Stuks (72 Kleuren), Dual-Tip Verfpenn",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Cadeaukaart | Vaderdag",
+          "n": "Ohuhu Alcohol Brush Markers 48 Kleuren, Dubbele Punt Penseel & Fijne Punt, Sketc",
           "c": "Algemeen"
         },
         {
-          "n": "Zalando Cadeaubon - voor Nederland - per e-mail",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NEU Apple Gift Card - voor Nederland - per e-mail",
+          "n": "Wit Papieren Huwelijkswaaier Hartvormige Waaiers, Huwelijksfeest, Plaatskaarten ",
           "c": "Algemeen"
         },
         {
@@ -869,6 +861,14 @@
         {
           "n": "JETech Privacy Screen Protector voor iPhone 17 Pro 6,3-Inch, Anti-Gluren Gehard ",
           "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Nexode 65W USB C-oplader USB C Charger 3-poorts GaN PD lader PPS Compatib",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 21 Jun 2026 13:00 UTC",
+      "note": "amazon.com.be — gescraped 21 Jun 2026 18:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 21 Jun 2026 13:00 UTC",
+      "note": "amazon.de — gescraped 21 Jun 2026 18:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1533,7 +1533,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 86,06",
+          "n": "3 aanbiedingen vanUSD 86,06",
           "c": "Algemeen"
         },
         {
@@ -1550,10 +1550,6 @@
         },
         {
           "n": "Comfee Breezy Cool Pro Mobiele airconditioner, 2,6,9000 BTU, 2,6 kW, koelen, ven",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 367,18",
           "c": "Algemeen"
         },
         {
@@ -1633,10 +1629,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 37,86",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
@@ -1705,7 +1697,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 12,56",
+          "n": "7 aanbiedingen vanUSD 12,56",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Eucerin Sun Gel-Crème Zonnebrandmiddel voor het gezicht, beschermingsfactor 50+,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "8 aanbiedingen vanUSD 26,22",
           "c": "Algemeen"
         }
       ]
