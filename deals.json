@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T10:32:00.180288+00:00",
-  "updated_fmt": "22 June 2026 om 10:32",
+  "updated": "2026-06-22T15:47:04.295554+00:00",
+  "updated_fmt": "22 June 2026 om 15:47",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 Jun 2026 10:32 UTC",
+      "note": "bol.com — gescraped 22 Jun 2026 15:47 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 Jun 2026 10:32 UTC",
+      "note": "amazon.nl — gescraped 22 Jun 2026 15:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,6 +743,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
@@ -751,7 +755,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
         {
@@ -759,11 +763,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 Jun 2026 10:32 UTC",
+      "note": "amazon.com.be — gescraped 22 Jun 2026 15:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,30 @@
       ],
       "bestsellers": [
         {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Häftling",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
+          "c": "Algemeen"
+        },
+        {
           "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
           "c": "Algemeen"
         },
@@ -1242,30 +1266,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AVG Ultimate 2026 - Antivirus avec AVG Secure VPN et AVG TuneUp pour Accélérer v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nero VHS vers USB Video Grabber Recode Stick – Convertisseur analogique numériqu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mullvad VPN - 12 Maanden VPN-Abonnement voor 5 Apparaten - Bescherm je Privacy m",
-          "c": "Algemeen"
-        },
-        {
           "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
           "c": "Elektronica"
         },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 Jun 2026 10:32 UTC",
+      "note": "amazon.de — gescraped 22 Jun 2026 15:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1525,10 +1525,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 52,85",
-          "c": "Algemeen"
-        },
-        {
           "n": "Midea Silent Air Cooler Pro 4-in-1 mobiele airconditioning, stil, luchtkoeler, t",
           "c": "Algemeen"
         },
@@ -1573,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 85,92",
+          "n": "4 aanbiedingen vanUSD 84,77",
           "c": "Algemeen"
         },
         {
@@ -1706,6 +1702,10 @@
         },
         {
           "n": "Hawaiian Tropic Silk Hydration Air Soft Aftersun, kokosnoot en papaja, 180 ml, 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 29,98/l)",
           "c": "Algemeen"
         }
       ]
