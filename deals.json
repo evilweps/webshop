@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T20:00:00.320483+00:00",
-  "updated_fmt": "22 June 2026 om 20:00",
+  "updated": "2026-06-22T23:58:49.922480+00:00",
+  "updated_fmt": "22 June 2026 om 23:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 Jun 2026 20:00 UTC",
+      "note": "bol.com — gescraped 22 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 Jun 2026 20:00 UTC",
+      "note": "amazon.nl — gescraped 22 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 Jun 2026 20:00 UTC",
+      "note": "amazon.com.be — gescraped 22 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1222,6 +1222,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Waterdrop® Microdrink Hydraterende dranken, veganistisch, klassieke vruchtensmak",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AZO Free Ice Beer Siroop | 250 ml fles | concentraat voor slushy ijsmachines dra",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ICE AZO-vrije siroopbeer, 500 ml fles, concentraat voor slushy-dranken, ijsmachi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "waterdrop Microenergy-set, energiedrank zonder suiker, kersendrank, 36 bruisblok",
+          "c": "Algemeen"
+        },
+        {
           "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
           "c": "Algemeen"
         },
@@ -1239,30 +1263,6 @@
         },
         {
           "n": "Philips Ventilator serie 5000, oscillerende toren, 105 cm, afstandsbediening, ti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AVG Ultimate 2026 - Antivirus avec AVG Secure VPN et AVG TuneUp pour Accélérer v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nero VHS vers USB Video Grabber Recode Stick – Convertisseur analogique numériqu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mullvad VPN - 12 Maanden VPN-Abonnement voor 5 Apparaten - Bescherm je Privacy m",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 Jun 2026 20:00 UTC",
+      "note": "amazon.de — gescraped 22 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 21,32",
+          "n": "USD 22,44",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1525,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 36,57",
+          "c": "Algemeen"
+        },
+        {
           "n": "Midea Silent Air Cooler Pro 4-in-1 mobiele airconditioning, stil, luchtkoeler, t",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 320,76",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 11,50",
+          "n": "USD 10,92",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,68",
+          "n": "USD 14,81",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 35,56",
+          "n": "2 aanbiedingen vanUSD 26,34",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 18,89",
+          "n": "USD 17,94",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 994,07/l)",
+          "n": "(USD 813,88/l)",
           "c": "Algemeen"
         },
         {
@@ -1697,15 +1705,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hawaiian Tropic Silk Hydration Air Soft Aftersun, kokosnoot en papaja, 180 ml, 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 29,98/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Eucerin Sun Gel-Crème Zonnebrandmiddel voor het gezicht, beschermingsfactor 50+,",
+          "n": "Hawaiian Tropic | Hydrating Protection Sunscreen Zonnebrandlotion SPF 50 UVA + U",
           "c": "Algemeen"
         }
       ]
