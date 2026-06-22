@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T15:47:04.295554+00:00",
-  "updated_fmt": "22 June 2026 om 15:47",
+  "updated": "2026-06-22T20:00:00.320483+00:00",
+  "updated_fmt": "22 June 2026 om 20:00",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 Jun 2026 15:47 UTC",
+      "note": "bol.com — gescraped 22 Jun 2026 20:00 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 Jun 2026 15:47 UTC",
+      "note": "amazon.nl — gescraped 22 Jun 2026 20:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -751,7 +751,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "n": "Häftling",
           "c": "Algemeen"
         },
         {
@@ -759,11 +759,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Häftling",
+          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
           "c": "Algemeen"
         },
         {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 Jun 2026 15:47 UTC",
+      "note": "amazon.com.be — gescraped 22 Jun 2026 20:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,30 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Häftling",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
           "c": "Algemeen"
         },
@@ -1266,6 +1242,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AVG Ultimate 2026 - Antivirus avec AVG Secure VPN et AVG TuneUp pour Accélérer v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nero VHS vers USB Video Grabber Recode Stick – Convertisseur analogique numériqu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mullvad VPN - 12 Maanden VPN-Abonnement voor 5 Apparaten - Bescherm je Privacy m",
+          "c": "Algemeen"
+        },
+        {
           "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
           "c": "Elektronica"
         },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 Jun 2026 15:47 UTC",
+      "note": "amazon.de — gescraped 22 Jun 2026 20:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 125,15",
-          "c": "Algemeen"
-        },
-        {
           "n": "DREO Stille torenventilator, 10 m werpafstand, 4 snelheden, 4 modi, 8 uur, timer",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 86,63",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 96,27",
+          "n": "USD 123,21",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 28,47",
+          "n": "USD 28,43",
           "c": "Algemeen"
         },
         {
@@ -1613,10 +1605,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Blink Videotürklingel | Einzelgerät | Kopf-bis-Fuß-Aufnahme in HD, 2 Jahre Batte",
-          "c": "Algemeen"
-        },
-        {
           "n": "EasyMaxx Magic Click muggennet",
           "c": "Algemeen"
         },
@@ -1626,6 +1614,14 @@
         },
         {
           "n": "1 aanbieding voorUSD 11,44",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Außenkamera Akku (Stick Up Cam Battery) | Überwachungskamera aussen mit 108",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 43,52",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 18,26",
+          "n": "1 aanbieding voorUSD 35,56",
           "c": "Algemeen"
         },
         {
@@ -1706,6 +1702,10 @@
         },
         {
           "n": "(USD 29,98/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Eucerin Sun Gel-Crème Zonnebrandmiddel voor het gezicht, beschermingsfactor 50+,",
           "c": "Algemeen"
         }
       ]
