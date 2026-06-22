@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T18:14:04.849248+00:00",
-  "updated_fmt": "21 June 2026 om 18:14",
+  "updated": "2026-06-22T00:02:09.580934+00:00",
+  "updated_fmt": "22 June 2026 om 00:02",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 21 Jun 2026 18:14 UTC",
+      "note": "bol.com — gescraped 22 Jun 2026 00:02 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 21 Jun 2026 18:14 UTC",
+      "note": "amazon.nl — gescraped 22 Jun 2026 00:02 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,7 +739,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -747,19 +747,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
+          "n": "Häftling",
           "c": "Algemeen"
         },
         {
           "n": "Das bisschen Kuchen: (K)ein Diät-Roman",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
         {
@@ -787,19 +787,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Zenacolor 40 textiel- en textielmarkers - niet-giftig, onuitwisbaar en permanent",
+          "n": "The Deal (Off-Campus Book 1) (English Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "Grabie Acrylmarkers met Soft Brush Tip, 36 Stuks (72 Kleuren), Dual-Tip Verfpenn",
+          "n": "The Ballad of Falling Dragons: The instant No.1 SUNDAY TIMES bestselling sequel ",
           "c": "Algemeen"
         },
         {
-          "n": "Ohuhu Alcohol Brush Markers 48 Kleuren, Dubbele Punt Penseel & Fijne Punt, Sketc",
+          "n": "Into the Blue: The Reese's Book Club Pick! The will-they-won't-they love story w",
           "c": "Algemeen"
         },
         {
-          "n": "Wit Papieren Huwelijkswaaier Hartvormige Waaiers, Huwelijksfeest, Plaatskaarten ",
+          "n": "The Mistake (Off-Campus Book 2) (English Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Web of Vows and Vengeance: A Dark Enemies To Lovers Fantasy Romance Novel (The H",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Nexode 65W USB C-oplader USB C Charger 3-poorts GaN PD lader PPS Compatib",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 21 Jun 2026 18:14 UTC",
+      "note": "amazon.com.be — gescraped 22 Jun 2026 00:02 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 21 Jun 2026 18:14 UTC",
+      "note": "amazon.de — gescraped 22 Jun 2026 00:02 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1565,10 +1565,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 43,39",
-          "c": "Algemeen"
-        },
-        {
           "n": "DREO Stille torenventilator, 10 m werpafstand, 4 snelheden, 4 modi, 8 uur, timer",
           "c": "Algemeen"
         },
@@ -1597,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,54",
+          "n": "1 aanbieding voorUSD 20,64",
           "c": "Algemeen"
         },
         {
@@ -1610,10 +1606,6 @@
         },
         {
           "n": "Blink Videotürklingel | Einzelgerät | Kopf-bis-Fuß-Aufnahme in HD, 2 Jahre Batte",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 63,10",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11 aanbiedingen vanUSD 30,92",
+          "n": "11 aanbiedingen vanUSD 25,23",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 19,50",
+          "n": "1 aanbieding voorUSD 22,94",
           "c": "Algemeen"
         },
         {
@@ -1705,7 +1697,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 26,22",
+          "n": "8 aanbiedingen vanUSD 26,36",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "12 aanbiedingen vanUSD 13,77",
           "c": "Algemeen"
         }
       ]
