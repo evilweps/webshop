@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T13:35:00.574782+00:00",
-  "updated_fmt": "23 June 2026 om 13:35",
+  "updated": "2026-06-23T19:00:44.155729+00:00",
+  "updated_fmt": "23 June 2026 om 19:00",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 23 Jun 2026 13:35 UTC",
+      "note": "bol.com — gescraped 23 Jun 2026 19:00 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 23 Jun 2026 13:35 UTC",
+      "note": "amazon.nl — gescraped 23 Jun 2026 19:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -763,10 +763,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Der Nachbar",
           "c": "Algemeen"
         },
@@ -775,11 +771,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
           "c": "Algemeen"
         },
         {
-          "n": "Tot in der Finca: Pech & Schwäfel Mallorca Special",
+          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
           "c": "Algemeen"
         },
         {
@@ -787,27 +783,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
+          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD, gratis en live tv, Alexa Voice Remote, smarthome-bedien",
+          "n": "Amazon Cadeaukaart | Vaderdag",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "n": "Zalando Cadeaubon - voor Nederland - per e-mail",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NEU Apple Gift Card - voor Nederland - per e-mail",
           "c": "Algemeen"
         },
         {
@@ -843,6 +843,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Elektronica"
+        },
+        {
           "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "UGREEN Nexode USB-C Mini-oplader 65W, supercompacte voedingsadapter, GaNInfinity",
           "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 23 Jun 2026 13:35 UTC",
+      "note": "amazon.com.be — gescraped 23 Jun 2026 19:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 23 Jun 2026 13:35 UTC",
+      "note": "amazon.de — gescraped 23 Jun 2026 19:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,6 +1521,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 100,85",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
         },
@@ -1533,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 29,25",
+          "n": "3 aanbiedingen vanUSD 32,91",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 73,48",
+          "n": "1 aanbieding voorUSD 102,86",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 84,58",
+          "n": "3 aanbiedingen vanUSD 84,58",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,83",
+          "n": "USD 5,92",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 12,44",
+          "n": "USD 10,39",
           "c": "Algemeen"
         },
         {
@@ -1702,10 +1706,6 @@
         },
         {
           "n": "1 aanbieding voorUSD 22,85",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Shower Slidesandalen, uniseks",
           "c": "Algemeen"
         }
       ]
