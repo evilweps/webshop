@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T08:23:24.576703+00:00",
-  "updated_fmt": "23 June 2026 om 08:23",
+  "updated": "2026-06-23T13:35:00.574782+00:00",
+  "updated_fmt": "23 June 2026 om 13:35",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 23 Jun 2026 08:23 UTC",
+      "note": "bol.com — gescraped 23 Jun 2026 13:35 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 23 Jun 2026 08:23 UTC",
+      "note": "amazon.nl — gescraped 23 Jun 2026 13:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 23 Jun 2026 08:23 UTC",
+      "note": "amazon.com.be — gescraped 23 Jun 2026 13:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 23 Jun 2026 08:23 UTC",
+      "note": "amazon.de — gescraped 23 Jun 2026 13:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,10 +1521,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 100,85",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
         },
@@ -1577,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 102,86",
+          "n": "USD 73,48",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 76,72",
+          "n": "1 aanbieding voorUSD 178,31",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 34,28",
+          "n": "1 aanbieding voorUSD 34,28",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,29",
+          "n": "USD 18,15",
           "c": "Algemeen"
         },
         {
@@ -1706,6 +1702,10 @@
         },
         {
           "n": "1 aanbieding voorUSD 22,85",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Adilette Shower Slidesandalen, uniseks",
           "c": "Algemeen"
         }
       ]
