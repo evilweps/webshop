@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T13:10:04.034625+00:00",
-  "updated_fmt": "24 June 2026 om 13:10",
+  "updated": "2026-06-24T18:26:07.353244+00:00",
+  "updated_fmt": "24 June 2026 om 18:26",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 Jun 2026 13:10 UTC",
+      "note": "bol.com — gescraped 24 Jun 2026 18:26 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 Jun 2026 13:10 UTC",
+      "note": "amazon.nl — gescraped 24 Jun 2026 18:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -695,27 +695,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
@@ -739,10 +719,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "ene, mene, du: Herma und Jan ermitteln 3",
-          "c": "Algemeen"
-        },
-        {
           "n": "Grabie Witte Acrylmarkers, 6 Stuks, 0.7mm Extra Fijne Punt, Hoog Dekkende Witte ",
           "c": "Algemeen"
         },
@@ -756,6 +732,30 @@
         },
         {
           "n": "Zenacolor 40 textiel- en textielmarkers - niet-giftig, onuitwisbaar en permanent",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 Jun 2026 13:10 UTC",
+      "note": "amazon.com.be — gescraped 24 Jun 2026 18:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 Jun 2026 13:10 UTC",
+      "note": "amazon.de — gescraped 24 Jun 2026 18:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,11 +1537,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Levoit - DC motor torenventilator - 20dB zeer stille ventilator - 4 modi/12 stan",
+          "n": "Ninja SLUSHi FS301EU Machine voor Slush, Ice Cocktails, Frappé, Milkshakes & Bev",
           "c": "Algemeen"
         },
         {
-          "n": "USD 95,53",
+          "n": "3 aanbiedingen vanUSD 227,35",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "14 aanbiedingen vanUSD 16,69",
+          "n": "USD 14,34",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 26,48",
+          "n": "4 aanbiedingen vanUSD 26,70",
           "c": "Algemeen"
         },
         {
