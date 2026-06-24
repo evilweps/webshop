@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T18:26:07.353244+00:00",
-  "updated_fmt": "24 June 2026 om 18:26",
+  "updated": "2026-06-24T23:56:47.969179+00:00",
+  "updated_fmt": "24 June 2026 om 23:56",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 Jun 2026 18:26 UTC",
+      "note": "bol.com — gescraped 24 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 Jun 2026 18:26 UTC",
+      "note": "amazon.nl — gescraped 24 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -711,11 +711,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
+          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 Jun 2026 18:26 UTC",
+      "note": "amazon.com.be — gescraped 24 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 Jun 2026 18:26 UTC",
+      "note": "amazon.de — gescraped 24 Jun 2026 23:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,11 +1537,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ninja SLUSHi FS301EU Machine voor Slush, Ice Cocktails, Frappé, Milkshakes & Bev",
+          "n": "Levoit - DC motor torenventilator - 20dB zeer stille ventilator - 4 modi/12 stan",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 227,35",
+          "n": "USD 95,53",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,89",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 20,45",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blink-Kamera Outdoor 4 | Kabellose intelligente HD-Sicherheitskamera, zwei Jahre",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 90,93",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 10,33",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Außenkamera Akku (Stick Up Cam Battery) | Überwachungskamera aussen mit 108",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 43,19",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blink Außenkamera 2K+ (neueste Generation) – Kabellose, intelligente Sicherheits",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 113,67",
           "c": "Algemeen"
         },
         {
@@ -1593,46 +1633,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,89",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 20,45",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blink-Kamera Outdoor 4 | Kabellose intelligente HD-Sicherheitskamera, zwei Jahre",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 90,93",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 10,33",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Außenkamera Akku (Stick Up Cam Battery) | Überwachungskamera aussen mit 108",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 43,19",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blink Außenkamera 2K+ (neueste Generation) – Kabellose, intelligente Sicherheits",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 113,67",
-          "c": "Algemeen"
-        },
-        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
@@ -1645,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 13,63",
+          "n": "9 aanbiedingen vanUSD 13,64",
           "c": "Algemeen"
         },
         {
