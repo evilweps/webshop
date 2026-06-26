@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T13:02:03.217410+00:00",
-  "updated_fmt": "26 June 2026 om 13:02",
+  "updated": "2026-06-26T18:21:23.030458+00:00",
+  "updated_fmt": "26 June 2026 om 18:21",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 26 Jun 2026 13:02 UTC",
+      "note": "bol.com — gescraped 26 Jun 2026 18:21 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 26 Jun 2026 13:02 UTC",
+      "note": "amazon.nl — gescraped 26 Jun 2026 18:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -727,11 +727,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
           "c": "Algemeen"
         },
         {
@@ -767,6 +767,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Amazon Kindle Paperwhite Signature Edition (nieuwste generatie) – Onze snelste K",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
           "n": "Into the Blue: The Reese's Book Club Pick! The will-they-won't-they love story w",
           "c": "Algemeen"
         },
@@ -779,35 +803,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Breaking Out Of Founders’ Prison: Make the shift and scale your business (Englis",
+          "n": "The Score (Off-Campus Book 3) (English Edition)",
           "c": "Algemeen"
         },
         {
           "n": "The Mistake (Off-Campus Book 2) (English Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Zalando Cadeaubon - voor Nederland - per e-mail",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - Elke gelegenheid - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
@@ -816,10 +816,6 @@
         },
         {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite Signature Edition (nieuwste generatie) – Onze snelste K",
           "c": "Elektronica"
         },
         {
@@ -832,10 +828,6 @@
         },
         {
           "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
           "c": "Elektronica"
         },
         {
@@ -863,11 +855,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
           "c": "Elektronica"
         },
         {
-          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple Watch Series 11 GPS 42 mm Smartwatch met kast van roségoudkleurig aluminiu",
+          "c": "Elektronica"
+        },
+        {
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 26 Jun 2026 13:02 UTC",
+      "note": "amazon.com.be — gescraped 26 Jun 2026 18:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 26 Jun 2026 13:02 UTC",
+      "note": "amazon.de — gescraped 26 Jun 2026 18:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
