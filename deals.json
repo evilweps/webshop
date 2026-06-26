@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T19:00:16.328341+00:00",
-  "updated_fmt": "25 June 2026 om 19:00",
+  "updated": "2026-06-26T00:03:07.397863+00:00",
+  "updated_fmt": "26 June 2026 om 00:03",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 25 Jun 2026 19:00 UTC",
+      "note": "bol.com — gescraped 26 Jun 2026 00:03 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 25 Jun 2026 19:00 UTC",
+      "note": "amazon.nl — gescraped 26 Jun 2026 00:03 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,6 +719,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "c": "Algemeen"
+        },
+        {
+          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
+          "c": "Algemeen"
+        },
+        {
           "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
           "c": "Algemeen"
         },
@@ -740,30 +764,6 @@
         },
         {
           "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
           "c": "Algemeen"
         },
         {
@@ -835,6 +835,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
+          "c": "Elektronica"
+        },
+        {
           "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "UGREEN Nexode 65W USB C-oplader USB C Charger 3-poorts GaN PD lader PPS Compatib",
           "c": "Elektronica"
-        },
-        {
-          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 25 Jun 2026 19:00 UTC",
+      "note": "amazon.com.be — gescraped 26 Jun 2026 00:03 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1234,27 +1234,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
+          "n": "Innovatief (2024) nachtmasker voor mannen en vrouwen, lichtwerend slaapmasker vo",
           "c": "Algemeen"
         },
         {
-          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "n": "Oral-B IO Ultimate Clean Black Opzetborstels Voor Elektrische Tandenborstel, Ver",
           "c": "Algemeen"
         },
         {
-          "n": "Nintendo Switch 2 Pro Controller",
+          "n": "Blanc de Meudon - 1 kg - Multifunctioneel & 100% natuurlijk",
           "c": "Algemeen"
         },
         {
-          "n": "Manette Xbox Blanche Sans Fil - Robot White",
+          "n": "Optimum Nutrition Gold Standard 100% Whey, eiwitpoeder, dubbele smaak, rijke cho",
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
+          "n": "NUTRALIE Magnesiumbisglycinaat en vitamine B6, anti-vermoeidheid en anti-stress ",
           "c": "Algemeen"
         },
         {
@@ -1324,6 +1320,10 @@
         {
           "n": "Ultralent Nekventilator, 4000 mAh, USB, stil, 3 snelheden, led-licht, draagbaar,",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 25 Jun 2026 19:00 UTC",
+      "note": "amazon.de — gescraped 26 Jun 2026 00:03 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 15,52",
+          "n": "1 aanbieding voorUSD 20,46",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 68,21",
+          "n": "USD 57,32",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1621,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,34",
+          "n": "2 aanbiedingen vanUSD 26,27",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 16,49",
+          "n": "9 aanbiedingen vanUSD 16,49",
           "c": "Algemeen"
         },
         {
