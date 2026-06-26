@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T18:21:23.030458+00:00",
-  "updated_fmt": "26 June 2026 om 18:21",
+  "updated": "2026-06-26T23:53:16.217554+00:00",
+  "updated_fmt": "26 June 2026 om 23:53",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 26 Jun 2026 18:21 UTC",
+      "note": "bol.com — gescraped 26 Jun 2026 23:53 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 26 Jun 2026 18:21 UTC",
+      "note": "amazon.nl — gescraped 26 Jun 2026 23:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -723,11 +723,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
           "c": "Algemeen"
         },
         {
@@ -739,7 +739,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -791,23 +791,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Into the Blue: The Reese's Book Club Pick! The will-they-won't-they love story w",
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "The Deal (Off-Campus Book 1) (English Edition)",
+          "n": "Zalando Cadeaubon - voor Nederland - per e-mail",
           "c": "Algemeen"
         },
         {
-          "n": "The Ballad of Falling Dragons: The instant No.1 SUNDAY TIMES bestselling sequel ",
+          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "The Score (Off-Campus Book 3) (English Edition)",
+          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
           "c": "Algemeen"
         },
         {
-          "n": "The Mistake (Off-Campus Book 2) (English Edition)",
+          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Elke gelegenheid - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Apple Watch Series 11 GPS 42 mm Smartwatch met kast van roségoudkleurig aluminiu",
           "c": "Elektronica"
-        },
-        {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 26 Jun 2026 18:21 UTC",
+      "note": "amazon.com.be — gescraped 26 Jun 2026 23:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 26 Jun 2026 18:21 UTC",
+      "note": "amazon.de — gescraped 26 Jun 2026 23:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 22,28",
+          "n": "USD 32,75",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,42/eenheid)",
+          "n": "(USD 0,90/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,40",
+          "n": "USD 9,54",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 477,57",
+          "n": "1 aanbieding voorUSD 682,24",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 10,34",
+          "n": "USD 10,81",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,46",
+          "n": "2 aanbiedingen vanUSD 15,76",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,12",
+          "n": "12 aanbiedingen vanUSD 45,36",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 30,64",
+          "n": "2 aanbiedingen vanUSD 30,64",
           "c": "Algemeen"
         },
         {
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,25",
+          "n": "USD 16,44",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 26,27",
+          "n": "USD 16,15",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 22,73",
+          "n": "1 aanbieding voorUSD 17,04",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 807,81/l)",
+          "n": "(USD 966,53/l)",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1689,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 28,23/l)",
+          "n": "(USD 43,02/l)",
           "c": "Algemeen"
         },
         {
@@ -1697,15 +1697,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 18,42",
+          "n": "7 aanbiedingen vanUSD 21,41",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 205,43",
           "c": "Algemeen"
         },
         {
           "n": "1 aanbieding voorUSD 85,27",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Intex 58836EU Mesh Mat - opblaasbare waterhangmat - 178 x 94 cm - diverse kleure",
           "c": "Algemeen"
         }
       ]
