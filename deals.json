@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T00:03:07.397863+00:00",
-  "updated_fmt": "26 June 2026 om 00:03",
+  "updated": "2026-06-26T08:25:06.575993+00:00",
+  "updated_fmt": "26 June 2026 om 08:25",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 26 Jun 2026 00:03 UTC",
+      "note": "bol.com — gescraped 26 Jun 2026 08:25 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 26 Jun 2026 00:03 UTC",
+      "note": "amazon.nl — gescraped 26 Jun 2026 08:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -723,6 +723,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "c": "Algemeen"
+        },
+        {
           "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
           "c": "Algemeen"
         },
@@ -731,15 +735,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
-          "c": "Algemeen"
-        },
-        {
           "n": "grün tot weiß: Herma und Jan ermitteln 1",
           "c": "Algemeen"
         },
         {
-          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -751,11 +751,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jsdoin draagbare elektrische luchtpomp, luchtmatras, elektrische luchtpomp voor ",
+          "n": "Verkoelende handdoek 100cm x 30cm, microvezel sporthanddoek verkoelend, koeldoek",
           "c": "Algemeen"
         },
         {
-          "n": "Verkoelende handdoek 100cm x 30cm, microvezel sporthanddoek verkoelend, koeldoek",
+          "n": "Jsdoin draagbare elektrische luchtpomp, luchtmatras, elektrische luchtpomp voor ",
           "c": "Algemeen"
         },
         {
@@ -783,27 +783,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
+          "n": "Blade Runner 2049",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "n": "Mittelerde 6-Film Collection - 4K UHD",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "JURASSIC WORLD ULTIMATE COLLECTION UHD: 4K-UHD & Bluray Edition inkl. sämtlichen",
           "c": "Algemeen"
         },
         {
@@ -812,6 +808,10 @@
         },
         {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Elektronica"
         },
         {
@@ -831,7 +831,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple Watch Series 11 GPS 42 mm Smartwatch met kast van roségoudkleurig aluminiu",
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
         {
@@ -839,15 +839,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Anker PowerCore Magnetic 5K Slim B2C - UN Black Iteration 1",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TP-Link Deco X50 Mesh WLAN Set (3-pack), Wi-Fi 6 AX3000 Dualband Router & Repeat",
+          "n": "Apple Watch Series 11 GPS 42 mm Smartwatch met kast van roségoudkleurig aluminiu",
           "c": "Elektronica"
         },
         {
@@ -855,7 +847,19 @@
           "c": "Elektronica"
         },
         {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Anker PowerCore Magnetic 5K Slim B2C - UN Black Iteration 1",
+          "c": "Elektronica"
+        },
+        {
           "n": "TOCOL voor iPhone 17 Case Compatibel met MagSafe, Volledige Camerabescherming, S",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TP-Link Deco X50 Mesh WLAN Set (3-pack), Wi-Fi 6 AX3000 Dualband Router & Repeat",
           "c": "Elektronica"
         },
         {
@@ -863,11 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues - Draagbare Ventilator - Compact en Stijlvol met Batterij - Voor Hand,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Nexode 65W USB C-oplader USB C Charger 3-poorts GaN PD lader PPS Compatib",
+          "n": "Ring Buitencamera Plus op batterij (nieuwste generatie) – 2K met Ring Vision – z",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 26 Jun 2026 00:03 UTC",
+      "note": "amazon.com.be — gescraped 26 Jun 2026 08:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1234,23 +1234,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Innovatief (2024) nachtmasker voor mannen en vrouwen, lichtwerend slaapmasker vo",
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
           "c": "Algemeen"
         },
         {
-          "n": "Oral-B IO Ultimate Clean Black Opzetborstels Voor Elektrische Tandenborstel, Ver",
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
         {
-          "n": "Blanc de Meudon - 1 kg - Multifunctioneel & 100% natuurlijk",
+          "n": "Nintendo Switch 2 Pro Controller",
           "c": "Algemeen"
         },
         {
-          "n": "Optimum Nutrition Gold Standard 100% Whey, eiwitpoeder, dubbele smaak, rijke cho",
+          "n": "Manette Xbox Blanche Sans Fil - Robot White",
           "c": "Algemeen"
         },
         {
-          "n": "NUTRALIE Magnesiumbisglycinaat en vitamine B6, anti-vermoeidheid en anti-stress ",
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
           "c": "Algemeen"
         },
         {
@@ -1266,15 +1270,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "JISULIFE Draagbare mini-handventilator, 3-in-1, oplaadbaar, ventilator op batter",
-          "c": "Elektronica"
-        },
-        {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
           "c": "Elektronica"
         },
         {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JISULIFE Draagbare mini-handventilator, 3-in-1, oplaadbaar, ventilator op batter",
           "c": "Elektronica"
         },
         {
@@ -1286,11 +1290,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
           "c": "Elektronica"
         },
         {
@@ -1298,11 +1302,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
+          "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
           "c": "Elektronica"
         },
         {
@@ -1318,10 +1322,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Ultralent Nekventilator, 4000 mAh, USB, stil, 3 snelheden, led-licht, draagbaar,",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
           "c": "Elektronica"
         }
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 26 Jun 2026 00:03 UTC",
+      "note": "amazon.de — gescraped 26 Jun 2026 08:25 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,46 +1509,6 @@
       ],
       "bestsellers": [
         {
-          "n": "USD 5,80",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blink-Kamera Outdoor 4 | Kabellose intelligente HD-Sicherheitskamera, zwei Jahre",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 85,27",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 10,34",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 20,46",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Außenkamera Akku (Stick Up Cam Battery) | Überwachungskamera aussen mit 108",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 43,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EASYmaxx Insect Protect Telescopische insectenhor voor ramen, met voorgemonteerd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,17",
-          "c": "Algemeen"
-        },
-        {
           "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
           "c": "Algemeen"
         },
@@ -1561,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 57,32",
+          "n": "1 aanbieding voorUSD 68,21",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, stretch",
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
         {
@@ -1641,11 +1601,51 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 5,80",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 20,46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 10,34",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Außenkamera Akku (Stick Up Cam Battery) | Überwachungskamera aussen mit 108",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 43,20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EASYmaxx Insect Protect Telescopische insectenhor voor ramen, met voorgemonteerd",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 38,12",
+          "c": "Algemeen"
+        },
+        {
+          "n": "tesa-hor Comfort Velcro-strook voor ramen, zwart, 1,3 m: 1,5 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11 aanbiedingen vanUSD 13,09",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 807,80/l)",
+          "n": "(USD 807,81/l)",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 29,81",
+          "n": "1 aanbieding voorUSD 35,19",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 26,71",
+          "n": "2 aanbiedingen vanUSD 26,71",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 16,49",
+          "n": "9 aanbiedingen vanUSD 16,66",
           "c": "Algemeen"
         },
         {
@@ -1701,11 +1701,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Intex 58836EU Mesh Mat - opblaasbare waterhangmat - 178 x 94 cm - diverse kleure",
+          "n": "1 aanbieding voorUSD 85,27",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,57",
+          "n": "Intex 58836EU Mesh Mat - opblaasbare waterhangmat - 178 x 94 cm - diverse kleure",
           "c": "Algemeen"
         }
       ]
