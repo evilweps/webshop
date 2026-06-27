@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T17:53:53.046488+00:00",
-  "updated_fmt": "27 June 2026 om 17:53",
+  "updated": "2026-06-27T23:52:09.991893+00:00",
+  "updated_fmt": "27 June 2026 om 23:52",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 27 Jun 2026 17:53 UTC",
+      "note": "bol.com — gescraped 27 Jun 2026 23:52 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 27 Jun 2026 17:53 UTC",
+      "note": "amazon.nl — gescraped 27 Jun 2026 23:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -695,30 +695,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
           "c": "Algemeen"
         },
@@ -767,27 +743,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
-          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "James Bond: Sean Connery 6-Film Collection (6 4K Ultra HD)",
+          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
           "c": "Algemeen"
         },
         {
-          "n": "Scream 7. UHD + Blu-ray Limited Steelbook",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "EXORCIST, THE Ultra HD 4K (NL Versie)",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
-          "n": "Mittelerde 6-Film Collection - 4K UHD",
+          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
           "c": "Algemeen"
         },
         {
@@ -812,6 +788,30 @@
         },
         {
           "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Zalando Cadeaubon - voor Nederland - per e-mail",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 27 Jun 2026 17:53 UTC",
+      "note": "amazon.com.be — gescraped 27 Jun 2026 23:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 27 Jun 2026 17:53 UTC",
+      "note": "amazon.de — gescraped 27 Jun 2026 23:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1609,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "58 aanbiedingen vanUSD 79,23",
+          "n": "57 aanbiedingen vanUSD 79,23",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 219,20",
+          "n": "USD 218,19",
           "c": "Algemeen"
         },
         {
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "18 aanbiedingen vanUSD 436,31",
+          "n": "19 aanbiedingen vanUSD 436,31",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 288,65",
+          "n": "2 aanbiedingen vanUSD 288,65",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 43,27",
+          "n": "3 aanbiedingen vanUSD 36,78",
           "c": "Algemeen"
         },
         {
