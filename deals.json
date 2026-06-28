@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T17:58:18.107495+00:00",
-  "updated_fmt": "28 June 2026 om 17:58",
+  "updated": "2026-06-28T23:58:34.464532+00:00",
+  "updated_fmt": "28 June 2026 om 23:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 28 Jun 2026 17:58 UTC",
+      "note": "bol.com — gescraped 28 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 28 Jun 2026 17:58 UTC",
+      "note": "amazon.nl — gescraped 28 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -747,11 +747,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
@@ -759,11 +759,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 28 Jun 2026 17:58 UTC",
+      "note": "amazon.com.be — gescraped 28 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 28 Jun 2026 17:58 UTC",
+      "note": "amazon.de — gescraped 28 Jun 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 38,03",
+          "n": "3 aanbiedingen vanUSD 39,74",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 13,10",
+          "n": "10 aanbiedingen vanUSD 13,67",
           "c": "Algemeen"
         },
         {
