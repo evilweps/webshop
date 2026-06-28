@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T12:12:02.396398+00:00",
-  "updated_fmt": "28 June 2026 om 12:12",
+  "updated": "2026-06-28T17:58:18.107495+00:00",
+  "updated_fmt": "28 June 2026 om 17:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 28 Jun 2026 12:12 UTC",
+      "note": "bol.com — gescraped 28 Jun 2026 17:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 28 Jun 2026 12:12 UTC",
+      "note": "amazon.nl — gescraped 28 Jun 2026 17:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,30 +719,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ray Donovan - The Movie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Scream 7. UHD + Blu-ray Limited Steelbook",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EXORCIST, THE Ultra HD 4K (NL Versie)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Song Sung Blue",
-          "c": "Algemeen"
-        },
-        {
           "n": "Stanley The Aerolight Iceflow Waterfles Fast Flow 0.6L - Houdt 10 Uur Koud - Lic",
           "c": "Algemeen"
         },
@@ -787,7 +763,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ray Donovan - The Movie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Scream 7. UHD + Blu-ray Limited Steelbook",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EXORCIST, THE Ultra HD 4K (NL Versie)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Song Sung Blue",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 28 Jun 2026 12:12 UTC",
+      "note": "amazon.com.be — gescraped 28 Jun 2026 17:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,30 +1150,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Avatar 3 : De Feu et de cendres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Marsupilami",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Scream 7",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar - Fire and Ash (4K Ultra HD) (+ Blu-ray) (+ Bonus-Blu-ray)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar - Collection 3 films : Avatar + Avatar 2 : La Voie de l'eau + Avatar 3 : ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Knight of the Seven Kingdoms - Saison 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Russell Hobbs RHPDF0921 Draagbare tafelventilator, 23 cm, 2 snelheden, grote dra",
           "c": "Algemeen"
         },
@@ -1258,6 +1234,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mullvad VPN | 12 Mois pour 5 Appareils | Service VPN sans journalisation | Proté",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AVG Internet Security 2026 - Protection Antivirus | multi-appareils | 10 apparei",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Norton 360 Deluxe 2021 | 5 Devices | Antivirus | Unlimited Secure VPN & Password",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nero Platinum Unlimited – Multilingue en 24 Langues – Version 2020",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jsdoin Handventilator, mini, bureauventilator, draagbaar, USB-oplaadbaar, met 5 ",
           "c": "Elektronica"
         },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 28 Jun 2026 12:12 UTC",
+      "note": "amazon.de — gescraped 28 Jun 2026 17:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 30,07",
+          "n": "7 aanbiedingen vanUSD 30,07",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 32,98",
+          "n": "1 aanbieding voorUSD 35,25",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 35,88",
+          "n": "4 aanbiedingen vanUSD 38,03",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 13,10",
+          "n": "10 aanbiedingen vanUSD 13,10",
           "c": "Algemeen"
         },
         {
@@ -1697,15 +1697,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 38,08",
+          "n": "1 aanbieding voorUSD 43,27",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,17",
+          "n": "1 aanbieding voorUSD 20,49",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 11,38",
+          "n": "1 aanbieding voorUSD 11,38",
           "c": "Algemeen"
         }
       ]
