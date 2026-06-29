@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T23:58:34.464532+00:00",
-  "updated_fmt": "28 June 2026 om 23:58",
+  "updated": "2026-06-29T09:20:58.688252+00:00",
+  "updated_fmt": "29 June 2026 om 09:20",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 28 Jun 2026 23:58 UTC",
+      "note": "bol.com — gescraped 29 Jun 2026 09:20 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 28 Jun 2026 23:58 UTC",
+      "note": "amazon.nl — gescraped 29 Jun 2026 09:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -763,7 +763,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
           "c": "Algemeen"
         },
         {
@@ -823,11 +823,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
+          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
+          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
           "c": "Elektronica"
         },
         {
@@ -835,7 +835,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple iPad met A16 chip: 11 inch Liquid Retina-display, 128 GB, wifi 6, 12 MP ca",
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
           "c": "Elektronica"
         },
         {
@@ -843,15 +843,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues - Draagbare Ventilator - Compact en Stijlvol met Batterij - Voor Hand,",
+          "n": "Apple iPad met A16 chip: 11 inch Liquid Retina-display, 128 GB, wifi 6, 12 MP ca",
           "c": "Elektronica"
         },
         {
@@ -863,11 +859,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Diveblues - Draagbare Ventilator - Compact en Stijlvol met Batterij - Voor Hand,",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
           "c": "Elektronica"
         },
         {
-          "n": "TP-Link Deco X50 Mesh WLAN Set (3-pack), Wi-Fi 6 AX3000 Dualband Router & Repeat",
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 28 Jun 2026 23:58 UTC",
+      "note": "amazon.com.be — gescraped 29 Jun 2026 09:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,26 +1150,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Russell Hobbs RHPDF0921 Draagbare tafelventilator, 23 cm, 2 snelheden, grote dra",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PELONIS Torenventilator met afstandsbediening en 4 snelheden en 3 ventilatormodi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pro Breeze Airflo Staande ventilator, hybride, 108 cm, stil, 29 dB, met afstands",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Midea FZ10-17JR Torenventilator met afstandsbediening, stille oscillatie, kracht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Raamfolie, hittebescherming, eenrichtingsbescherming, uv-bescherming, v",
-          "c": "Algemeen"
-        },
-        {
           "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
           "c": "Algemeen"
         },
@@ -1218,15 +1198,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Kitsch Haarverstuiver, 150 ml, continue waterverstuiver voor haar, reiniging, tu",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
           "c": "Algemeen"
         },
         {
           "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kitsch Haarverstuiver, 150 ml, continue waterverstuiver voor haar, reiniging, tu",
           "c": "Algemeen"
         },
         {
@@ -1258,11 +1238,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jsdoin Handventilator, mini, bureauventilator, draagbaar, USB-oplaadbaar, met 5 ",
-          "c": "Elektronica"
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Behringer Best Price Square Interface, USB/Audio, UCA222 by BEHRINGER",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TONOR USB/XLR microfoon met dynamische arm, cardioïde microfoon voor podcasting,",
+          "c": "Algemeen"
         },
         {
           "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Jsdoin Handventilator, mini, bureauventilator, draagbaar, USB-oplaadbaar, met 5 ",
           "c": "Elektronica"
         },
         {
@@ -1270,11 +1270,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
+          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
+          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
           "c": "Elektronica"
         },
         {
@@ -1310,19 +1310,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "Mini-ventilator, draagbaar, licht, oplaadbaar (4500 mAh en looptijd 20 uur), kle",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple EarPods (USB-C)​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
+          "n": "Mini-ventilator, draagbaar, licht, oplaadbaar (4500 mAh en looptijd 20 uur), kle",
           "c": "Elektronica"
         },
         {
           "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 28 Jun 2026 23:58 UTC",
+      "note": "amazon.de — gescraped 29 Jun 2026 09:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,70",
+          "n": "2 aanbiedingen vanUSD 30,68",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 30,07",
+          "n": "7 aanbiedingen vanUSD 30,06",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,47",
+          "n": "USD 16,46",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 28,11",
+          "n": "2 aanbiedingen vanUSD 42,11",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 35,25",
+          "n": "1 aanbieding voorUSD 35,24",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 18,44",
+          "n": "4 aanbiedingen vanUSD 18,43",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 39,74",
+          "n": "3 aanbiedingen vanUSD 38,69",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 683,44",
+          "n": "1 aanbieding voorUSD 683,08",
           "c": "Algemeen"
         },
         {
@@ -1589,15 +1589,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,90/eenheid)",
+          "n": "(USD 0,73/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, verwijdert kalkaanslag en besche",
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 90x200 - 100x200 cm",
           "c": "Algemeen"
         },
         {
-          "n": "USD 9,56",
+          "n": "1 aanbieding voorUSD 10,80",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 968,22/l)",
+          "n": "(USD 967,72/l)",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 13,67",
+          "n": "10 aanbiedingen vanUSD 13,66",
           "c": "Algemeen"
         },
         {
@@ -1621,11 +1621,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 29,87",
+          "n": "3 aanbiedingen vanUSD 29,85",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 19,35",
+          "n": "1 aanbieding voorUSD 19,34",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 43,09/l)",
+          "n": "(USD 43,07/l)",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 26,76",
+          "n": "4 aanbiedingen vanUSD 26,74",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,40",
+          "n": "USD 13,39",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,96",
+          "n": "USD 15,95",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 19,16",
+          "n": "USD 19,15",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,03",
+          "n": "USD 17,02",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1689,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 11,35",
+          "n": "USD 11,34",
           "c": "Algemeen"
         },
         {
@@ -1697,15 +1697,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 43,27",
+          "n": "1 aanbieding voorUSD 43,25",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,49",
+          "n": "1 aanbieding voorUSD 20,48",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,38",
+          "n": "1 aanbieding voorUSD 12,51",
           "c": "Algemeen"
         }
       ]
