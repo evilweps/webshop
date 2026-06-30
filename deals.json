@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T13:01:53.920161+00:00",
-  "updated_fmt": "30 June 2026 om 13:01",
+  "updated": "2026-06-30T18:27:24.611056+00:00",
+  "updated_fmt": "30 June 2026 om 18:27",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Jun 2026 13:01 UTC",
+      "note": "bol.com — gescraped 30 Jun 2026 18:27 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Jun 2026 13:01 UTC",
+      "note": "amazon.nl — gescraped 30 Jun 2026 18:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,6 +767,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament Maatnauwkeurigheid +/- 0",
+          "c": "Algemeen"
+        },
+        {
+          "n": "eSUN PLA+ Filament 1.75mm, 3D Printer Filament PLA Plus, Maatnauwkeurigheid +/- ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SONOFF SNZB-02P ZigBee 3.0 slimme temperatuur- en vochtigheidssensor, voor bewak",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SUNLU PETG 1,75 mm 4 kg filamentenset, minder rek en goede hechting van de lagen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ISOLATECH Silica Gel regenereerbaar, droogmiddel, oranje, 0,9 kg, zak, silicagel",
+          "c": "Algemeen"
+        },
+        {
           "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
@@ -775,39 +795,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Jun 2026 13:01 UTC",
+      "note": "amazon.com.be — gescraped 30 Jun 2026 18:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Jun 2026 13:01 UTC",
+      "note": "amazon.de — gescraped 30 Jun 2026 18:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 12,53",
+          "n": "8 aanbiedingen vanUSD 13,68",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 14,81",
+          "n": "10 aanbiedingen vanUSD 14,81",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "15 aanbiedingen vanUSD 34,33",
+          "n": "15 aanbiedingen vanUSD 35,31",
           "c": "Algemeen"
         },
         {
@@ -1634,10 +1634,6 @@
         },
         {
           "n": "Cecotec Staande ventilator 515 WindLite Pro. 56 W vermogen, 3 snelheden, automat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 36,36",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 15,97",
+          "n": "3 aanbiedingen vanUSD 15,97",
           "c": "Algemeen"
         },
         {
@@ -1701,11 +1697,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 10,25",
+          "n": "30 aanbiedingen vanUSD 10,25",
           "c": "Algemeen"
         },
         {
           "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 18,80",
           "c": "Algemeen"
         }
       ]
