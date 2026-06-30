@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T23:52:05.028051+00:00",
-  "updated_fmt": "29 June 2026 om 23:52",
+  "updated": "2026-06-30T08:24:18.022413+00:00",
+  "updated_fmt": "30 June 2026 om 08:24",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 29 Jun 2026 23:52 UTC",
+      "note": "bol.com — gescraped 30 Jun 2026 08:24 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 29 Jun 2026 23:52 UTC",
+      "note": "amazon.nl — gescraped 30 Jun 2026 08:24 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -679,11 +679,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biokat's Diamond Care MultiCat Fresh, geurend - Fijne kattenbakvulling met actie",
+          "n": "NIBESSER Koelmat voor honden, zelfkoelende hondenmat, zomer, koelkussen, hondenm",
           "c": "Algemeen"
         },
         {
-          "n": "NIBESSER Koelmat voor honden, zelfkoelende hondenmat, zomer, koelkussen, hondenm",
+          "n": "Biokat's Diamond Care MultiCat Fresh, geurend - Fijne kattenbakvulling met actie",
           "c": "Algemeen"
         },
         {
@@ -692,6 +692,30 @@
         },
         {
           "n": "FELIX Elke Dag Feest Mix Selectie in Gelei, nat Kattenvoer met Rund, Kip, Zalm &",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
           "c": "Algemeen"
         },
         {
@@ -739,31 +763,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cecotec EnergySilence 515 WindLite Pro staande ventilator, 45 W, diameter 40 cm,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Remington Stijltang Ceramic Slim (Smalle Flexibele Platen, Antistatisch, Keramis",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIVEA SUN Protect & Hydrate Zonnebrand Spray - SPF 50 - Zonnespray - Beschermt e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dr.Althea 345 Relief Cream | Moisturizer voor kalmerend herstel en puistjes verz",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
           "c": "Algemeen"
         },
         {
@@ -779,11 +779,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Stanley 1913 The Aerolight Iceflow Waterfles Fast Flow 0.6L - Houdt 10 Uur Koud ",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "Stanley 1913 The Aerolight Iceflow Waterfles Fast Flow 0.6L - Houdt 10 Uur Koud ",
           "c": "Algemeen"
         },
         {
@@ -791,27 +791,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Amazon eGift-kaart - Viering - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
+          "n": "Zalando Cadeaubon - voor Nederland - per e-mail",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
           "c": "Algemeen"
         },
         {
@@ -831,10 +831,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple iPad met A16 chip: 11 inch Liquid Retina-display, 128 GB, wifi 6, 12 MP ca",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
@@ -847,6 +843,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "Apple iPad met A16 chip: 11 inch Liquid Retina-display, 128 GB, wifi 6, 12 MP ca",
+          "c": "Elektronica"
+        },
+        {
           "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
           "c": "Elektronica"
         },
@@ -855,11 +855,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 29 Jun 2026 23:52 UTC",
+      "note": "amazon.com.be — gescraped 30 Jun 2026 08:24 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1158,11 +1158,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
@@ -1186,11 +1186,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Overlevingsdeken, 6-delig, 210 x 160 cm, herbruikbaar, extra groot, Deecam therm",
+          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
           "c": "Algemeen"
         },
         {
-          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
+          "n": "Overlevingsdeken, 6-delig, 210 x 160 cm, herbruikbaar, extra groot, Deecam therm",
           "c": "Algemeen"
         },
         {
@@ -1214,15 +1214,35 @@
           "c": "Algemeen"
         },
         {
+          "n": "A/C FIX Vervanging van koelgas 3-in-1 R134a 2 x 235 g voor airconditioning manom",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
+          "c": "Algemeen"
+        },
+        {
+          "n": "CompraFun Zonnescherm voor auto, voorruit, 140 x 75 cm, opvouwbaar, uv-beschermi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ClimaSet R134a koelgas vervanging, 1 x 235 g, voor airconditioning, aircondition",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Akapola Set van 2 rekbare ademende zonneschermen voor achterruiten, blokkeert ef",
+          "c": "Algemeen"
+        },
+        {
+          "n": "V16 2026 IDIADA goedgekeurd, PC21020060, waarschuwingsdriehoek, foutdriehoek, EU",
+          "c": "Algemeen"
+        },
+        {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
         {
           "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kitsch Haarverstuiver, 150 ml, continue waterverstuiver voor haar, reiniging, tu",
           "c": "Algemeen"
         },
         {
@@ -1234,31 +1254,11 @@
           "c": "Algemeen"
         },
         {
+          "n": "Kitsch Haarverstuiver, 150 ml, continue waterverstuiver voor haar, reiniging, tu",
+          "c": "Algemeen"
+        },
+        {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mullvad VPN Softwarekaart 2022 | 6 maanden abonnement voor 5 apparaten, compatib",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AVG Internet Security 2026 - Protection Antivirus | multi-appareils | 10 apparei",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Norton 360 Deluxe 2021 | 5 Devices | Antivirus | Unlimited Secure VPN & Password",
           "c": "Algemeen"
         },
         {
@@ -1282,11 +1282,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
+          "n": "Apple AirPods 4 draadloze hoofdtelefoon, Bluetooth-hoofdtelefoon, met actieve ru",
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze hoofdtelefoon, Bluetooth-hoofdtelefoon, met actieve ru",
+          "n": "Diveblues - Compacte en elegante draagbare ventilator met accu - voor handgebrui",
           "c": "Elektronica"
         },
         {
@@ -1298,19 +1298,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple EarPods (USB-C)​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
           "c": "Elektronica"
         },
         {
-          "n": "ITSHINY Draagbare nekventilator, mini-USB-ventilator, stil, kleine campingventil",
+          "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
           "c": "Elektronica"
         },
         {
@@ -1322,7 +1318,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus AAA-batterijen (24 stuks) – alkaline 1,5 V – tot 100% langer – ide",
+          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "c": "Elektronica"
+        },
+        {
+          "n": "ITSHINY Draagbare nekventilator, mini-USB-ventilator, stil, kleine campingventil",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 29 Jun 2026 23:52 UTC",
+      "note": "amazon.de — gescraped 30 Jun 2026 08:24 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,68",
+          "n": "2 aanbiedingen vanUSD 30,72",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,46",
+          "n": "USD 16,48",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,17",
+          "n": "USD 16,19",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,07",
+          "n": "1 aanbieding voorUSD 17,09",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 30,06",
+          "n": "6 aanbiedingen vanUSD 30,09",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 7,91",
+          "n": "3 aanbiedingen vanUSD 7,92",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.091,05/l)",
+          "n": "(USD 1.092,41/l)",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 13,66",
+          "n": "10 aanbiedingen vanUSD 13,68",
           "c": "Algemeen"
         },
         {
@@ -1577,19 +1577,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 29,85",
+          "n": "3 aanbiedingen vanUSD 29,89",
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 14,79",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIVEA SUN Bescherming & verzorging zonnelotion SPF 50+, watervaste zonwering met",
-          "c": "Algemeen"
-        },
-        {
-          "n": "8 aanbiedingen vanUSD 10,19",
+          "n": "9 aanbiedingen vanUSD 14,81",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1589,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 43,07/l)",
+          "n": "(USD 43,12/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIVEA SUN Bescherming & verzorging zonnelotion SPF 50+, watervaste zonwering met",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 14,70",
           "c": "Algemeen"
         },
         {
@@ -1605,15 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 35,29",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS Oscillerende torenventilator 5000 serie, 105 cm, afstandsbediening, time",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 81,32",
+          "n": "8 aanbiedingen vanUSD 35,34",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1613,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 18,43",
+          "n": "4 aanbiedingen vanUSD 18,46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS Oscillerende torenventilator 5000 serie, 105 cm, afstandsbediening, time",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 81,42",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,80",
+          "n": "1 aanbieding voorUSD 10,82",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 683,08",
+          "n": "1 aanbieding voorUSD 683,93",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,39",
+          "n": "USD 13,41",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,95",
+          "n": "USD 15,97",
           "c": "Algemeen"
         },
         {
@@ -1665,15 +1665,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 19,15",
+          "n": "USD 19,17",
           "c": "Algemeen"
         },
         {
-          "n": "Am Ende des Fortschritts: Überleben in den Ruinen des Kapitalismus | Die neue Vi",
+          "n": "Kindergarten-Rätselspaß für unterwegs - Rätselbuch ab 4 Jahre, Reisespiele für K",
           "c": "Algemeen"
         },
         {
-          "n": "USD 27,67",
+          "n": "USD 4,25",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 20,48",
+          "n": "3 aanbiedingen vanUSD 16,30",
           "c": "Algemeen"
         },
         {
@@ -1689,11 +1689,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 12,39",
+          "n": "USD 12,40",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,51",
+          "n": "1 aanbieding voorUSD 12,53",
           "c": "Algemeen"
         },
         {
@@ -1701,7 +1701,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 14,20",
+          "n": "7 aanbiedingen vanUSD 10,25",
           "c": "Algemeen"
         },
         {
