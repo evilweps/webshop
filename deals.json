@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T13:30:42.198176+00:00",
-  "updated_fmt": "1 July 2026 om 13:30",
+  "updated": "2026-07-01T18:54:26.141117+00:00",
+  "updated_fmt": "1 July 2026 om 18:54",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Jul 2026 13:30 UTC",
+      "note": "bol.com — gescraped 1 Jul 2026 18:54 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Jul 2026 13:30 UTC",
+      "note": "amazon.nl — gescraped 1 Jul 2026 18:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -795,15 +795,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
+          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
           "c": "Elektronica"
-        },
-        {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 6,3-Inch, Anti-Gluren Gehard Glas",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Jul 2026 13:30 UTC",
+      "note": "amazon.com.be — gescraped 1 Jul 2026 18:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1166,26 +1166,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon, iPhone-microfoon en USB-C-aansluiting, draadloze mini-micro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Stagg SMC1 1 meter microfoonkabel XLR-m naar XLR-f",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -1255,6 +1235,26 @@
         },
         {
           "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EMMA Ultra stille staande ventilator, 45 W, laag verbruik, hoog vermogen met 3 s",
+          "c": "Algemeen"
+        },
+        {
+          "n": "COMFEE' CFT23PW00A2 Tafelventilator, 25 W, diameter 23 cm, stille ventilator met",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Genérico EMMA Ultra stille staande ventilator, 45 W, laag verbruik, hoog vermoge",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mobiele airconditioner, 1000 ml, 4-in-1 luchtkoeler, draagbare airconditioner me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Spiegelfolie, zwart-zilver, 44,5 x 200 cm, zelfklevend, ondoorzichtig, ",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Jul 2026 13:30 UTC",
+      "note": "amazon.de — gescraped 1 Jul 2026 18:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 35,36",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lico Bioline herenpantoffels",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,20",
           "c": "Algemeen"
         },
         {
@@ -1529,15 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,15",
-          "c": "Algemeen"
-        },
-        {
           "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 17,10",
           "c": "Algemeen"
         },
         {
@@ -1545,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 7,93",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Unisex Kinder Adilette Aqua Badesandalen Kids",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,34",
           "c": "Algemeen"
         },
         {
@@ -1561,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.093,01/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "7 aanbiedingen vanUSD 13,69",
           "c": "Algemeen"
         },
         {
@@ -1577,19 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,21",
-          "c": "Algemeen"
-        },
-        {
           "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Algemeen"
-        },
-        {
-          "n": "12 aanbiedingen vanUSD 6,49",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 640,22/kg)",
           "c": "Algemeen"
         },
         {
@@ -1597,27 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 12,49",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mobile Klimaanlage, Tragbare Luftkühlgerät, leise Mobile Klimaanlage mit 500ml W",
-          "c": "Algemeen"
-        },
-        {
-          "n": "16 aanbiedingen vanUSD 31,87",
-          "c": "Algemeen"
-        },
-        {
           "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 13,68",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 9,71",
           "c": "Algemeen"
         },
         {
@@ -1625,15 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 18,47",
-          "c": "Algemeen"
-        },
-        {
           "n": "PHILIPS Oscillerende torenventilator 5000 serie, 105 cm, afstandsbediening, time",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 81,47",
           "c": "Algemeen"
         },
         {
@@ -1641,59 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,33",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Audible Standard",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 0,00",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 13,41",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,98",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bretonischer Glanz: Kommissar Dupins fünfzehnter Fall (Kommissar Dupin ermittelt",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 19,18",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Finanzen ganz einfach: Mit dem Finanztip-Prinzip richtig sparen, klug investiere",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,99",
-          "c": "Algemeen"
-        },
-        {
           "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 12,41",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,22",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 12,53",
           "c": "Algemeen"
         },
         {
@@ -1701,12 +1577,136 @@
           "c": "Algemeen"
         },
         {
-          "n": "27 aanbiedingen vanUSD 12,68",
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 4,55",
+          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten &",
           "c": "Algemeen"
+        },
+        {
+          "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ugreen Microfoonkabel high quality XLR stekker op XLR ingang, zwart, 2 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Gitaarsnaren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alpine Tune oordopjes voor concerten en muziek, festivaloordopjes met geluidsdem",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cameo AHCLFDJ5L Vloeistof voor rookmachines, gemiddelde dichtheid/standtijd",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Suright Lichtsnoer op zonne-energie, 8 m, 30 leds, lichtketting op zonne-energie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Osram LED-lamp, fitting: E27, warm wit, 2700 K, 11 W, vervanging voor 100 W gloe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GPATIO Led-lichtsnoer voor buiten, 30 m, voor buiten, stroom met 50 + 2 stuks, w",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "uandu Glazen potten met deksel, meal prep dozen, 10-delig, vershouddozen, glas, ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, verwijdert kalkaanslag en besche",
+          "c": "Keuken"
+        },
+        {
+          "n": "roborock Qrevo S Pro Robotstofzuiger met dweilfunctie, verbeterde QV 35A, 18.500",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
+        },
+        {
+          "n": "rabbitgoo Zonwerende folie voor ramen, binnen en buiten, hittebeschermingsfolie,",
+          "c": "Keuken"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
+        },
+        {
+          "n": "COMFEE Luchtontvochtiger 12 liter/dag, geschikt voor ruimtes van ca. 50 kubieke ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "Microvezel handdoek, set van 3, groot 200 x 100 cm en 2 kleine 80 x 40 cm, sneld",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips STH3020/10 Draagbare kledingstomer, 1000 W, compact en opvouwbaar, water",
+          "c": "Keuken"
+        },
+        {
+          "n": "Cecotec Staande ventilator 515 WindLite Pro. 56 W vermogen, 3 snelheden, automat",
+          "c": "Keuken"
+        },
+        {
+          "n": "Warmco 20.000 mAh batterij, campingventilator, stil, 27 cm, met lamp, 15-48 uur ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Levoit Staande ventilator met DC-motor, 20 dB stille ventilator, 1740 m³/h lucht",
+          "c": "Keuken"
+        },
+        {
+          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Levoit Compacte torenventilator, DC-motor, stil vanaf 20 dB, 7 m/s koeling, tafe",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Brita Intenza TZ70033A Waterfilter, 3 stuks, vermindert de hardheid van ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
+          "c": "Keuken"
         }
       ]
     }
