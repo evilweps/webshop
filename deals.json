@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T18:22:19.524585+00:00",
-  "updated_fmt": "2 July 2026 om 18:22",
+  "updated": "2026-07-02T23:54:54.757689+00:00",
+  "updated_fmt": "2 July 2026 om 23:54",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Jul 2026 18:22 UTC",
+      "note": "bol.com — gescraped 2 Jul 2026 23:54 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Jul 2026 18:22 UTC",
+      "note": "amazon.nl — gescraped 2 Jul 2026 23:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -703,11 +703,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -779,23 +779,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "TEXAS INSTRUMENTS TI-30XB MV TI-30XB MeerkleurenVIEW,grijs/wit",
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "21 stuks kunststof hoezen met ritssluiting, vakken voor bestanden A4, A5, A6, B4",
+          "n": "Amazon eGift-kaart - Viering",
           "c": "Algemeen"
         },
         {
-          "n": "Sakura Gelly Roll Basic White Gel Pen Set van 3, Assorti Maten | Dekkende Stifte",
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Sharpie Permanentmarker 2 Stuk zwart",
+          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
           "c": "Algemeen"
         },
         {
-          "n": "Canon DSC P SIZE color INK/PAPER SET RP-108",
+          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Jul 2026 18:22 UTC",
+      "note": "amazon.com.be — gescraped 2 Jul 2026 23:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1174,30 +1174,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EA SPORTS FC 26 Standard Edition PS4 | Videospel | Frans",
-          "c": "Algemeen"
-        },
-        {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
@@ -1219,6 +1195,30 @@
         },
         {
           "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G G29 SE Driving Force racestuur en pedaal, krachtterugkeer, echt leer ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EA SPORTS FC 26 Standard Edition PS4 | Videospel | Frans",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Jul 2026 18:22 UTC",
+      "note": "amazon.de — gescraped 2 Jul 2026 23:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,18",
+          "n": "1 aanbieding voorUSD 16,51",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,52",
+          "n": "1 aanbieding voorUSD 20,48",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 14,24",
+          "n": "8 aanbiedingen vanUSD 14,24",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,52",
+          "n": "2 aanbiedingen vanUSD 20,74",
           "c": "Algemeen"
         },
         {
