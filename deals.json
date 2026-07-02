@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T00:01:25.630011+00:00",
-  "updated_fmt": "2 July 2026 om 00:01",
+  "updated": "2026-07-02T07:59:36.670700+00:00",
+  "updated_fmt": "2 July 2026 om 07:59",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Jul 2026 00:01 UTC",
+      "note": "bol.com — gescraped 2 Jul 2026 07:59 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Jul 2026 00:01 UTC",
+      "note": "amazon.nl — gescraped 2 Jul 2026 07:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,6 +671,30 @@
       ],
       "bestsellers": [
         {
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York - Lash Sensational Sky High Mascara - Very Black - Zwart - E",
           "c": "Algemeen"
         },
@@ -695,30 +719,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
           "c": "Algemeen"
         },
@@ -727,15 +727,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hitte-Reflecterende Raamfolie, Aluminium Isolatiefolie Met Zuignappen, 30 40 50 ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
           "c": "Algemeen"
         },
         {
+          "n": "Hitte-Reflecterende Raamfolie, Aluminium Isolatiefolie Met Zuignappen, 30 40 50 ",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
           "c": "Algemeen"
         },
         {
@@ -783,7 +787,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
           "c": "Algemeen"
         },
         {
@@ -839,11 +843,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
           "c": "Elektronica"
         },
         {
@@ -851,7 +855,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
@@ -859,15 +863,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
           "c": "Elektronica"
         },
         {
           "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Jul 2026 00:01 UTC",
+      "note": "amazon.com.be — gescraped 2 Jul 2026 07:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,7 +1210,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Anker NewNylon C-C Cable 100W 6ft",
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
         {
@@ -1226,11 +1226,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
           "c": "Algemeen"
         },
         {
@@ -1286,11 +1286,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
+          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
+          "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
           "c": "Elektronica"
         },
         {
@@ -1322,7 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Oplaadbare nekventilator, stille en oplaadbare nekventilator met 5 snelheden, 7 ",
+          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Jul 2026 00:01 UTC",
+      "note": "amazon.de — gescraped 2 Jul 2026 07:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 35,36",
+          "n": "2 aanbiedingen vanUSD 35,29",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,20",
+          "n": "USD 16,17",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,15",
+          "n": "USD 17,12",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,10",
+          "n": "1 aanbieding voorUSD 17,07",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 7,93",
+          "n": "3 aanbiedingen vanUSD 7,91",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,34",
+          "n": "USD 15,30",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.093,01/l)",
+          "n": "(USD 1.091,04/l)",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 13,69",
+          "n": "7 aanbiedingen vanUSD 13,66",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,21",
+          "n": "1 aanbieding voorUSD 17,18",
           "c": "Algemeen"
         },
         {
@@ -1585,19 +1585,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "14 aanbiedingen vanUSD 6,83",
+          "n": "13 aanbiedingen vanUSD 6,82",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,82",
+          "n": "3 aanbiedingen vanUSD 11,37",
           "c": "Algemeen"
         },
         {
-          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
+          "n": "d'alba Italian White Truffel First Spray Serum, vochtinbrengende gezichtsspray, ",
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 12,49",
+          "n": "4 aanbiedingen vanUSD 25,04",
           "c": "Algemeen"
         },
         {
@@ -1605,11 +1605,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,68",
+          "n": "1 aanbieding voorUSD 13,65",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 9,71",
+          "n": "6 aanbiedingen vanUSD 9,69",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 18,47",
+          "n": "4 aanbiedingen vanUSD 18,43",
           "c": "Algemeen"
         },
         {
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 81,47",
+          "n": "USD 81,32",
           "c": "Algemeen"
         },
         {
@@ -1633,11 +1633,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,33",
+          "n": "USD 38,26",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 25,65",
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 36,42",
           "c": "Algemeen"
         },
         {
@@ -1645,15 +1649,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 12,41",
+          "n": "USD 12,39",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,22",
+          "n": "2 aanbiedingen vanUSD 16,19",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,53",
+          "n": "1 aanbieding voorUSD 12,51",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,82",
           "c": "Algemeen"
         },
         {
@@ -1661,11 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "29 aanbiedingen vanUSD 11,74",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 9,11",
+          "n": "8 aanbiedingen vanUSD 11,69",
           "c": "Algemeen"
         },
         {
@@ -1673,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 14,01",
+          "n": "4 aanbiedingen vanUSD 13,98",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 34,16",
+          "n": "1 aanbieding voorUSD 34,10",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,56",
+          "n": "2 aanbiedingen vanUSD 21,52",
           "c": "Algemeen"
         },
         {
@@ -1697,15 +1701,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 9,11",
+          "n": "7 aanbiedingen vanUSD 9,10",
           "c": "Algemeen"
         },
         {
           "n": "Ernie Ball Gitaarsnaren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 5,39/eenheid)",
           "c": "Algemeen"
         }
       ]
