@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T18:07:24.395116+00:00",
-  "updated_fmt": "3 July 2026 om 18:07",
+  "updated": "2026-07-03T23:55:10.772724+00:00",
+  "updated_fmt": "3 July 2026 om 23:55",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Jul 2026 18:07 UTC",
+      "note": "bol.com — gescraped 3 Jul 2026 23:55 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Jul 2026 18:07 UTC",
+      "note": "amazon.nl — gescraped 3 Jul 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -715,26 +715,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -756,6 +736,30 @@
         },
         {
           "n": "Ring Buitencamera op batterij (Stick Up Cam) | HD-beveiligingscamera met tweeweg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ray Donovan - The Movie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blade Runner 2049",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Queer (4K Ultra HD) (+ Blu-ray)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar 3-Movie-Collection: 3-Movie Collection",
           "c": "Algemeen"
         },
         {
@@ -783,27 +787,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift-kaart - Viering",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Jul 2026 18:07 UTC",
+      "note": "amazon.com.be — gescraped 3 Jul 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1174,26 +1174,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biokat's Biokat's Diamond Care Fresh met talkgeur, fijne kattenbakvulling met ac",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Felix Purina Délicieux Duo Kattenvoer, heerlijk duo, maxi-verpakking, 44 x 85 g,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pets Perfect Koelmat voor honden, zelfkoelend, M 50 x 60 cm, hondenkoelmat met 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Felix Mix Selectie gelei kattenvoer, lunchzakken voor nat voer met rundvlees, ki",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FELIX Zo goed als het eruit ziet. Natvoer voor katten met geleimix, 120 stuks (1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
@@ -1266,6 +1246,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mullvad VPN | 12 Mois pour 5 Appareils | Service VPN sans journalisation | Proté",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avast Premium Security 2026 - Protection Antivirus | 1 PC | 1 an",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Norton 360 Deluxe 2025, 5 Apparaten, 1 jaar, Apparaatbeveiliging, Dark Web Monit",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Elektronica"
         },
@@ -1320,10 +1324,6 @@
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
-        },
-        {
-          "n": "Jsdoin Handventilator, mini, bureauventilator, draagbaar, USB-oplaadbaar, met 5 ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Jul 2026 18:07 UTC",
+      "note": "amazon.de — gescraped 3 Jul 2026 23:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 35,47",
+          "n": "3 aanbiedingen vanUSD 35,41",
           "c": "Algemeen"
         },
         {
@@ -1673,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 14,31",
+          "n": "6 aanbiedingen vanUSD 14,61",
           "c": "Algemeen"
         },
         {
