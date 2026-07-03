@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T12:51:07.724038+00:00",
-  "updated_fmt": "3 July 2026 om 12:51",
+  "updated": "2026-07-03T18:07:24.395116+00:00",
+  "updated_fmt": "3 July 2026 om 18:07",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Jul 2026 12:51 UTC",
+      "note": "bol.com — gescraped 3 Jul 2026 18:07 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Jul 2026 12:51 UTC",
+      "note": "amazon.nl — gescraped 3 Jul 2026 18:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -715,6 +715,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -760,26 +780,6 @@
         },
         {
           "n": "Dunlop Fietstassen Dubbel Waterdicht - Fietstas 36x30x12cm - Nylon Fietstassen m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Jul 2026 12:51 UTC",
+      "note": "amazon.com.be — gescraped 3 Jul 2026 18:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,19 +1126,27 @@
       ],
       "bestsellers": [
         {
-          "n": "XIAOMI Smart Band 10 fitnesstracker, 44 mm AMOLED-display, 21 dagen batterijduur",
+          "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
           "c": "Algemeen"
         },
         {
-          "n": "Xiaomi Smart Band 10 zwart - activiteitenarmband",
+          "n": "Fisura - Originele waaier met Spaanse boodschap. Moderne en grappige houten waai",
           "c": "Algemeen"
         },
         {
-          "n": "Intex - Elektrische luchtpomp, 230 V",
+          "n": "Fisura Originele houten waaier modern en grappig ophangen, 42,5 x 23 cm, roze, 2",
           "c": "Algemeen"
         },
         {
-          "n": "Takit Survivaldeken, 5 x, herbruikbaar, extra groot, 210 x 160 cm, waterdicht, o",
+          "n": "Adidas Adilette Aqua Slippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ALPIDEX T-shirts voor heren, 5 stuks, zwart, effen, ronde hals, maat S, M, L, XL",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Scheuren: originele waaier met een grappige boodschap in het Engels of Italiaans",
           "c": "Algemeen"
         },
         {
@@ -1163,6 +1171,26 @@
         },
         {
           "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biokat's Biokat's Diamond Care Fresh met talkgeur, fijne kattenbakvulling met ac",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Felix Purina Délicieux Duo Kattenvoer, heerlijk duo, maxi-verpakking, 44 x 85 g,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pets Perfect Koelmat voor honden, zelfkoelend, M 50 x 60 cm, hondenkoelmat met 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Felix Mix Selectie gelei kattenvoer, lunchzakken voor nat voer met rundvlees, ki",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FELIX Zo goed als het eruit ziet. Natvoer voor katten met geleimix, 120 stuks (1",
           "c": "Algemeen"
         },
         {
@@ -1238,30 +1266,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mullvad VPN | 12 Mois pour 5 Appareils | Service VPN sans journalisation | Proté",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avast Premium Security 2026 - Protection Antivirus | 1 PC | 1 an",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Norton 360 Deluxe 2025, 5 Apparaten, 1 jaar, Apparaatbeveiliging, Dark Web Monit",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Displaybeschermfolie voor iPhone 17 6,3 inch, gehard glasfolie met eenvou",
           "c": "Elektronica"
         },
@@ -1320,10 +1324,6 @@
         {
           "n": "Jsdoin Handventilator, mini, bureauventilator, draagbaar, USB-oplaadbaar, met 5 ",
           "c": "Elektronica"
-        },
-        {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Jul 2026 12:51 UTC",
+      "note": "amazon.de — gescraped 3 Jul 2026 18:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 11,43",
+          "n": "2 aanbiedingen vanUSD 31,92",
           "c": "Algemeen"
         },
         {
@@ -1637,11 +1637,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "n": "Mobile Klimaanlage, Tragbare Luftkühlgerät, leise Mobile Klimaanlage mit 500ml W",
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,64",
+          "n": "3 aanbiedingen vanUSD 34,33",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 16,85",
+          "n": "2 aanbiedingen vanUSD 16,85",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 14,21",
+          "n": "2 aanbiedingen vanUSD 18,87",
           "c": "Algemeen"
         },
         {
@@ -1673,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 14,31",
+          "n": "7 aanbiedingen vanUSD 14,31",
           "c": "Algemeen"
         },
         {
