@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T12:00:24.487620+00:00",
-  "updated_fmt": "4 July 2026 om 12:00",
+  "updated": "2026-07-04T17:54:18.317478+00:00",
+  "updated_fmt": "4 July 2026 om 17:54",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Jul 2026 12:00 UTC",
+      "note": "bol.com — gescraped 4 Jul 2026 17:54 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Jul 2026 12:00 UTC",
+      "note": "amazon.nl — gescraped 4 Jul 2026 17:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -731,7 +731,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
+          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Jul 2026 12:00 UTC",
+      "note": "amazon.com.be — gescraped 4 Jul 2026 17:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Jul 2026 12:00 UTC",
+      "note": "amazon.de — gescraped 4 Jul 2026 17:54 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 13,72",
+          "n": "9 aanbiedingen vanUSD 13,72",
           "c": "Algemeen"
         },
         {
@@ -1585,19 +1585,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "12 aanbiedingen vanUSD 6,85",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 34,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ninabella Haarborstel zonder trekken, borstel voor dames en heren, ontwarrende b",
+          "n": "13 aanbiedingen vanUSD 6,74",
           "c": "Algemeen"
         },
         {
           "n": "2 aanbiedingen vanUSD 11,43",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ninabella Haarborstel zonder trekken, borstel voor dames en heren, ontwarrende b",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,83",
+          "n": "USD 5,92",
           "c": "Algemeen"
         },
         {
@@ -1706,6 +1702,10 @@
         },
         {
           "n": "(USD 5,41/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
           "c": "Algemeen"
         }
       ]
