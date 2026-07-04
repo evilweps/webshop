@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T23:55:10.772724+00:00",
-  "updated_fmt": "3 July 2026 om 23:55",
+  "updated": "2026-07-04T07:35:58.168942+00:00",
+  "updated_fmt": "4 July 2026 om 07:35",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Jul 2026 23:55 UTC",
+      "note": "bol.com — gescraped 4 Jul 2026 07:35 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Jul 2026 23:55 UTC",
+      "note": "amazon.nl — gescraped 4 Jul 2026 07:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -731,35 +731,11 @@
           "c": "Algemeen"
         },
         {
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Buitencamera op batterij (Stick Up Cam) | HD-beveiligingscamera met tweeweg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ray Donovan - The Movie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blade Runner 2049",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Queer (4K Ultra HD) (+ Blu-ray)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar 3-Movie-Collection: 3-Movie Collection",
           "c": "Algemeen"
         },
         {
@@ -783,7 +759,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Dunlop Fietstassen Dubbel Waterdicht - Fietstas 36x30x12cm - Nylon Fietstassen m",
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
           "c": "Algemeen"
         },
         {
@@ -804,6 +780,34 @@
         },
         {
           "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Viering",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
@@ -851,23 +855,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk High Endurance MicroSD-Kaart 128 GB (Perfect Voor Dashboardcamera Of Bew",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-oplaadkabel 240 W (2 m) ​​​​​​​",
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
           "c": "Elektronica"
         },
         {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple USB‑C-oplaadkabel 240 W (2 m) ​​​​​​​",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Jul 2026 23:55 UTC",
+      "note": "amazon.com.be — gescraped 4 Jul 2026 07:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1182,11 +1182,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
           "c": "Algemeen"
         },
         {
@@ -1214,11 +1214,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "HyperX 4P5D4AA Cloud Alpha Wireless - Gaming Headset voor PC, 300 uur batterijdu",
+          "n": "EA SPORTS FC 26 Standard Edition PS4 | Videospel | Frans",
           "c": "Algemeen"
         },
         {
-          "n": "EA SPORTS FC 26 Standard Edition PS4 | Videospel | Frans",
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
         {
@@ -1258,11 +1258,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Avast Premium Security 2026 - Protection Antivirus | 1 PC | 1 an",
+          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
+          "n": "Avast Premium Security 2026 - Protection Antivirus | 1 PC | 1 an",
           "c": "Algemeen"
         },
         {
@@ -1302,11 +1302,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
+          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
+          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
           "c": "Elektronica"
         },
         {
@@ -1314,15 +1314,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple iPad met A16-chip: 11-inch Liquid Retina-display, 128 GB, Wi-Fi 6, 12 MP c",
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Jsdoin Handventilator, mini, bureauventilator, draagbaar, USB-oplaadbaar, met 5 ",
           "c": "Elektronica"
         },
         {
           "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Jul 2026 23:55 UTC",
+      "note": "amazon.de — gescraped 4 Jul 2026 07:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,15",
+          "n": "1 aanbieding voorUSD 17,14",
           "c": "Algemeen"
         },
         {
@@ -1525,19 +1525,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lico Bioline herenpantoffels",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,25",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 35,41",
+          "n": "3 aanbiedingen vanUSD 35,40",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lico Bioline Man pantoffels voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,24",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,38",
+          "n": "USD 15,37",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 970,18/l)",
+          "n": "(USD 969,78/l)",
           "c": "Algemeen"
         },
         {
@@ -1569,15 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,59",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Algemeen"
-        },
-        {
-          "n": "13 aanbiedingen vanUSD 6,85",
+          "n": "1 aanbieding voorUSD 16,58",
           "c": "Algemeen"
         },
         {
@@ -1585,11 +1577,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 13,73",
+          "n": "8 aanbiedingen vanUSD 13,72",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 31,92",
+          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "c": "Algemeen"
+        },
+        {
+          "n": "12 aanbiedingen vanUSD 6,85",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 31,91",
           "c": "Algemeen"
         },
         {
@@ -1605,19 +1605,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,72",
+          "n": "1 aanbieding voorUSD 13,71",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 9,74",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Buymax DXHome Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 9,11",
+          "n": "6 aanbiedingen vanUSD 9,73",
           "c": "Algemeen"
         },
         {
@@ -1629,19 +1621,27 @@
           "c": "Algemeen"
         },
         {
+          "n": "Buymax DXHome Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 9,10",
+          "c": "Algemeen"
+        },
+        {
           "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,46",
+          "n": "USD 38,44",
           "c": "Algemeen"
         },
         {
-          "n": "Mobile Klimaanlage, Tragbare Luftkühlgerät, leise Mobile Klimaanlage mit 500ml W",
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 34,33",
+          "n": "USD 29,78",
           "c": "Algemeen"
         },
         {
@@ -1649,15 +1649,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 12,45",
+          "n": "USD 12,44",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,85",
+          "n": "4 aanbiedingen vanUSD 16,76",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,84",
+          "n": "USD 5,83",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 18,87",
+          "n": "2 aanbiedingen vanUSD 18,86",
           "c": "Algemeen"
         },
         {
@@ -1673,7 +1673,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 14,61",
+          "n": "6 aanbiedingen vanUSD 14,31",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 34,27",
+          "n": "1 aanbieding voorUSD 34,25",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1689,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 20,85",
+          "n": "2 aanbiedingen vanUSD 20,84",
           "c": "Algemeen"
         },
         {
