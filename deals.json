@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T17:54:18.317478+00:00",
-  "updated_fmt": "4 July 2026 om 17:54",
+  "updated": "2026-07-04T23:51:51.815699+00:00",
+  "updated_fmt": "4 July 2026 om 23:51",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Jul 2026 17:54 UTC",
+      "note": "bol.com — gescraped 4 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Jul 2026 17:54 UTC",
+      "note": "amazon.nl — gescraped 4 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -715,26 +715,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -803,6 +783,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ray Donovan - The Movie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Interstellar (4K UHD + Blu-ray)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hey Arnold! - Die komplette Serie (SD on Blu-Ray)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Avatar 3-Movie-Collection. UHD + Blu-ray",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Jul 2026 17:54 UTC",
+      "note": "amazon.com.be — gescraped 4 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Jul 2026 17:54 UTC",
+      "note": "amazon.de — gescraped 4 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1585,15 +1585,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "13 aanbiedingen vanUSD 6,74",
+          "n": "13 aanbiedingen vanUSD 6,62",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 11,43",
+          "n": "1 aanbieding voorUSD 34,20",
           "c": "Algemeen"
         },
         {
           "n": "Ninabella Haarborstel zonder trekken, borstel voor dames en heren, ontwarrende b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 11,43",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 16,76",
+          "n": "3 aanbiedingen vanUSD 16,76",
           "c": "Algemeen"
         },
         {
@@ -1702,10 +1706,6 @@
         },
         {
           "n": "(USD 5,41/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
           "c": "Algemeen"
         }
       ]
