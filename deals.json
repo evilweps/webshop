@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T07:51:35.873525+00:00",
-  "updated_fmt": "5 July 2026 om 07:51",
+  "updated": "2026-07-05T12:08:23.553949+00:00",
+  "updated_fmt": "5 July 2026 om 12:08",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 5 Jul 2026 07:51 UTC",
+      "note": "bol.com — gescraped 5 Jul 2026 12:08 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 5 Jul 2026 07:51 UTC",
+      "note": "amazon.nl — gescraped 5 Jul 2026 12:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,6 +671,26 @@
       ],
       "bestsellers": [
         {
+          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "La Roche-Posay La Roche Posay Effaclar Zuiverende Gel 400 ml",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
           "c": "Algemeen"
         },
@@ -691,27 +711,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
+          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
-          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York - Lash Sensational Sky High Mascara - Very Black - Zwart - E",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "KIKO Milano Smart Fusion Lipstick 461, Rijke En Voedende Lippenstift Met Glanzen",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "MEDICUBE Collagen Night Wrapping Mask 75Ml",
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
@@ -731,7 +751,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
@@ -739,31 +759,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Thriller",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Off the Wall",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Michael Jackson - Thriller",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Doo-Wops & Hooligans(Lp)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blurryface",
-          "c": "Algemeen"
-        },
-        {
           "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fit-Flip Microvezel handdoeken - compact, ultralicht & sneldrogend - de perfecte",
           "c": "Algemeen"
         },
         {
@@ -771,7 +767,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
+          "n": "Fit-Flip Microvezel handdoeken - compact, ultralicht & sneldrogend - de perfecte",
           "c": "Algemeen"
         },
         {
@@ -779,31 +775,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
           "c": "Algemeen"
         },
         {
-          "n": "Avatar: Fire and Ash 3D (3D/2D, Limited Steelbook): Blu-ray 3D + Blu-ray + Bonus",
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
           "c": "Algemeen"
         },
         {
-          "n": "Avatar: Fire and Ash. UHD + Blu-ray",
+          "n": "Amazon eGift-kaart - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Ray Donovan - The Movie",
+          "n": "Amazon eGift-kaart - Viering",
           "c": "Algemeen"
         },
         {
-          "n": "Interstellar (4K UHD + Blu-ray)",
+          "n": "Amazon eGift Card – Groeten – (Directe levering per e-mail)",
           "c": "Algemeen"
         },
         {
-          "n": "Avatar 3-Movie-Collection. UHD + Blu-ray",
+          "n": "Roblox Cadeaubon - voor Nederland - per e-mail",
           "c": "Algemeen"
         },
         {
-          "n": "Hey Arnold! - Die komplette Serie (SD on Blu-Ray)",
+          "n": "Apple Gift Card — App Store, iTunes, iPhone, iPad, AirPods, MacBook, accessoires",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon eGift-kaart - Waardering - (onmiddellijke bezorging via e-mail)",
           "c": "Algemeen"
         },
         {
@@ -811,19 +811,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
         },
         {
@@ -831,7 +819,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
           "c": "Elektronica"
         },
         {
@@ -843,7 +843,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
           "c": "Elektronica"
         },
         {
@@ -851,15 +851,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "Pixel Flex Dual Port 67W USB-C snellader - Pixel snellader - compatibel met Goog",
           "c": "Elektronica"
         },
         {
@@ -867,7 +859,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
           "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 5 Jul 2026 07:51 UTC",
+      "note": "amazon.com.be — gescraped 5 Jul 2026 12:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,31 +1126,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Lifetree Spiegelfolie, zwart-zilver, 44,5 x 200 cm, zelfklevend, ondoorzichtig, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pelonis Stille torenventilator, 4,2 m/s, met koelafstandsbediening, staande vent",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EMMA Ultra stille staande ventilator, 45 W, laag verbruik, hoog vermogen met 3 s",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cecotec EnergySilence 9090 Skyline Digitale zuilventilator, 45 W, 40 inch, 3 sne",
-          "c": "Algemeen"
-        },
-        {
           "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ALPIDEX T-shirts voor heren, 5 stuks, zwart, effen, ronde hals, maat S, M, L, XL",
           "c": "Algemeen"
         },
         {
@@ -1166,11 +1146,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "ALPIDEX T-shirts voor heren, 5 stuks, zwart, effen, ronde hals, maat S, M, L, XL",
+          "n": "adidas Vs Pace 2.0 ChaussuresHomme",
           "c": "Algemeen"
         },
         {
-          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart",
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pelonis Stille torenventilator, 4,2 m/s, met koelafstandsbediening, staande vent",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Spiegelfolie, zwart-zilver, 44,5 x 200 cm, zelfklevend, ondoorzichtig, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EMMA Ultra stille staande ventilator, 45 W, laag verbruik, hoog vermogen met 3 s",
           "c": "Algemeen"
         },
         {
@@ -1190,19 +1186,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
           "c": "Algemeen"
         },
         {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
         {
@@ -1214,11 +1206,39 @@
           "c": "Algemeen"
         },
         {
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "c": "Algemeen"
+        },
+        {
           "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TONOR TC310+ Micro PC Gaming RGB, USB-condensatormicrofoon, professioneel, micro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Aomig Snelwisselcapo voor akoestische en elektrische gitaren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alesis Keyboard met 88 toetsen met 480 geluiden, luidsprekers, MIDI-USB, draagta",
           "c": "Algemeen"
         },
         {
@@ -1226,47 +1246,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G 502 X LIGHTSPEED Draadloze gamingmuis - Optische muis met optische me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EA SPORTS FC 26 Standard Edition PS4 | Videospel | Frans",
-          "c": "Algemeen"
-        },
-        {
           "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
+          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED gamingmuis, draadloos, licht, hybride s",
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
+          "n": "Grand Theft Auto VI - PlayStation 5 (Code en boîte)",
           "c": "Algemeen"
         },
         {
-          "n": "Mullvad VPN | 12 Mois pour 5 Appareils | Service VPN sans journalisation | Proté",
+          "n": "EA SPORTS FC 26 Standard Edition PS5 | Videospel | Frans",
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avast Premium Security 2026 - Protection Antivirus | 1 PC | 1 an",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Norton 360 Deluxe 2025, 5 Apparaten, 1 jaar, Apparaatbeveiliging, Dark Web Monit",
+          "n": "Logitech G 502 X LIGHTSPEED Draadloze gamingmuis - Optische muis met optische me",
           "c": "Algemeen"
         },
         {
@@ -1294,23 +1290,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 6,3 inch, gehard glasfoli",
-          "c": "Elektronica"
-        },
-        {
           "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus AAA-batterijen (12 stuks) – alkaline 1,5 V – tot 100% langer – ide",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
+          "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 6,3 inch, gehard glasfoli",
           "c": "Elektronica"
         },
         {
@@ -1318,7 +1302,23 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "n": "Duracell Plus AAA-batterijen (12 stuks) – alkaline 1,5 V – tot 100% langer – ide",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU Externe accu, 20.000 mAh, klein 45 W, PD, snel opladen, powerbank met geïnt",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Displaybeschermfolie voor Samsung Galaxy A17 5G / 4G 6,7 inch, 9H gehard ",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 5 Jul 2026 07:51 UTC",
+      "note": "amazon.de — gescraped 5 Jul 2026 12:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1525,14 +1525,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 35,40",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lico Bioline Man pantoffels voor heren",
           "c": "Algemeen"
         },
@@ -1546,6 +1538,14 @@
         },
         {
           "n": "3 aanbiedingen vanUSD 7,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 35,40",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "13 aanbiedingen vanUSD 6,62",
+          "n": "12 aanbiedingen vanUSD 6,51",
           "c": "Algemeen"
         },
         {
@@ -1609,15 +1609,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 11,65",
+          "c": "Algemeen"
+        },
+        {
           "n": "6 aanbiedingen vanUSD 9,73",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Buymax DXHome Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 14,75",
           "c": "Algemeen"
         },
         {
@@ -1645,6 +1645,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 16,76",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,92",
+          "c": "Algemeen"
+        },
+        {
           "n": "EasyMaxx Magic Click muggennet",
           "c": "Algemeen"
         },
@@ -1653,15 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,92",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 16,76",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 11,43",
+          "n": "2 aanbiedingen vanUSD 22,86",
           "c": "Algemeen"
         },
         {
@@ -1705,7 +1705,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ernie Ball Gitaarsnaren",
+          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
           "c": "Algemeen"
         }
       ]
