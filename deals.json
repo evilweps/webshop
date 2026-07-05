@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T23:51:51.815699+00:00",
-  "updated_fmt": "4 July 2026 om 23:51",
+  "updated": "2026-07-05T07:51:35.873525+00:00",
+  "updated_fmt": "5 July 2026 om 07:51",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Jul 2026 23:51 UTC",
+      "note": "bol.com — gescraped 5 Jul 2026 07:51 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Jul 2026 23:51 UTC",
+      "note": "amazon.nl — gescraped 5 Jul 2026 07:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -703,11 +703,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "KIKO Milano Smart Fusion Lipstick 461, Rijke En Voedende Lippenstift Met Glanzen",
+          "n": "Maybelline New York - Lash Sensational Sky High Mascara - Very Black - Zwart - E",
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York - Lash Sensational Sky High Mascara - Very Black - Zwart - E",
+          "n": "KIKO Milano Smart Fusion Lipstick 461, Rijke En Voedende Lippenstift Met Glanzen",
           "c": "Algemeen"
         },
         {
@@ -731,11 +731,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 8 (nieuwste generatie), kleurrijk HD-scherm van 8,7 inch met ru",
+          "n": "Ring-buitencamera Plus met stekkeradapter (Outdoor Camera Plus nieuwste generati",
           "c": "Algemeen"
         },
         {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
           "c": "Algemeen"
         },
         {
@@ -775,11 +775,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
           "c": "Algemeen"
         },
         {
-          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
@@ -799,11 +799,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hey Arnold! - Die komplette Serie (SD on Blu-Ray)",
+          "n": "Avatar 3-Movie-Collection. UHD + Blu-ray",
           "c": "Algemeen"
         },
         {
-          "n": "Avatar 3-Movie-Collection. UHD + Blu-ray",
+          "n": "Hey Arnold! - Die komplette Serie (SD on Blu-Ray)",
           "c": "Algemeen"
         },
         {
@@ -839,15 +839,27 @@
           "c": "Elektronica"
         },
         {
-          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
-          "c": "Elektronica"
-        },
-        {
           "n": "Duracell Plus C-batterijen (4 stuks) - 1,5V-alkaline batterijen - 100% levensduu",
           "c": "Elektronica"
         },
         {
+          "n": "Anker 140 W USB C-oplader, 4-poorts multi-apparaten, geavanceerd GaN-voeding, to",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
@@ -856,18 +868,6 @@
         },
         {
           "n": "UGREEN 100W USB C naar USB C kabel 2 stuks PD 3.0 oplaadkabel USB C 5A/20V PPS c",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Jul 2026 23:51 UTC",
+      "note": "amazon.com.be — gescraped 5 Jul 2026 07:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,30 @@
       ],
       "bestsellers": [
         {
+          "n": "Lifetree Spiegelfolie, zwart-zilver, 44,5 x 200 cm, zelfklevend, ondoorzichtig, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pelonis Stille torenventilator, 4,2 m/s, met koelafstandsbediening, staande vent",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EMMA Ultra stille staande ventilator, 45 W, laag verbruik, hoog vermogen met 3 s",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cecotec EnergySilence 9090 Skyline Digitale zuilventilator, 45 W, 40 inch, 3 sne",
+          "c": "Algemeen"
+        },
+        {
           "n": "Crocs Classic Clog K Crocs Rubberen klompen, uniseks, voor kinderen",
           "c": "Algemeen"
         },
@@ -1146,31 +1170,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "SAGUARO 7 afvoergaten, sneldrogend, antislip, badschoenen voor dames en heren, m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Spiegelfolie, zwart-zilver, 44,5 x 200 cm, zelfklevend, ondoorzichtig, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pelonis Stille torenventilator, 4,2 m/s, met koelafstandsbediening, staande vent",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EMMA Ultra stille staande ventilator, 45 W, laag verbruik, hoog vermogen met 3 s",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cecotec EnergySilence 9090 Skyline Digitale zuilventilator, 45 W, 40 inch, 3 sne",
+          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart",
           "c": "Algemeen"
         },
         {
@@ -1190,11 +1190,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 8 (nieuwste generatie), kleurrijk HD-scherm van 8,7 inch met ru",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
@@ -1214,11 +1214,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
           "c": "Algemeen"
         },
         {
-          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
+          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
           "c": "Algemeen"
         },
         {
@@ -1226,11 +1226,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
+          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED gamingmuis, draadloos, licht, hybride s",
+          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
           "c": "Algemeen"
         },
         {
@@ -1306,10 +1306,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple iPad met A16-chip: 11-inch Liquid Retina-display, 128 GB, Wi-Fi 6, 12 MP c",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
@@ -1318,11 +1314,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Apple iPad met A16-chip: 11-inch Liquid Retina-display, 128 GB, Wi-Fi 6, 12 MP c",
+          "c": "Elektronica"
+        },
+        {
           "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
           "c": "Elektronica"
         },
         {
-          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Jul 2026 23:51 UTC",
+      "note": "amazon.de — gescraped 5 Jul 2026 07:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1525,19 +1525,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,24",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
         {
           "n": "3 aanbiedingen vanUSD 35,40",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lico Bioline Man pantoffels voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,24",
           "c": "Algemeen"
         },
         {
@@ -1593,11 +1593,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ninabella Haarborstel zonder trekken, borstel voor dames en heren, ontwarrende b",
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 11,43",
+          "n": "1 aanbieding voorUSD 5,95",
           "c": "Algemeen"
         },
         {
@@ -1637,11 +1637,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,64",
+          "n": "USD 29,78",
           "c": "Algemeen"
         },
         {
@@ -1653,11 +1653,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 5,92",
+          "c": "Algemeen"
+        },
+        {
           "n": "3 aanbiedingen vanUSD 16,76",
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,92",
+          "n": "2 aanbiedingen vanUSD 11,43",
           "c": "Algemeen"
         },
         {
@@ -1702,10 +1706,6 @@
         },
         {
           "n": "Ernie Ball Gitaarsnaren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 5,41/eenheid)",
           "c": "Algemeen"
         }
       ]
