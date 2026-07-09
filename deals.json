@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T18:45:08.398685+00:00",
-  "updated_fmt": "9 July 2026 om 18:45",
+  "updated": "2026-07-09T23:57:01.238136+00:00",
+  "updated_fmt": "9 July 2026 om 23:57",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Jul 2026 18:45 UTC",
+      "note": "bol.com — gescraped 9 Jul 2026 23:57 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Jul 2026 18:45 UTC",
+      "note": "amazon.nl — gescraped 9 Jul 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,50 +739,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazfit Helio Strap - Activiteitentracker Fitness Tracker & Slaapmeter met Harts",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -807,68 +763,112 @@
           "c": "Algemeen"
         },
         {
-          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
-          "c": "Beauty"
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
         },
         {
-          "n": "Redken, Voor Beschadigd, Veeleisend en Gekleurd Haar, Beschermt Intensief Tegen ",
-          "c": "Beauty"
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
         },
         {
-          "n": "La Roche-Posay La Roche Posay Effaclar Zuiverende Gel 400 ml",
-          "c": "Beauty"
+          "n": "Der Nachbar",
+          "c": "Algemeen"
         },
         {
-          "n": "Kanzy Tea Tree Olie 60 ml – 100% natuurlijke en veganistische oplossing voor hui",
-          "c": "Beauty"
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
         },
         {
-          "n": "KIKO Milano Smart Fusion Lipstick 405, Rijke En Voedende Lippenstift Met Glanzen",
-          "c": "Beauty"
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "c": "Algemeen"
         },
         {
-          "n": "USB Oplaadkabel 5V Ooplader compatibel met Philips QP2724, QP2720, QP2734, QP282",
-          "c": "Beauty"
+          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "c": "Algemeen"
         },
         {
-          "n": "Geek & Gorgeous - A-Game 5 - Licht Serum met 0,05% Retinal voor het Gezicht, Bes",
-          "c": "Beauty"
+          "n": "Amazfit Helio Strap - Activiteitentracker Fitness Tracker & Slaapmeter met Harts",
+          "c": "Algemeen"
         },
         {
-          "n": "La Roche-Posay Anthelios UVMune 400 Invisible Fluid LSF 50+ für empfindliche Hau",
-          "c": "Beauty"
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
+          "c": "Algemeen"
         },
         {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
-          "c": "Beauty"
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Authentiek Face & Body Elektrische Baardtrimmer, Scheerappa",
-          "c": "Beauty"
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
+          "c": "Algemeen"
         },
         {
-          "n": "La Roche-Posay Cicaplast Baume B5+ Hautbarriere-reparierender und beruhigender B",
-          "c": "Beauty"
+          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
         },
         {
-          "n": "URAQT 16 STKS Nagelvijlen, 100/180 grit Dubbelzijdige Emery Board, Professionele",
-          "c": "Beauty"
+          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
+          "c": "Elektronica"
         },
         {
-          "n": "Tweezerman Pincet",
-          "c": "Beauty"
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
         },
         {
-          "n": "Philips Neustrimmer 5000 Serie - Trim neus-, oor- en wenkbrauwhaar - Volledig af",
-          "c": "Beauty"
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "Gillette Fusion5 Scheermes Voor Mannen, 1 Gillette Handvat, 2 Scheermesjes, met ",
-          "c": "Beauty"
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
+          "c": "Elektronica"
         },
         {
-          "n": "Marcel's Green Soap - Handzeep Navulverpakking Sandalwood & Cardamom - Refill - ",
-          "c": "Beauty"
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU 30W USB C Oplader 2-Pack, [USB C + A] Meervoudige Voedingsadapter met USB-C",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "c": "Elektronica"
+        },
+        {
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Jul 2026 18:45 UTC",
+      "note": "amazon.com.be — gescraped 9 Jul 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,6 +1150,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pelonis Stille torenventilator, 4,2 m/s, met afstandsbediening, 9 uur timer, 4 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -1198,27 +1222,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
           "c": "Algemeen"
         },
         {
-          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
           "c": "Algemeen"
         },
         {
-          "n": "Pelonis Stille torenventilator, 4,2 m/s, met afstandsbediening, 9 uur timer, 4 m",
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
           "c": "Algemeen"
         },
         {
-          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
+          "n": "Alpine MusicSafe Pro Paar high-fidelity muzikale oordopjes voor concerten en rui",
           "c": "Algemeen"
         },
         {
-          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "n": "ROUNDUP 1 x RDCA3A",
           "c": "Algemeen"
         },
         {
@@ -1243,26 +1263,6 @@
         },
         {
           "n": "Norton 360 Deluxe 2025, 5 Apparaten, 1 jaar, Apparaatbeveiliging, Dark Web Monit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
-          "c": "Algemeen"
-        },
-        {
-          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alpine MusicSafe Pro Paar high-fidelity muzikale oordopjes voor concerten en rui",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROUNDUP 1 x RDCA3A",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Jul 2026 18:45 UTC",
+      "note": "amazon.de — gescraped 9 Jul 2026 23:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1637,76 +1637,76 @@
           "c": "Algemeen"
         },
         {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Keuken"
+          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 50 zakjes)",
+          "c": "Speelgoed"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Keuken"
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Speelgoed"
         },
         {
-          "n": "DREO 20 dB stille staande ventilator, 120 ° + 120 ° omnidirectionele oscillerend",
-          "c": "Keuken"
+          "n": "Staedtler Noris Kleurpotloden, Premium, Verpakking van 1",
+          "c": "Speelgoed"
         },
         {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
+          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
+          "c": "Speelgoed"
         },
         {
-          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
-          "c": "Keuken"
+          "n": "Pustefix Maxi Navulfles, 1, 1000 ml, Navulfles.",
+          "c": "Speelgoed"
         },
         {
-          "n": "Dreamzie elastisch hoeslaken van jerseykatoen",
-          "c": "Keuken"
+          "n": "Mattel Games W2087 Uno Kaartspel, geschikt voor 2-10 spelers, speelduur ca. 15 m",
+          "c": "Speelgoed"
         },
         {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
+          "n": "Apple iPad met A16 Chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
+          "c": "Speelgoed"
         },
         {
-          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
-          "c": "Keuken"
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
         },
         {
-          "n": "Warmco D3 Accuventilator, 10.000 mAh, tafelventilator, stil, 24 uur | USB-C, led",
-          "c": "Keuken"
+          "n": "Mattel Games Skip-BO, kaartspel voor de familie, perfect als kinderspel, reisspe",
+          "c": "Speelgoed"
         },
         {
-          "n": "Utopia Bedding Set van 2 kussenvullingen 40 x 40 cm, binnenkussen vulkussen hoof",
-          "c": "Keuken"
+          "n": "Mattel Games - UNO FLIP! Kaartspel met aan beide zijden bedrukte kaarten, nieuwe",
+          "c": "Speelgoed"
         },
         {
-          "n": "roborock Qrevo S Pro Robotstofzuiger met dweilfunctie, verbeterde QV 35A, 18.500",
-          "c": "Keuken"
+          "n": "lila liebt dich® 100 fantastische eenhoorntatoeages voor kinderen (6 verschillen",
+          "c": "Speelgoed"
         },
         {
-          "n": "Honeywell HYF260E4 Quiet-Set Torenventilator (met afstandsbediening, 1 stuks)",
-          "c": "Keuken"
+          "n": "Intex 58836EU Mesh Mat - opblaasbare waterhangmat - 178 x 94 cm - diverse kleure",
+          "c": "Speelgoed"
         },
         {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
+          "n": "FUNXGO® Folieballon cijfer 5 groen - reuzengetal ballon ca. 100 cm - ballon cijf",
+          "c": "Speelgoed"
         },
         {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
-          "c": "Keuken"
+          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto, speelgoed met formule 1 minif",
+          "c": "Speelgoed"
         },
         {
-          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
-          "c": "Keuken"
+          "n": "LIKARTO Pantomime spel voor kinderen, grappig familiespel en raadspel, voor buit",
+          "c": "Speelgoed"
         },
         {
-          "n": "uandu Glazen potten met deksel, meal prep dozen, 10-delig, vershouddozen, glas, ",
-          "c": "Keuken"
+          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
+          "c": "Speelgoed"
         },
         {
-          "n": "Vacbird Vacuümzakken voor kleding met draadloze vacuümpomp, 9 stuks (3 x 40 x 50",
-          "c": "Keuken"
+          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
+          "c": "Speelgoed"
         },
         {
-          "n": "Third of Life Matrasbeschermer, 90 x 200 en 180 x 200; waterdicht, ademende, ant",
-          "c": "Keuken"
+          "n": "Play-Doh 18-delige fantasieverpakking",
+          "c": "Speelgoed"
         }
       ]
     }
