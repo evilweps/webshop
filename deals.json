@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T08:22:42.148953+00:00",
-  "updated_fmt": "9 July 2026 om 08:22",
+  "updated": "2026-07-09T13:41:36.100113+00:00",
+  "updated_fmt": "9 July 2026 om 13:41",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Jul 2026 08:22 UTC",
+      "note": "bol.com — gescraped 9 Jul 2026 13:41 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Jul 2026 08:22 UTC",
+      "note": "amazon.nl — gescraped 9 Jul 2026 13:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,74 +671,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Koelmat voor Hond, Zelfkoel Hondenmat, Kat Koelmat, Niet-toxisch Huisdier Zelfko",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biokat's Diamond Care MultiCat Fresh, geurend - Fijne kattenbakvulling met actie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pets Perfect Koelmat hond zelfkoelend - cooling mat dog met niet giftige gel - k",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ACE2ACE Haarverwijderaar Voor Huisdieren, Herbruikbare Pluizenborstel Voor Diere",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biokat's Diamond Care Fresh, geurend - Fijne kattenbakvulling met actieve kool e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vitakraft Vloeibare snack voor katten, kattenlekkernijen in mega-verpakking (48 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs",
-          "c": "Algemeen"
-        },
-        {
           "n": "Testina rasoio - PHILIPS One Blade - Confezione da 4 lamette di ricambio 360 ? Q",
           "c": "Algemeen"
         },
@@ -751,11 +683,79 @@
           "c": "Algemeen"
         },
         {
-          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
+          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
           "c": "Algemeen"
         },
         {
           "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Koelmat voor Hond, Zelfkoel Hondenmat, Kat Koelmat, Niet-toxisch Huisdier Zelfko",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biokat's Diamond Care MultiCat Fresh, geurend - Fijne kattenbakvulling met actie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ACE2ACE Haarverwijderaar Voor Huisdieren, Herbruikbare Pluizenborstel Voor Diere",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pets Perfect Koelmat hond zelfkoelend - cooling mat dog met niet giftige gel - k",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gourmet Perle Mini Filets Kattenvoer, Natvoer met Rund, Kip, Konijn, Zalm in Sau",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Herbruikbare vacuümzakken voor kleding met draadloze pomp, ideaal voor ruimtebes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Instant Pot IP-DUO60 programmeerbare 7-in-1 elektrische snelkookpan, 5,7 l, 1000",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -791,6 +791,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
+          "c": "Algemeen"
+        },
+        {
           "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
@@ -803,72 +807,68 @@
           "c": "Algemeen"
         },
         {
-          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
-          "c": "Algemeen"
+          "n": "Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant - Dagelijkse Peeling met ",
+          "c": "Beauty"
         },
         {
-          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
-          "c": "Elektronica"
+          "n": "Redken, Voor Beschadigd, Veeleisend en Gekleurd Haar, Beschermt Intensief Tegen ",
+          "c": "Beauty"
         },
         {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
+          "n": "La Roche-Posay La Roche Posay Effaclar Zuiverende Gel 400 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
+          "n": "Kanzy Tea Tree Olie 60 ml – 100% natuurlijke en veganistische oplossing voor hui",
+          "c": "Beauty"
         },
         {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
+          "n": "KIKO Milano Smart Fusion Lipstick 405, Rijke En Voedende Lippenstift Met Glanzen",
+          "c": "Beauty"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
+          "n": "USB Oplaadkabel 5V Ooplader compatibel met Philips QP2724, QP2720, QP2734, QP282",
+          "c": "Beauty"
         },
         {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
+          "n": "Geek & Gorgeous - A-Game 5 - Licht Serum met 0,05% Retinal voor het Gezicht, Bes",
+          "c": "Beauty"
         },
         {
-          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
-          "c": "Elektronica"
+          "n": "La Roche-Posay Anthelios UVMune 400 Invisible Fluid LSF 50+ für empfindliche Hau",
+          "c": "Beauty"
         },
         {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
-          "c": "Elektronica"
+          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
+          "c": "Beauty"
         },
         {
-          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
-          "c": "Elektronica"
+          "n": "Philips OneBlade 360 Authentiek Face & Body Elektrische Baardtrimmer, Scheerappa",
+          "c": "Beauty"
         },
         {
-          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
-          "c": "Elektronica"
+          "n": "La Roche-Posay Cicaplast Baume B5+ Hautbarriere-reparierender und beruhigender B",
+          "c": "Beauty"
         },
         {
-          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
-          "c": "Elektronica"
+          "n": "URAQT 16 STKS Nagelvijlen, 100/180 grit Dubbelzijdige Emery Board, Professionele",
+          "c": "Beauty"
         },
         {
-          "n": "INIU 30W USB C Oplader 2-Pack, [USB C + A] Meervoudige Voedingsadapter met USB-C",
-          "c": "Elektronica"
+          "n": "Tweezerman Pincet",
+          "c": "Beauty"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
-          "c": "Elektronica"
+          "n": "Philips Neustrimmer 5000 Serie - Trim neus-, oor- en wenkbrauwhaar - Volledig af",
+          "c": "Beauty"
         },
         {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
-          "c": "Elektronica"
+          "n": "Gillette Fusion5 Scheermes Voor Mannen, 1 Gillette Handvat, 2 Scheermesjes, met ",
+          "c": "Beauty"
         },
         {
-          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
+          "n": "Marcel's Green Soap - Handzeep Navulverpakking Sandalwood & Cardamom - Refill - ",
+          "c": "Beauty"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Jul 2026 08:22 UTC",
+      "note": "amazon.com.be — gescraped 9 Jul 2026 13:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,7 +1130,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Fisura Originele houten waaier modern en grappig ophangen, 42,5 x 23 cm, roze, 2",
+          "n": "ALPIDEX T-shirts voor heren, 5 stuks, zwart, effen, ronde hals, maat S, M, L, XL",
           "c": "Algemeen"
         },
         {
@@ -1138,7 +1138,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "ALPIDEX T-shirts voor heren, 5 stuks, zwart, effen, ronde hals, maat S, M, L, XL",
+          "n": "Fisura Originele houten waaier modern en grappig ophangen, 42,5 x 23 cm, roze, 2",
           "c": "Algemeen"
         },
         {
@@ -1162,11 +1162,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
+          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
           "c": "Algemeen"
         },
         {
-          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
+          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
           "c": "Algemeen"
         },
         {
@@ -1194,7 +1194,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
+          "n": "Echo Show 5 (nieuwste generatie) | Slim scherm en wekker met beter geluid | Antr",
           "c": "Algemeen"
         },
         {
@@ -1206,15 +1206,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
-          "c": "Algemeen"
-        },
-        {
           "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
           "c": "Algemeen"
         },
         {
@@ -1222,27 +1218,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Blink Plus Plan met maandelijkse automatische verlenging",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Eastpak Benchmark Single Etui, Zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DYMO LetraTag LT-100H handheld labeller | inktloze thermische zelfklevende label",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics Multifunctioneel papier, A4, 80 g/m², 5 x 500 vellen, wit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kipling Hoes/etui voor 100 pennen, 21 x 5 x 15 cm, Rose Bruids, One size",
+          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
           "c": "Algemeen"
         },
         {
           "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mullvad VPN | 6 Mois pour 5 Appareils | Service VPN sans journalisation | Protég",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
           "c": "Algemeen"
         },
         {
@@ -1254,15 +1242,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Antivirus Plus | 1 appareil | 1 An | PC | Code d'activation envoyé p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mullvad VPN | 12 Mois pour 5 Appareils | Service VPN sans journalisation | Proté",
-          "c": "Algemeen"
-        },
-        {
           "n": "Norton 360 Deluxe 2025, 5 Apparaten, 1 jaar, Apparaatbeveiliging, Dark Web Monit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alpine MusicSafe Pro Paar high-fidelity muzikale oordopjes voor concerten en rui",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ROUNDUP 1 x RDCA3A",
           "c": "Algemeen"
         },
         {
@@ -1278,11 +1278,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
           "c": "Elektronica"
         },
         {
-          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
+          "n": "Apple EarPods (USB-C)​​​​​​​",
           "c": "Elektronica"
         },
         {
@@ -1290,19 +1290,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 6,3 inch, gehard glasfoli",
-          "c": "Elektronica"
-        },
-        {
           "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus AA-batterijen (20 stuks) – alkaline 1,5 V – tot 100% langer – idea",
+          "n": "JETech Anti-spionage-displaybescherming voor iPhone 17 Pro Max 6,9 inch, gehard ",
           "c": "Elektronica"
         },
         {
@@ -1310,7 +1302,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple iPad met A16-chip: 11-inch Liquid Retina-display, 128 GB, Wi-Fi 6, 12 MP c",
+          "n": "Duracell Plus AAA-batterijen (12 stuks) – alkaline 1,5 V – tot 100% langer – ide",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
@@ -1318,7 +1314,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "n": "Apple iPad met A16-chip: 11-inch Liquid Retina-display, 128 GB, Wi-Fi 6, 12 MP c",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Jul 2026 08:22 UTC",
+      "note": "amazon.de — gescraped 9 Jul 2026 13:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
