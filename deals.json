@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T18:16:04.611922+00:00",
-  "updated_fmt": "10 July 2026 om 18:16",
+  "updated": "2026-07-10T23:45:55.465852+00:00",
+  "updated_fmt": "10 July 2026 om 23:45",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Jul 2026 18:16 UTC",
+      "note": "bol.com — gescraped 10 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Jul 2026 18:16 UTC",
+      "note": "amazon.nl — gescraped 10 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,112 +671,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Boeken"
+          "n": "Koelmat voor Hond, Zelfkoel Hondenmat, Kat Koelmat, Niet-toxisch Huisdier Zelfko",
+          "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Boeken"
+          "n": "ACE2ACE Haarverwijderaar Voor Huisdieren, Herbruikbare Pluizenborstel Voor Diere",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gourmet Perle Mini Filets Kattenvoer, Natvoer met Rund, Kip, Konijn, Zalm in Sau",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pets Perfect Koelmat hond zelfkoelend - cooling mat dog met niet giftige gel - k",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kattenfontein roestvrij stalen drinkfontein voor katten: kattenfontein voor katt",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Testina rasoio - PHILIPS One Blade - Confezione da 4 lamette di ricambio 360 ? Q",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Instant Pot IP-DUO60 programmeerbare 7-in-1 elektrische snelkookpan, 5,7 l, 1000",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Herbruikbare vacuümzakken voor kleding met draadloze pomp, ideaal voor ruimtebes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Tafelventilator Serie 2000. Krachtig & Ultrastil met SilentWings-Technol",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
         },
         {
           "n": "Der Nachbar",
-          "c": "Boeken"
+          "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Boeken"
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
         },
         {
           "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Boeken"
+          "c": "Algemeen"
         },
         {
-          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
-          "c": "Boeken"
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "c": "Algemeen"
         },
         {
-          "n": "10. Tot in der Finca: Pech & Schwäfel Sommer Special 1",
-          "c": "Boeken"
+          "n": "Castrol EDGE 5W-30 LL, 5L",
+          "c": "Algemeen"
         },
         {
-          "n": "Das bisschen Kuchen: (K)ein Diät-Roman",
-          "c": "Boeken"
+          "n": "10 Meter sierstrips Auto Motorfiets Boot Model exterieur maken kleur selectie - ",
+          "c": "Algemeen"
         },
         {
-          "n": "Bretonischer Glanz: Kommissar Dupin ermittelt, Band 15",
-          "c": "Boeken"
+          "n": "URAQT Microvezeldoeken, 6 stuks microvezel autoreinigingsdoeken van 500 g/m², mu",
+          "c": "Algemeen"
         },
         {
-          "n": "Die Rosenzüchterin",
-          "c": "Boeken"
+          "n": "GARDINIA Veelzijdige zonwering, lichtdoorlatend, incl. 4 zuignappen, zwart, 40 x",
+          "c": "Algemeen"
         },
         {
-          "n": "Häftling",
-          "c": "Boeken"
+          "n": "Flintronic Sierlijstwiggen, demontagegereedschap, interieur, bekleding, set, deu",
+          "c": "Algemeen"
         },
         {
-          "n": "grün tot weiß: Herma und Jan ermitteln 1",
-          "c": "Boeken"
+          "n": "Zonbescherming auto baby - GECERTIFICEERDE UPF50+ UV-bescherming - DEKRA gecerti",
+          "c": "Algemeen"
         },
         {
-          "n": "Harry Potter und der Stein der Weisen - Gesprochen von Rufus Beck: Harry Potter ",
-          "c": "Boeken"
+          "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
+          "c": "Elektronica"
         },
         {
-          "n": "Die LET THEM Theorie: Zwei Worte, die dein Leben verändern werden: Das Buch, das",
-          "c": "Boeken"
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
         },
         {
-          "n": "einmal zweimal mord: Herma und Jan ermitteln 2",
-          "c": "Boeken"
+          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "c": "Elektronica"
         },
         {
-          "n": "Freundin auf Vertrag: Micke und Frida, Band 1",
-          "c": "Boeken"
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
+          "c": "Elektronica"
         },
         {
-          "n": "Widerstand: Die Streitenden Götter, Band 7 / Der Prinz von Staub und Schatten, B",
-          "c": "Boeken"
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
         },
         {
-          "n": "verliebt, verlassen, vergraben: Herma und Jan ermitteln 4",
-          "c": "Boeken"
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "SOKO SYLT – Reetdach Opfer: Berger & Claasen ermitteln, Band 2",
-          "c": "Boeken"
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
+          "c": "Elektronica"
         },
         {
-          "n": "ene, mene, du: Herma und Jan ermitteln 3",
-          "c": "Boeken"
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
+          "c": "Elektronica"
         },
         {
-          "n": "Wenn bei Capri die Toten im Meer versinken: Kriminalroman (Commissario Marco Tom",
-          "c": "Boeken"
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
+          "c": "Elektronica"
         },
         {
-          "n": "Bauernopfer für Norddeich: Jan de Fries, Band 13",
-          "c": "Boeken"
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "c": "Elektronica"
         },
         {
-          "n": "The Mistake – Niemand ist perfekt: Off-Campus 2 | Roman",
-          "c": "Boeken"
+          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
+          "c": "Elektronica"
         },
         {
-          "n": "The Deal - Reine Verhandlungssache: Off-Campus 1",
-          "c": "Boeken"
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "c": "Elektronica"
         },
         {
-          "n": "The Score - Mitten ins Herz: Off-Campus 3",
-          "c": "Boeken"
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "c": "Elektronica"
         },
         {
-          "n": "Fünf, sechs, sieben, acht",
-          "c": "Boeken"
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
         },
         {
-          "n": "SOKO SYLT – Tödliche Wellen: Berger & Claasen ermitteln, Band 1",
-          "c": "Boeken"
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
         }
       ]
     },
@@ -787,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Jul 2026 18:16 UTC",
+      "note": "amazon.com.be — gescraped 10 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1242,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Jul 2026 18:16 UTC",
+      "note": "amazon.de — gescraped 10 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1417,132 +1509,32 @@
       ],
       "bestsellers": [
         {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten &",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alpine Tune oordopjes voor concerten en muziek, festivaloordopjes met geluidsdem",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ernie Ball Gitaarsnaren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ugreen Microfoonkabel high quality XLR stekker op XLR ingang, zwart, 2 m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cameo AHCLFDJ5L Vloeistof voor rookmachines, gemiddelde dichtheid/standtijd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "86lux Leeslamp, boekenklem, oplaadbare boekenlamp om te lezen in bed, ultralicht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
+          "c": "Elektronica"
+        },
+        {
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
+          "c": "Keuken"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
+          "c": "Keuken"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
         },
         {
           "n": "DREO 20 dB stille staande ventilator, 120 ° + 120 ° omnidirectionele oscillerend",
@@ -1613,8 +1605,108 @@
           "c": "Keuken"
         },
         {
-          "n": "Tea tree olie | Essentiële tea tree olie - aromatherapie skin care lichaam koudg",
-          "c": "Beauty"
+          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 50 zakjes)",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Pustefix Maxi Navulfles, 1, 1000 ml, Navulfles.",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Staedtler Noris Kleurpotloden, Premium, Verpakking van 1",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Apple iPad met A16 Chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games Skip-BO, kaartspel voor de familie, perfect als kinderspel, reisspe",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games W2087 Uno Kaartspel, geschikt voor 2-10 spelers, speelduur ca. 15 m",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "FUNXGO folieballon, cijfers in blauw, XXL, ca. 100 cm, reuzen cijferballonnen, f",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games - UNO FLIP! Kaartspel met aan beide zijden bedrukte kaarten, nieuwe",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "lila liebt dich® 100 fantastische eenhoorntatoeages voor kinderen (6 verschillen",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto, speelgoed met formule 1 minif",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LIKARTO Pantomime spel voor kinderen, grappig familiespel en raadspel, voor buit",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Intex 58836EU Mesh Mat - opblaasbare waterhangmat - 178 x 94 cm - diverse kleure",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Play-Doh 18-delige fantasieverpakking",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 28, geruit met rand, 5 stuks",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Flip 7 Kaartspel, compact familiespel, mix van geluk en strategie, snel te leren",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Stabilo Easycolors Ergonomische kleurpotloden voor rechtshandigen, met puntensli",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "WK 2026 stickers - 20 zakjes (origineel) + exclusieve collect-it hoezen (eigen m",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Opblaasbare donut-zwemring, bruin, diameter 120 cm, met beet, zwembad en water, ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Biologische ballonnen voor verjaardag • Öko-Tex \"zeer goed\" • 100 stuks • Made i",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games Uno Junior, Uno kaartspel, vereenvoudigde versie met dierentuindier",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games FPW38 - fase 10 kaartspel, vanaf 7 jaar, Duitse versie",
+          "c": "Speelgoed"
         }
       ]
     }
