@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T11:42:10.932747+00:00",
-  "updated_fmt": "11 July 2026 om 11:42",
+  "updated": "2026-07-11T17:44:32.626270+00:00",
+  "updated_fmt": "11 July 2026 om 17:44",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Jul 2026 11:42 UTC",
+      "note": "bol.com — gescraped 11 Jul 2026 17:44 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Jul 2026 11:42 UTC",
+      "note": "amazon.nl — gescraped 11 Jul 2026 17:44 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,7 +743,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -751,7 +751,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Jul 2026 11:42 UTC",
+      "note": "amazon.com.be — gescraped 11 Jul 2026 17:44 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,6 +1150,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "c": "Algemeen"
+        },
+        {
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vervangende messen – Philips – QP225/50 OneBlade – compatibel met alle handgrepe",
+          "c": "Algemeen"
+        },
+        {
           "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
           "c": "Algemeen"
         },
@@ -1195,30 +1219,6 @@
         },
         {
           "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
-          "c": "Algemeen"
-        },
-        {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIVEA SUN Protect & Hydrate Zonnespray SPF 50+ 200 ml - Waterbestendige zonnecrè",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vervangende messen – Philips – QP225/50 OneBlade – compatibel met alle handgrepe",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Jul 2026 11:42 UTC",
+      "note": "amazon.de — gescraped 11 Jul 2026 17:44 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
