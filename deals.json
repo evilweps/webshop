@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T23:41:42.110042+00:00",
-  "updated_fmt": "11 July 2026 om 23:41",
+  "updated": "2026-07-12T07:23:56.503535+00:00",
+  "updated_fmt": "12 July 2026 om 07:23",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Jul 2026 23:41 UTC",
+      "note": "bol.com — gescraped 12 Jul 2026 07:23 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Jul 2026 23:41 UTC",
+      "note": "amazon.nl — gescraped 12 Jul 2026 07:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -679,15 +679,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
+          "c": "Algemeen"
+        },
+        {
           "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
           "c": "Algemeen"
         },
         {
           "n": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York - Lash Sensational Sky High - Waterproof - Zwart - Eindeloos",
           "c": "Algemeen"
         },
         {
@@ -703,7 +703,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Herbruikbare vacuümzakken voor kleding met draadloze pomp, ideaal voor ruimtebes",
+          "n": "Philips torenventilator 5000 Series met draaifunctie, 105cm, afstandsbediening, ",
           "c": "Algemeen"
         },
         {
@@ -711,7 +711,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Pro Breeze Professionele 15cm Mini Ventilator met Klem voor Thuis, Bed, Kantoor ",
+          "n": "Herbruikbare vacuümzakken voor kleding met draadloze pomp, ideaal voor ruimtebes",
           "c": "Algemeen"
         },
         {
@@ -731,11 +731,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 5 (3e generatie) | Slim scherm en slimme wekker met scherpe gel",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
@@ -779,11 +779,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "CHUMXINY Ontluchtingskit voor SHIMANO, TEKTRO, MAGURA Serie Hydraulische Schijfr",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "CHUMXINY Ontluchtingskit voor SHIMANO, TEKTRO, MAGURA Serie Hydraulische Schijfr",
           "c": "Algemeen"
         },
         {
@@ -799,11 +799,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Creatine Monohydraat Poeder 500g - Creatine Monohydraat in gemicroniseerde kwali",
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel | 3 poetsmod",
           "c": "Algemeen"
         },
         {
-          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel | 3 poetsmod",
+          "n": "Creatine Monohydraat Poeder 500g - Creatine Monohydraat in gemicroniseerde kwali",
           "c": "Algemeen"
         },
         {
@@ -815,11 +815,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
           "c": "Elektronica"
         },
         {
@@ -831,15 +835,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
-        },
-        {
           "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
           "c": "Elektronica"
         },
         {
@@ -847,11 +843,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus C-batterijen (4 stuks) - 1,5V-alkaline batterijen - 100% levensduu",
+          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
           "c": "Elektronica"
         },
         {
-          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "n": "Duracell Plus C-batterijen (4 stuks) - 1,5V-alkaline batterijen - 100% levensduu",
           "c": "Elektronica"
         },
         {
@@ -859,15 +855,19 @@
           "c": "Elektronica"
         },
         {
+          "n": "Spigen Glas.tR EZ Fit Screenprotector compatibel met iPhone 17 Pro/17, iPhone 16",
+          "c": "Elektronica"
+        },
+        {
           "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
           "c": "Elektronica"
         },
         {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Jul 2026 23:41 UTC",
+      "note": "amazon.com.be — gescraped 12 Jul 2026 07:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,27 +1150,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
+          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
           "c": "Algemeen"
         },
         {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "n": "Pelonis Stille torenventilator, 4,2 m/s, met afstandsbediening, 9 uur timer, 4 m",
           "c": "Algemeen"
         },
         {
@@ -1198,27 +1198,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
         {
-          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
+          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
           "c": "Algemeen"
         },
         {
-          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
-          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "Pelonis Stille torenventilator, 4,2 m/s, met afstandsbediening, 9 uur timer, 4 m",
+          "n": "Amazon Echo Show 11 (nieuwste generatie), kleurrijk Full-HD-scherm van 11 inch m",
           "c": "Algemeen"
         },
         {
@@ -1238,23 +1238,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Panini FIFA Sticker album Wereldkampioenschap 2026, meerkleurig",
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
           "c": "Algemeen"
         },
         {
-          "n": "LEGO Editions Cristiano Ronaldo - Best Of - Voetbalspel - 3D model met verzamelf",
+          "n": "Ice Bär siroop zonder AZO en glycerine, fles van 250 ml, concentraat voor Slushy",
           "c": "Algemeen"
         },
         {
-          "n": "INTEX Zwembad van 3 ringen met opblaasbare bodem",
+          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
           "c": "Algemeen"
         },
         {
-          "n": "ATM Gaming Speedbac – snel en waanzinnig gezelschapsspel – 2 tot 7 spelers – fam",
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
           "c": "Algemeen"
         },
         {
-          "n": "ATM Gaming Mouton, gezelschapsspel familie en vrienden, geef dezelfde antwoorden",
+          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Waterdrop® Microdrink Set van 48 bruistabletten in 4 smaken, natuurlijke fruit- ",
           "c": "Algemeen"
         },
         {
@@ -1298,11 +1302,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
           "c": "Elektronica"
         },
         {
@@ -1320,10 +1324,6 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy S21 FE 5G, premium lederen beschermhoes",
           "c": "Elektronica"
-        },
-        {
-          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Jul 2026 23:41 UTC",
+      "note": "amazon.de — gescraped 12 Jul 2026 07:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 22,82",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,27",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 7,93",
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
         {
@@ -1537,23 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,55",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 35,39",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 19,09",
           "c": "Algemeen"
         },
         {
@@ -1561,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 16,77",
-          "c": "Algemeen"
-        },
-        {
           "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Algemeen"
-        },
-        {
-          "n": "13 aanbiedingen vanUSD 6,84",
           "c": "Algemeen"
         },
         {
@@ -1577,19 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,50/eenheid)",
-          "c": "Algemeen"
-        },
-        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 16,44",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 102,25/l)",
           "c": "Algemeen"
         },
         {
@@ -1597,51 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 5,94",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 17,70",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,89",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 10,55",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,24",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "7 aanbiedingen vanUSD 14,64",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 22,82",
-          "c": "Algemeen"
-        },
-        {
           "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 26,37",
           "c": "Algemeen"
         },
         {
@@ -1649,19 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 14,81",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 9,72",
-          "c": "Algemeen"
-        },
-        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 18,14",
           "c": "Algemeen"
         },
         {
@@ -1669,15 +1569,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,37",
-          "c": "Algemeen"
-        },
-        {
           "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,62",
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
           "c": "Algemeen"
         },
         {
@@ -1685,15 +1589,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 34,19",
-          "c": "Algemeen"
-        },
-        {
           "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 20,80",
+          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
           "c": "Algemeen"
         },
         {
@@ -1701,12 +1601,112 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 39,90",
+          "n": "Ernie Ball Gitaarsnaren",
           "c": "Algemeen"
         },
         {
-          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
+          "n": "Ugreen Microfoonkabel high quality XLR stekker op XLR ingang, zwart, 2 m",
           "c": "Algemeen"
+        },
+        {
+          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "86lux Leeslamp, boekenklem, oplaadbare boekenlamp om te lezen in bed, ultralicht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "c": "Algemeen"
+        },
+        {
+          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
+        },
+        {
+          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie elastisch hoeslaken van jerseykatoen",
+          "c": "Keuken"
+        },
+        {
+          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Warmco D3 Accuventilator, 10.000 mAh, tafelventilator, stil, 24 uur | USB-C, led",
+          "c": "Keuken"
+        },
+        {
+          "n": "roborock Qrevo S Pro Robotstofzuiger met dweilfunctie, verbeterde QV 35A, 18.500",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "DREO 20 dB stille staande ventilator, 120 ° + 120 ° omnidirectionele oscillerend",
+          "c": "Keuken"
+        },
+        {
+          "n": "Utopia Bedding Set van 2 kussenvullingen 40 x 40 cm, binnenkussen vulkussen hoof",
+          "c": "Keuken"
+        },
+        {
+          "n": "Mobiele luchtkoeler, extreem stil, draagbare airconditioning voor slaapkamer, ve",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
+          "c": "Keuken"
+        },
+        {
+          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Warmco Handventilator, 2 stuks, draagbare mini-USB-ventilator met 3 snelheden, k",
+          "c": "Keuken"
+        },
+        {
+          "n": "reisenthel Carrybag Boodschappenmand met veel opbergruimte en praktische binnenz",
+          "c": "Keuken"
+        },
+        {
+          "n": "Sonello Plisségordijn, klembevestiging zonder boren, 80 x 120 cm, wit, vouwgordi",
+          "c": "Keuken"
+        },
+        {
+          "n": "Kanzy Jojoba-olie, koudgeperst, 100% puur goud, 120 ml, voor huid, haren en nage",
+          "c": "Beauty"
         }
       ]
     }
