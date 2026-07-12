@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T17:48:44.682927+00:00",
-  "updated_fmt": "12 July 2026 om 17:48",
+  "updated": "2026-07-12T23:41:19.861196+00:00",
+  "updated_fmt": "12 July 2026 om 23:41",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 12 Jul 2026 17:48 UTC",
+      "note": "bol.com — gescraped 12 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 12 Jul 2026 17:48 UTC",
+      "note": "amazon.nl — gescraped 12 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -715,26 +715,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Grabie Witte Acrylmarkers, 6 Stuks, 0.7mm Extra Fijne Punt, Hoog Dekkende Witte ",
           "c": "Algemeen"
         },
@@ -803,6 +783,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazfit Helio Strap - Activiteitentracker Fitness Tracker & Slaapmeter met Harts",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2-oordopjes – Gecertificeerde gehoorbescherming voor concerten e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Screen Protector voor iPhone 17 6,3-Inch, Gehard Glas Film Schermbescherm",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "Diveblues - Draagbare Ventilator - Compact en Stijlvol met Batterij - Voor Hand,",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Power Bank 145W Max 25000mAh externe batterij met 3 poorten USB C powerba",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 12 Jul 2026 17:48 UTC",
+      "note": "amazon.com.be — gescraped 12 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1170,46 +1170,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Avatar : De Feu et de cendres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Marsupilami",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Predator : Badlands",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Avatar - Collection 3 films : Avatar + Avatar : La Voie de l'eau + Avatar : De F",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bienvenue chez les ch'tis",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -1255,6 +1215,54 @@
         },
         {
           "n": "Vervangende messen – Philips – QP225/50 OneBlade – compatibel met alle handgrepe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ice Bär siroop zonder AZO en glycerine, fles van 250 ml, concentraat voor Slushy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische Japanse Matcha Thee - Premium Kwaliteit - 100 g Natuurlijk Matcha Gr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Waterdrop® Microdrink Set van 48 bruistabletten in 4 smaken, natuurlijke fruit- ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Haribo Dragibus 120 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Focusrite Scarlett Solo 4th Gen, USB-audio-interface voor gitaar, zang en produc",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario EJ18 Fosforbronzen Akoestische Gitaarsnaren, Medium, 14-59",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Aomig Snelwisselcapo voor akoestische en elektrische gitaren",
           "c": "Algemeen"
         },
         {
@@ -1316,14 +1324,6 @@
         {
           "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
           "c": "Elektronica"
-        },
-        {
-          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy S25 5G, premium lederen beschermhoes, p",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 12 Jul 2026 17:48 UTC",
+      "note": "amazon.de — gescraped 12 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
