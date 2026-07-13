@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T18:25:31.942103+00:00",
-  "updated_fmt": "13 July 2026 om 18:25",
+  "updated": "2026-07-13T23:41:16.835957+00:00",
+  "updated_fmt": "13 July 2026 om 23:41",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 13 Jul 2026 18:25 UTC",
+      "note": "bol.com — gescraped 13 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 13 Jul 2026 18:25 UTC",
+      "note": "amazon.nl — gescraped 13 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -691,27 +691,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Castrol EDGE 5W-30 LL, 5L",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
         {
-          "n": "Draagbare Luchtcompressor, Elektrische luchtpomp met dubbel digitaal LCD-display",
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Microvezeldoeken, 6 stuks microvezel autoreinigingsdoeken van 500 g/m², mu",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
-          "n": "GARDINIA Veelzijdige zonwering, zwart, 100 x 200 cm",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "TFSZE Autozonwering, 140 x 70 cm, opvouwbaar voor voorruit, UV-bescherming, zonw",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "10 Meter sierstrips Auto Motorfiets Boot Model exterieur maken kleur selectie - ",
+          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
           "c": "Algemeen"
         },
         {
@@ -739,47 +739,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Castrol EDGE 5W-30 LL, 5L",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Draagbare Luchtcompressor, Elektrische luchtpomp met dubbel digitaal LCD-display",
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "URAQT Microvezeldoeken, 6 stuks microvezel autoreinigingsdoeken van 500 g/m², mu",
           "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "n": "GARDINIA Veelzijdige zonwering, zwart, 100 x 200 cm",
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "n": "TFSZE Autozonwering, 140 x 70 cm, opvouwbaar voor voorruit, UV-bescherming, zonw",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
+          "n": "10 Meter sierstrips Auto Motorfiets Boot Model exterieur maken kleur selectie - ",
           "c": "Algemeen"
         },
         {
@@ -804,6 +784,26 @@
         },
         {
           "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2026 Innovatief Slaapmasker voor Mannen en Vrouwen, 100% Lichtblokkerend Ontwerp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 120 Stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oral-B Vitality Pro Black Elektrische Tandenborstel, 1 Opzetborstel | 3 poetsmod",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Magnesium Bisglycinaat (Glycinaat) capsules - 1422 mg - Levert 200 mg Elementair",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Creatine Monohydraat Poeder 500g - Creatine Monohydraat in gemicroniseerde kwali",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 13 Jul 2026 18:25 UTC",
+      "note": "amazon.com.be — gescraped 13 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,27 +1150,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
           "c": "Algemeen"
         },
         {
-          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
+          "n": "ARDES | AR5AM40P Staande ventilator, krachtig en stil, 3 bladen van 40 cm, oscil",
           "c": "Algemeen"
         },
         {
-          "n": "Auto Bandenpomp Luchtcompressor: 150PSI Draagbare Luchtcompressor | Batterie 600",
+          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
           "c": "Algemeen"
         },
         {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
-          "n": "CaiTang Zonnescherm voor in de auto, voor baby's, blokkeert uv-stralen, zonwerin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FIXFY 2-in-1 - 2 x R134a gaswissel met olie - set voor airconditioning 2 x 500 m",
+          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
           "c": "Algemeen"
         },
         {
@@ -1198,26 +1194,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARDES | AR5AM40P Staande ventilator, krachtig en stil, 3 bladen van 40 cm, oscil",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cecotec EnergySilence 790 Skyline Torenventilator met timer 50 W, 76 cm hoog, me",
-          "c": "Algemeen"
-        },
-        {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick, 96 uur, 45 ml",
           "c": "Algemeen"
         },
@@ -1242,27 +1218,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ice Bär siroop zonder AZO en glycerine, fles van 250 ml, concentraat voor Slushy",
+          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
           "c": "Algemeen"
         },
         {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "n": "Auto Bandenpomp Luchtcompressor: 150PSI Draagbare Luchtcompressor | Batterie 600",
           "c": "Algemeen"
         },
         {
-          "n": "Waterdrop® Microdrink Hydraterende dranken, veganistisch, klassieke vruchtensmak",
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
           "c": "Algemeen"
         },
         {
-          "n": "Haribo Dragibus 120 g",
+          "n": "CaiTang Zonnescherm voor in de auto, voor baby's, blokkeert uv-stralen, zonwerin",
           "c": "Algemeen"
         },
         {
-          "n": "waterdrop® Microenergy Blue Vanilla Boost Set – energiedrank zonder suiker, kool",
+          "n": "FIXFY 2-in-1 - 2 x R134a gaswissel met olie - set voor airconditioning 2 x 500 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "D'Addario snaren voor akoestische gitaar | snaren voor folkgitaar | EJ16 | fosfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alpine MusicSafe oordopjes: gehoorbescherming voor muzikanten, hoge geluidskwali",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Beyerdynamic headphones DT770 PRO 80 ohm (studio) 25,4 x 12,7 x 20,3 cm, zwart",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 13 Jul 2026 18:25 UTC",
+      "note": "amazon.de — gescraped 13 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,136 +1509,32 @@
       ],
       "bestsellers": [
         {
-          "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FALARY Sneakersokken voor dames en heren, biologisch katoen, 12 paar, sneakersok",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vliegengaas voor deur, insectenbescherming, magneetgordijn, ideaal voor balkonde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Loop Experience 2 oordopjes – gecertificeerde gehoorbescherming voor concerten &",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alpine Tune oordopjes voor concerten en muziek, festivaloordopjes met geluidsdem",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ernie Ball Gitaarsnaren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cameo AHCLFDJ5L Vloeistof voor rookmachines, gemiddelde dichtheid/standtijd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm 10 stuks vloerverlichting op zonne-energie, voor buiten, 8 leds, waterdic",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "G40 Led-lichtketting voor buiten, 20 m, voor buiten, tuinverlichting, balkon, pa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
+          "c": "Elektronica"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
+          "c": "Keuken"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
+          "c": "Keuken"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
         },
         {
           "n": "Dreamzie elastisch hoeslaken van jerseykatoen",
@@ -1707,6 +1603,110 @@
         {
           "n": "Third of Life Matrasbeschermer, 90 x 200 en 180 x 200; waterdicht, ademende, ant",
           "c": "Keuken"
+        },
+        {
+          "n": "Intex luchtkussen Downy, blauw, 43 x 28 x 9 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "Mobiele luchtkoeler, extreem stil, draagbare airconditioning voor slaapkamer, ve",
+          "c": "Keuken"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Beauty"
+        },
+        {
+          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "c": "Beauty"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Beauty"
+        },
+        {
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Beauty"
+        },
+        {
+          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
+          "c": "Beauty"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Tea tree olie | Essentiële tea tree olie - aromatherapie skin care lichaam koudg",
+          "c": "Beauty"
+        },
+        {
+          "n": "Ninabella Haarborstel zonder trekken, borstel voor dames en heren, ontwarrende b",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche Posay Zonnevloeistof voor het gezicht, voor gevoelige huid die gevoelig",
+          "c": "Beauty"
+        },
+        {
+          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
+          "c": "Beauty"
+        },
+        {
+          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
+          "c": "Beauty"
+        },
+        {
+          "n": "NIVEA SUN Bescherming & verzorging zonnelotion SPF 50+, watervaste zonwering met",
+          "c": "Beauty"
+        },
+        {
+          "n": "d'alba Italian White Truffel First Spray Serum, vochtinbrengende gezichtsspray, ",
+          "c": "Beauty"
+        },
+        {
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
+        },
+        {
+          "n": "REVLON PROFESSIONAL EQUAVE Sun Protection Instant Detangling Conditioner, 100 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Hawaiian Tropic Silk Hydration Air Soft Aftersun, kokosnoot en papaja, 180 ml, 1",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche Posay Cicaplast Baume B5+, herstellende crème, voor lichaam, gezicht en",
+          "c": "Beauty"
+        },
+        {
+          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche-Posay Effaclar Schäumendes Reinigungsgel: Sanfte und erfrischende Reini",
+          "c": "Beauty"
+        },
+        {
+          "n": "BYROKKO Shine Brown bruiningsversneller zonnecrème (210 ml), effectief in solari",
+          "c": "Beauty"
+        },
+        {
+          "n": "Revlon Uniq One All-in-one haarverzorging, 150 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "L'Oréal Men Expert Douchegel en shampoo voor mannen, 3-in-1 douchebad voor het r",
+          "c": "Beauty"
+        },
+        {
+          "n": "d'alba Italian White Truffel Double Serum All-in-One Multi Balm, veganistische h",
+          "c": "Beauty"
         }
       ]
     }
