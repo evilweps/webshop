@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T12:04:36.518497+00:00",
-  "updated_fmt": "14 July 2026 om 12:04",
+  "updated": "2026-07-14T17:55:47.644771+00:00",
+  "updated_fmt": "14 July 2026 om 17:55",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 14 Jul 2026 12:04 UTC",
+      "note": "bol.com — gescraped 14 Jul 2026 17:55 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 14 Jul 2026 12:04 UTC",
+      "note": "amazon.nl — gescraped 14 Jul 2026 17:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,30 +671,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
-          "c": "Algemeen"
-        },
-        {
           "n": "Testina rasoio - PHILIPS One Blade - Confezione da 4 lamette di ricambio 360 ? Q",
           "c": "Algemeen"
         },
@@ -739,23 +715,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
           "c": "Algemeen"
         },
         {
@@ -796,6 +776,26 @@
         },
         {
           "n": "TFSZE Autozonwering, 140 x 70 cm, opvouwbaar voor voorruit, UV-bescherming, zonw",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 14 Jul 2026 12:04 UTC",
+      "note": "amazon.com.be — gescraped 14 Jul 2026 17:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,6 +1150,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "ARDES | AR5AM40P Staande ventilator, krachtig en stil, 3 bladen van 40 cm, oscil",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pro Breeze Mini-ventilator met klem, 2 snelheden, 15 cm, tafelventilator met cli",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
@@ -1195,30 +1219,6 @@
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARDES | AR5AM40P Staande ventilator, krachtig en stil, 3 bladen van 40 cm, oscil",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Spiegelfolie, zelfklevende raamfolie, warmtereflectie, zonwerende folie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Orbegozo Ventilator de Pie - SF 0147, 40 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pro Breeze Mini-ventilator met klem, 2 snelheden, 15 cm, tafelventilator met cli",
           "c": "Algemeen"
         },
         {
@@ -1314,15 +1314,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
           "n": "Helioclipse 6 x zonnebril 2026 ISO 12312-2 – zonnebril – bril voor zonneclipse –",
+          "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 14 Jul 2026 12:04 UTC",
+      "note": "amazon.de — gescraped 14 Jul 2026 17:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1641,72 +1641,72 @@
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
-          "c": "Keuken"
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
+          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
+          "c": "Beauty"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Keuken"
+          "n": "Ninabella Haarborstel zonder trekken, borstel voor dames en heren, ontwarrende b",
+          "c": "Beauty"
         },
         {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
+          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
+          "c": "Beauty"
         },
         {
-          "n": "Dreamzie elastisch hoeslaken van jerseykatoen",
-          "c": "Keuken"
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
         },
         {
-          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
-          "c": "Keuken"
+          "n": "NIVEA SUN Bescherming & verzorging zonnelotion SPF 50+, watervaste zonwering met",
+          "c": "Beauty"
         },
         {
-          "n": "Draagbare mini-ventilator met 4000 mAh led-display, 180 graden verstelbaar en op",
-          "c": "Keuken"
+          "n": "La Roche Posay Zonnevloeistof voor het gezicht, voor gevoelige huid die gevoelig",
+          "c": "Beauty"
         },
         {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
-          "c": "Keuken"
+          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
-          "c": "Keuken"
+          "n": "Hawaiian Tropic Silk Hydration Air Soft Aftersun, kokosnoot en papaja, 180 ml, 1",
+          "c": "Beauty"
         },
         {
-          "n": "Utopia Bedding Set van 2 kussenvullingen 40 x 40 cm, binnenkussen vulkussen hoof",
-          "c": "Keuken"
+          "n": "REVLON PROFESSIONAL EQUAVE Sun Protection Instant Detangling Conditioner, 100 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Vacbird Vacuümzakken voor kleding met draadloze vacuümpomp, 12 stuks (4 x 40 x 5",
-          "c": "Keuken"
+          "n": "d'alba Italian White Truffel First Spray Serum, vochtinbrengende gezichtsspray, ",
+          "c": "Beauty"
         },
         {
-          "n": "SWEET VIEW Olijfoliedispenser en oliesproeier, 470 ml glas, lichtdichte oliesche",
-          "c": "Keuken"
+          "n": "La Roche Posay Cicaplast Baume B5+, herstellende crème, voor lichaam, gezicht en",
+          "c": "Beauty"
         },
         {
-          "n": "BARBONS DXHome Hoeslaken, 140 x 200 cm, 100% katoen, Oeko-Tex-gecertificeerd, be",
-          "c": "Keuken"
+          "n": "La Roche-Posay Effaclar Schäumendes Reinigungsgel: Sanfte und erfrischende Reini",
+          "c": "Beauty"
         },
         {
-          "n": "Sonello Plisségordijn, klembevestiging zonder boren, 75 x 100 cm, wit, vouwgordi",
-          "c": "Keuken"
+          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
+          "c": "Beauty"
         },
         {
-          "n": "sleepling Hoofdkussen 80 x 80 cm, allergie-kussen, wasbaar, made in EU, Oeko-Tex",
-          "c": "Keuken"
+          "n": "Revlon Uniq One All-in-one haarverzorging, 150 ml",
+          "c": "Beauty"
         },
         {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
+          "n": "Wella Professionals Koleston Perfect Rich Naturals Permanente haarverf, professi",
+          "c": "Beauty"
         },
         {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
-          "c": "Keuken"
+          "n": "BYROKKO Shine Brown bruiningsversneller zonnecrème (210 ml), effectief in solari",
+          "c": "Beauty"
         }
       ]
     }
