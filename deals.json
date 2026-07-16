@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T12:12:59.380287+00:00",
-  "updated_fmt": "16 July 2026 om 12:12",
+  "updated": "2026-07-16T17:58:20.037097+00:00",
+  "updated_fmt": "16 July 2026 om 17:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Jul 2026 12:12 UTC",
+      "note": "bol.com — gescraped 16 Jul 2026 17:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Jul 2026 12:12 UTC",
+      "note": "amazon.nl — gescraped 16 Jul 2026 17:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -807,6 +807,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
-        },
-        {
-          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Jul 2026 12:12 UTC",
+      "note": "amazon.com.be — gescraped 16 Jul 2026 17:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Jul 2026 12:12 UTC",
+      "note": "amazon.de — gescraped 16 Jul 2026 17:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,58",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 35,55",
           "c": "Algemeen"
         },
         {
@@ -1529,15 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 19,17",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Unisex Kinder Adilette Aqua Badesandalen Kids",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,41",
           "c": "Algemeen"
         },
         {
@@ -1545,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 28,61",
-          "c": "Algemeen"
-        },
-        {
           "n": "Tommy Hilfiger 1985 Regular Polo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 45,30",
           "c": "Algemeen"
         },
         {
@@ -1561,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 13,65",
-          "c": "Algemeen"
-        },
-        {
           "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,54",
           "c": "Algemeen"
         },
         {
@@ -1577,15 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 100,10",
-          "c": "Algemeen"
-        },
-        {
           "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 8,66",
           "c": "Algemeen"
         },
         {
@@ -1597,23 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 26,49",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,89",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 4,58",
-          "c": "Algemeen"
-        },
-        {
           "n": "Wago 221-413 Lasklem, 50 stuks | Hefinzetstuk voor alle geleiders tot 4 mm², tra",
-          "c": "Algemeen"
-        },
-        {
-          "n": "8 aanbiedingen vanUSD 13,75",
           "c": "Algemeen"
         },
         {
@@ -1621,15 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 11,56",
-          "c": "Algemeen"
-        },
-        {
           "n": "Gardena Classic Polo 250 Zwenksproeier: voor het gelijkmatig besproeien van je g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 28,58",
           "c": "Algemeen"
         },
         {
@@ -1637,15 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "17 aanbiedingen vanUSD 23,73",
-          "c": "Algemeen"
-        },
-        {
           "n": "FUJIFILM INSTAX mini 12™ Instant Camera voor volwassenen, camera met onmiddellij",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 74,19",
           "c": "Algemeen"
         },
         {
@@ -1653,15 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "45 aanbiedingen vanUSD 80,89",
-          "c": "Algemeen"
-        },
-        {
           "n": "INSTAX Square ISO 800 film met witte rand, 2 x 10 shot pack",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 1,93/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1669,15 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 102,30",
-          "c": "Algemeen"
-        },
-        {
           "n": "Polaroid Color Film voor i-Type - x40 filmpakket",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 1,75/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1685,15 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,92/eenheid)",
-          "c": "Algemeen"
-        },
-        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 13,07",
           "c": "Algemeen"
         },
         {
@@ -1701,12 +1605,108 @@
           "c": "Algemeen"
         },
         {
-          "n": "11 aanbiedingen vanUSD 12,56",
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
           "c": "Algemeen"
         },
         {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
           "c": "Algemeen"
+        },
+        {
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Osram LED Base Classic Een lamp, bolvormig met E27-fitting, niet dimbaar, vervan",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Tapo L530E Alexa-lamp E27, energiebesparend, meerkleurig, dimbaar, slimme wifi-g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics Warmwitte ledlampen, Edison-fitting E27, 7 W (komt overeen met 60 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 lampen 6-pack (50 W), reflector LED spots met warm wit ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HOVVIDA Ledstrip 5 m, 30 leds/meter, 1 x 5 m, 150 leds, RGB ledstrip, app en afs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics Ledlampen, GU10-spots, 4,7 W (komt overeen met 50 W gloeilamp), wa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Universele vloeibare ontkalker voor volautomatische koffiemachines, fles",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
+          "c": "Keuken"
+        },
+        {
+          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
+          "c": "Keuken"
+        },
+        {
+          "n": "Amazon Basics Jersey hoeslaken, 100% katoen, matrashoogte tot 30 cm, 180 x 200 c",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips STH3020/10 Draagbare kledingstomer, 1000 W, compact en opvouwbaar, water",
+          "c": "Keuken"
+        },
+        {
+          "n": "sodastream Fuse Flessen, 1 l, dubbelpak, 2 zwarte kunststof flessen voor bruiswa",
+          "c": "Keuken"
+        },
+        {
+          "n": "Simplicol Textielverf, intensief,18 kleuren, eenvoudig textiel verven in de wasm",
+          "c": "Keuken"
+        },
+        {
+          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex luchtkussen Downy, blauw, 43 x 28 x 9 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "Wohin saust der Marienkäfer?: mit Aufzieh-Marienkäfer und Fahrspuren – interakti",
+          "c": "Keuken"
         }
       ]
     }
