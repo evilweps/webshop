@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T17:56:42.113711+00:00",
-  "updated_fmt": "17 July 2026 om 17:56",
+  "updated": "2026-07-17T23:41:06.071672+00:00",
+  "updated_fmt": "17 July 2026 om 23:41",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 17 Jul 2026 17:56 UTC",
+      "note": "bol.com — gescraped 17 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 17 Jul 2026 17:56 UTC",
+      "note": "amazon.nl — gescraped 17 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -799,15 +799,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "n": "Nachtschatten: August Strindberg ermittelt, Band 5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 17 Jul 2026 17:56 UTC",
+      "note": "amazon.com.be — gescraped 17 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 17 Jul 2026 17:56 UTC",
+      "note": "amazon.de — gescraped 17 Jul 2026 23:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,140 +1509,36 @@
       ],
       "bestsellers": [
         {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Energy Cloud V hardloopschoenen voor dames",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PUMA Unisex Unisex Sneaker Plain Sneaker Sock (3 stuks)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wago 221-413 Lasklem, 50 stuks | Hefinzetstuk voor alle geleiders tot 4 mm², tra",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EasyMaxx Magic Click muggennet",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gardena Classic Polo 250 Zwenksproeier: voor het gelijkmatig besproeien van je g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tesa® hor, standaard klittenband voor ramen, antraciet, 1,5 m, 1,8 m, 55672-0002",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FUJIFILM INSTAX mini 12™ Instant Camera voor volwassenen, camera met onmiddellij",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DJI Mic Mini (2 zenders, 1 ontvanger, oplaadschaal), draadloze lavaliermicrofoon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "INSTAX Square ISO 800 film met witte rand, 2 x 10 shot pack",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DJI Mic Mini 2 (2 TX + 1 standaard RX + oplaaddock), lavalier-microfoon, clip-on",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Polaroid Color Film voor i-Type - x40 filmpakket",
-          "c": "Algemeen"
-        },
-        {
-          "n": "instax™ Wide Film Standard (20/PK)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Threshing Day – Flammengeküsst: 13 Geschichten aus der Welt des Empyrean mit 16 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Von der Autorin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Untitled Empyrean (Not Book Four)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wohin saust der Marienkäfer?: mit Aufzieh-Marienkäfer und Fahrspuren – interakti",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
+          "c": "Elektronica"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Keuken"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
+        },
+        {
+          "n": "Honeywell HT-900E krachtige en geluidsarme turbo-ventilator",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
         },
         {
           "n": "DREO Stille torenventilator, 10 m werpafstand, 8 snelheden, 4 modi, 8 uur, timer",
@@ -1707,6 +1603,110 @@
         {
           "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
           "c": "Keuken"
+        },
+        {
+          "n": "DREO Smart staande ventilator, 120 graden + 120 graden oscillerende ventilator m",
+          "c": "Keuken"
+        },
+        {
+          "n": "Stanley 1913 Quencher H2.0 Flowstate Trinkflasche Mit Strohhalm - Thermobecher K",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips PowerPro Compact Stofzuiger, zwart",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex luchtkussen Downy, blauw, 43 x 28 x 9 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Beauty"
+        },
+        {
+          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
+          "c": "Beauty"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
+          "c": "Beauty"
+        },
+        {
+          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
+          "c": "Beauty"
+        },
+        {
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche Posay Cicaplast Baume B5+, herstellende crème, voor lichaam, gezicht en",
+          "c": "Beauty"
+        },
+        {
+          "n": "REVLON PROFESSIONAL EQUAVE Sun Protection Instant Detangling Conditioner, 100 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "La Roche-Posay Effaclar Schäumendes Reinigungsgel: Sanfte und erfrischende Reini",
+          "c": "Beauty"
+        },
+        {
+          "n": "Revlon Uniq One All-in-one haarverzorging, 150 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Biotherm Lait Corporel L'Original, hydraterende bodylotion met Life Plankton voo",
+          "c": "Beauty"
+        },
+        {
+          "n": "Tangle Teezer Wet Detangler Haarborstel met buigzame borstelharen en handige gre",
+          "c": "Beauty"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Wattenpads, dubbele textuur, 100% katoen, 120 pads",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Vanille en kokosnoot douchegel, 2 x 500 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Syoss Wenkbrauwset Wenkbrauwverf 4-1, donkerbruin, stand 3 (17 ml), wenkbrauwen ",
+          "c": "Beauty"
+        },
+        {
+          "n": "L'Oréal Men Expert Douchegel en shampoo voor mannen, 3-in-1 douchebad voor het r",
+          "c": "Beauty"
+        },
+        {
+          "n": "Wella Koleston Perf. Me+ Pure Naturals 8/0 60ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "WELEDA Bio Energy Douchegel, veganistisch, natuurlijke cosmetica, aroma shower, ",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Fresh 3-in-1 douchegel, voor heren, 2 x 500 ml",
+          "c": "Beauty"
         }
       ]
     }
