@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T23:46:24.583779+00:00",
-  "updated_fmt": "16 July 2026 om 23:46",
+  "updated": "2026-07-17T07:08:44.142705+00:00",
+  "updated_fmt": "17 July 2026 om 07:08",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Jul 2026 23:46 UTC",
+      "note": "bol.com — gescraped 17 Jul 2026 07:08 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Jul 2026 23:46 UTC",
+      "note": "amazon.nl — gescraped 17 Jul 2026 07:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,11 +671,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
+          "n": "Testina rasoio - PHILIPS One Blade - Confezione da 4 lamette di ricambio 360 ? Q",
           "c": "Algemeen"
         },
         {
-          "n": "Testina rasoio - PHILIPS One Blade - Confezione da 4 lamette di ricambio 360 ? Q",
+          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
           "c": "Algemeen"
         },
         {
@@ -692,26 +692,6 @@
         },
         {
           "n": "Redken, Voor Beschadigd, Veeleisend en Gekleurd Haar, Beschermt Intensief Tegen ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kangaro Schetsboek, 12 x 12 cm, Dark Turquoise PU hardcover, 80 vellen, 140 gram",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oriento Meetlint voor het meten van lichaam, 150 cm, centimeter voor kleermaken,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vaessen Creative Paper Punch, 3 in 1, afgeronde hoeken, voor doe-het-zelfproject",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Trimits Reisnaaiset - draagbare koffer voor volwassenen, beginners, doe-het-zelf",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CANSON XL Aquarelle C400082843: DIN A5 - aquarel schilderblok in wit - tekenblok",
           "c": "Algemeen"
         },
         {
@@ -755,11 +735,31 @@
           "c": "Algemeen"
         },
         {
+          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs",
+          "c": "Algemeen"
+        },
+        {
           "n": "GRIFEMA GH83-4, 6 stuks vacuüm opbergzakken 60x40 cm - herbruikbare ruimtebespar",
           "c": "Algemeen"
         },
         {
-          "n": "Sodastream Fuse - 2x 1L bruiswaterfles, herbruikbaar en vaatwasbestendig, compat",
+          "n": "Kangaro Schetsboek, 12 x 12 cm, Dark Turquoise PU hardcover, 80 vellen, 140 gram",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oriento Meetlint voor het meten van lichaam, 150 cm, centimeter voor kleermaken,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vaessen Creative Paper Punch, 3 in 1, afgeronde hoeken, voor doe-het-zelfproject",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Trimits Reisnaaiset - draagbare koffer voor volwassenen, beginners, doe-het-zelf",
+          "c": "Algemeen"
+        },
+        {
+          "n": "CANSON XL Aquarelle C400082843: DIN A5 - aquarel schilderblok in wit - tekenblok",
           "c": "Algemeen"
         },
         {
@@ -783,7 +783,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Show 5 (3e generatie) | Slim scherm en slimme wekker met scherpe gel",
+          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
           "c": "Algemeen"
         },
         {
@@ -799,15 +799,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Nachtschatten: August Strindberg ermittelt, Band 5",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
           "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nachtschatten: August Strindberg ermittelt, Band 5",
           "c": "Algemeen"
         },
         {
@@ -819,19 +819,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
         },
         {
-          "n": "Lexar 633x 256GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
+          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
           "c": "Elektronica"
         },
         {
@@ -843,7 +839,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "n": "Lexar 633x 256GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
@@ -851,7 +851,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Jul 2026 23:46 UTC",
+      "note": "amazon.com.be — gescraped 17 Jul 2026 07:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,11 +1142,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jack & Jones Jjecorp Logo Tee Ss Crew Neck Noos Heren-T-shirt",
+          "n": "Skechers Uno Stand On Air Sneakers voor heren",
           "c": "Algemeen"
         },
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "n": "Jack & Jones Jjecorp Logo Tee Ss Crew Neck Noos Heren-T-shirt",
           "c": "Algemeen"
         },
         {
@@ -1174,6 +1174,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Carpoint 1316011 bord L met zuignap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint Parkeerschijf",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Badabulle Set van 2 autozonnekleppen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TotalEnergies Ineo ECS 5W-30 Quartz, benzine- en dieselmotorolie, 1 liter",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kärcher Wasmiddel voor hogedrukreiniger, zwart, 5 liter",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "c": "Algemeen"
+        },
+        {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume",
           "c": "Algemeen"
         },
@@ -1186,15 +1210,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
-          "c": "Algemeen"
-        },
-        {
           "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Autentisk Face & Body Electric Beard Trimmer, Shaver and Bo",
+          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
         {
@@ -1234,39 +1254,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
           "c": "Algemeen"
         },
         {
+          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
+          "c": "Algemeen"
+        },
+        {
           "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED gamingmuis, draadloos, licht, hybride s",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Haribo Dragibus 120 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matcha & CO - 100% biologische matcha-thee, 80 g [ceremoniële kwaliteit]. Biolog",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ceremonial Premium Matcha T-stuk, 80 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
           "c": "Algemeen"
         },
         {
@@ -1282,11 +1278,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
           "c": "Elektronica"
         },
         {
@@ -1314,7 +1310,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
+          "n": "Apple AirPods 4 draadloze hoofdtelefoon, bluetooth-hoofdtelefoon en hoofdtelefoo",
           "c": "Elektronica"
         },
         {
@@ -1322,7 +1318,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze hoofdtelefoon, bluetooth-hoofdtelefoon en hoofdtelefoo",
+          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Jul 2026 23:46 UTC",
+      "note": "amazon.de — gescraped 17 Jul 2026 07:08 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 16,54",
+          "c": "Algemeen"
+        },
+        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 35,46",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 19,13",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Unisex Kinder Adilette Aqua Badesandalen Kids",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,38",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1545,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Tommy Hilfiger 1985 Regular Polo",
+          "n": "7 aanbiedingen vanUSD 33,16",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Puma Unisex PUMA Smash V2 L sneakers",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 39,18",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1561,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "4 aanbiedingen vanUSD 13,61",
+          "c": "Algemeen"
+        },
+        {
           "n": "JURA Origineel - CLARIS Smart+ filterpatroon met automatische filterherkenning -",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 38,45",
           "c": "Algemeen"
         },
         {
@@ -1549,6 +1581,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 8,64",
+          "c": "Algemeen"
+        },
+        {
           "n": "Levoit - DC motor torenventilator - 20dB zeer stille ventilator - 4 modi/12 stan",
           "c": "Algemeen"
         },
@@ -1557,7 +1593,23 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 26,43",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,88",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 4,56",
+          "c": "Algemeen"
+        },
+        {
           "n": "Wago 221-413 Lasklem, 50 stuks | Hefinzetstuk voor alle geleiders tot 4 mm², tra",
+          "c": "Algemeen"
+        },
+        {
+          "n": "9 aanbiedingen vanUSD 13,72",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1617,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 11,53",
+          "c": "Algemeen"
+        },
+        {
           "n": "Gardena Classic Polo 250 Zwenksproeier: voor het gelijkmatig besproeien van je g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 28,51",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1633,55 @@
           "c": "Algemeen"
         },
         {
+          "n": "17 aanbiedingen vanUSD 22,35",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "20 aanbiedingen vanUSD 22,41",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Staedtler Noris Kleurpotloden, Premium, Verpakking van 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 0,23/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mattel Games W2087 Uno Kaartspel, geschikt voor 2-10 spelers, speelduur ca. 15 m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,75",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LEGO Speed Champions tijdmachine terug naar de toekomst - kinderspeelgoed met au",
+          "c": "Algemeen"
+        },
+        {
+          "n": "20 aanbiedingen vanUSD 20,37",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mattel Games Skip-BO, kaartspel voor de familie, perfect als kinderspel, reisspe",
+          "c": "Algemeen"
+        },
+        {
           "n": "FUJIFILM INSTAX mini 12™ Instant Camera voor volwassenen, camera met onmiddellij",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 74,02",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1689,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "47 aanbiedingen vanUSD 80,70",
+          "c": "Algemeen"
+        },
+        {
           "n": "INSTAX Square ISO 800 film met witte rand, 2 x 10 shot pack",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 1,92/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1589,124 +1705,8 @@
           "c": "Algemeen"
         },
         {
-          "n": "Polaroid Color Film voor i-Type - x40 filmpakket",
+          "n": "9 aanbiedingen vanUSD 102,06",
           "c": "Algemeen"
-        },
-        {
-          "n": "instax™ Wide Film Standard (20/PK)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIONOBLE Ricinusolie Koudgeperste Biologische ricinusolie - 100% natuurlijk, zon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Osram LED Base Classic Een lamp, bolvormig met E27-fitting, niet dimbaar, vervan",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tapo L530E Alexa-lamp E27, energiebesparend, meerkleurig, dimbaar, slimme wifi-g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics Warmwitte ledlampen, Edison-fitting E27, 7 W (komt overeen met 60 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lampen 6-pack (50 W), reflector LED spots met warm wit ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HOVVIDA Ledstrip 5 m, 30 leds/meter, 1 x 5 m, 150 leds, RGB ledstrip, app en afs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics Ledlampen, GU10-spots, 4,7 W (komt overeen met 50 W gloeilamp), wa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Universele vloeibare ontkalker voor volautomatische koffiemachines, fles",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
-          "c": "Keuken"
-        },
-        {
-          "n": "Wohin saust der Marienkäfer?: mit Aufzieh-Marienkäfer und Fahrspuren – interakti",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
-          "c": "Keuken"
-        },
-        {
-          "n": "Amazon Basics Jersey hoeslaken, 100% katoen, matrashoogte tot 30 cm, 180 x 200 c",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips STH3020/10 Draagbare kledingstomer, 1000 W, compact en opvouwbaar, water",
-          "c": "Keuken"
-        },
-        {
-          "n": "sodastream Fuse Flessen, 1 l, dubbelpak, 2 zwarte kunststof flessen voor bruiswa",
-          "c": "Keuken"
-        },
-        {
-          "n": "Simplicol Textielverf, intensief,18 kleuren, eenvoudig textiel verven in de wasm",
-          "c": "Keuken"
-        },
-        {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
-          "c": "Keuken"
-        },
-        {
-          "n": "Intex luchtkussen Downy, blauw, 43 x 28 x 9 cm",
-          "c": "Keuken"
         }
       ]
     }
