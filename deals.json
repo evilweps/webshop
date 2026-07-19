@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T11:48:00.473420+00:00",
-  "updated_fmt": "19 July 2026 om 11:48",
+  "updated": "2026-07-19T17:46:33.993549+00:00",
+  "updated_fmt": "19 July 2026 om 17:46",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 19 Jul 2026 11:48 UTC",
+      "note": "bol.com — gescraped 19 Jul 2026 17:46 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 19 Jul 2026 11:48 UTC",
+      "note": "amazon.nl — gescraped 19 Jul 2026 17:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -799,15 +799,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Die Psychiaterin: Wurde ihr der Job zum Verhängnis?",
           "c": "Algemeen"
         },
         {
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "c": "Algemeen"
+        },
+        {
           "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel 8K 60Hz 4K 240Hz 165Hz 144Hz 120Hz 48Gbit/s Hoge Snelheid,",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 19 Jul 2026 11:48 UTC",
+      "note": "amazon.com.be — gescraped 19 Jul 2026 17:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 19 Jul 2026 11:48 UTC",
+      "note": "amazon.de — gescraped 19 Jul 2026 17:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
