@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T13:00:02.687070+00:00",
-  "updated_fmt": "20 July 2026 om 13:00",
+  "updated": "2026-07-20T18:47:40.325124+00:00",
+  "updated_fmt": "20 July 2026 om 18:47",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 20 Jul 2026 13:00 UTC",
+      "note": "bol.com — gescraped 20 Jul 2026 18:47 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 20 Jul 2026 13:00 UTC",
+      "note": "amazon.nl — gescraped 20 Jul 2026 18:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -775,19 +775,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Algemeen"
-        },
-        {
           "n": "Die Psychiaterin: Wurde ihr der Job zum Verhängnis?",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
           "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 20 Jul 2026 13:00 UTC",
+      "note": "amazon.com.be — gescraped 20 Jul 2026 18:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1290,15 +1290,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
+        },
+        {
           "n": "JETech Displaybeschermfolie voor Samsung Galaxy A57 5G, 9H gehard glas folie met",
           "c": "Elektronica"
         },
         {
           "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten GaN stopcontact | Compatibel ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 20 Jul 2026 13:00 UTC",
+      "note": "amazon.de — gescraped 20 Jul 2026 18:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,6 +1509,114 @@
       ],
       "bestsellers": [
         {
+          "n": "Pokémon (Sammelkartenspiel), PKM ME05 Top-Trainer-Box",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 50 zakjes)",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Staedtler Noris Kleurpotloden, Premium, Verpakking van 1",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games W2087 Uno Kaartspel, geschikt voor 2-10 spelers, speelduur ca. 15 m",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games Skip-BO, kaartspel voor de familie, perfect als kinderspel, reisspe",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Stabilo Trio thick, driekantige kleurpotloden, multicolor",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Speed Champions tijdmachine terug naar de toekomst - kinderspeelgoed met au",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Opblaasbare donut-zwemring, bruin, diameter 120 cm, met beet, zwembad en water, ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 26, geruit met rand, 5 stuks",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Asmodee Dobble Waterproof, Duitse versie, familiespel, kaartspel, snel en grappi",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games - UNO FLIP! Kaartspel met aan beide zijden bedrukte kaarten, nieuwe",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto, speelgoed met formule 1 minif",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "URMYWO Contrastboek voor baby's, zwart-wit, dubbelzijdig babystofboek, zacht fot",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Qwixx - Dobbelspel - Genomineerd voor speelgoed van het jaar 2013",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Play-Doh 18-delige fantasieverpakking",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "FUNXGO folieballon, cijfers in blauw, XXL, ca. 100 cm, reuzen cijferballonnen, f",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Jumbo 17571 Originele Rummikub Classic, Single",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Stabilo Easycolors Ergonomische kleurpotloden voor rechtshandigen, met puntensli",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "lila liebt dich® 100 fantastische eenhoorntatoeages voor kinderen (6 verschillen",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Flip 7 Kaartspel, compact familiespel, mix van geluk en strategie, snel te leren",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Speelgoed"
+        },
+        {
           "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
           "c": "Boeken"
         },
@@ -1525,15 +1633,11 @@
           "c": "Boeken"
         },
         {
-          "n": "Kindergarten-Rätselspaß für unterwegs - Rätselbuch ab 4 Jahre, Reisespiele für K",
-          "c": "Boeken"
-        },
-        {
           "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
           "c": "Boeken"
         },
         {
-          "n": "Memories of Heidelberg: Roman | \"Vielleicht schreibt Heinz Strunk auch einfach d",
+          "n": "Kindergarten-Rätselspaß für unterwegs - Rätselbuch ab 4 Jahre, Reisespiele für K",
           "c": "Boeken"
         },
         {
@@ -1545,6 +1649,10 @@
           "c": "Boeken"
         },
         {
+          "n": "Memories of Heidelberg: Roman | \"Vielleicht schreibt Heinz Strunk auch einfach d",
+          "c": "Boeken"
+        },
+        {
           "n": "Haltet Euer Schandmaul: Der ultimative Knigge für den modernen Pöbel",
           "c": "Boeken"
         },
@@ -1553,7 +1661,7 @@
           "c": "Boeken"
         },
         {
-          "n": "artgerecht - Das andere Kleinkinderbuch: Gefühle liebevoll begleiten - Entwicklu",
+          "n": "Dein Körper spricht hormonisch: Alles über Zyklusveränderungen, Perimenopause un",
           "c": "Boeken"
         },
         {
@@ -1561,15 +1669,11 @@
           "c": "Boeken"
         },
         {
-          "n": "Deutschbuch Gymnasium - Nordrhein-Westfalen - Ausgabe 2019 - 6. Schuljahr: Arbei",
-          "c": "Boeken"
-        },
-        {
-          "n": "Dein Körper spricht hormonisch: Alles über Zyklusveränderungen, Perimenopause un",
-          "c": "Boeken"
-        },
-        {
           "n": "Richtig schreiben 2: Selbstständig strategiegeleitet Rechtschreiben lernen und s",
+          "c": "Boeken"
+        },
+        {
+          "n": "Deutschbuch Gymnasium - Nordrhein-Westfalen - Ausgabe 2019 - 6. Schuljahr: Arbei",
           "c": "Boeken"
         },
         {
@@ -1577,7 +1681,15 @@
           "c": "Boeken"
         },
         {
+          "n": "artgerecht - Das andere Kleinkinderbuch: Gefühle liebevoll begleiten - Entwicklu",
+          "c": "Boeken"
+        },
+        {
           "n": "Green Line 2 G9: Workbook mit Audios Klasse 6 (Green Line G9. Ausgabe ab 2019)",
+          "c": "Boeken"
+        },
+        {
+          "n": "Wir verlieren dieses Land: Polizisten erzählen, worüber niemand offen spricht",
           "c": "Boeken"
         },
         {
@@ -1589,39 +1701,11 @@
           "c": "Boeken"
         },
         {
+          "n": "Kein Sommer ohne August: Roman. Die perfekte Lektüre für einen unvergesslichen S",
+          "c": "Boeken"
+        },
+        {
           "n": "Hirn statt Handy - 200 coole Rätsel für clevere Teenager: Perfektes Geschenk-Rät",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die Ehefrau – Was hat sie zu verbergen?: Thriller - Der Nr.1 Bestseller der Welt",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die Mitternachtsbibliothek: Roman | Der Nr.1 BookTok-Bestseller | Der SPIEGEL Be",
-          "c": "Boeken"
-        },
-        {
-          "n": "Lighthouse - General Edition - Band 2: 6. Schuljahr: Workbook - Mit Audios, Erkl",
-          "c": "Boeken"
-        },
-        {
-          "n": "Wir verlieren dieses Land: Polizisten erzählen, worüber niemand offen spricht",
-          "c": "Boeken"
-        },
-        {
-          "n": "Untitled Empyrean (Not Book Four)",
-          "c": "Boeken"
-        },
-        {
-          "n": "1 gegen 1 Reiseduell: Stift und Papier Minispiele für Zwei | Reisespiele ohne Hi",
-          "c": "Boeken"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Boeken"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
           "c": "Boeken"
         }
       ]
