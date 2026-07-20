@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T18:47:40.325124+00:00",
-  "updated_fmt": "20 July 2026 om 18:47",
+  "updated": "2026-07-20T23:45:20.055197+00:00",
+  "updated_fmt": "20 July 2026 om 23:45",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 20 Jul 2026 18:47 UTC",
+      "note": "bol.com — gescraped 20 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 20 Jul 2026 18:47 UTC",
+      "note": "amazon.nl — gescraped 20 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,6 +671,30 @@
       ],
       "bestsellers": [
         {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifewit Wasmand met Deksel, Grote met Plastic Handvatten en Een Uitneembare Zak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
+          "c": "Algemeen"
+        },
+        {
           "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
           "c": "Algemeen"
         },
@@ -695,27 +719,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
         {
-          "n": "Lifewit Wasmand met Deksel, Grote met Plastic Handvatten en Een Uitneembare Zak,",
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
-          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
+          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
           "c": "Algemeen"
         },
         {
-          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
-          "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
+          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
           "c": "Algemeen"
         },
         {
@@ -767,11 +791,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
@@ -779,7 +803,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -787,31 +811,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 20 Jul 2026 18:47 UTC",
+      "note": "amazon.com.be — gescraped 20 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,26 @@
       ],
       "bestsellers": [
         {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lifetree Raamfolie, hittebescherming, eenrichtingsbescherming, uv-bescherming, v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Handkledingstomer 3000 serie, 1000 W, 20 g/min stoom, metalen stoomplaat",
+          "c": "Algemeen"
+        },
+        {
           "n": "Générique Zonne-eclipse bril 2026, 5 stuks, ISO 12312-2 gecertificeerd, zonneobs",
           "c": "Algemeen"
         },
@@ -1171,26 +1191,6 @@
         },
         {
           "n": "FLOWZOOM® Comfy Reiskussen, vliegtuigkussen, autokussen, reiskussen van traagsch",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lifetree Raamfolie, hittebescherming, eenrichtingsbescherming, uv-bescherming, v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell HT-900E Turbo-ventilator krachtige, stille ventilator (zwart)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Handkledingstomer 3000 serie, 1000 W, 20 g/min stoom, metalen stoomplaat",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 20 Jul 2026 18:47 UTC",
+      "note": "amazon.de — gescraped 20 Jul 2026 23:45 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,204 +1509,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Pokémon (Sammelkartenspiel), PKM ME05 Top-Trainer-Box",
-          "c": "Speelgoed"
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
-          "c": "Speelgoed"
+          "n": "USD 16,55",
+          "c": "Algemeen"
         },
         {
-          "n": "Panini - Officiële FIFA World Cup 2026™ stickercollectie (doos met 50 zakjes)",
-          "c": "Speelgoed"
+          "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
+          "c": "Algemeen"
         },
         {
-          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
-          "c": "Speelgoed"
+          "n": "3 aanbiedingen vanUSD 7,95",
+          "c": "Algemeen"
         },
         {
-          "n": "Staedtler Noris Kleurpotloden, Premium, Verpakking van 1",
-          "c": "Speelgoed"
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
         },
         {
-          "n": "Mattel Games W2087 Uno Kaartspel, geschikt voor 2-10 spelers, speelduur ca. 15 m",
-          "c": "Speelgoed"
+          "n": "1 aanbieding voorUSD 17,15",
+          "c": "Algemeen"
         },
         {
-          "n": "Mattel Games Skip-BO, kaartspel voor de familie, perfect als kinderspel, reisspe",
-          "c": "Speelgoed"
+          "n": "Tommy Hilfiger 1985 Regular Polo",
+          "c": "Algemeen"
         },
         {
-          "n": "Stabilo Trio thick, driekantige kleurpotloden, multicolor",
-          "c": "Speelgoed"
+          "n": "USD 43,87",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO Speed Champions tijdmachine terug naar de toekomst - kinderspeelgoed met au",
-          "c": "Speelgoed"
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
         },
         {
-          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
-          "c": "Speelgoed"
+          "n": "2 aanbiedingen vanUSD 35,47",
+          "c": "Algemeen"
         },
         {
-          "n": "Opblaasbare donut-zwemring, bruin, diameter 120 cm, met beet, zwembad en water, ",
-          "c": "Speelgoed"
+          "n": "Lico Bioline Man pantoffels voor heren",
+          "c": "Algemeen"
         },
         {
-          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 26, geruit met rand, 5 stuks",
-          "c": "Speelgoed"
+          "n": "USD 19,13",
+          "c": "Algemeen"
         },
         {
-          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
-          "c": "Speelgoed"
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
         },
         {
-          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
-          "c": "Speelgoed"
+          "n": "(USD 1.096,66/l)",
+          "c": "Algemeen"
         },
         {
-          "n": "Asmodee Dobble Waterproof, Duitse versie, familiespel, kaartspel, snel en grappi",
-          "c": "Speelgoed"
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
         },
         {
-          "n": "Mattel Games - UNO FLIP! Kaartspel met aan beide zijden bedrukte kaarten, nieuwe",
-          "c": "Speelgoed"
+          "n": "1 aanbieding voorUSD 13,05",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto, speelgoed met formule 1 minif",
-          "c": "Speelgoed"
+          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "c": "Algemeen"
         },
         {
-          "n": "URMYWO Contrastboek voor baby's, zwart-wit, dubbelzijdig babystofboek, zacht fot",
-          "c": "Speelgoed"
+          "n": "14 aanbiedingen vanUSD 7,08",
+          "c": "Algemeen"
         },
         {
-          "n": "Qwixx - Dobbelspel - Genomineerd voor speelgoed van het jaar 2013",
-          "c": "Speelgoed"
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
         },
         {
-          "n": "Play-Doh 18-delige fantasieverpakking",
-          "c": "Speelgoed"
+          "n": "(USD 2,51/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "FUNXGO folieballon, cijfers in blauw, XXL, ca. 100 cm, reuzen cijferballonnen, f",
-          "c": "Speelgoed"
+          "n": "d'alba Italian White Truffel First Spray Serum, vochtinbrengende gezichtsspray, ",
+          "c": "Algemeen"
         },
         {
-          "n": "Jumbo 17571 Originele Rummikub Classic, Single",
-          "c": "Speelgoed"
+          "n": "2 aanbiedingen vanUSD 33,44",
+          "c": "Algemeen"
         },
         {
-          "n": "Stabilo Easycolors Ergonomische kleurpotloden voor rechtshandigen, met puntensli",
-          "c": "Speelgoed"
+          "n": "d'alba Italian White Truffel Double Serum All-in-One Multi Balm, veganistische h",
+          "c": "Algemeen"
         },
         {
-          "n": "lila liebt dich® 100 fantastische eenhoorntatoeages voor kinderen (6 verschillen",
-          "c": "Speelgoed"
+          "n": "3 aanbiedingen vanUSD 20,59",
+          "c": "Algemeen"
         },
         {
-          "n": "Flip 7 Kaartspel, compact familiespel, mix van geluk en strategie, snel te leren",
-          "c": "Speelgoed"
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
         },
         {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Speelgoed"
+          "n": "3 aanbiedingen vanUSD 18,18",
+          "c": "Algemeen"
         },
         {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Speelgoed"
+          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 90x200 - 100x200 cm",
+          "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 14,87",
+          "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
-          "c": "Boeken"
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
         },
         {
-          "n": "Threshing Day – Flammengeküsst: 13 Geschichten aus der Welt des Empyrean mit 16 ",
-          "c": "Boeken"
+          "n": "USD 38,46",
+          "c": "Algemeen"
         },
         {
-          "n": "Edward von Stechowsky: Von einer Mücke, die sich etwas Größeres erträumte | Lust",
-          "c": "Boeken"
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
         },
         {
-          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
-          "c": "Boeken"
+          "n": "(USD 10,05/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "Kindergarten-Rätselspaß für unterwegs - Rätselbuch ab 4 Jahre, Reisespiele für K",
-          "c": "Boeken"
+          "n": "3 aanbiedingen vanUSD 8,72",
+          "c": "Algemeen"
         },
         {
-          "n": "Woman on Fire: Alles über die fabelhaften Wechseljahre",
-          "c": "Boeken"
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Algemeen"
         },
         {
-          "n": "Die LET THEM Theorie: Zwei Worte, die dein Leben verändern werden - Das Buch, da",
-          "c": "Boeken"
+          "n": "USD 8,64",
+          "c": "Algemeen"
         },
         {
-          "n": "Memories of Heidelberg: Roman | \"Vielleicht schreibt Heinz Strunk auch einfach d",
-          "c": "Boeken"
+          "n": "8 aanbiedingen vanUSD 17,37",
+          "c": "Algemeen"
         },
         {
-          "n": "Haltet Euer Schandmaul: Der ultimative Knigge für den modernen Pöbel",
-          "c": "Boeken"
+          "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
         },
         {
-          "n": "Diercke Weltatlas - Ausgabe 2023: Schulatlas für alle Bundesländer außer Bayern",
-          "c": "Boeken"
+          "n": "USD 12,45",
+          "c": "Algemeen"
         },
         {
-          "n": "Dein Körper spricht hormonisch: Alles über Zyklusveränderungen, Perimenopause un",
-          "c": "Boeken"
+          "n": "Tesa Insect Stop Standard Vliegengaas, voor ramen, verpakt per 3 stuks, insecten",
+          "c": "Algemeen"
         },
         {
-          "n": "Secret – Du sollst mich fürchten: »The Mindf*ck Series«: Das Thriller-Phänomen –",
-          "c": "Boeken"
+          "n": "(USD 6,69/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "Richtig schreiben 2: Selbstständig strategiegeleitet Rechtschreiben lernen und s",
-          "c": "Boeken"
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
         },
         {
-          "n": "Deutschbuch Gymnasium - Nordrhein-Westfalen - Ausgabe 2019 - 6. Schuljahr: Arbei",
-          "c": "Boeken"
+          "n": "3 aanbiedingen vanUSD 8,26",
+          "c": "Algemeen"
         },
         {
-          "n": "Richtig schreiben 3: Selbstständig strategiegeleitet Rechtschreiben lernen und s",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 11,43",
+          "c": "Algemeen"
         },
         {
-          "n": "artgerecht - Das andere Kleinkinderbuch: Gefühle liebevoll begleiten - Entwicklu",
-          "c": "Boeken"
+          "n": "Wago 221-413 Lasklem, 50 stuks | Hefinzetstuk voor alle geleiders tot 4 mm², tra",
+          "c": "Algemeen"
         },
         {
-          "n": "Green Line 2 G9: Workbook mit Audios Klasse 6 (Green Line G9. Ausgabe ab 2019)",
-          "c": "Boeken"
+          "n": "9 aanbiedingen vanUSD 11,43",
+          "c": "Algemeen"
         },
         {
-          "n": "Wir verlieren dieses Land: Polizisten erzählen, worüber niemand offen spricht",
-          "c": "Boeken"
+          "n": "Houten geboortekaart, verjaardagskaart voor leeuwenbaby | dierenkaart, leeuw, le",
+          "c": "Algemeen"
         },
         {
-          "n": "Der große Sudoku Block Band 1: 380 Sudoku-Rätsel für Erwachsene in 3 Schwierigke",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 9,14",
+          "c": "Algemeen"
         },
         {
-          "n": "Die 1%-Methode – Minimale Veränderung, maximale Wirkung: Mit kleinen Gewohnheite",
-          "c": "Boeken"
+          "n": "the lazy panda card company Das Jahr, das 1966 war - kaart boek voor de 60e verj",
+          "c": "Algemeen"
         },
         {
-          "n": "Kein Sommer ohne August: Roman. Die perfekte Lektüre für einen unvergesslichen S",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 6,81",
+          "c": "Algemeen"
         },
         {
-          "n": "Hirn statt Handy - 200 coole Rätsel für clevere Teenager: Perfektes Geschenk-Rät",
-          "c": "Boeken"
+          "n": "Tijd geven kaart: gezamenlijke tijd houten kaart - verjaardagskaart - tegoedbon ",
+          "c": "Algemeen"
         }
       ]
     }
