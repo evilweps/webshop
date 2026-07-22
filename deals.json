@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T12:20:21.415380+00:00",
-  "updated_fmt": "22 July 2026 om 12:20",
+  "updated": "2026-07-22T18:00:43.338698+00:00",
+  "updated_fmt": "22 July 2026 om 18:00",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 Jul 2026 12:20 UTC",
+      "note": "bol.com — gescraped 22 Jul 2026 18:00 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 Jul 2026 12:20 UTC",
+      "note": "amazon.nl — gescraped 22 Jul 2026 18:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 Jul 2026 12:20 UTC",
+      "note": "amazon.com.be — gescraped 22 Jul 2026 18:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 Jul 2026 12:20 UTC",
+      "note": "amazon.de — gescraped 22 Jul 2026 18:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "15 aanbiedingen vanUSD 6,83",
+          "n": "14 aanbiedingen vanUSD 6,83",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,85",
+          "n": "USD 5,84",
           "c": "Algemeen"
         },
         {
@@ -1697,11 +1697,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "49 aanbiedingen vanUSD 91,04",
+          "n": "50 aanbiedingen vanUSD 91,04",
           "c": "Algemeen"
         },
         {
-          "n": "MR.SIGA Hoogwaardige microvezel reinigingsdoekjes brillenpoetsdoek voor brillen,",
+          "n": "MR.SIGA Microvezel brillenpoetsdoek, brillenpoetsdoek, verpakking van 6 stuks | ",
           "c": "Algemeen"
         },
         {
