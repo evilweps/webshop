@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T12:11:11.361639+00:00",
-  "updated_fmt": "24 July 2026 om 12:11",
+  "updated": "2026-07-24T18:09:40.013179+00:00",
+  "updated_fmt": "24 July 2026 om 18:09",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 Jul 2026 12:11 UTC",
+      "note": "bol.com — gescraped 24 Jul 2026 18:09 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 Jul 2026 12:11 UTC",
+      "note": "amazon.nl — gescraped 24 Jul 2026 18:09 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -763,6 +763,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
+          "c": "Algemeen"
+        },
+        {
           "n": "All-Inclusive - Auch der Tod",
           "c": "Algemeen"
         },
@@ -771,19 +775,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
-          "c": "Algemeen"
-        },
-        {
           "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachbar",
+          "n": "Die Psychiaterin: Wurde ihr der Job zum Verhängnis?",
           "c": "Algemeen"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "n": "Der Nachbar",
           "c": "Algemeen"
         },
         {
@@ -805,70 +805,6 @@
         {
           "n": "2026 Innovatief Slaapmasker voor Mannen en Vrouwen, 100% Lichtblokkerend Ontwerp",
           "c": "Algemeen"
-        },
-        {
-          "n": "JETech Screen Protector voor iPhone 17, 3 Stuks | 9H Gehard Glas, HD Helder, Kra",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell CR2032 Lithium-knoopcelbatterijen 3V, 4 stuks, Gaan tot 70% Langer Mee ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel 100W PD 3.0 oplaadkabel USB C snellaadkabel 5A/20V PPS compat",
-          "c": "Elektronica"
-        },
-        {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell Plus AA-batterijen, 24 Stuks, Alkalinebatterijen 1,5V, Tot 150% Extra L",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Nexode Power Bank 20000mAh 45W met ingebouwde USB-C-kabel | Bidirectionel",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +815,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 Jul 2026 12:11 UTC",
+      "note": "amazon.com.be — gescraped 24 Jul 2026 18:09 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,7 +1146,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lifetree Raamfolie, hittebescherming, eenrichtingsbescherming, uv-bescherming, v",
+          "n": "Lifetree Hittewerende folie voor ramen, spiegel, zonder lijm, 44,5 x 200 cm, zil",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1270,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 Jul 2026 12:11 UTC",
+      "note": "amazon.de — gescraped 24 Jul 2026 18:09 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,110 +1445,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Keuken"
-        },
-        {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Keuken"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 90x200 - 100x200 cm",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Keuken"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Keuken"
-        },
-        {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie elastisch hoeslaken van jerseykatoen",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele - 3-fase reinigingstabletten voor 6 reinigingen - TÜV-gecertifice",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Matrasbeschermer, 180 x 200 cm, waterdicht, Oeko-Tex-gecertificeerd van Twinzen ",
-          "c": "Keuken"
-        },
-        {
-          "n": "BARBONS DXHome Hoeslaken, 180 x 200 cm, 100% katoen, Oeko-Tex-gecertificeerd, be",
-          "c": "Keuken"
-        },
-        {
-          "n": "WMF Professionele braadpan 28 cm, roestvrij stalen pan ongecoat, Cromargan roest",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie Kussensloop, 40 x 80 cm, antraciet (set van 2), 100% katoen, Oeko-Tex",
-          "c": "Keuken"
-        },
-        {
-          "n": "Sonello Plisségordijn, klembevestiging zonder boren, 100 x 120 cm, wit, vouwgord",
-          "c": "Keuken"
-        },
-        {
-          "n": "120 stuks bakpapier voor heteluchtfriteuse Ninja Dual, Stone TH Airfryer met dub",
-          "c": "Keuken"
-        },
-        {
-          "n": "Third of Life Matrasbeschermer, 90 x 200 en 180 x 200; waterdicht, ademende, ant",
-          "c": "Keuken"
-        },
-        {
-          "n": "Utopia Bedding Set van 2 kussenvullingen 40 x 40 cm, binnenkussen vulkussen hoof",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Betem 24 kleuren acrylstiften met dubbele punt, hoogwaardige acrylstiften voor s",
-          "c": "Keuken"
-        },
-        {
-          "n": "SIMPEX Vloerkleed, crème, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, m",
-          "c": "Keuken"
-        },
-        {
-          "n": "Edding Permanent spray Premium acryllak, keuze uit verschillende kleuren, zijdem",
-          "c": "Keuken"
-        },
-        {
-          "n": "Gründl Wolle Quick Uni katoenwol",
-          "c": "Keuken"
-        },
-        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Beauty"
         },
@@ -1637,7 +1469,7 @@
           "c": "Beauty"
         },
         {
-          "n": "BIONOBLE Biologische rozemarijnolie - bevordert haargroei, vertraagt haaruitval,",
+          "n": "BIONOBLE Rozemarijnolie voor haar - bevordert de haargroei, vertraagt haaruitval",
           "c": "Beauty"
         },
         {
@@ -1706,6 +1538,34 @@
         },
         {
           "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
+          "c": "Beauty"
+        },
+        {
+          "n": "Tangle Teezer Wet Detangler Haarborstel met buigzame borstelharen en handige gre",
+          "c": "Beauty"
+        },
+        {
+          "n": "Paula's Choice 2% BHA Liquid Peeling, bestrijdt mee-eters en poriën, 30 ml | Kli",
+          "c": "Beauty"
+        },
+        {
+          "n": "Nivea Sun UV Dry Protect Zonnebrandspray, verfrissende spray met SPF 50 (200 ml)",
+          "c": "Beauty"
+        },
+        {
+          "n": "Remington D3199 Haardroger, ionen, licht, diffuser en stylingmondstuk, wit, 2200",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Vanille en kokosnoot douchegel, 2 x 500 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Beauty"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
           "c": "Beauty"
         }
       ]
