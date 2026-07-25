@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T11:55:34.108696+00:00",
-  "updated_fmt": "25 July 2026 om 11:55",
+  "updated": "2026-07-25T17:47:47.423553+00:00",
+  "updated_fmt": "25 July 2026 om 17:47",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 25 Jul 2026 11:55 UTC",
+      "note": "bol.com — gescraped 25 Jul 2026 17:47 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 25 Jul 2026 11:55 UTC",
+      "note": "amazon.nl — gescraped 25 Jul 2026 17:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 25 Jul 2026 11:55 UTC",
+      "note": "amazon.com.be — gescraped 25 Jul 2026 17:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1202,10 +1202,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Zonne-eclipse bril – ISO 12312-2 en CE & UKCA gecertificeerd, veilige oogbescher",
-          "c": "Algemeen"
-        },
-        {
           "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
           "c": "Algemeen"
         },
@@ -1324,6 +1320,10 @@
         {
           "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
           "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 25 Jul 2026 11:55 UTC",
+      "note": "amazon.de — gescraped 25 Jul 2026 17:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 9,98/eenheid)",
+          "n": "(USD 9,53/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 33,54",
+          "n": "4 aanbiedingen vanUSD 33,24",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 93,22",
+          "n": "5 aanbiedingen vanUSD 90,96",
           "c": "Algemeen"
         },
         {
@@ -1701,7 +1701,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 5,90",
+          "n": "USD 5,81",
           "c": "Algemeen"
         },
         {
