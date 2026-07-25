@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T17:47:47.423553+00:00",
-  "updated_fmt": "25 July 2026 om 17:47",
+  "updated": "2026-07-25T23:49:47.875820+00:00",
+  "updated_fmt": "25 July 2026 om 23:49",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 25 Jul 2026 17:47 UTC",
+      "note": "bol.com — gescraped 25 Jul 2026 23:49 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 25 Jul 2026 17:47 UTC",
+      "note": "amazon.nl — gescraped 25 Jul 2026 23:49 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -763,26 +763,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Magnesium Bisglycinaat (Glycinaat) capsules - 1422 mg - Levert 200 mg Elementair",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2026 Innovatief Slaapmasker voor Mannen en Vrouwen, 100% Lichtblokkerend Ontwerp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Creatine monohydraat poeder 1 kg / 1000 g - Ultra zuiver creatine monohydraat me",
-          "c": "Algemeen"
-        },
-        {
           "n": "Grabie Acrylmarkers Zwart & Wit, 6 Stuks (3 Zwart, 3 Wit), 0.7mm Extra Fijne Pun",
           "c": "Algemeen"
         },
@@ -800,6 +780,26 @@
         },
         {
           "n": "Oriento Meetlint voor het meten van lichaam, 150 cm, centimeter voor kleermaken,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Magnesium Bisglycinaat (Glycinaat) capsules - 1422 mg - Levert 200 mg Elementair",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2026 Innovatief Slaapmasker voor Mannen en Vrouwen, 100% Lichtblokkerend Ontwerp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Creatine monohydraat poeder 1 kg / 1000 g - Ultra zuiver creatine monohydraat me",
           "c": "Algemeen"
         },
         {
@@ -863,11 +863,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17, 2 Stuks | Anti-Gluren Schermbesc",
+          "n": "INIU Power Bank, 20000mAh 22,5 W Snel Opladen Externe Phone Batterij | met Afnee",
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB C-kabel, [2-pack 2m] PD-snellaadkabel USBC naar USBC, nylon gevloc",
+          "n": "JETech Privacy Screen Protector voor iPhone 17, 2 Stuks | Anti-Gluren Schermbesc",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 25 Jul 2026 17:47 UTC",
+      "note": "amazon.com.be — gescraped 25 Jul 2026 23:49 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,7 +1142,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Générique Lunettes Éclipse Solaire 2026 Lot de 5 Certifiées ISO 12312-2 Observat",
+          "n": "Générique Zonne-eclipse bril 2026, 5 stuks, ISO 12312-2 gecertificeerd, zonneobs",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 25 Jul 2026 17:47 UTC",
+      "note": "amazon.de — gescraped 25 Jul 2026 23:49 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1581,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 33,24",
+          "n": "4 aanbiedingen vanUSD 34,06",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,96",
+          "n": "1 aanbieding voorUSD 13,07",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 48,88",
+          "n": "3 aanbiedingen vanUSD 48,88",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 90,96",
+          "n": "4 aanbiedingen vanUSD 90,96",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "19 aanbiedingen vanUSD 22,27",
+          "n": "18 aanbiedingen vanUSD 22,27",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1689,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 17,68",
+          "n": "8 aanbiedingen vanUSD 17,32",
           "c": "Algemeen"
         },
         {
