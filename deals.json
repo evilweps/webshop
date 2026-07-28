@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T23:52:53.087858+00:00",
-  "updated_fmt": "27 July 2026 om 23:52",
+  "updated": "2026-07-28T07:30:18.654059+00:00",
+  "updated_fmt": "28 July 2026 om 07:30",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 27 Jul 2026 23:52 UTC",
+      "note": "bol.com — gescraped 28 Jul 2026 07:30 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 27 Jul 2026 23:52 UTC",
+      "note": "amazon.nl — gescraped 28 Jul 2026 07:30 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -675,19 +675,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
           "c": "Algemeen"
         },
         {
-          "n": "Philips PowerPro Compact Stofzuiger – Lichtgewicht, Zakloze, 900 W Zuigkracht, T",
+          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
           "c": "Algemeen"
         },
         {
           "n": "Philips 3000 Series handstomer - 1000W, 20 g/min stoom, Afneembare 100ml waterta",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips PowerPro Compact Stofzuiger – Lichtgewicht, Zakloze, 900 W Zuigkracht, T",
           "c": "Algemeen"
         },
         {
@@ -759,11 +759,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
         {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
           "c": "Algemeen"
         },
         {
@@ -775,11 +775,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "Loop Experience 2 Oordopjes – Gecertificeerde Gehoorbescherming | 17 dB (SNR) ge",
           "c": "Algemeen"
         },
         {
-          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
@@ -823,7 +823,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 27 Jul 2026 23:52 UTC",
+      "note": "amazon.com.be — gescraped 28 Jul 2026 07:30 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1194,6 +1194,18 @@
           "c": "Algemeen"
         },
         {
+          "n": "Cinkee Dik vliegengaas voor balkondeur, kelderdeur en terrasdeur, eenvoudige mon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
+          "c": "Algemeen"
+        },
+        {
           "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
           "c": "Algemeen"
         },
@@ -1210,18 +1222,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cinkee Dik vliegengaas voor balkondeur, kelderdeur en terrasdeur, eenvoudige mon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
           "c": "Algemeen"
         },
@@ -1230,11 +1230,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Helioclipse 6/12/25/50/100 Lunette Eclipse Solaire 2026 ISO 12312-2 - Lunettes E",
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
           "c": "Algemeen"
         },
         {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "n": "Helioclipse 6/12/25/50/100 Lunette Eclipse Solaire 2026 ISO 12312-2 - Lunettes E",
           "c": "Algemeen"
         },
         {
@@ -1274,6 +1274,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
+        },
+        {
           "n": "Azororo Beschermhoes voor Samsung Galaxy A17 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
         },
@@ -1283,10 +1287,6 @@
         },
         {
           "n": "SanDisk Extreme 128 GB microSDXC, Micro SD-kaart + SD-adapter, UHS-I V30, tot 19",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
@@ -1302,11 +1302,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
+        },
+        {
           "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
           "c": "Elektronica"
         },
         {
-          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
           "c": "Elektronica"
         },
         {
@@ -1318,11 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 27 Jul 2026 23:52 UTC",
+      "note": "amazon.de — gescraped 28 Jul 2026 07:30 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,11 +1509,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
           "c": "Algemeen"
         },
         {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
           "c": "Algemeen"
         },
         {
@@ -1553,11 +1553,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
           "c": "Algemeen"
         },
         {
@@ -1645,10 +1645,6 @@
           "c": "Keuken"
         },
         {
-          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
-          "c": "Keuken"
-        },
-        {
           "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
           "c": "Keuken"
         },
@@ -1657,11 +1653,15 @@
           "c": "Keuken"
         },
         {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
           "c": "Keuken"
         },
         {
           "n": "Twinzen Matrasbeschermer - 180x200 cm, waterdicht - katoen | Oeko-Tex-gecertific",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
           "c": "Keuken"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Keuken"
         },
         {
-          "n": "TrendPlain Oliesproeier voor spijsolie – 470 ml olijfoliefles – 2-in-1 oliedispe",
+          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
           "c": "Keuken"
         },
         {
@@ -1689,11 +1689,11 @@
           "c": "Keuken"
         },
         {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
+          "n": "TrendPlain Oliesproeier voor spijsolie – 470 ml olijfoliefles – 2-in-1 oliedispe",
           "c": "Keuken"
         },
         {
-          "n": "SIMPEX Vloerkleed, crème, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, m",
+          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
           "c": "Keuken"
         },
         {
@@ -1701,12 +1701,12 @@
           "c": "Keuken"
         },
         {
-          "n": "Warmco D4 batterij camping ventilator 20000mAh, LED-lamp, 48 uur looptijd | Stil",
+          "n": "SIMPEX Vloerkleed, crème, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, m",
           "c": "Keuken"
         },
         {
-          "n": "medicube Salmon DNA PDRN Pink Peptide Serum. Pink glow serum. Peptiden. Niacinam",
-          "c": "Beauty"
+          "n": "120 stuks bakpapier voor heteluchtfriteuse Ninja Dual, Stone TH Airfryer met dub",
+          "c": "Keuken"
         }
       ]
     }
