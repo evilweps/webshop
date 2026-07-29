@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T18:00:58.991833+00:00",
-  "updated_fmt": "29 July 2026 om 18:00",
+  "updated": "2026-07-29T23:51:34.751130+00:00",
+  "updated_fmt": "29 July 2026 om 23:51",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 29 Jul 2026 18:00 UTC",
+      "note": "bol.com — gescraped 29 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 29 Jul 2026 18:00 UTC",
+      "note": "amazon.nl — gescraped 29 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 29 Jul 2026 18:00 UTC",
+      "note": "amazon.com.be — gescraped 29 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1190,18 +1190,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lunettes Éclipse Solaire – Certifiées ISO 12312-2 et CE, Protection Oculaire Séc",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cinkee Dik vliegengaas voor balkondeur, kelderdeur en terrasdeur, eenvoudige mon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
           "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
           "c": "Algemeen"
         },
@@ -1218,28 +1206,56 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
+          "n": "Lunettes Éclipse Solaire – Certifiées ISO 12312-2 et CE, Protection Oculaire Séc",
           "c": "Algemeen"
+        },
+        {
+          "n": "Cinkee Dik vliegengaas voor balkondeur, kelderdeur en terrasdeur, eenvoudige mon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FIXCHORD Strijkband, strijkband voor zoom, Wonder Web zoomband, naadloos opstrij",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ballon in de vorm van een cijfer 1, beige, crèmewit, zandwit, 101 cm, aluminium,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gründl Cotton Quick Uni wol - fijne haakwol - breigaren - haakgaren - glanzend e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ballonnen voor verjaardag, groen, goud, 52 stuks, retro, groen, wit, goud, confe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
+          "c": "Elektronica"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Helioclipse 6/12/25/50/100 Lunette Eclipse Solaire 2026 ISO 12312-2 - Lunettes E",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen, powerbank",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
@@ -1308,22 +1324,6 @@
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Diveblues Draagbare mini-ventilator, 4-in-1, krachtige turbo-handventilator met ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Etseinri 10K 8K HDMI-kabel 2.1, 2 m, gecertificeerd 48Gbps Ultra High Speed HDMI",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C-kabel, snel opladen, 3 A, nylon oplaadkabel, USB C, compatibel met ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 29 Jul 2026 18:00 UTC",
+      "note": "amazon.de — gescraped 29 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,23 +1509,27 @@
       ],
       "bestsellers": [
         {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
+          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
           "c": "Algemeen"
         },
         {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
         {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
           "c": "Algemeen"
         },
         {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "medicube Salmon DNA PDRN Pink Peptide Serum. Pink glow serum. Peptiden. Niacinam",
           "c": "Algemeen"
         },
         {
@@ -1553,27 +1557,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
           "c": "Algemeen"
         },
         {
-          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
           "c": "Algemeen"
         },
         {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "medicube Salmon DNA PDRN Pink Peptide Serum. Pink glow serum. Peptiden. Niacinam",
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
           "c": "Algemeen"
         },
         {
@@ -1582,6 +1582,22 @@
         },
         {
           "n": "EasyMaxx Magic Click muggennet",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kindergarten-Rätselspaß für unterwegs - Rätselbuch ab 4 Jahre, Reisespiele für K",
           "c": "Algemeen"
         },
         {
@@ -1606,30 +1622,6 @@
         },
         {
           "n": "Robijn bruiloft kaart 40 jaar - robijn bruiloft houten kaart - bruiloftskaart - ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje met bewegingssensor en schemeringssensor, 2 stuks, warmwit led",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm 10 stuks vloerverlichting op zonne-energie, voor buiten, 8 leds, waterdic",
-          "c": "Algemeen"
-        },
-        {
-          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
           "c": "Algemeen"
         },
         {
@@ -1707,6 +1699,14 @@
         {
           "n": "BARBONS DXHome Hoeslaken, 180 x 200 cm, 100% katoen, Oeko-Tex-gecertificeerd, be",
           "c": "Keuken"
+        },
+        {
+          "n": "EurCross Douchegordijn, 180 x 200 cm, wit textiel, schimmelwerend, waterdicht en",
+          "c": "Keuken"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
         }
       ]
     }
