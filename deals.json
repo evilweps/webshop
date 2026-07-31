@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T12:49:59.158025+00:00",
-  "updated_fmt": "31 July 2026 om 12:49",
+  "updated": "2026-07-31T18:14:58.737349+00:00",
+  "updated_fmt": "31 July 2026 om 18:14",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 31 Jul 2026 12:49 UTC",
+      "note": "bol.com — gescraped 31 Jul 2026 18:14 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 31 Jul 2026 12:49 UTC",
+      "note": "amazon.nl — gescraped 31 Jul 2026 18:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 31 Jul 2026 12:49 UTC",
+      "note": "amazon.com.be — gescraped 31 Jul 2026 18:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 31 Jul 2026 12:49 UTC",
+      "note": "amazon.de — gescraped 31 Jul 2026 18:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 24,18/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 949,90/l)",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "14 aanbiedingen vanUSD 6,55",
+          "c": "Algemeen"
+        },
+        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 4,20/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1545,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 16,58",
+          "c": "Algemeen"
+        },
+        {
           "n": "medicube Salmon DNA PDRN Pink Peptide Serum. Pink glow serum. Peptiden. Niacinam",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 21,05",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1561,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 17,32",
+          "c": "Algemeen"
+        },
+        {
           "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,00",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1577,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "7 aanbiedingen vanUSD 49,22",
+          "c": "Algemeen"
+        },
+        {
           "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,26",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1593,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 19,25",
+          "c": "Algemeen"
+        },
+        {
           "n": "JOTO Waterschoenen voor dames, heren en kinderen, uniseks, badschoenen, strandsc",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 24,49",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 9,66",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1613,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 13,81",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 18,30",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1629,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 38,20",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 11,10/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1645,23 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 8,69",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,54",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,30",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 26,90",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1669,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 16,13",
+          "c": "Algemeen"
+        },
+        {
           "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 21,52",
           "c": "Algemeen"
         },
         {
@@ -1593,120 +1685,28 @@
           "c": "Algemeen"
         },
         {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "n": "USD 17,21",
           "c": "Algemeen"
         },
         {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "n": "1 aanbieding voorUSD 16,06",
           "c": "Algemeen"
         },
         {
-          "n": "slochi Plafondlamp, led-plafondlamp, plat, 3 kleuren - 3000 K/4000 K/6500 K, wat",
+          "n": "2 aanbiedingen vanUSD 10,95",
           "c": "Algemeen"
         },
         {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
+          "n": "USD 6,34",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "n": "1 aanbieding voorUSD 12,65",
           "c": "Algemeen"
         },
         {
-          "n": "AUVON Nachtlampje met bewegingssensor en schemeringssensor, 2 stuks, warmwit led",
+          "n": "10 aanbiedingen vanUSD 17,08",
           "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
-        },
-        {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225)",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
-          "c": "Keuken"
-        },
-        {
-          "n": "Sonello Plisségordijn, klembevestiging zonder boren, 80 x 120 cm, wit, vouwgordi",
-          "c": "Keuken"
-        },
-        {
-          "n": "WMF Gourmet kommenset 4-delig, roestvrijstalen kommen voor de keuken 0,75 l - 2,",
-          "c": "Keuken"
-        },
-        {
-          "n": "EurCross Douchegordijn, 180 x 200 cm, wit textiel, schimmelwerend, waterdicht en",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal Kussenslopen, set van 2, van 100% katoen, superzachte premium jersey, gr",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
-          "c": "Keuken"
-        },
-        {
-          "n": "TrendPlain Oliesproeier voor spijsolie – 470 ml olijfoliefles – 2-in-1 oliedispe",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 40 x 80 cm, set van 2, anti-allergene kussens, wasbaar, ma",
-          "c": "Keuken"
-        },
-        {
-          "n": "sodastream Flessen 1L FUSE dubbelpak, zwart",
-          "c": "Keuken"
-        },
-        {
-          "n": "Vitafit Keukenweegschaal, 15 kg, nauwkeurigheid 1 g, door onze professionele wee",
-          "c": "Keuken"
-        },
-        {
-          "n": "Twinzen Matrasbeschermer - 180x200 cm, waterdicht - katoen | Oeko-Tex-gecertific",
-          "c": "Keuken"
-        },
-        {
-          "n": "BARBONS Matrasbeschermer, 90 x 200 cm, Oeko-Tex-gecertificeerd, waterdichte matr",
-          "c": "Keuken"
-        },
-        {
-          "n": "BARBONS DXHome Hoeslaken, 180 x 200 cm, 100% katoen, Oeko-Tex-gecertificeerd, be",
-          "c": "Keuken"
-        },
-        {
-          "n": "DREO Torenventilator met DC-motor, stil, 11 m windafstand, ventilator met koelin",
-          "c": "Keuken"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Beauty"
-        },
-        {
-          "n": "CeraVe Diepe reiniging, schuimende reinigingsgel met salicylzuur voor het gezich",
-          "c": "Beauty"
         }
       ]
     }
