@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T18:14:58.737349+00:00",
-  "updated_fmt": "31 July 2026 om 18:14",
+  "updated": "2026-07-31T23:51:34.559205+00:00",
+  "updated_fmt": "31 July 2026 om 23:51",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 31 Jul 2026 18:14 UTC",
+      "note": "bol.com — gescraped 31 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 31 Jul 2026 18:14 UTC",
+      "note": "amazon.nl — gescraped 31 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 31 Jul 2026 18:14 UTC",
+      "note": "amazon.com.be — gescraped 31 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 31 Jul 2026 18:14 UTC",
+      "note": "amazon.de — gescraped 31 Jul 2026 23:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,6 +1509,50 @@
       ],
       "bestsellers": [
         {
+          "n": "4 aanbiedingen vanUSD 9,66",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 13,81",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 18,30",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 38,20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 11,10/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 8,69",
+          "c": "Algemeen"
+        },
+        {
           "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
           "c": "Algemeen"
         },
@@ -1585,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,26",
+          "n": "1 aanbieding voorUSD 23,02",
           "c": "Algemeen"
         },
         {
@@ -1602,50 +1646,6 @@
         },
         {
           "n": "USD 24,49",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 9,66",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 13,81",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 18,30",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 11,10/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 8,69",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Das Knopf-Universum und die stibitzten Wünsche: von Carmushka",
+          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
           "c": "Algemeen"
         },
         {
