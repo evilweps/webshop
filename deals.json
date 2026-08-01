@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T17:50:18.799536+00:00",
-  "updated_fmt": "1 August 2026 om 17:50",
+  "updated": "2026-08-01T23:46:14.880483+00:00",
+  "updated_fmt": "1 August 2026 om 23:46",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Aug 2026 17:50 UTC",
+      "note": "bol.com — gescraped 1 Aug 2026 23:46 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Aug 2026 17:50 UTC",
+      "note": "amazon.nl — gescraped 1 Aug 2026 23:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -755,11 +755,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "All Inclusive - Auch der Tod",
+          "n": "Flugangst 7A",
           "c": "Algemeen"
         },
         {
-          "n": "Flugangst 7A",
+          "n": "All Inclusive - Auch der Tod",
           "c": "Algemeen"
         },
         {
@@ -771,11 +771,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Aug 2026 17:50 UTC",
+      "note": "amazon.com.be — gescraped 1 Aug 2026 23:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Aug 2026 17:50 UTC",
+      "note": "amazon.de — gescraped 1 Aug 2026 23:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,7 +1509,7 @@
       ],
       "bestsellers": [
         {
-          "n": "4 aanbiedingen vanUSD 9,68",
+          "n": "2 aanbiedingen vanUSD 9,82",
           "c": "Algemeen"
         },
         {
@@ -1597,46 +1597,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,57",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 18,33",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 21,56",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,16",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 26,95",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,24",
-          "c": "Algemeen"
-        },
-        {
           "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
           "c": "Algemeen"
         },
@@ -1706,6 +1666,46 @@
         },
         {
           "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,33",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,57",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,33",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 21,56",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 26,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,16",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
           "c": "Algemeen"
         }
       ]
