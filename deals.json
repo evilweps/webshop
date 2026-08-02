@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T17:51:29.687225+00:00",
-  "updated_fmt": "2 August 2026 om 17:51",
+  "updated": "2026-08-02T23:48:26.738486+00:00",
+  "updated_fmt": "2 August 2026 om 23:48",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Aug 2026 17:51 UTC",
+      "note": "bol.com — gescraped 2 Aug 2026 23:48 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Aug 2026 17:51 UTC",
+      "note": "amazon.nl — gescraped 2 Aug 2026 23:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -771,11 +771,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
+          "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Aug 2026 17:51 UTC",
+      "note": "amazon.com.be — gescraped 2 Aug 2026 23:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1230,44 +1230,24 @@
           "c": "Algemeen"
         },
         {
-          "n": "Woowind LP1 Elektrische luchtpomp met batterij 150 psi (10,3 bar) Mini fietscomp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carpoint 1316011 bord L met zuignap",
-          "c": "Algemeen"
-        },
-        {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ClimaSet R134a koelgas vervanging, 1 x 235 g, voor airconditioning, aircondition",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WFX Motorhandschoenen voor touchscreen, ademend, voor paardrijden, racen, klimme",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "DURACELL CR2032-lithium-knoopbatterijen, 3 V (4 stuks), tot 70% levensduur, kind",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen, powerbank",
@@ -1324,6 +1304,26 @@
         {
           "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
           "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Gehard glas voor iPhone 17 Pro, automatische stofverwijdering, zonder luch",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Etseinri 10K 8K HDMI-kabel 2.1, 2 m, gecertificeerd 48Gbps Ultra High Speed HDMI",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TAURI Beschermhoes voor iPhone 17, 6,3 inch, met screenprotector van gehard glas",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Aug 2026 17:51 UTC",
+      "note": "amazon.de — gescraped 2 Aug 2026 23:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1593,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 39,16",
+          "n": "3 aanbiedingen vanUSD 35,70",
           "c": "Algemeen"
         },
         {
@@ -1606,10 +1606,6 @@
         },
         {
           "n": "Boss Bottled Eau de Toilette für Männer",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 77,23",
           "c": "Algemeen"
         },
         {
@@ -1641,15 +1637,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "14 aanbiedingen vanUSD 6,45",
+          "n": "13 aanbiedingen vanUSD 6,45",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,68",
+          "n": "1 aanbieding voorUSD 14,96",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 10,97",
+          "n": "2 aanbiedingen vanUSD 11,48",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,09",
+          "n": "1 aanbieding voorUSD 17,24",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 11,48",
+          "n": "1 aanbieding voorUSD 12,63",
           "c": "Algemeen"
         },
         {
@@ -1697,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,70",
+          "n": "1 aanbieding voorUSD 21,90",
           "c": "Algemeen"
         },
         {
@@ -1706,6 +1702,10 @@
         },
         {
           "n": "2 aanbiedingen vanUSD 10,79",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
         }
       ]
