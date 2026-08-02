@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T23:46:14.880483+00:00",
-  "updated_fmt": "1 August 2026 om 23:46",
+  "updated": "2026-08-02T07:26:27.093639+00:00",
+  "updated_fmt": "2 August 2026 om 07:26",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Aug 2026 23:46 UTC",
+      "note": "bol.com — gescraped 2 Aug 2026 07:26 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Aug 2026 23:46 UTC",
+      "note": "amazon.nl — gescraped 2 Aug 2026 07:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -687,11 +687,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
+          "n": "Krachtige Honeywell TurboForce-ventilator (stille verkoeling, 90° variabele kant",
           "c": "Algemeen"
         },
         {
-          "n": "Honeywell Krachtige TurboForce-ventilator - blauw (stille verkoeling, 90° variab",
+          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
           "c": "Algemeen"
         },
         {
@@ -735,7 +735,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xiaomi Smartband 10, AMOLED-display van 4,3 cm (1,72 inch), snel opladen, 150+ s",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
           "c": "Algemeen"
         },
         {
@@ -771,35 +787,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Und was macht das mit Ihnen?",
           "c": "Algemeen"
         },
         {
-          "n": "DualSense Wireless Controller - White (PS5)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Xbox Wireless Controller Robot White",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nintendo Switch 2",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Luna Premium",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Sidorenko XXL Gaming Muismat - 900 x 400 mm - randloze randen - anti-slip - XXL ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "amFilm Gehard Glas Screenprotector Film voor Nintendo Switch 2 Model 2025 | 3 St",
+          "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
@@ -815,15 +807,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
           "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
           "c": "Elektronica"
         },
         {
           "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
           "c": "Elektronica"
         },
         {
@@ -855,11 +847,19 @@
           "c": "Elektronica"
         },
         {
+          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 17 Pro / 17 | iPhone 16 Pro,",
+          "c": "Elektronica"
+        },
+        {
           "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 17 Pro / 17 | iPhone 16 Pro,",
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         },
         {
@@ -867,7 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Aug 2026 23:46 UTC",
+      "note": "amazon.com.be — gescraped 2 Aug 2026 07:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1186,22 +1186,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Zonne-eclipse bril – ISO 12312-2 en CE-gecertificeerd, veilige oogbescherming, z",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lot de 10/5/2 paires de lunettes anti-éclipse solaire approuvées 2026, conformes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cinkee Dik vliegengaas voor balkondeur, kelderdeur en terrasdeur, eenvoudige mon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
-          "c": "Algemeen"
-        },
-        {
           "n": "Woowind LP1 Elektrische luchtpomp met batterij 150 psi (10,3 bar) Mini fietscomp",
           "c": "Algemeen"
         },
@@ -1210,15 +1194,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "WFX Motorhandschoenen voor touchscreen, ademend, voor paardrijden, racen, klimme",
-          "c": "Algemeen"
-        },
-        {
           "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
           "c": "Algemeen"
         },
         {
-          "n": "ClimaSet Sostitutiva del gas R134a - Gas aria condizionata auto - Ricarica Clima",
+          "n": "WFX Motorhandschoenen voor touchscreen, ademend, voor paardrijden, racen, klimme",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Zonne-eclipse bril – ISO 12312-2 en CE-gecertificeerd, veilige oogbescherming, z",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10/5/2 paar zonnebril, goedgekeurd in 2026, CE- en ISO-normen, veilige veilighei",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cinkee Dik vliegengaas voor balkondeur, kelderdeur en terrasdeur, eenvoudige mon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Auxmir Magnetische hor voor deur, raam, 90 x 210 cm, magnetisch vliegenhor met u",
           "c": "Algemeen"
         },
         {
@@ -1302,6 +1302,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
+        },
+        {
           "n": "JETech Gehard glas voor Samsung Galaxy A17, 3 stuks | HD-transparant, krasbesten",
           "c": "Elektronica"
         },
@@ -1318,10 +1322,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
           "c": "Elektronica"
         }
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Aug 2026 23:46 UTC",
+      "note": "amazon.de — gescraped 2 Aug 2026 07:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1565,19 +1565,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Adidas Herren Vs Pace 2.0 ShoesSchuhe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "9 aanbiedingen vanUSD 48,63",
-          "c": "Algemeen"
-        },
-        {
           "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
           "c": "Algemeen"
         },
         {
           "n": "3 aanbiedingen vanUSD 8,02",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adidas Herren Vs Pace 2.0 ShoesSchuhe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "9 aanbiedingen vanUSD 48,63",
           "c": "Algemeen"
         },
         {
@@ -1597,6 +1597,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 951,63/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
           "c": "Algemeen"
         },
@@ -1613,19 +1621,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 951,63/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 4,21/eenheid)",
+          "n": "2 aanbiedingen vanUSD 12,02",
           "c": "Algemeen"
         },
         {
@@ -1633,15 +1633,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "15 aanbiedingen vanUSD 6,52",
+          "n": "14 aanbiedingen vanUSD 6,52",
           "c": "Algemeen"
         },
         {
-          "n": "medicube Salmon DNA PDRN Pink Peptide Serum. Pink glow serum. Peptiden. Niacinam",
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 21,09",
+          "n": "1 aanbieding voorUSD 16,61",
           "c": "Algemeen"
         },
         {
@@ -1673,39 +1673,39 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,57",
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "n": "5 aanbiedingen vanUSD 28,38",
           "c": "Algemeen"
         },
         {
-          "n": "USD 18,33",
+          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
           "c": "Algemeen"
         },
         {
-          "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
+          "n": "13 aanbiedingen vanUSD 19,94",
           "c": "Algemeen"
         },
         {
-          "n": "USD 21,56",
+          "n": "2 aanbiedingen vanUSD 16,43",
           "c": "Algemeen"
         },
         {
-          "n": "USD 26,95",
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "n": "(USD 2,43/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,16",
+          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
           "c": "Algemeen"
         },
         {
-          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
+          "n": "5 aanbiedingen vanUSD 29,52",
           "c": "Algemeen"
         }
       ]
