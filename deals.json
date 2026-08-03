@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T18:30:46.801308+00:00",
-  "updated_fmt": "3 August 2026 om 18:30",
+  "updated": "2026-08-03T23:58:04.347077+00:00",
+  "updated_fmt": "3 August 2026 om 23:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Aug 2026 18:30 UTC",
+      "note": "bol.com — gescraped 3 Aug 2026 23:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Aug 2026 18:30 UTC",
+      "note": "amazon.nl — gescraped 3 Aug 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,11 +767,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "n": "Die Therapie",
           "c": "Algemeen"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
           "c": "Algemeen"
         },
         {
@@ -797,6 +797,78 @@
         {
           "n": "APLI 12860 - Elastische banden 80 x 5 mm in zak van 100 g",
           "c": "Algemeen"
+        },
+        {
+          "n": "JETech Screen Protector voor iPhone 17, 3 Stuks | 9H Gehard Glas, HD Helder, Kra",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "c": "Elektronica"
+        },
+        {
+          "n": "DURACELL 2032 Lithium-knoopcelbatterijen, 4 Stuks, 3V, CR2032 | Gaan Tot 70% Lan",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Volledige Camerabeschermin",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 256 GB Met SD Adapter (1 Jaar Resc",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
+          "n": "DURACELL Plus C Alkaline batterijen, 4 Stuks, 1.5V, LR14 | 100% Levensduurgarant",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 17 Pro / 17 | iPhone 16 Pro,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
+          "c": "Elektronica"
         }
       ]
     },
@@ -807,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Aug 2026 18:30 UTC",
+      "note": "amazon.com.be — gescraped 3 Aug 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1118,6 +1190,18 @@
           "c": "Algemeen"
         },
         {
+          "n": "Zonne-eclipse bril – ISO 12312-2 en CE-gecertificeerd, veilige oogbescherming, z",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10/5/2 paar zonnebril, goedgekeurd in 2026, CE- en ISO-normen, veilige veilighei",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DIK Magnetisch vliegengaas voor deur, 100 x 210 cm, fijn net, Tenda deur met vol",
+          "c": "Algemeen"
+        },
+        {
           "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
           "c": "Algemeen"
         },
@@ -1158,100 +1242,88 @@
           "c": "Algemeen"
         },
         {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
-          "c": "Algemeen"
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen, powerbank",
+          "c": "Elektronica"
         },
         {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Elektronica"
         },
         {
-          "n": "Avast Premium Security 2026 - Protection Antivirus | multi-appareils | 10 appare",
-          "c": "Algemeen"
+          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
+          "c": "Elektronica"
         },
         {
-          "n": "AVG Ultimate 2026 - Antivirus avec AVG Secure VPN et AVG TuneUp pour Accélérer v",
-          "c": "Algemeen"
+          "n": "JETech Anti-spionage gehard glas voor iPhone 17, 2 stuks | 9H displaybescherming",
+          "c": "Elektronica"
         },
         {
-          "n": "Nero VHS vers USB Video Grabber Recode Stick – Convertisseur analogique numériqu",
-          "c": "Algemeen"
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "c": "Elektronica"
         },
         {
-          "n": "Mullvad VPN 12 Mois pour 5 Appareils - VPN sans Logs pour Votre Vie Privée",
-          "c": "Algemeen"
+          "n": "SanDisk Extreme 128 GB microSDXC, Micro SD-kaart + SD-adapter, UHS-I V30, tot 19",
+          "c": "Elektronica"
         },
         {
-          "n": "All Inclusive - Auch der Tod",
-          "c": "Boeken"
+          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
+          "c": "Elektronica"
         },
         {
-          "n": "Flugangst 7A",
-          "c": "Boeken"
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
+          "c": "Elektronica"
         },
         {
-          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
-          "c": "Boeken"
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
         },
         {
-          "n": "Und was macht das mit Ihnen?",
-          "c": "Boeken"
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
+          "c": "Elektronica"
         },
         {
-          "n": "Dungeon Crawler Carl (German Edition)",
-          "c": "Boeken"
+          "n": "JETech Gehard glas voor Samsung Galaxy A57, 3 stuks | HD transparant, compatibel",
+          "c": "Elektronica"
         },
         {
-          "n": "Der Nachbar",
-          "c": "Boeken"
+          "n": "TOCOL Gehard glas voor Samsung Galaxy Z Fold 8, eenvoudig te installeren | Zonde",
+          "c": "Elektronica"
         },
         {
-          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
-          "c": "Boeken"
+          "n": "UGREEN Nexode Externe batterij, magnetisch, draadloos, 10.000 mAh, 20 W, powerba",
+          "c": "Elektronica"
         },
         {
-          "n": "Die Psychiaterin: Wurde ihr der Job zum Verhängnis?",
-          "c": "Boeken"
+          "n": "Azororo Beschermhoes voor Samsung Galaxy S26 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
         },
         {
-          "n": "Nachtschatten: August Strindberg ermittelt, Band 5",
-          "c": "Boeken"
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "c": "Elektronica"
         },
         {
-          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
-          "c": "Boeken"
+          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
+          "c": "Elektronica"
         },
         {
-          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
-          "c": "Boeken"
+          "n": "Etseinri 10K 8K HDMI-kabel 2.1, 2 m, gecertificeerd 48Gbps Ultra High Speed HDMI",
+          "c": "Elektronica"
         },
         {
-          "n": "Harry Potter und der Stein der Weisen - Gesprochen von Rufus Beck: Harry Potter ",
-          "c": "Boeken"
+          "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
+          "c": "Elektronica"
         },
         {
-          "n": "SOKO SYLT – Strandkorb Mörder: Berger & Claasen ermitteln, Band 4",
-          "c": "Boeken"
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
         },
         {
-          "n": "Memories of Heidelberg",
-          "c": "Boeken"
+          "n": "GNCC Bewakingscamera, wifi, voor buiten, draadloos, accu, 360 graden PTZ (set 1)",
+          "c": "Elektronica"
         },
         {
-          "n": "Filmriss auf Immenhof: Trippel. Trappel. Tot.",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die Rosenzüchterin",
-          "c": "Boeken"
-        },
-        {
-          "n": "Das Geheimnis der gelben Diamanten: Tod d'Azur und Dolce Vita, Band 3",
-          "c": "Boeken"
-        },
-        {
-          "n": "Das bisschen Kuchen: (K)ein Diät-Roman",
-          "c": "Boeken"
+          "n": "iPhone oplaadkabel voor iPhone, RAVIAD [MFi-gecertificeerd] Lightning-kabel van ",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1262,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Aug 2026 18:30 UTC",
+      "note": "amazon.de — gescraped 3 Aug 2026 23:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1441,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,34",
-          "c": "Algemeen"
-        },
-        {
           "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,01",
           "c": "Algemeen"
         },
         {
@@ -1457,15 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,78",
-          "c": "Algemeen"
-        },
-        {
           "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 23,05",
           "c": "Algemeen"
         },
         {
@@ -1473,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 19,28",
-          "c": "Algemeen"
-        },
-        {
           "n": "Adidas Herren Vs Pace 2.0 ShoesSchuhe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 29,06",
           "c": "Algemeen"
         },
         {
@@ -1489,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,83",
-          "c": "Algemeen"
-        },
-        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 18,15",
           "c": "Algemeen"
         },
         {
@@ -1505,19 +1545,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,26",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 0,53/eenheid)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 11,37/eenheid)",
+          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
           "c": "Algemeen"
         },
         {
@@ -1525,15 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 37,97/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 951,33/l)",
           "c": "Algemeen"
         },
         {
@@ -1541,15 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 54,14",
-          "c": "Algemeen"
-        },
-        {
           "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Algemeen"
-        },
-        {
-          "n": "14 aanbiedingen vanUSD 6,43",
           "c": "Algemeen"
         },
         {
@@ -1557,35 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,02",
-          "c": "Algemeen"
-        },
-        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 16,61",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 14,96",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 12,67",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10 aanbiedingen vanUSD 17,10",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 6,34",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 19,55",
           "c": "Algemeen"
         },
         {
@@ -1593,15 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,33",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 34,05",
           "c": "Algemeen"
         },
         {
@@ -1609,19 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 10,37",
-          "c": "Algemeen"
-        },
-        {
           "n": "Gritin Leeslamp boek klem met 19 LED's | Boeklamp met 3 kleurtemperatuurmodi en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 10,78",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 16,42",
           "c": "Algemeen"
         },
         {
@@ -1629,12 +1609,104 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,43/eenheid)",
+          "n": "AUVON Nachtlampje met bewegingssensor en schemeringssensor, 2 stuks, warmwit led",
           "c": "Algemeen"
         },
         {
-          "n": "AUVON Nachtlampje met bewegingssensor en schemeringssensor, 2 stuks, warmwit led",
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
           "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
+        },
+        {
+          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Sonello Plisségordijn, klembevestiging zonder boren, 80 x 120 cm, wit, vouwgordi",
+          "c": "Keuken"
+        },
+        {
+          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken)",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225)",
+          "c": "Keuken"
+        },
+        {
+          "n": "BARBONS DXHome Hoeslaken, 180 x 200 cm, 100% katoen, Oeko-Tex-gecertificeerd, be",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
+          "c": "Keuken"
+        },
+        {
+          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
+          "c": "Keuken"
+        },
+        {
+          "n": "TrendPlain Oliesproeier voor spijsolie – 470 ml olijfoliefles – 2-in-1 oliedispe",
+          "c": "Keuken"
+        },
+        {
+          "n": "sleepling Hoofdkussen 40 x 80 cm, set van 2, anti-allergene kussens, wasbaar, ma",
+          "c": "Keuken"
+        },
+        {
+          "n": "Blumtal Zijslaapkussen, overtrek 40 x 145 cm (set van 2 kussenslopen) - grijs - ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie ⭐ Waterdichte matrasbeschermer, waterbestendige matrasovertrek, ademend",
+          "c": "Keuken"
+        },
+        {
+          "n": "EurCross Douchegordijn, 180 x 200 cm, wit textiel, schimmelwerend, waterdicht en",
+          "c": "Keuken"
+        },
+        {
+          "n": "sodastream Flessen 1L FUSE dubbelpak, zwart",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie Premium Hoeslaken 140 x 200 cm, hoeslaken voor dikke matrassen tot 22 c",
+          "c": "Keuken"
+        },
+        {
+          "n": "120 stuks bakpapier voor heteluchtfriteuse Ninja Dual, Stone TH Airfryer met dub",
+          "c": "Keuken"
+        },
+        {
+          "n": "BARBONS Matrasbeschermer, 90 x 200 cm, Oeko-Tex-gecertificeerd, waterdichte matr",
+          "c": "Keuken"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "medicube Zero Pore Pad 2.0 Dubbelzijdige tonerpads met 4,5% AHA en 0,45% BHA, vo",
+          "c": "Beauty"
         }
       ]
     }
