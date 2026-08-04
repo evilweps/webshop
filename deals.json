@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T18:21:06.525951+00:00",
-  "updated_fmt": "4 August 2026 om 18:21",
+  "updated": "2026-08-04T23:53:04.558393+00:00",
+  "updated_fmt": "4 August 2026 om 23:53",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Aug 2026 18:21 UTC",
+      "note": "bol.com — gescraped 4 Aug 2026 23:53 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Aug 2026 18:21 UTC",
+      "note": "amazon.nl — gescraped 4 Aug 2026 23:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -771,11 +771,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Flugangst 7A",
+          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
+          "n": "Flugangst 7A",
           "c": "Algemeen"
         },
         {
@@ -851,10 +851,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk High Endurance MicroSD-Kaart 128 GB (Perfect Voor Dashboardcamera Of Bew",
           "c": "Elektronica"
         },
@@ -869,6 +865,10 @@
         {
           "n": "INIU Power Bank, 20000mAh 22,5 W Snel Opladen Externe Phone Batterij | met Afnee",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Aug 2026 18:21 UTC",
+      "note": "amazon.com.be — gescraped 4 Aug 2026 23:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1186,26 +1186,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carpoint 1316011 bord L met zuignap",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Leon&Sophie, Zonnescherm voor baby's, Met uv-bescherming, UPF 50+ gecertificeerd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ClimaSet R134a koelgas vervanging, 1 x 235 g, voor airconditioning, aircondition",
-          "c": "Algemeen"
-        },
-        {
           "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
           "c": "Algemeen"
         },
@@ -1230,15 +1210,43 @@
           "c": "Algemeen"
         },
         {
-          "n": "Zonne-eclipse bril – ISO 12312-2 en CE-gecertificeerd, veilige oogbescherming, z",
+          "n": "Innovatief (2024) nachtmasker voor mannen en vrouwen, lichtwerend slaapmasker vo",
           "c": "Algemeen"
         },
         {
-          "n": "10/5/2 paar zonnebril, goedgekeurd in 2026, CE- en ISO-normen, veilige veilighei",
+          "n": "Oral-B IO Ultimate Clean Black Opzetborstels Voor Elektrische Tandenborstel, Ver",
           "c": "Algemeen"
         },
         {
-          "n": "Helioclipse 6/12/25/50/100 Lunette Eclipse Solaire 2026 ISO 12312-2 - Lunettes E",
+          "n": "Durex Sensitive Sexual Glijmiddel, waterbasis, 100 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vitafit Personenweegschaal, nauwkeurigheid 0,05 kg, door onze professionele fabr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EA SPORTS FC 26 Standard Edition Switch | Videospel | Nederlands",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G Pro X Superlight 2 SE, draadloze gamingmuis | Pro-Grade muis, 60 g, 5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
           "c": "Algemeen"
         },
         {
@@ -1316,14 +1324,6 @@
         {
           "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
           "c": "Elektronica"
-        },
-        {
-          "n": "iPhone oplaadkabel voor iPhone, RAVIAD [MFi-gecertificeerd] Lightning-kabel van ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Aug 2026 18:21 UTC",
+      "note": "amazon.de — gescraped 4 Aug 2026 23:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 15,38",
+          "c": "Algemeen"
+        },
+        {
           "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 10,35",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 14,90",
+          "c": "Algemeen"
+        },
+        {
           "n": "Lico Bioline Man pantoffels voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 19,24",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1545,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 23,01",
+          "c": "Algemeen"
+        },
+        {
           "n": "JOTO Waterschoenen voor dames, heren en kinderen, uniseks, badschoenen, strandsc",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 24,48",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1561,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 13,80",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 18,12",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1577,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 38,19",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 0,53/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 11,35/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1597,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 1.102,96/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Mixa Urea Cica Repair+, met 40% glycerine, ureum en allatoïne, herstellend, hydr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 44,81/l)",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1613,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 11,99",
+          "c": "Algemeen"
+        },
+        {
           "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "c": "Algemeen"
+        },
+        {
+          "n": "14 aanbiedingen vanUSD 6,08",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1629,27 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 5,98",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 14,95",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,23",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10 aanbiedingen vanUSD 17,07",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 5,97",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1657,27 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 11,50",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 17,21",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,53",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,29",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 26,89",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
+          "n": "USD 16,12",
           "c": "Algemeen"
         },
         {
@@ -1593,31 +1693,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 17,21",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Staatenlos: Ein globales (steuer)freies Leben mit der Flaggentheorie - Staatsbür",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 21,51",
+          "c": "Algemeen"
+        },
+        {
           "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gritin Leeslamp boek klem met 19 LED's | Boeklamp met 3 kleurtemperatuurmodi en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Led-plafondlamp, plat, 24 W, 2800 lumen, 3 kleuren - 3000 K/4000 K/6500 K",
-          "c": "Algemeen"
-        },
-        {
-          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
           "c": "Algemeen"
         }
       ]
