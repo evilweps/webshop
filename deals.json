@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T17:47:29.373658+00:00",
-  "updated_fmt": "11 August 2026 om 17:47",
+  "updated": "2026-08-11T23:28:28.488427+00:00",
+  "updated_fmt": "11 August 2026 om 23:28",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Aug 2026 17:47 UTC",
+      "note": "bol.com — gescraped 11 Aug 2026 23:28 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Aug 2026 17:47 UTC",
+      "note": "amazon.nl — gescraped 11 Aug 2026 23:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -847,6 +847,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "DURACELL Plus AA Alkaline batterijen, 24 Stuks, 1.5V, LR06 | Gaan Tot 150% Lange",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU Power Bank, 20000mAh 22,5 W Snel Opladen Externe Phone Batterij | met Afnee",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
           "c": "Elektronica"
-        },
-        {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Aug 2026 17:47 UTC",
+      "note": "amazon.com.be — gescraped 11 Aug 2026 23:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1290,6 +1290,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "Duracell Plus batterijen 9 V (4 stuks) – alkaline 1,5 V – 100% levensduur – idea",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
           "c": "Elektronica"
         },
@@ -1320,10 +1324,6 @@
         {
           "n": "JETech Gehard glas voor Samsung Galaxy A57, 3 stuks | HD transparant, compatibel",
           "c": "Elektronica"
-        },
-        {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy S25 5G, premium lederen beschermhoes, p",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Aug 2026 17:47 UTC",
+      "note": "amazon.de — gescraped 11 Aug 2026 23:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
