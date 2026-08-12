@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T23:28:28.488427+00:00",
-  "updated_fmt": "11 August 2026 om 23:28",
+  "updated": "2026-08-12T06:06:59.432928+00:00",
+  "updated_fmt": "12 August 2026 om 06:06",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Aug 2026 23:28 UTC",
+      "note": "bol.com — gescraped 12 Aug 2026 06:06 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Aug 2026 23:28 UTC",
+      "note": "amazon.nl — gescraped 12 Aug 2026 06:06 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -691,7 +691,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Vitafit 15kg Keukenweegschaal digitaal Nauwkeurigheid 1g,Platform 215x180mm | Pr",
+          "n": "Diveblues Draagbare Handventilator Turbo-Ventilator, 12H Maximale Koeltijd, 100 ",
           "c": "Algemeen"
         },
         {
@@ -699,19 +699,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
-          "c": "Algemeen"
-        },
-        {
           "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
+          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
           "c": "Algemeen"
         },
         {
           "n": "Dr.Althea 345 Relief Cream | PDRN & Hyaluronzuur voor hydratatie en vlekjes | Ge",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
           "c": "Algemeen"
         },
         {
@@ -815,15 +815,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 15 Case Compatibel met MagSafe, Zwart | Volledige Camerabesche",
+          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Aug 2026 23:28 UTC",
+      "note": "amazon.com.be — gescraped 12 Aug 2026 06:06 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1158,11 +1158,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "TrendPlain Keukenoliespray, 470 ml, luchtfryer oliesproeier 2-in-1 voor koken, s",
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
           "c": "Algemeen"
         },
         {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "n": "TrendPlain Keukenoliespray, 470 ml, luchtfryer oliesproeier 2-in-1 voor koken, s",
           "c": "Algemeen"
         },
         {
@@ -1190,11 +1190,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
           "c": "Algemeen"
         },
         {
@@ -1202,11 +1202,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Dr.Althea 345 Reliëfcrème, rustgevende vochtinbrengende crème voor herstel en on",
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume | Extreem volume, langhoudend, ",
           "c": "Algemeen"
         },
         {
-          "n": "essence Ess. I Love Extreme Mascara Crazy Volume | Extreem volume, langhoudend, ",
+          "n": "Dr.Althea 345 Reliëfcrème, rustgevende vochtinbrengende crème voor herstel en on",
           "c": "Algemeen"
         },
         {
@@ -1222,15 +1222,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Nero VHS vers USB Video Grabber Recode Stick – Convertisseur analogique numériqu",
+          "c": "Algemeen"
+        },
+        {
           "n": "OfficeSuite Personal – Version complète – Documents, Sheets, Slides, PDF, Mail &",
           "c": "Algemeen"
         },
         {
           "n": "Avast Premium Security 2026 - Protection Antivirus | 1 PC | 1 an",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nero VHS vers USB Video Grabber Recode Stick – Convertisseur analogique numériqu",
           "c": "Algemeen"
         },
         {
@@ -1270,7 +1270,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
           "c": "Elektronica"
         },
         {
@@ -1294,15 +1294,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C naar C-kabel, zwart, 1 m, snel opladen voor iPhone 15, Samsung S24, S",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
+          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
           "c": "Elektronica"
         },
         {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Aug 2026 23:28 UTC",
+      "note": "amazon.de — gescraped 12 Aug 2026 06:06 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Buymax DXHome Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, ",
+          "n": "Buymax® Jersey hoeslaken 140x200 cm, 100% katoen, antraciet",
           "c": "Algemeen"
         },
         {
@@ -1565,11 +1565,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
           "c": "Algemeen"
         },
         {
-          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, tuin, balkon, licht",
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
         },
         {
@@ -1581,55 +1581,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
           "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
           "c": "Algemeen"
         },
         {
-          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
+          "n": "the lazy panda card company Das Jahr, das 1966 war - kaart boek voor de 60e verj",
           "c": "Algemeen"
         },
         {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
+          "n": "Houten geboortekaart, verjaardagskaart voor leeuwenbaby | dierenkaart, leeuw, le",
           "c": "Algemeen"
         },
         {
-          "n": "Access - Allgemeine Ausgabe 2022 - Band 2: 6. Schuljahr: Workbook - Mit digitale",
+          "n": "TMT Hondenpenning met gravure, roestvrij staal, weerbestendig, mat oppervlak, ro",
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "n": "Made by Nami Set surferarmband voor heren en dames, 100% waterdicht en handgemaa",
           "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "n": "Geschenken voor 1e trouwdag 1e jaar - papieren bruiloft houten kaart - bruiloft ",
           "c": "Algemeen"
         },
         {
-          "n": "Einhorngeschichten - Leserabe 1. Klasse - Erstlesebuch für Kinder ab 6 Jahren (m",
+          "n": "Made by Nami Dunne wikkelarmband voor heren en dames, met karabijnhaaksluiting, ",
           "c": "Algemeen"
         },
         {
-          "n": "FUJIFILM INSTAX mini 12™ Instant Camera voor volwassenen, camera met onmiddellij",
+          "n": "Loop Experience 2 oordopjes – stijlvolle, gecertificeerde gehoorbescherming | 17",
           "c": "Algemeen"
         },
         {
-          "n": "WoldoClean Isopropanol 99,9% 1L reinigingsalcohol, ontvetter voor elektronica | ",
+          "n": "Ernie Ball Gitaarsnaren",
           "c": "Algemeen"
         },
         {
-          "n": "MR.SIGA Microvezel brillenpoetsdoek, brillenpoetsdoek, verpakking van 6 stuks | ",
+          "n": "Cameo AHCLFDJ5L Vloeistof voor rookmachines, gemiddelde dichtheid/standtijd",
           "c": "Algemeen"
         },
         {
-          "n": "STIKKI Reinigingsklei voor mobiele telefoon en koptelefoon, reinigingsset voor l",
+          "n": "Alpine PartyPlug Gehoorbescherming, oordopjes voor concert, festival, muziek, fe",
           "c": "Algemeen"
         },
         {
-          "n": "DJI Mic Mini (2 zenders, 1 ontvanger, oplaadschaal), draadloze lavaliermicrofoon",
+          "n": "Belfort Gitaarsnaren voor een concertgitaar, eersteklas nylon snaren voor klassi",
           "c": "Algemeen"
         },
         {
@@ -1639,6 +1635,10 @@
         {
           "n": "Amazon Business Amex-kaart",
           "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
         },
         {
           "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
@@ -1657,11 +1657,11 @@
           "c": "Keuken"
         },
         {
-          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
+          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
           "c": "Keuken"
         },
         {
-          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
           "c": "Keuken"
         },
         {
@@ -1673,10 +1673,6 @@
           "c": "Keuken"
         },
         {
-          "n": "Pelikan 720631 K24 Verfdoos met 24 kwaliteits dekkleuren, inclusief 1 tube dekwi",
-          "c": "Keuken"
-        },
-        {
           "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
           "c": "Keuken"
         },
@@ -1685,11 +1681,19 @@
           "c": "Keuken"
         },
         {
-          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
+          "n": "Pelikan 720631 K24 Verfdoos met 24 kwaliteits dekkleuren, inclusief 1 tube dekwi",
           "c": "Keuken"
         },
         {
           "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
+          "c": "Keuken"
+        },
+        {
+          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
+          "c": "Keuken"
+        },
+        {
+          "n": "BARBONS Hoeslaken 180x200cm - 100% katoen hoeslaken donkergrijs | Oeko-Tex-gecer",
           "c": "Keuken"
         },
         {
@@ -1698,10 +1702,6 @@
         },
         {
           "n": "UHU stic lijmstift 5x21g",
-          "c": "Keuken"
-        },
-        {
-          "n": "BARBONS Hoeslaken 180x200cm - 100% katoen hoeslaken donkergrijs | Oeko-Tex-gecer",
           "c": "Keuken"
         },
         {
