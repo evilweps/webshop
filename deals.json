@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T11:37:55.449728+00:00",
-  "updated_fmt": "12 August 2026 om 11:37",
+  "updated": "2026-08-12T17:48:48.060176+00:00",
+  "updated_fmt": "12 August 2026 om 17:48",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 12 Aug 2026 11:37 UTC",
+      "note": "bol.com — gescraped 12 Aug 2026 17:48 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 12 Aug 2026 11:37 UTC",
+      "note": "amazon.nl — gescraped 12 Aug 2026 17:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 12 Aug 2026 11:37 UTC",
+      "note": "amazon.com.be — gescraped 12 Aug 2026 17:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 12 Aug 2026 11:37 UTC",
+      "note": "amazon.de — gescraped 12 Aug 2026 17:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,102 +1517,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Jacobson jersey hoeslaken, katoen, grijs, 90x200 - 100x200 cm",
-          "c": "Keuken"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
-          "c": "Keuken"
-        },
-        {
-          "n": "Buymax® Jersey hoeslaken 140x200 cm, 100% katoen, antraciet",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Keuken"
-        },
-        {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Keuken"
-        },
-        {
-          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet Relax knuffelig laagpolig tapijt, antislip onderkant, wasbaar tot 30 ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go, onderverdeling voor yogh",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blooven Klittenband, zelfklevend, 8 m x 20 mm, zwart",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
-          "c": "Keuken"
-        },
-        {
-          "n": "Twinzen Matrasbeschermer - 180x200 cm, waterdicht - katoen | Oeko-Tex-gecertific",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225)",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal Bento lunchbox Take A Break Midi, broodtrommel met bentobox, maaltijdprep ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pelikan 720631 K24 Verfdoos met 24 kwaliteits dekkleuren, inclusief 1 tube dekwi",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pelikan tekenblok, wit C3",
-          "c": "Keuken"
-        },
-        {
-          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
-          "c": "Keuken"
-        },
-        {
-          "n": "UHU stic lijmstift 5x21g",
-          "c": "Keuken"
-        },
-        {
-          "n": "WMF Professionele braadpan 28 cm, roestvrij stalen pan ongecoat, Cromargan roest",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 40 x 80 cm, set van 2, anti-allergene kussens, wasbaar, ma",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips 3000 Series handstoomborstel, 1000 W, 20 g/min, wit (STH3020/10) | Stoom",
-          "c": "Keuken"
-        },
-        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
           "c": "Beauty"
         },
@@ -1707,6 +1611,102 @@
         {
           "n": "Mixa Cica Repair+ Huidvernieuwende crème met 10% ureum en aminozuren, ureumcrème",
           "c": "Beauty"
+        },
+        {
+          "n": "UNA GELLA Korte amandelnageltips, 504 stuks nageltips, amandeltips voor gelnagel",
+          "c": "Beauty"
+        },
+        {
+          "n": "REVLON PROFESSIONAL EQUAVE Sun Protection Instant Detangling Conditioner, 100 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Biotherm Lait Corporel L'Original, hydraterende bodylotion met Life Plankton voo",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Vanille en kokosnoot douchegel, 2 x 500 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 25, gelinieerd met rand, 5 stuks",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Faber-Castell Colour Grip 2001 112424 Kleurpotloden",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Staedtler Noris Kleurpotloden, Premium, Verpakking van 1",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herma schriftkaft, bedekt met baststructuur en beschrijfbaar etiket, gemaakt van",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "10 x boekomslag DIN A4 voor boeken, schriften, schoolboeken & boekomslagen, boek",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Brunnen Schoolschrift, 10 stuks",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Pelikan 720631 K24 Verfdoos met 24 kwaliteits dekkleuren, inclusief 1 tube dekwi",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herlitz Schrift, A4-formaat | Twee randen, afgeronde hoeken, houtvrij papier, 80",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo 43012 - voetbalhighlights bouwset",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Apple iPad 11 inch, A16 chip, Wi-Fi 6, 128 GB, zilver",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herlitz Schriften A4/32 (gelinieerd), gekleurde achtergrond, GH FSC-mix, 10-deli",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herma Boekomslag",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Pustefix Maxi Navulfles, 1, 1000 ml, Navulfles.",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Stabilo Easycolors Ergonomische kleurpotloden voor rechtshandigen, met puntensli",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Haba 4912 - ABC - Zauberduell",
+          "c": "Speelgoed"
         }
       ]
     }
