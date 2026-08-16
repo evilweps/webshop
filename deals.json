@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T11:10:08.586156+00:00",
-  "updated_fmt": "16 August 2026 om 11:10",
+  "updated": "2026-08-16T17:10:16.201386+00:00",
+  "updated_fmt": "16 August 2026 om 17:10",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Aug 2026 11:10 UTC",
+      "note": "bol.com — gescraped 16 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Aug 2026 11:10 UTC",
+      "note": "amazon.nl — gescraped 16 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,126 +671,6 @@
       ],
       "bestsellers": [
         {
-          "n": "JETech Screen Protector voor iPhone 17, 3 Stuks | 9H Gehard Glas, HD Helder, Kra",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL 2032 Lithium-knoopcelbatterijen, 8 Stuks, 3V, CR2032 | Gaan Tot 70% Lan",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL Plus AAA Alkaline batterijen, 36 Stuks, 1.5V, LR03 | Gaan Tot 100% Lang",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU Power Bank, 20000mAh 22,5 W Snel Opladen Externe Phone Batterij | met Afnee",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Nexode Power Bank 20000mAh 45W met ingebouwde USB-C-kabel | Bidirectionel",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 17 Pro / 17 | iPhone 16 Pro,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Anker 621 MagGo, Powerbank, 5.000mAh, Magnetisch | Met USB-C-kabel, alleen compa",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk High Endurance MicroSD-Kaart 128 GB (Perfect Voor Dashboardcamera Of Bew",
-          "c": "Elektronica"
-        },
-        {
-          "n": "tomtoc 360° Laptop Sleeve Laptophoes voor 13-inch MacBook Air M5/A3449 (2026), M",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
-          "c": "Elektronica"
-        },
-        {
-          "n": "soundcore van Anker P20i draadloze oordopjes Bluetooth 5.3, 10 mm drivers met gr",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Ultra Dual Drive Go USB Type-C Flashdrive 512 GB (2-In-1 Flashdrive, USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-oplaadkabel 240 W (2 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 16 stuks oplaadbare AAA NiMH-batterijen, 800 mAh, 1000x op te lade",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Elektronica"
-        },
-        {
           "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
           "c": "Beauty"
         },
@@ -869,6 +749,126 @@
         {
           "n": "CeraVe - Vochtinbrengende lotion - 236 ml",
           "c": "Beauty"
+        },
+        {
+          "n": "Mixa Urea Cica Repair+ Huidvernieuwende crème met ureum en niacinamide, voor dro",
+          "c": "Beauty"
+        },
+        {
+          "n": "Anua PDRN Collagen Glow Facial Serum Spray, hydraterende gezichtsmist, hyaluronz",
+          "c": "Beauty"
+        },
+        {
+          "n": "CeraVe PM Daily Facial Moisturizer Lotion voor de normale tot droge huid 52ml me",
+          "c": "Beauty"
+        },
+        {
+          "n": "Bali Curls Hydraterende Curl Cream – Vochtinbrengende krullencrème Shea Butter, ",
+          "c": "Beauty"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo – Voetbalhoogtepunten - 3D-Bouwpakket voor Kinde",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Casdon Algida Officiële ijskoelbox, speelset voor kinderen vanaf 2 jaar, met uit",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 racewagen Auto Bouwpakket vo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Editions Officiële FIFA World Cup Trofee – 3D Bouwpakket voor Kinderen en T",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ultra Pro 3 x 4 Clear Regular, 100 stuks Toploader dikke kaarthoezen hoezen - vo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Botanicals Schommelende Plantjes - Kunstplanten Bouwpakket voor Kinderen en",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ultra Pro Kaarthoezen, Penny sleeves, standaard, soft, voor verzamelkaarten zoal",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Montessori Busy Board - Houten activiteitenbord voor peuters van 1, 2 en 3 jaar,",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ultra Pro Kaarthoezen, Penny sleeves, standaard, soft, voor verzamelkaarten zoal",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo – Voetballegende - 3D-Bouwpakket voor Kinderen m",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "OFFCUP Nummerballon Zwart, Folieballon Nummer 11, 40 Inch Heliumballonnen Verjaa",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "TCGUARD Verzamelkaartenalbum voor Maximaal 540 Kaarten, 30 Zijkanten, Verzamelal",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Disney Store Officiële Sheriff Woody Interactieve Pratende Actiefiguur, Pixar's ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Das Klei Wit 1 Kilo | Ondersteunt klassikaal leren, knutselen en creatieve activ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO DUPLO Creatieve Voertuigen – Educatief Speelgoed voor Peuters met Auto’s en",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "QUICKSTOP – Het ultieme kaartspel voor snelle denkers & grappige momenten | Fami",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Pokémon Eevee Figuur - Bouwpakket voor Volwassenen - Anime Model Set met Be",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Disney - Super Mario - Nintendo - Luigi - Pluche - Knuffel - 30 cm - Vanaf 0 maa",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO City Tractor Toy - Farm Vehicle Model Building Kit with a Farmer Minifigure",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Botanicals Cosmeabloemen - Kunstbloem Boeket Bouwpakket voor Kinderen met 3",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Marvel Iron Man Mark 3 – Verzameleditie - Avengers Bouwpakket voor Volwasse",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Botanicals Cherry Blossoms Toy - Faux Flowers Building Set - Desk Decoratio",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Creator 3in1 Wild Animals: Colourful Hummingbird - Bird Toy Transforms into",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Botanicals Miniorchidee, Kunstbloemen Set, Planten Bouwpakket voor Volwasse",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Zhufas Toploader Binder Album voor 288 kaarten, 16 pagina's, 9 vakken, toploader",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "ARNSSIEN Kids Camera met 180°Draaibare Lens & 1080P HD,2,4\" Groot Scherm | Digit",
+          "c": "Speelgoed"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Aug 2026 11:10 UTC",
+      "note": "amazon.com.be — gescraped 16 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Aug 2026 11:10 UTC",
+      "note": "amazon.de — gescraped 16 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
