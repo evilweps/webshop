@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T17:16:00.219077+00:00",
-  "updated_fmt": "17 August 2026 om 17:16",
+  "updated": "2026-08-17T23:11:56.810968+00:00",
+  "updated_fmt": "17 August 2026 om 23:11",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 17 Aug 2026 17:16 UTC",
+      "note": "bol.com — gescraped 17 Aug 2026 23:11 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 17 Aug 2026 17:16 UTC",
+      "note": "amazon.nl — gescraped 17 Aug 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 17 Aug 2026 17:16 UTC",
+      "note": "amazon.com.be — gescraped 17 Aug 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 17 Aug 2026 17:16 UTC",
+      "note": "amazon.de — gescraped 17 Aug 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,204 +1509,204 @@
       ],
       "bestsellers": [
         {
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames | V-hals, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lico Bioline Man pantoffels voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Adilette Shower Velcro WONQUA/BLIPNK/WONQUA",
+          "c": "Algemeen"
+        },
+        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "Tea tree olie | Essentiële tea tree olie - aromatherapie skin care lichaam koudg",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
-          "c": "Beauty"
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 90x200 - 100x200 cm",
+          "c": "Algemeen"
         },
         {
-          "n": "Ninabella Haarborstel zonder trekken, ontwarringsborstel, ontwarringsborstel en ",
-          "c": "Beauty"
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml.",
+          "c": "Algemeen"
         },
         {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
-          "c": "Beauty"
+          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
+          "c": "Algemeen"
         },
         {
-          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
-          "c": "Beauty"
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
         },
         {
-          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
-          "c": "Beauty"
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Algemeen"
         },
         {
-          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
-          "c": "Beauty"
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
         },
         {
-          "n": "Wella Professionals KOLESTON Perfect Rich Naturals Permanente haarverf | Profess",
-          "c": "Beauty"
+          "n": "ORRO Zonneblindbril 45 mm, verpakking van 2, 6 of 12 stuks, zwart, past over cor",
+          "c": "Algemeen"
         },
         {
-          "n": "Revlon Uniq One All-in-one haarverzorging, 150 ml",
-          "c": "Beauty"
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
         },
         {
-          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
-          "c": "Beauty"
+          "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, lichtsnoeren | Weer",
+          "c": "Algemeen"
         },
         {
-          "n": "Effaclar Schäumendes Reinigungsgel für zu Akne neigende Haut | Reinigungsgel geg",
-          "c": "Beauty"
+          "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
+          "c": "Algemeen"
         },
         {
-          "n": "CeraVe Hydraterende gezichtscrème SPF 50, UVA- en UVB-bescherming, 50 ml | Voor ",
-          "c": "Beauty"
+          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
+          "c": "Algemeen"
         },
         {
-          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
-          "c": "Beauty"
+          "n": "btfarm Lichtsnoer op zonne-energie voor buiten, met afstandsbediening, 20 m, 25 ",
+          "c": "Algemeen"
         },
         {
-          "n": "WELEDA douchegel 1 set voor man energie 200 ml | Eucalyptus vetiver geur, milde ",
-          "c": "Beauty"
+          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
+          "c": "Algemeen"
         },
         {
-          "n": "Biotherm Lait Corporel L'Original, hydraterende bodylotion met Life Plankton voo",
-          "c": "Beauty"
+          "n": "FUJIFILM INSTAX mini 12™ Instant Camera voor volwassenen, camera met onmiddellij",
+          "c": "Algemeen"
         },
         {
-          "n": "by Amazon Wattenpads, dubbele textuur, 100% katoen, 120 pads",
-          "c": "Beauty"
+          "n": "WoldoClean Isopropanol 99,9% 1L reinigingsalcohol, ontvetter voor elektronica | ",
+          "c": "Algemeen"
         },
         {
-          "n": "Wella Professionals Welloxon Perfect Entwickler – Wasserstoffperoxid für Haarfar",
-          "c": "Beauty"
+          "n": "DJI Mic Mini (2 zenders, 1 ontvanger, oplaadschaal), draadloze lavaliermicrofoon",
+          "c": "Algemeen"
         },
         {
-          "n": "Tangle Teezer Wet Detangler Haarborstel met buigzame borstelharen en handige gre",
-          "c": "Beauty"
+          "n": "MR.SIGA Microvezel brillenpoetsdoek, brillenpoetsdoek, verpakking van 6 | Microv",
+          "c": "Algemeen"
         },
         {
-          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
-          "c": "Beauty"
-        },
-        {
-          "n": "by Amazon Vanille en kokosnoot douchegel, 2 x 500 ml",
-          "c": "Beauty"
-        },
-        {
-          "n": "REVLON PROFESSIONAL EQUAVE Sun Protection Instant Detangling Conditioner, 100 ml",
-          "c": "Beauty"
-        },
-        {
-          "n": "L'Oréal Men Expert Douchegel en shampoo voor mannen, 3-in-1 douchebad voor het r",
-          "c": "Beauty"
-        },
-        {
-          "n": "CeraVe Feuchtigkeitslotion für trockene Haut, Körper & Gesicht | Leichte Lotion ",
-          "c": "Beauty"
-        },
-        {
-          "n": "REVLON Professional EQUAVE Hydro Instant Detangling Conditioner, 500 ml, ontwarr",
-          "c": "Beauty"
+          "n": "STIKKI Reinigingsset voor mobiele telefoon & hoofdtelefoon - reinigingsklei | Co",
+          "c": "Algemeen"
         },
         {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
-          "c": "Speelgoed"
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
         },
         {
-          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 25, gelinieerd met rand, 5 stuks",
-          "c": "Speelgoed"
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Keuken"
         },
         {
-          "n": "Faber-Castell 112412 - viltstift Colour GRIP 2001, doos met 24 stuks (1, etui me",
-          "c": "Speelgoed"
+          "n": "Vacbird Vacuümzakken voor kleding met draadloze vacuümpomp, 12 stuks (4 x 40 x 5",
+          "c": "Keuken"
         },
         {
-          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
-          "c": "Speelgoed"
+          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
+          "c": "Keuken"
         },
         {
-          "n": "STAEDTLER Noris colour 187 Buntstifte – 16er Set, Dreikant | Aus PEFC-Holz, ruts",
-          "c": "Speelgoed"
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
         },
         {
-          "n": "perfect line 12 x boekomslag 26,5 cm hoogte - schoolboekomslag extra | Boekbesch",
-          "c": "Speelgoed"
+          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
+          "c": "Keuken"
         },
         {
-          "n": "Herma schriftkaft, bedekt met baststructuur en beschrijfbaar etiket, gemaakt van",
-          "c": "Speelgoed"
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225)",
+          "c": "Keuken"
+        },
+        {
+          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
+          "c": "Keuken"
+        },
+        {
+          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "c": "Keuken"
+        },
+        {
+          "n": "KESPER | Snijplank met sapgoot, materiaal: acaciahout, afmetingen: 32 x 21 x 1,5",
+          "c": "Keuken"
+        },
+        {
+          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
+          "c": "Keuken"
         },
         {
           "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
-          "c": "Speelgoed"
+          "c": "Keuken"
         },
         {
-          "n": "Apple iPad met A16 chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
-          "c": "Speelgoed"
+          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
+          "c": "Keuken"
         },
         {
-          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
-          "c": "Speelgoed"
+          "n": "BARBONS Hoeslaken 180x200cm - 100% katoen hoeslaken donkergrijs | Oeko-Tex-gecer",
+          "c": "Keuken"
         },
         {
-          "n": "Brunnen Schoolschrift, 10 stuks",
-          "c": "Speelgoed"
+          "n": "UHU stic lijmstift 5x21g",
+          "c": "Keuken"
         },
         {
-          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
-          "c": "Speelgoed"
+          "n": "TrendPlain Oliesproeier voor spijsolie – 470 ml olijfoliefles – 2-in-1 oliedispe",
+          "c": "Keuken"
         },
         {
-          "n": "Herma Boekomslag",
-          "c": "Speelgoed"
+          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
+          "c": "Keuken"
         },
         {
-          "n": "Herlitz Schrift, A4-formaat | Twee randen, afgeronde hoeken, houtvrij papier, 80",
-          "c": "Speelgoed"
-        },
-        {
-          "n": "Pustefix Maxi Navulfles, 1, 1000 ml, Navulfles.",
-          "c": "Speelgoed"
-        },
-        {
-          "n": "Opblaasbare donut-zwemring, bruin, diameter 120 cm, met beet, zwembad en water, ",
-          "c": "Speelgoed"
-        },
-        {
-          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
-          "c": "Speelgoed"
-        },
-        {
-          "n": "Herlitz Schriften A4/32 (gelinieerd), gekleurde achtergrond, GH FSC-mix, 10-deli",
-          "c": "Speelgoed"
-        },
-        {
-          "n": "10 x boekomslag DIN A4 voor boeken, schriften, schoolboeken & boekomslagen, boek",
-          "c": "Speelgoed"
-        },
-        {
-          "n": "herlitz Easy Cover Boekomslag met naametiketten, flexibel aanpasbaar, 5 stuks",
-          "c": "Speelgoed"
+          "n": "sleepling Hoofdkussen, 40 x 80 cm, set van 2 stuks, kussen voor mensen met aller",
+          "c": "Keuken"
         }
       ]
     }
