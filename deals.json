@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T17:18:14.519275+00:00",
-  "updated_fmt": "19 August 2026 om 17:18",
+  "updated": "2026-08-19T23:12:36.091002+00:00",
+  "updated_fmt": "19 August 2026 om 23:12",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 19 Aug 2026 17:18 UTC",
+      "note": "bol.com — gescraped 19 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 19 Aug 2026 17:18 UTC",
+      "note": "amazon.nl — gescraped 19 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,6 +671,130 @@
       ],
       "bestsellers": [
         {
+          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bento lunchbox Take a Break large - Nordic sage",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Waterfilters voor Espressomachines - 2 Stuks | Verwijdert kalk",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA waterfilterpatroon MAXTRA PRO Pure Performance - 12 pack | Originele navul",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Boska Copenhagen - Kaasschaaf - Multifunctioneel - 220x74x20 mm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dove Men+Care Advanced Invisible Dry Anti-Transpirant Deodorant Spray, biedt tot",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Rexona Women Maximum Protection Clean Scent Anti-transpirant Stick, voor maximal",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Page toiletpapier - Kussenzacht wc papier - 36 rollen - met extra zijde - Voorde",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Easy@Home 50 x Ovulatietesten en 20 x Zwangerschapstesten, Met Premom Ovulatie P",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TePe Interdentale Rager, Original, Geel, 0.7mm/ISO 4, 20st | Effectieve reinigin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 5 (3e generatie) | Slim scherm en slimme wekker met scherpe gel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ION8 Lichtgewicht Stalen Kinderwaterfles, 400 ml/13 oz, Zonder Isolatie, Lekvrij",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Westcott E-10130 00 Geometrische driehoek, van kunststof, 14 cm, transparant, ve",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Boekomslagen, 20 x heldere en transparante omslagen en boekbescherming, DIN A4, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FABER-CASTELL - Dust-Free gum, wit | Nauwkeurig en zonder vlekken gummen met bij",
+          "c": "Algemeen"
+        },
+        {
+          "n": "WEMATE Groot Pennenetui, Etui met Ritsvakken, Esthetisch Pennenetui Voor Volwass",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dymo LetraTag 200B Bluetooth-labelmaker | Compacte labelprinter | Maakt via Blue",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kangaro Schoolschriften A4 gelinieerd 80 vellen gesorteerd 5-pack K-58331, zwart",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Screen Protector voor iPhone 17 Pro, 3 Stuks | 9H Gehard Glas, HD Helder,",
           "c": "Elektronica"
         },
@@ -727,10 +851,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
@@ -743,132 +863,12 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Elektronica"
-        },
-        {
           "n": "INIU Power Bank, 20000mAh 22,5 W Snel Opladen Externe Phone Batterij | met Afnee",
           "c": "Elektronica"
         },
         {
           "n": "UGREEN USB C charger 30W, GaN-oplader met 3 poorten, PD iPhone lader | PD-snella",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk High Endurance MicroSD-Kaart 128 GB (Perfect Voor Dashboardcamera Of Bew",
-          "c": "Elektronica"
-        },
-        {
-          "n": "soundcore van Anker P20i draadloze oordopjes Bluetooth 5.3, 10 mm drivers met gr",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-oplaadkabel 240 W (2 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme PRO SDXC UHS‐I‐Kaart 128 GB (4K UHD, Leessnelheden Tot 200 MB/s,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "tomtoc 360° Laptop Sleeve Hoes voor 2024 13,5-inch Microsoft Surface Laptop 6/5/",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Dove Men+Care Advanced Invisible Dry Anti-Transpirant Deodorant Spray, biedt tot",
-          "c": "Beauty"
-        },
-        {
-          "n": "Philips OneBlade Original 360 meskoppen, compatibel met alle OneBlade en Pro ele",
-          "c": "Beauty"
-        },
-        {
-          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
-          "c": "Beauty"
-        },
-        {
-          "n": "Rexona Women Maximum Protection Clean Scent Anti-transpirant Stick, voor maximal",
-          "c": "Beauty"
-        },
-        {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
-          "c": "Beauty"
-        },
-        {
-          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
-          "c": "Beauty"
-        },
-        {
-          "n": "Rexona Men Advanced Protection Cobalt Dry Anti-Transpirant Spray, biedt tot 72 u",
-          "c": "Beauty"
-        },
-        {
-          "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
-          "c": "Beauty"
-        },
-        {
-          "n": "La Roche-Posay Anthelios Zonnebrandvloeistof met SPF 50+, 50 ml, Zonnebrandcrème",
-          "c": "Beauty"
-        },
-        {
-          "n": "La Roche-Posay Cicaplast Baume B5+ Huidbarrière Balsem, 100 ml | Herstellend, Ka",
-          "c": "Beauty"
-        },
-        {
-          "n": "Paula's Choice 2% BHA Liquid Exfoliant, Gecombineerde & Vette Huid, 30 ml | Gezi",
-          "c": "Beauty"
-        },
-        {
-          "n": "Medicube Zero Pore Pads 2.0, 70 vellen, HA + BHA poriën- en acne-verzorging",
-          "c": "Beauty"
-        },
-        {
-          "n": "Dove Caring Bath Indulging Cream Badcrème, voor een zachte, schone en soepele hu",
-          "c": "Beauty"
-        },
-        {
-          "n": "Tweezerman Pincet",
-          "c": "Beauty"
-        },
-        {
-          "n": "L'Oréal Men Expert Hydra Energetic Crème 100ml | Hydraterende dagcrème verzorgt ",
-          "c": "Beauty"
-        },
-        {
-          "n": "BaByliss Turbo Smooth Föhn - 2200W Krachtige Haardroger, Grote Diffuser, Ionisch",
-          "c": "Beauty"
-        },
-        {
-          "n": "KIKO Milano Smart Fusion Lipstick - Kleur 405 Vintage Rose | Rijk en Voedend | G",
-          "c": "Beauty"
-        },
-        {
-          "n": "Olaplex No.7 Bonding Oil, 30 ml",
-          "c": "Beauty"
-        },
-        {
-          "n": "Testina rasoio - PHILIPS One Blade - Confezione da 4 lamette di ricambio 360 ? Q",
-          "c": "Beauty"
-        },
-        {
-          "n": "Dove Care & Protect Verzorgende Handzeep voor zachte en soepele handen na het wa",
-          "c": "Beauty"
-        },
-        {
-          "n": "Philips Bodycare OneBlade Scheermes Blauw, Groen 2 stuk(s)",
-          "c": "Beauty"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 19 Aug 2026 17:18 UTC",
+      "note": "amazon.com.be — gescraped 19 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,204 +1126,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart",
-          "c": "Sport"
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
         },
         {
-          "n": "Sparrow Gourde Isotherme 500ml/750ml/1L/1.2L FlipFlow Bouteille Inox Paille | Bo",
-          "c": "Sport"
+          "n": "Pelonis Stille torenventilator, 4,2 m/s, met afstandsbediening, 9 uur timer, 4 m",
+          "c": "Algemeen"
         },
         {
-          "n": "Xiaomi Smart Band 10 zwart - activiteitenarmband",
-          "c": "Sport"
+          "n": "Kipling New Kichiro Grote lunchbox, zakken, etuis, Zwart",
+          "c": "Algemeen"
         },
         {
-          "n": "BALIGO Koeltas voor lunch, 6,4 l, geïsoleerde lunchbox, koeltas, maaltijd, kanto",
-          "c": "Sport"
-        },
-        {
-          "n": "Cursor Loopband, opvouwbaar, kantelbaar, 15% | Loopband 10 km/u, Treadmill Home ",
-          "c": "Sport"
-        },
-        {
-          "n": "XIAOMI Smart Band 10 fitnesstracker, 44 mm AMOLED-display, 21 dagen batterijduur",
-          "c": "Sport"
-        },
-        {
-          "n": "Sparrow Thermosfles voor kinderen, 500 ml, roestvrij staal, met rietje | Thermos",
-          "c": "Sport"
-        },
-        {
-          "n": "Lifewit Lunchtassen",
-          "c": "Sport"
-        },
-        {
-          "n": "TRESKO Trainingsmat voor fitness, yoga, pilates en gymnastiek, afmetingen 185 x ",
-          "c": "Sport"
-        },
-        {
-          "n": "Polisport 8646300007 R Collection R750 fietsfles, 750 ml, waterfles voor fietser",
-          "c": "Sport"
-        },
-        {
-          "n": "ELES VIDA Gymtassen van natuurlijk katoen, sporttas, stoffen rugzak, tas van can",
-          "c": "Sport"
-        },
-        {
-          "n": "Ion8 lekvrije drinkfles van roestvrij staal, 400 ml, aqua",
-          "c": "Sport"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
-          "c": "Sport"
-        },
-        {
-          "n": "Garmin HRM 200 - Moniteur de fréquence cardiaque – Taille M–XL | Hr en HR in rea",
-          "c": "Sport"
-        },
-        {
-          "n": "CodiCile - Drinkfles, 1 l, BPA-vrij, kunststof waterfles, grote waterdichte spor",
-          "c": "Sport"
-        },
-        {
-          "n": "ION8 Drinkfles van roestvrij staal, 600 ml, lekvrij, gemakkelijk te openen, veil",
-          "c": "Sport"
-        },
-        {
-          "n": "KuKirin G2 2026 Elektrische step, accu 48 V, 15,6 Ah, looptijd tot 55 km, 10 inc",
-          "c": "Sport"
-        },
-        {
-          "n": "adidas Trionda World Cup FIFA 26 trainingsbal, uniseks, wit/koningsblauw/zonnebl",
-          "c": "Sport"
-        },
-        {
-          "n": "Amazon Basics",
-          "c": "Sport"
-        },
-        {
-          "n": "AYBUY Voetbal scheenbeschermers, 1 paar scheenbeschermers voor voetbal, sokken m",
-          "c": "Sport"
-        },
-        {
-          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
-          "c": "Sport"
-        },
-        {
-          "n": "Maped - Maped Stopsysteem passer - Gepatenteerd vergrendelingssysteem - Perfecte",
-          "c": "Sport"
-        },
-        {
-          "n": "Super Sparrow Sportfles & Morsvrije Kinderfles - 750ml - BPA-vrij - Ideale Trita",
-          "c": "Sport"
-        },
-        {
-          "n": "Blukar Oplaadbare hoofdlamp, 2000 l, super helder, waterdicht, licht, krachtige ",
-          "c": "Sport"
-        },
-        {
-          "n": "Intex Classic DuraBeam Luchtbed Compact | Opblaasbaar matras met golfstructuur v",
-          "c": "Sport"
-        },
-        {
-          "n": "Ion8 Drinkfles, lekvrij, dun, BPA-vrij, 600 ml, blauw Aqua",
-          "c": "Sport"
-        },
-        {
-          "n": "Chasinglee Feux de vélo rechargeables par USB, lumières LED puissantes, super lu",
-          "c": "Sport"
-        },
-        {
-          "n": "Speedo Biofuse 2.0 Zwembril, uniseks, 1 stuk",
-          "c": "Sport"
-        },
-        {
-          "n": "DiULi Transparante rugzak, tas met trekkoord, voor sportschool, reizen, 2 zakken",
-          "c": "Sport"
+          "n": "TrendPlain Keukenoliespray, 470 ml, luchtfryer oliesproeier 2-in-1 voor koken, s",
+          "c": "Algemeen"
         },
         {
           "n": "Eastpak Benchmark Single Etui, Zwarte Denim",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "Rexona Clean Scent Antitranspirant-deodorantstick 96 uur, 45 ml, 3 stuks",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume | Extreem volume, langhoudend, ",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
           "n": "L'Oréal Paris Infaillible 3-Second Setting Mist 150 ml",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360 - reservemesjes voor OneBlade scheerapparaat / sc",
-          "c": "Beauty"
+          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart",
+          "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade Intimate, intiem scheren, trimmen en scheren met extra huidbesc",
-          "c": "Beauty"
+          "n": "Eastpak, Out Of Office, Uniseks rugzak (1 stuk)",
+          "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
-          "c": "Beauty"
+          "n": "EASTPAK Provider Rucksack - 33 L",
+          "c": "Algemeen"
         },
         {
-          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
-          "c": "Beauty"
+          "n": "Kipling SUPERTABOO Sac à dos Medium",
+          "c": "Algemeen"
         },
         {
-          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl 3%, p",
-          "c": "Beauty"
+          "n": "Eastpak BACK TO WORK Sac à dos, 27 L",
+          "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Lash Sensational Sky High Mascara, zwart voor extreem lange ",
-          "c": "Beauty"
+          "n": "Kipling INIKO Middelgrote rugzak, Zwart",
+          "c": "Algemeen"
         },
         {
-          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
-          "c": "Beauty"
+          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
+          "c": "Algemeen"
         },
         {
-          "n": "Philips Multigroom MG3930/15 alles-in-één trimmer uit de serie 3000 7 accessoire",
-          "c": "Beauty"
+          "n": "Arnomed Nitril handschoenen maat L, zwarte nitril handschoen, 100 stuks/doos, zw",
+          "c": "Algemeen"
         },
         {
-          "n": "BUTBU Amerikaanse nagelkunst, 12 maten, kunstnagels, gel, volledige afdekking, v",
-          "c": "Beauty"
+          "n": "Zonne-eclipse bril – ISO 12312-2 en CE-gecertificeerd, veilige oogbescherming, z",
+          "c": "Algemeen"
         },
         {
-          "n": "Vervangende messen – Philips – QP225/50 OneBlade – compatibel met alle handgrepe",
-          "c": "Beauty"
+          "n": "Ernie Ball Regular Slinky elektrische gitaarsnaren uit nikkel, dikte 10-46",
+          "c": "Algemeen"
         },
         {
-          "n": "Mixa Huidvernieuwende crème voor droge en gebarsten huid, hydraterende verzorgin",
-          "c": "Beauty"
+          "n": "Draadloze microfoon voor iPhone en USB-C-aansluiting, draadloze mini-microfoon m",
+          "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Lash Sensational Very Black Volume & Definition Mascara, 9,5",
-          "c": "Beauty"
+          "n": "Alpine Tune oordopjes voor concerten en muziek, gecertificeerde gehoorbeschermin",
+          "c": "Algemeen"
         },
         {
-          "n": "Kanzy Jojoba-olie, koudgeperst, voor gezicht, lichaam, haar, nagels en huid, 100",
-          "c": "Beauty"
+          "n": "2 stuks draadloze mini lavalier-microfoons voor iPhone, iPad, Android-telefoon m",
+          "c": "Algemeen"
         },
         {
-          "n": "CeraVe - Schuimende Reinigingsgel - 473 ml",
-          "c": "Beauty"
+          "n": "TONOR TC310+ Micro PC Gaming RGB, USB-condensatormicrofoon, professioneel, micro",
+          "c": "Algemeen"
         },
         {
-          "n": "Franck Provost Expert Protection 4-in-1 verzorging zonder uitspoelen, 230 °C, 19",
-          "c": "Beauty"
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint 1316011 bord L met zuignap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 6,3 inch, compatibel met MagSafe, ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Duracell Plus AA-batterijen (12 stuks) – alkaline 1,5 V – tot 100% langer – idea",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Anti-spionage gehard glas voor iPhone 17, 2 stuks | 9H displaybescherming",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Extreme 128 GB microSDXC, Micro SD-kaart + SD-adapter, UHS-I V30, tot 19",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen, powerbank",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods 4 draadloze hoofdtelefoon, bluetooth-hoofdtelefoon en hoofdtelefoo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple Pencil (USB-C): pixelnauwkeurigheid, kantel- en drukgevoeligheid en lage l",
+          "c": "Elektronica"
+        },
+        {
+          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple iPad met A16-chip: 11-inch Liquid Retina-display, 128 GB, Wi-Fi 6, 12 MP c",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 19 Aug 2026 17:18 UTC",
+      "note": "amazon.de — gescraped 19 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1693,7 +1693,7 @@
           "c": "Keuken"
         },
         {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225)",
+          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
           "c": "Keuken"
         },
         {
