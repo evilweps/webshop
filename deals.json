@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T23:14:37.846763+00:00",
-  "updated_fmt": "20 August 2026 om 23:14",
+  "updated": "2026-08-21T05:22:11.205631+00:00",
+  "updated_fmt": "21 August 2026 om 05:22",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 20 Aug 2026 23:14 UTC",
+      "note": "bol.com — gescraped 21 Aug 2026 05:22 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 20 Aug 2026 23:14 UTC",
+      "note": "amazon.nl — gescraped 21 Aug 2026 05:22 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -683,15 +683,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Boska Copenhagen - Kaasschaaf - Multifunctioneel - 220x74x20 mm",
-          "c": "Algemeen"
-        },
-        {
           "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
           "c": "Algemeen"
         },
         {
-          "n": "Joseph Joseph Tota 90-liter wasmand met deksel, 2 uitneembare waszakken met hand",
+          "n": "Boska Copenhagen - Kaasschaaf - Multifunctioneel - 220x74x20 mm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
           "c": "Algemeen"
         },
         {
@@ -711,7 +711,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rexona Women Maximum Protection Clean Scent Anti-transpirant Stick, voor maximal",
+          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
           "c": "Algemeen"
         },
         {
@@ -771,19 +771,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
-          "c": "Algemeen"
-        },
-        {
           "n": "Dungeon Crawler Carl (German Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "12. Tot an der Klippe: Pech & Schwäfel Sommer Special 3",
+          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
           "c": "Algemeen"
         },
         {
           "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "12. Tot an der Klippe: Pech & Schwäfel Sommer Special 3",
           "c": "Algemeen"
         },
         {
@@ -843,11 +843,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Anker 621 MagGo, Powerbank, 5.000mAh, Magnetisch | Ultraslank, USB-C-kabel, alle",
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
+          "n": "Anker 621 MagGo, Powerbank, 5.000mAh, Magnetisch | Ultraslank, USB-C-kabel, alle",
           "c": "Elektronica"
         },
         {
@@ -855,11 +855,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 20 Aug 2026 23:14 UTC",
+      "note": "amazon.com.be — gescraped 21 Aug 2026 05:22 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1162,23 +1162,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360 - reservemesjes voor OneBlade scheerapparaat / sc",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
           "c": "Algemeen"
         },
         {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carpoint 1316011 bord L met zuignap",
+          "n": "Philips Originele OneBlade 360 - reservemesjes voor OneBlade scheerapparaat / sc",
           "c": "Algemeen"
         },
         {
@@ -1206,6 +1194,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint 1316011 bord L met zuignap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfilterpatroon MAXTRA Pro Pure Performance (All-in-1) 12 stuks - Origi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Zonne-eclipse bril – ISO 12312-2 en CE-gecertificeerd, veilige oogbescherming, z",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
+          "c": "Algemeen"
+        },
+        {
           "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
           "c": "Algemeen"
         },
@@ -1227,30 +1239,6 @@
         },
         {
           "n": "Logitech G G240 doek gaming-muismat, geoptimaliseerd voor sensoren, matige wrijv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 5 appareils | 1 an | PC/Mac/Smartphone | Code envoy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bitdefender Total Security | 10 appareils | 2 ans | PC/Mac/Smartphone | Code env",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dazzle DVD Recorder HD (PC)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nero Video 2026 | Logiciel de montage vidéo | Montage 4K et 8K, plus de 1000 eff",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LibreOffice 2026 Home en Student 2024 Professional Plus Business Compatibel met ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mullvad VPN 12 Mois pour 5 Appareils - VPN sans Logs pour Votre Vie Privée",
           "c": "Algemeen"
         },
         {
@@ -1278,11 +1266,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
+          "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
+          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
           "c": "Elektronica"
         },
         {
@@ -1324,6 +1312,18 @@
         {
           "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
           "c": "Elektronica"
+        },
+        {
+          "n": "Azororo Beschermhoes voor Samsung Galaxy S26 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Gehard glas voor Samsung Galaxy A57, 3 stuks | HD transparant, compatibel",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TP-Link Tapo Bewakingscamera, wifi, binnenshuis, 360 °, Tapo C210, UHD 3 MP, per",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 20 Aug 2026 23:14 UTC",
+      "note": "amazon.de — gescraped 21 Aug 2026 05:22 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,7 +1529,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lico Boulder V Multisport indoorschoenen, uniseks",
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Wago 221-413 Lasklem, 50 stuks | Hefinzetstuk voor alle geleiders tot 4 mm², tra",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
           "c": "Algemeen"
         },
         {
@@ -1545,15 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wago 221-413 Lasklem, 50 stuks | Hefinzetstuk voor alle geleiders tot 4 mm², tra",
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
           "c": "Algemeen"
         },
         {
@@ -1578,26 +1598,6 @@
         },
         {
           "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
           "c": "Algemeen"
         },
         {
@@ -1629,15 +1629,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "Pritt lijmstift 4 x 22 g, Transparant, uitwasbaar, verwijderbaar, zonder oplosmi",
+          "c": "Keuken"
+        },
+        {
           "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
           "c": "Keuken"
         },
         {
-          "n": "UHU stic lijmstift 5x40g",
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
           "c": "Keuken"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "n": "UHU stic lijmstift 5x40g",
           "c": "Keuken"
         },
         {
@@ -1649,10 +1653,6 @@
           "c": "Keuken"
         },
         {
-          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
-          "c": "Keuken"
-        },
-        {
           "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
           "c": "Keuken"
         },
@@ -1661,15 +1661,11 @@
           "c": "Keuken"
         },
         {
-          "n": "Tefal Jamie Oliver Cook's Direct On braadpan 28 cm, thermo-signaal | Roestvrijst",
-          "c": "Keuken"
-        },
-        {
           "n": "Dreamzie - Spannbettlaken - 180x200cm - 100% Baumwolle Jersey | Weiß · Leintuch ",
           "c": "Keuken"
         },
         {
-          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
+          "n": "Tefal Jamie Oliver Cook's Direct On braadpan 28 cm, thermo-signaal | Roestvrijst",
           "c": "Keuken"
         },
         {
@@ -1677,7 +1673,15 @@
           "c": "Keuken"
         },
         {
+          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
+          "c": "Keuken"
+        },
+        {
           "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
           "c": "Keuken"
         },
         {
@@ -1685,7 +1689,7 @@
           "c": "Keuken"
         },
         {
-          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
+          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
           "c": "Keuken"
         },
         {
@@ -1694,10 +1698,6 @@
         },
         {
           "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
           "c": "Keuken"
         },
         {
