@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T17:18:08.690261+00:00",
-  "updated_fmt": "21 August 2026 om 17:18",
+  "updated": "2026-08-21T23:12:52.707538+00:00",
+  "updated_fmt": "21 August 2026 om 23:12",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 21 Aug 2026 17:18 UTC",
+      "note": "bol.com — gescraped 21 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 21 Aug 2026 17:18 UTC",
+      "note": "amazon.nl — gescraped 21 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -787,15 +787,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "All Inclusive - Auch der Tod",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der letzte Bannbrecher: Die Bannbrecher-Chroniken, Band 1",
-          "c": "Algemeen"
-        },
-        {
           "n": "Der Nachbar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die LET THEM Theorie: Zwei Worte, die dein Leben verändern werden: Das Buch, das",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 21 Aug 2026 17:18 UTC",
+      "note": "amazon.com.be — gescraped 21 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 21 Aug 2026 17:18 UTC",
+      "note": "amazon.de — gescraped 21 Aug 2026 23:12 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,15 +1513,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,13",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 18,50",
           "c": "Algemeen"
         },
         {
@@ -1529,15 +1521,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,53",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,61",
           "c": "Algemeen"
         },
         {
@@ -1545,15 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,14",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 31,52",
           "c": "Algemeen"
         },
         {
@@ -1561,15 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1.063,44/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 24,56/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1577,19 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 12,19",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 12,27",
-          "c": "Algemeen"
-        },
-        {
           "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,85",
           "c": "Algemeen"
         },
         {
@@ -1597,19 +1553,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,92",
-          "c": "Algemeen"
-        },
-        {
           "n": "Jacobson jersey hoeslaken, katoen, wit, 90x200 - 100x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 10,51",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 8,91",
           "c": "Algemeen"
         },
         {
@@ -1617,19 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 10,31",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 0,58/eenheid)",
-          "c": "Algemeen"
-        },
-        {
           "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,80",
           "c": "Algemeen"
         },
         {
@@ -1637,27 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 44,52/kg)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,08",
-          "c": "Algemeen"
-        },
-        {
           "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD 8,44",
-          "c": "Algemeen"
-        },
-        {
-          "n": "10 aanbiedingen vanUSD 16,28",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 9,43",
           "c": "Algemeen"
         },
         {
@@ -1665,15 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 25,52",
-          "c": "Algemeen"
-        },
-        {
           "n": "Secondelijm universele gel 50 g - alleslijm universele lijm CA lijm | Druppelvri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 10,51",
           "c": "Algemeen"
         },
         {
@@ -1681,15 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,92",
-          "c": "Algemeen"
-        },
-        {
           "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 13,34",
           "c": "Algemeen"
         },
         {
@@ -1697,16 +1593,120 @@
           "c": "Algemeen"
         },
         {
-          "n": "12 aanbiedingen vanUSD 20,42",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lichtsnoer voor buiten, led-stroom, 30 m, buitenverlichting, lichtsnoeren | Weer",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 29,97",
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
           "c": "Algemeen"
+        },
+        {
+          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Diercke Weltatlas - Ausgabe 2023: Schulatlas für alle Bundesländer außer Bayern",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
+        },
+        {
+          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
+          "c": "Keuken"
+        },
+        {
+          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "c": "Keuken"
+        },
+        {
+          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
+          "c": "Keuken"
+        },
+        {
+          "n": "Mepal - Bento lunchbox Midi TAB - broodtrommel met bento-box - voor 2 boterhamme",
+          "c": "Keuken"
+        },
+        {
+          "n": "Emsa Clip en Close IJsblokjesbox met deksel, kunststof, transparant/blauw, 24 ku",
+          "c": "Keuken"
+        },
+        {
+          "n": "UHU stic lijmstift 5x40g",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie - Spannbettlaken - 180x200cm - 100% Baumwolle Jersey | Weiß · Leintuch ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
+          "c": "Keuken"
+        },
+        {
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Keuken"
+        },
+        {
+          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
+          "c": "Keuken"
+        },
+        {
+          "n": "Tefal Jamie Oliver Cook's Direct On braadpan 28 cm, thermo-signaal | Roestvrijst",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
+          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
+          "c": "Keuken"
+        },
+        {
+          "n": "Pelikan tekenblok, wit C3",
+          "c": "Keuken"
+        },
+        {
+          "n": "Honsell 47412 - Jaxon oliepastelkrijt, 12-delig assortiment in kartonnen etui, 1",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
+          "c": "Keuken"
+        },
+        {
+          "n": "Intex Classic Downy Blue Dura Beam Serie Twin Airbed, blauw, 191 x 99 x 25 cm (L",
+          "c": "Keuken"
+        },
+        {
+          "n": "120 stuks bakpapier voor heteluchtfriteuse Ninja Dual, Stone TH Airfryer met dub",
+          "c": "Keuken"
         }
       ]
     }
