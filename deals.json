@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T11:10:04.605284+00:00",
-  "updated_fmt": "22 August 2026 om 11:10",
+  "updated": "2026-08-22T17:10:52.193513+00:00",
+  "updated_fmt": "22 August 2026 om 17:10",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 Aug 2026 11:10 UTC",
+      "note": "bol.com — gescraped 22 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 Aug 2026 11:10 UTC",
+      "note": "amazon.nl — gescraped 22 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 Aug 2026 11:10 UTC",
+      "note": "amazon.com.be — gescraped 22 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1234,27 +1234,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "BIC Kids Tropicolors Kleur- en schrijfpotloden, verschillende kleuren, gemaakt z",
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
           "c": "Algemeen"
         },
         {
-          "n": "BIC Kids Kid kleurstiften met medium punt, verschillende kleuren, doos met 18 st",
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
         {
-          "n": "LEGO Botanicals Kleine dansplanten, set kunstbloemen, 2 kunstplanten en 2 potten",
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
           "c": "Algemeen"
         },
         {
-          "n": "Trodat Stempel \"Ik zet mijn naam op mijn spullen\", markeer de spullen van je kin",
+          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
           "c": "Algemeen"
         },
         {
-          "n": "ATM Gaming Speedbac – snel en waanzinnig gezelschapsspel – 2 tot 7 spelers – fam",
+          "n": "Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED Wireless Gaming Mouse, Lightweight, Pol",
           "c": "Algemeen"
         },
         {
-          "n": "Bic Kids Evolution Ecolutions kleurpotloden, verschillende kleuren, 12 stuks",
+          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 Aug 2026 11:10 UTC",
+      "note": "amazon.de — gescraped 22 Aug 2026 17:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
