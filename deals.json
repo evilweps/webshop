@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T11:16:46.425034+00:00",
-  "updated_fmt": "24 August 2026 om 11:16",
+  "updated": "2026-08-24T17:20:48.344929+00:00",
+  "updated_fmt": "24 August 2026 om 17:20",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 Aug 2026 11:16 UTC",
+      "note": "bol.com — gescraped 24 Aug 2026 17:20 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 Aug 2026 11:16 UTC",
+      "note": "amazon.nl — gescraped 24 Aug 2026 17:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,204 +671,120 @@
       ],
       "bestsellers": [
         {
-          "n": "Philips AquaClean Waterfilters voor Espressomachines - 2 Stuks | Verwijdert kalk",
-          "c": "Algemeen"
+          "n": "Dungeon Crawler Carl (German Edition)",
+          "c": "Boeken"
         },
         {
-          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
-          "c": "Algemeen"
+          "n": "Die Psychiaterin – Wurde der Job ihr zum Verhängnis?",
+          "c": "Boeken"
         },
         {
-          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
-          "c": "Algemeen"
+          "n": "12. Tot an der Klippe: Pech & Schwäfel Sommer Special 3",
+          "c": "Boeken"
         },
         {
-          "n": "Bento lunchbox Take a Break large - Nordic black",
-          "c": "Algemeen"
+          "n": "Der letzte Bannbrecher: Die Bannbrecher-Chroniken, Band 1",
+          "c": "Boeken"
         },
         {
-          "n": "Boska Copenhagen - Kaasschaaf - Multifunctioneel - 220x74x20 mm",
-          "c": "Algemeen"
+          "n": "Die LET THEM Theorie: Zwei Worte, die dein Leben verändern werden: Das Buch, das",
+          "c": "Boeken"
         },
         {
-          "n": "BRITA waterfilterpatroon MAXTRA PRO Pure Performance - 12 pack | Originele navul",
-          "c": "Algemeen"
+          "n": "Der Nachbar",
+          "c": "Boeken"
         },
         {
-          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
-          "c": "Algemeen"
+          "n": "11. Tot im Strandhotel: Pech & Schwäfel Sommer Special 2",
+          "c": "Boeken"
         },
         {
-          "n": "L'Oréal Men Expert Hydra Energetic Crème 100ml | Hydraterende dagcrème verzorgt ",
-          "c": "Algemeen"
+          "n": "Carl’s Doomsday Scenario: Nach der Katastrophe ist vor der Katastrophe",
+          "c": "Boeken"
         },
         {
-          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
-          "c": "Algemeen"
+          "n": "Flugangst 7A",
+          "c": "Boeken"
         },
         {
-          "n": "Rexona Men Advanced Protection Cobalt Dry Anti-Transpirant Spray, biedt tot 72 u",
-          "c": "Algemeen"
+          "n": "Harry Potter und der Stein der Weisen - Gesprochen von Rufus Beck: Harry Potter ",
+          "c": "Boeken"
         },
         {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
-          "c": "Algemeen"
+          "n": "All Inclusive - Auch der Tod",
+          "c": "Boeken"
         },
         {
-          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
-          "c": "Algemeen"
+          "n": "SOKO SYLT – Strandkorb Mörder: Berger & Claasen ermitteln, Band 4",
+          "c": "Boeken"
         },
         {
-          "n": "ION8 Lichtgewicht Stalen Kinderwaterfles, 400 ml/13 oz, Zonder Isolatie, Lekvrij",
-          "c": "Algemeen"
+          "n": "Die Känguru-Rebellion: Die Känguru-Werke, Band 5",
+          "c": "Boeken"
         },
         {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
-          "c": "Algemeen"
+          "n": "Filmriss auf Immenhof: Trippel. Trappel. Tot.",
+          "c": "Boeken"
         },
         {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
-          "c": "Algemeen"
+          "n": "Catlady: Roadtrip für Anfänger",
+          "c": "Boeken"
         },
         {
-          "n": "ION8 Waterfles, 500 ml/18 oz, Lekvrij, Makkelijk te Openen, Veilige Vergrendelin",
-          "c": "Algemeen"
+          "n": "Herz über Kopf: Rubys Reise",
+          "c": "Boeken"
         },
         {
-          "n": "Waterfles Ellipse 500 ml - Nordic sage",
-          "c": "Algemeen"
+          "n": "Die Ehefrau – Was hat sie zu verbergen?",
+          "c": "Boeken"
         },
         {
-          "n": "Brabantia PerfectFit Vuilniszak, Wit, Code G, 40 Stuks",
-          "c": "Algemeen"
+          "n": "Die Psychiaterin: Wurde ihr der Job zum Verhängnis?",
+          "c": "Boeken"
         },
         {
-          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
-          "c": "Algemeen"
+          "n": "Die unendliche Geschichte",
+          "c": "Boeken"
         },
         {
-          "n": "TePe Interdentale Rager, Original, Geel, 0.7mm/ISO 4, 20st | Effectieve reinigin",
-          "c": "Algemeen"
+          "n": "Unschuldslamm: Kriminalroman",
+          "c": "Boeken"
         },
         {
-          "n": "Oral-B iO2 Night Black Elektrische Tandenborstel, 1 Opzetborstel, 1 Reisetui, 1 ",
-          "c": "Algemeen"
+          "n": "Fourth Wing - Flammengeküsst: Fourth Wing 1",
+          "c": "Boeken"
         },
         {
-          "n": "Magnesium Bisglycinaat (Glycinaat) capsules - 1422 mg - Levert 200 mg Elementair",
-          "c": "Algemeen"
+          "n": ")Sanddornsommer, Villa Sanddorn und Sanddorninsel: Die Sanddorn-Reihe, Band 1-3",
+          "c": "Boeken"
         },
         {
-          "n": "Grabie 6 witte acrylmarkers, extra fijne punt 0,7 mm | Helder dekkend wit, ultra",
-          "c": "Algemeen"
+          "n": "Harry Potter und die Kammer des Schreckens - Gesprochen von Rufus Beck: Harry Po",
+          "c": "Boeken"
         },
         {
-          "n": "Oriento Meetlint voor het meten van lichaam, 150 cm, centimeter voor kleermaken,",
-          "c": "Algemeen"
+          "n": "Die Känguru-Chroniken: Die Känguru-Werke, Band 1",
+          "c": "Boeken"
         },
         {
-          "n": "Vicloon Strass Stickers, 9 Vellen 940 Stuks zelfklevende Kristallen Stickers Fac",
-          "c": "Algemeen"
+          "n": "Nachtschatten: August Strindberg ermittelt, Band 5",
+          "c": "Boeken"
         },
         {
-          "n": "Ohuhu Alcoholmarkers 48 Kleuren Penseel & Fijn AP Gecertificeerd | Dubbele Punt ",
-          "c": "Algemeen"
+          "n": "Und was macht das mit Ihnen?",
+          "c": "Boeken"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
+          "n": "Die Rosenzüchterin",
+          "c": "Boeken"
         },
         {
-          "n": "Amazon Kindle Paperwhite Signature Edition (nieuwste generatie) – Onze snelste K",
-          "c": "Algemeen"
+          "n": "Häftling",
+          "c": "Boeken"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JETech Screen Protector voor iPhone 17, 3 Stuks | 9H Gehard Glas, HD Helder, Kra",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL 2032 Lithium-knoopcelbatterijen, 8 Stuks, 3V, CR2032 | Gaan Tot 70% Lan",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 100 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar h",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB‑C) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme microSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter (1 Jaar Resc",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
-          "c": "Elektronica"
-        },
-        {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL Plus 9V Alkaline batterijen, 4 Stuks, 6LR61 | 100% Levensduurgarantie -",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 16 stuks oplaadbare AAA NiMH-batterijen, 800 mAh, 1000x op te lade",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple USB‑C-oplaadkabel 240 W (2 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Sony MDR-ZX110 Opvouwbare Koptelefoon, met Uitstekend Geluid met 30 mm Driver, Z",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Anker 621 MagGo, Powerbank, 5.000mAh, Magnetisch | Ultraslank, USB-C-kabel, alle",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C charger 30W, GaN-oplader met 3 poorten, PD iPhone lader | PD-snella",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
+          "n": "The Primal Hunter 15: A LitRPG Adventure",
+          "c": "Boeken"
         }
       ]
     },
@@ -879,7 +795,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 Aug 2026 11:16 UTC",
+      "note": "amazon.com.be — gescraped 24 Aug 2026 17:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1250,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 Aug 2026 11:16 UTC",
+      "note": "amazon.de — gescraped 24 Aug 2026 17:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,204 +1425,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Sixspace Badschoenen, waterschoenen, strandschoenen, sneldrogend, ademende aquas",
-          "c": "Algemeen"
+          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
+          "c": "Speelgoed"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,12",
-          "c": "Algemeen"
+          "n": "Mattel Games Skip-BO, vanaf 7 jaar, 2-6 spelers | Klassiek sequentiekaartspel vo",
+          "c": "Speelgoed"
         },
         {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
+          "n": "perfect line 12 x boekomslag 26,5 cm hoogte - schoolboekomslag extra | Boekbesch",
+          "c": "Speelgoed"
         },
         {
-          "n": "USD 18,48",
-          "c": "Algemeen"
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
         },
         {
-          "n": "Lico Bioline Man pantoffels voor heren",
-          "c": "Algemeen"
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Speelgoed"
         },
         {
-          "n": "USD 16,59",
-          "c": "Algemeen"
+          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 25, gelinieerd met rand, 5 stuks",
+          "c": "Speelgoed"
         },
         {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames | V-hals, ",
-          "c": "Algemeen"
+          "n": "Herma Boekomslag",
+          "c": "Speelgoed"
         },
         {
-          "n": "1 aanbieding voorUSD 23,35",
-          "c": "Algemeen"
+          "n": "Pelikan 720631 K24 Verfdoos met 24 kwaliteits dekkleuren, inclusief 1 tube dekwi",
+          "c": "Speelgoed"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, lage taille, onderg",
-          "c": "Algemeen"
+          "n": "STAEDTLER Noris colour 187 Buntstifte – 16er Set, Dreikant | Aus PEFC-Holz, ruts",
+          "c": "Speelgoed"
         },
         {
-          "n": "5 aanbiedingen vanUSD 25,68",
-          "c": "Algemeen"
+          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
+          "c": "Speelgoed"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
+          "n": "Herlitz Schrift, A4-formaat | Twee randen, afgeronde hoeken, houtvrij papier, 80",
+          "c": "Speelgoed"
         },
         {
-          "n": "4 aanbiedingen vanUSD 30,95",
-          "c": "Algemeen"
+          "n": "10 x boekomslag DIN A4 voor boeken, schriften, schoolboeken & boekomslagen, boek",
+          "c": "Speelgoed"
         },
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
+          "n": "Pokémon (verzamelkaartspel), PKM Super Premium collectie DE",
+          "c": "Speelgoed"
         },
         {
-          "n": "(USD 1.062,18/l)",
-          "c": "Algemeen"
+          "n": "SIGG WMB ONE aluminium drinkfles voor kinderen, Made in Switzerland, geschikt vo",
+          "c": "Speelgoed"
         },
         {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
+          "n": "Apple iPad met A16 chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
+          "c": "Speelgoed"
         },
         {
-          "n": "2 aanbiedingen vanUSD 12,17",
-          "c": "Algemeen"
+          "n": "Mattel Games UNO Show 'Em No Mercy kaartspel, 7+, 2-6 spelers | Met extra kaarte",
+          "c": "Speelgoed"
         },
         {
-          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
-          "c": "Algemeen"
+          "n": "Herma schriftkaft, bedekt met baststructuur en beschrijfbaar etiket, gemaakt van",
+          "c": "Speelgoed"
         },
         {
-          "n": "(USD 24,53/eenheid)",
-          "c": "Algemeen"
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Speelgoed"
         },
         {
-          "n": "4 aanbiedingen vanUSD 34,04",
-          "c": "Algemeen"
+          "n": "herlitz Easy Cover Boekomslag met naametiketten, flexibel aanpasbaar, 5 stuks",
+          "c": "Speelgoed"
         },
         {
-          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
-          "c": "Algemeen"
+          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto, speelgoed met formule 1 minif",
+          "c": "Speelgoed"
         },
         {
-          "n": "USD 15,83",
-          "c": "Algemeen"
+          "n": "Jumbo 17571 Originele Rummikub Classic, Single | De spelklassieker onder de geze",
+          "c": "Speelgoed"
         },
         {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
-          "c": "Algemeen"
+          "n": "Schmidt Spiele Noch mal 49327 | Klein & Fein Serie",
+          "c": "Speelgoed"
         },
         {
-          "n": "(USD 233,14/l)",
-          "c": "Algemeen"
+          "n": "Sigg - Roestvrijstalen drinkfles voor kinderen - Shield One Uni Skate - geschikt",
+          "c": "Speelgoed"
         },
         {
-          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 140x200 - 160x200 cm",
-          "c": "Algemeen"
+          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
+          "c": "Speelgoed"
         },
         {
-          "n": "1 aanbieding voorUSD 12,84",
-          "c": "Algemeen"
+          "n": "LEGO Botanicals Bloemenboeket, kunstbloemen, set voor volwassenen, kamerdecorati",
+          "c": "Speelgoed"
         },
         {
-          "n": "3 aanbiedingen vanUSD 9,80",
-          "c": "Algemeen"
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Speelgoed"
         },
         {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
-          "c": "Algemeen"
+          "n": "Amazon Business Amex-kaart",
+          "c": "Speelgoed"
         },
         {
-          "n": "5 aanbiedingen vanUSD 17,56",
-          "c": "Algemeen"
+          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Boeken"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "c": "Boeken"
         },
         {
-          "n": "(USD 9,32/eenheid)",
-          "c": "Algemeen"
+          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
+          "c": "Boeken"
         },
         {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
+          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
+          "c": "Boeken"
         },
         {
-          "n": "USD 38,76",
-          "c": "Algemeen"
+          "n": "Revenge – Du sollst flehen: »The Mindf*ck Series«: Das Thriller-Phänomen – jetzt",
+          "c": "Boeken"
         },
         {
-          "n": "(USD 0,58/eenheid)",
-          "c": "Algemeen"
+          "n": "Diercke Weltatlas - Ausgabe 2023: Schulatlas für alle Bundesländer außer Bayern",
+          "c": "Boeken"
         },
         {
-          "n": "Fischer Duopower Plug",
-          "c": "Algemeen"
+          "n": "Das geht ja DOCH!: Wahre Geschichten vom Trotzdem-Machen",
+          "c": "Boeken"
         },
         {
-          "n": "(USD 0,05/eenheid)",
-          "c": "Algemeen"
+          "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
+          "c": "Boeken"
         },
         {
-          "n": "USD 5,07",
-          "c": "Algemeen"
+          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
+          "c": "Boeken"
         },
         {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
+          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
+          "c": "Boeken"
         },
         {
-          "n": "3 aanbiedingen vanUSD 8,43",
-          "c": "Algemeen"
+          "n": "Einhorngeschichten - Leserabe 1. Klasse - Erstlesebuch für Kinder ab 6 Jahren (m",
+          "c": "Boeken"
         },
         {
-          "n": "10 aanbiedingen vanUSD 16,61",
-          "c": "Algemeen"
+          "n": "Access - G9 - Ausgabe 2019 - Band 3: 7. Schuljahr: Workbook mit Audios online",
+          "c": "Boeken"
         },
         {
-          "n": "SIKA - afdichtmiddel - Sikaflex-522 - zwart - 300ml | Voor binnen- en buitenvoeg",
-          "c": "Algemeen"
+          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
+          "c": "Boeken"
         },
         {
-          "n": "(USD 28,11/l)",
-          "c": "Algemeen"
+          "n": "Memories of Heidelberg: Roman | Nominiert für den Deutschen Buchpreis 2026",
+          "c": "Boeken"
         },
         {
-          "n": "2 aanbiedingen vanUSD 11,67",
-          "c": "Algemeen"
+          "n": "Access - G9 - Ausgabe 2019 - Band 4: 8. Schuljahr: Workbook mit Audios online",
+          "c": "Boeken"
         },
         {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
+          "n": "À plus ! Neubearbeitung - Französisch als 1. und 2. Fremdsprache - Ausgabe ab 20",
+          "c": "Boeken"
         },
         {
-          "n": "1 aanbieding voorUSD 20,43",
-          "c": "Algemeen"
+          "n": "Woman on Fire: Alles über die fabelhaften Wechseljahre",
+          "c": "Boeken"
         },
         {
-          "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
-          "c": "Algemeen"
+          "n": "Lighthouse - General Edition - Band 3: 7. Schuljahr: Workbook - Mit Audios, Erkl",
+          "c": "Boeken"
         },
         {
-          "n": "5 aanbiedingen vanUSD 19,84",
-          "c": "Algemeen"
+          "n": "English G Lighthouse - Allgemeine Ausgabe / Band 5: 9. Schuljahr - Workbook mit ",
+          "c": "Boeken"
         },
         {
-          "n": "Philips LED Classic GU10 lampen 6-pack (50 W), reflector LED spots met warm wit ",
-          "c": "Algemeen"
+          "n": "Die LET THEM Theorie: Zwei Worte, die dein Leben verändern werden - Das Buch, da",
+          "c": "Boeken"
         },
         {
-          "n": "(USD 1,64/eenheid)",
-          "c": "Algemeen"
+          "n": "Der Mutfuchs - Dein Begleiter für die 1. Klasse: Ein herzerwärmendes Kinderbuch ",
+          "c": "Boeken"
         },
         {
-          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
-          "c": "Algemeen"
+          "n": "Fleischpflanzerl-Misere: Ein Provinzkrimi | Ein humvorvoller Bayern-Krimi. Die b",
+          "c": "Boeken"
         },
         {
-          "n": "11 aanbiedingen vanUSD 20,39",
-          "c": "Algemeen"
+          "n": "Kindergarten-Rätselspaß für unterwegs - Rätselbuch ab 4 Jahre, Reisespiele für K",
+          "c": "Boeken"
         }
       ]
     }
