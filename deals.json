@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T11:15:54.619077+00:00",
-  "updated_fmt": "25 August 2026 om 11:15",
+  "updated": "2026-08-25T17:21:40.355069+00:00",
+  "updated_fmt": "25 August 2026 om 17:21",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 25 Aug 2026 11:15 UTC",
+      "note": "bol.com — gescraped 25 Aug 2026 17:21 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 25 Aug 2026 11:15 UTC",
+      "note": "amazon.nl — gescraped 25 Aug 2026 17:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -795,11 +795,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Poet Empress: The instant Sunday Times bestseller and BBC Radio 2 Book Club ",
+          "n": "The Eye of the Bedlam Bride: Dungeon Crawler Carl Book 6 (English Edition)",
           "c": "Algemeen"
         },
         {
-          "n": "The Eye of the Bedlam Bride: Dungeon Crawler Carl Book 6 (English Edition)",
+          "n": "Bro Doll: Book 4 of the Kinky ABC Anthology (English Edition)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 25 Aug 2026 11:15 UTC",
+      "note": "amazon.com.be — gescraped 25 Aug 2026 17:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,204 +1126,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart",
-          "c": "Algemeen"
+          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart | Gevoerde achterkant, waterbestendig, ",
+          "c": "Sport"
         },
         {
           "n": "BALIGO Koeltas voor lunch, 6,4 l, geïsoleerde lunchbox, koeltas, maaltijd, kanto",
-          "c": "Algemeen"
+          "c": "Sport"
         },
         {
           "n": "Sparrow Gourde Isotherme 500ml/750ml/1L/1.2L FlipFlow Bouteille Inox Paille | Bo",
-          "c": "Algemeen"
+          "c": "Sport"
         },
         {
           "n": "Ion8 lekvrije drinkfles van roestvrij staal, 400 ml, aqua",
-          "c": "Algemeen"
+          "c": "Sport"
         },
         {
           "n": "KuKirin Trotinette Électrique 48V 15.6Ah – 55km Autonomie Pliable Tout-Terrain a",
-          "c": "Algemeen"
+          "c": "Sport"
         },
         {
           "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
-          "c": "Algemeen"
+          "c": "Sport"
+        },
+        {
+          "n": "Cursor Loopband, opvouwbaar, kantelbaar, 15% | Loopband 10 km/u, Treadmill Home ",
+          "c": "Sport"
+        },
+        {
+          "n": "ION8 Drinkfles van roestvrij staal, 600 ml, lekvrij, gemakkelijk te openen, veil",
+          "c": "Sport"
+        },
+        {
+          "n": "ELES VIDA Gymtassen van natuurlijk katoen, sporttas, stoffen rugzak, tas van can",
+          "c": "Sport"
+        },
+        {
+          "n": "Sparrow Thermosfles voor kinderen, 500 ml, roestvrij staal, met rietje | Thermos",
+          "c": "Sport"
+        },
+        {
+          "n": "XIAOMI Smart Band 10 fitnesstracker, 44 mm AMOLED-display, 21 dagen batterijduur",
+          "c": "Sport"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
+          "c": "Sport"
+        },
+        {
+          "n": "Polisport 8646300007 R Collection R750 fietsfles, 750 ml, waterfles voor fietser",
+          "c": "Sport"
+        },
+        {
+          "n": "PUMA Teamgoal Gym Bag Rugzak, uniseks, 1 stuk",
+          "c": "Sport"
+        },
+        {
+          "n": "Ion8 1 liter roestvrijstalen veldfles, lekvrij, gemakkelijk te openen, veilig sl",
+          "c": "Sport"
+        },
+        {
+          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
+          "c": "Sport"
+        },
+        {
+          "n": "TRESKO Trainingsmat voor fitness, yoga, pilates en gymnastiek, afmetingen 185 x ",
+          "c": "Sport"
+        },
+        {
+          "n": "Lifewit Lunchtassen",
+          "c": "Sport"
+        },
+        {
+          "n": "Ion8 Waterfles, lekvrij, BPA-vrij, lichtpaars, 500 ml",
+          "c": "Sport"
+        },
+        {
+          "n": "Super Sparrow Sportfles & Morsvrije Kinderfles - 750ml - BPA-vrij - Ideale Trita",
+          "c": "Sport"
+        },
+        {
+          "n": "Speedo Biofuse 2.0 Zwembril, uniseks, 1 stuk",
+          "c": "Sport"
+        },
+        {
+          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
+          "c": "Sport"
+        },
+        {
+          "n": "Garmin HRM 200 - Moniteur de fréquence cardiaque – Taille M–XL | Hr en HR in rea",
+          "c": "Sport"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Sport"
+        },
+        {
+          "n": "Glangeh Ultradunne led-fietsverlichtingsset, USB oplaadbaar en waterdicht IP65 f",
+          "c": "Sport"
+        },
+        {
+          "n": "DiULi Transparante rugzak, tas met trekkoord, voor sportschool, reizen, 2 zakken",
+          "c": "Sport"
+        },
+        {
+          "n": "CURSOR Loopband, opvouwbaar, kantelbaar, automatisch, 0-20% | Compacte loopband,",
+          "c": "Sport"
+        },
+        {
+          "n": "CarPoint Koelelementen – 2 stuks – 15 x 8 x 4 cm – blauw",
+          "c": "Sport"
+        },
+        {
+          "n": "Intex Queen 64428ND Opblaasbaar pluche matras met RP-technologievezel, 152 x 203",
+          "c": "Sport"
         },
         {
           "n": "Maybelline New York Lash Sensational Very Black Volume & Definition Mascara, 9,5",
-          "c": "Algemeen"
+          "c": "Beauty"
         },
         {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
-          "c": "Algemeen"
+          "c": "Beauty"
         },
         {
           "n": "Eastpak Benchmark Single Etui",
-          "c": "Algemeen"
+          "c": "Beauty"
         },
         {
           "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
-          "c": "Algemeen"
+          "c": "Beauty"
         },
         {
           "n": "Philips OneBlade 360 Originele elektrische baardtrimmer en scheerapparaat, 2 x 3",
-          "c": "Algemeen"
+          "c": "Beauty"
         },
         {
           "n": "essence Ess. I Love Extreme Mascara Crazy Volume | Extreem volume, langhoudend, ",
-          "c": "Algemeen"
+          "c": "Beauty"
         },
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
+          "n": "BIONOBLE Rozemarijnolie voor biologisch haar, groei, anti-haaruitval, 50 ml | 10",
+          "c": "Beauty"
         },
         {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
-          "c": "Algemeen"
+          "n": "Remington Keratin Protect Hair Straightener, stijltang, geavanceerde keramische ",
+          "c": "Beauty"
         },
         {
-          "n": "Mepal Bento Take A Break Lunchbox voor Midi, lunchbox met vak, lunchbox voor san",
-          "c": "Algemeen"
+          "n": "Kanzy Jojoba-olie, koudgeperst, voor gezicht, lichaam, haar, nagels en huid, 100",
+          "c": "Beauty"
         },
         {
-          "n": "Blumtal® Charles Thermosfles, BPA-vrij, koud en warm",
-          "c": "Algemeen"
+          "n": "Eastpak Etui, ovaal, single, Zwarte Denim",
+          "c": "Beauty"
         },
         {
-          "n": "Ion8 Roestvrijstalen drinkbus, 600 ml, lekvrij, gemakkelijk te openen, vaatwasma",
-          "c": "Algemeen"
+          "n": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant - Exfolieert het Gezicht ",
+          "c": "Beauty"
         },
         {
-          "n": "Kipling New Kichiro Grote lunchbox, zakken, etuis",
-          "c": "Algemeen"
+          "n": "Vervangende messen – Philips – QP225/50 OneBlade – compatibel met alle handgrepe",
+          "c": "Beauty"
         },
         {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
-          "c": "Algemeen"
+          "n": "KEYRI 580 stuks valse wimpers, 30-40-50-60-80-100D, krullende wimpers, haar op h",
+          "c": "Beauty"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
+          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "c": "Beauty"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) - De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
+          "n": "KIKO Milano Long Lasting Eyeshadow Stick 19, oogschaduw in stick met romige en e",
+          "c": "Beauty"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
-          "c": "Algemeen"
+          "n": "Philips Originele OneBlade 360. Reservemesjes voor OneBlade scheerapparaat, elek",
+          "c": "Beauty"
         },
         {
-          "n": "Echo Show 5 (nieuwste generatie) | Slim scherm en wekker met beter geluid | Antr",
-          "c": "Algemeen"
+          "n": "Franck Provost Expert Protection 4-in-1 verzorging zonder uitspoelen, 230 °C, 19",
+          "c": "Beauty"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
+          "n": "BALI CURLS Curl Defining Gel - definiërende krulgel met lijnzaad en ylang-ylang ",
+          "c": "Beauty"
         },
         {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
-          "c": "Algemeen"
+          "n": "BaByliss Turbo Smooth 2200 D572DE haardroger, zwart/zilver",
+          "c": "Beauty"
         },
         {
-          "n": "Carpoint 1316011 bord L met zuignap",
-          "c": "Algemeen"
+          "n": "BUTBU Amerikaanse nagelkunst, 12 maten, kunstnagels, gel, volledige afdekking, v",
+          "c": "Beauty"
         },
         {
-          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maizjok® Waterdichte motorhoes voor buiten, waterdicht, voor binnen, 210D, regen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FACOM 6025 integraalmotor diesel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterdrop® Grote klassiekers – 48 kubussen hydratatietabletten zonder | Suikervr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Respresso koffie, Gouden mix - 100 capsules - Compatibel met Nespr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "waterdrop Microenergy-set, energiedrank zonder suiker, koolzuurhoudende drank me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Koffiepad, composteerbaar, recyclebaar, zwart mengsel, 150 dranken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell Plus AA-batterijen (12 stuks) – alkaline 1,5 V – tot 100% langer – idea",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple Set van 4 AirTags (2e generatie): tracker voor sleutelhangers, portemonnee",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 17 Pro 6,3\", compatibel met MagSafe, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme 128 GB microSDXC, Micro SD-kaart + SD-adapter, UHS-I V30, tot 19",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Anti-spionage gehard glas voor iPhone 17, 2 stuks | 9H displaybescherming",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen, powerbank",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 48 stuks 1,5 V krachtige AA alkalinebatterijen (uiterlijk kan vari",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TP-Link Tapo Bewakingscamera, wifi, binnenshuis, 360 °, Tapo C210, UHD 3 MP, per",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
-          "c": "Elektronica"
+          "n": "BALI CURLS Hydrating Curl Cream vochtinbrengende crème voor sheaboter, kokosolie",
+          "c": "Beauty"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 25 Aug 2026 11:15 UTC",
+      "note": "amazon.de — gescraped 25 Aug 2026 17:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1605,11 +1605,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
           "c": "Algemeen"
         },
         {
-          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
+          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
           "c": "Algemeen"
         },
         {
