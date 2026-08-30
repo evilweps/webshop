@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T15:06:27.828061+00:00",
-  "updated_fmt": "30 August 2026 om 15:06",
+  "updated": "2026-08-30T19:33:02.993174+00:00",
+  "updated_fmt": "30 August 2026 om 19:33",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Aug 2026 15:06 UTC",
+      "note": "bol.com — gescraped 30 Aug 2026 19:33 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Aug 2026 15:06 UTC",
+      "note": "amazon.nl — gescraped 30 Aug 2026 19:33 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Aug 2026 15:06 UTC",
+      "note": "amazon.com.be — gescraped 30 Aug 2026 19:33 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1318,7 +1318,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU Externe batterij, 45 W, 20.000 mAh, powerbank met geïntegreerde USB C-kabel",
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Aug 2026 15:06 UTC",
+      "note": "amazon.de — gescraped 30 Aug 2026 19:33 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 18,49",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,57",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 17,35",
+          "c": "Algemeen"
+        },
+        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 31,22",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1545,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "3 aanbiedingen vanUSD 10,42",
+          "c": "Algemeen"
+        },
+        {
           "n": "Lico Unisex kinderen G 1 Style gymschoenen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 9,64",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1561,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 24,33/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 1.053,53/l)",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1577,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 3,39/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 31,30",
+          "c": "Algemeen"
+        },
+        {
           "n": "d'alba Italian White Truffel Double Serum All-in-One Multi Balm, veganistische h",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 31,11",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1597,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 15,70",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,62",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,23",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "n": "USD 28,15",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1625,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 25,99",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,41",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1645,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 20,26",
+          "c": "Algemeen"
+        },
+        {
           "n": "PHILIPS LED Classic GU10 lampen, 6-pack, 50 W, reflector LED spots, warm wit, en",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 1,62/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 22,00",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1665,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 16,21",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 6,88",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1681,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "12 aanbiedingen vanUSD 20,27",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jacobson jersey hoeslaken, katoen, wit, 140x200 - 160x200 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 12,73",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD 8,83",
           "c": "Algemeen"
         },
         {
@@ -1601,112 +1701,12 @@
           "c": "Algemeen"
         },
         {
+          "n": "5 aanbiedingen vanUSD 17,41",
+          "c": "Algemeen"
+        },
+        {
           "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
           "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fischer Duopower Plug",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SIKA - afdichtmiddel - Sikaflex-522 - zwart - 300ml | Voor binnen- en buitenvoeg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Secondelijm universele gel 50 g - alleslijm universele lijm CA lijm | Druppelvri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
-          "c": "Keuken"
-        },
-        {
-          "n": "Emsa 508549 Clip & Close voedselbewaarbak | 10,8 L | Rechthoekig Maxi formaat | ",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Keuken"
-        },
-        {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
-          "c": "Keuken"
-        },
-        {
-          "n": "UHU stic lijmstift 5x21g",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Amazon Basics Vacuüm Compressiezak met ritssluiting, opbergzak, met handpomp, 20",
-          "c": "Keuken"
-        },
-        {
-          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pelikan tekenblok, wit C3",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 80x80 cm, allergiekussen, comfort 100 | Groot slaapkussen ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
-          "c": "Keuken"
-        },
-        {
-          "n": "De'Longhi - Vervangend waterfilter voor volautomatische koffiemachines | Wateron",
-          "c": "Keuken"
-        },
-        {
-          "n": "Gründl Wolle Cotton Quick uni Häkelgarn 1 Knäuel 50 g, Weiß | dünne Wolle zum Hä",
-          "c": "Keuken"
         }
       ]
     }
