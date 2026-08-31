@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T11:12:53.861395+00:00",
-  "updated_fmt": "31 August 2026 om 11:12",
+  "updated": "2026-08-31T21:41:26.718460+00:00",
+  "updated_fmt": "31 August 2026 om 21:41",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 31 Aug 2026 11:12 UTC",
+      "note": "bol.com — gescraped 31 Aug 2026 21:41 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 31 Aug 2026 11:12 UTC",
+      "note": "amazon.nl — gescraped 31 Aug 2026 21:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,7 +719,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 31 Aug 2026 11:12 UTC",
+      "note": "amazon.com.be — gescraped 31 Aug 2026 21:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 31 Aug 2026 11:12 UTC",
+      "note": "amazon.de — gescraped 31 Aug 2026 21:41 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,204 +1509,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
-          "c": "Speelgoed"
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 140x200 - 160x200 cm",
+          "c": "Keuken"
         },
         {
-          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
-          "c": "Speelgoed"
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "c": "Keuken"
         },
         {
-          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
-          "c": "Speelgoed"
+          "n": "Buymax Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrasho",
+          "c": "Keuken"
         },
         {
-          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 25, gelinieerd met rand, 5 stuks",
-          "c": "Speelgoed"
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Keuken"
         },
         {
-          "n": "perfect line 12 x boekomslag 26,5 cm hoogte - schoolboekomslag extra | Boekbesch",
-          "c": "Speelgoed"
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Keuken"
         },
         {
-          "n": "STAEDTLER Noris colour 187 Buntstifte – 16er Set, Dreikant | Van PEFC-hout, anti",
-          "c": "Speelgoed"
+          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "c": "Keuken"
         },
         {
-          "n": "Herlitz 3322500 Schrift, A4, 16 vellen, 25 lijnen, FSC Mixed, verschillende moti",
-          "c": "Speelgoed"
+          "n": "EMSA Clip & Close N10307 Vershouddozenset, rechthoekig, 5 x 0,8 l, opbergdozen, ",
+          "c": "Keuken"
         },
         {
-          "n": "SIGG WMB ONE aluminium drinkfles voor kinderen, Made in Switzerland, geschikt vo",
-          "c": "Speelgoed"
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Keuken"
         },
         {
-          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
-          "c": "Speelgoed"
+          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
+          "c": "Keuken"
         },
         {
-          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
-          "c": "Speelgoed"
+          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
+          "c": "Keuken"
         },
         {
-          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
-          "c": "Speelgoed"
+          "n": "UHU stic lijmstift 5x21g",
+          "c": "Keuken"
         },
         {
-          "n": "Apple iPad met A16 chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
-          "c": "Speelgoed"
+          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
+          "c": "Keuken"
         },
         {
-          "n": "LEGO Botanicals schommelplanten - set met kunstbloemen - met 2 kunstplanten en 2",
-          "c": "Speelgoed"
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
         },
         {
-          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
-          "c": "Speelgoed"
+          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
+          "c": "Keuken"
         },
         {
-          "n": "Herma Boekomslag",
-          "c": "Speelgoed"
+          "n": "Amazon Basics Vacuüm Compressiezak met ritssluiting, opbergzak, met handpomp, 20",
+          "c": "Keuken"
         },
         {
-          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
-          "c": "Speelgoed"
+          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
+          "c": "Keuken"
         },
         {
-          "n": "Mattel Games UNO kaartspel, vanaf 7 jaar, 2-10 spelers | Klassiek UNO-kleur- en ",
-          "c": "Speelgoed"
+          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
+          "c": "Keuken"
         },
         {
-          "n": "10 x boekomslag DIN A4 voor boeken, schriften, schoolboeken & boekomslagen, boek",
-          "c": "Speelgoed"
+          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
+          "c": "Keuken"
         },
         {
-          "n": "Faber-Castell - Kleurpotlodenset Colour Grip, 12 kleurpotloden onbreekbaar | Wat",
-          "c": "Speelgoed"
+          "n": "Tefal Jamie Oliver Cook's Direct On braadpan 28 cm, thermo-signaal | Roestvrijst",
+          "c": "Keuken"
         },
         {
-          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto, speelgoed met formule 1 minif",
-          "c": "Speelgoed"
+          "n": "sleepling Hoofdkussen 80x80 cm, allergiekussen, comfort 100 | Groot slaapkussen ",
+          "c": "Keuken"
         },
         {
-          "n": "Sigg - Roestvrijstalen drinkfles voor kinderen - Shield One Uni Skate - geschikt",
-          "c": "Speelgoed"
+          "n": "Pelikan tekenblok, wit C3",
+          "c": "Keuken"
         },
         {
-          "n": "Faber-Castell - Kleurpotloden set eenhoorn, 24-delig, incl. stickers | Onbreekba",
-          "c": "Speelgoed"
+          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
+          "c": "Keuken"
         },
         {
-          "n": "Mattel Games UNO Show 'Em No Mercy kaartspel, 7+, 2-6 spelers | Met extra kaarte",
-          "c": "Speelgoed"
+          "n": "Dreamzie ⭐ Waterdichte matrasbeschermer, waterbestendige matrasovertrek, ademend",
+          "c": "Keuken"
         },
         {
-          "n": "Herlitz easy cover boekomslag, transparant, voor alle gangbare boekformaten, 5 s",
-          "c": "Speelgoed"
+          "n": "De'Longhi - Vervangend waterfilter voor volautomatische koffiemachines | Wateron",
+          "c": "Keuken"
         },
         {
-          "n": "LIKARTO Wer Bin ich? Spel voor kinderen, familiespel, leerspel & reisspel, perfe",
-          "c": "Speelgoed"
+          "n": "Gründl Wolle Cotton Quick uni Häkelgarn 1 Knäuel 50 g, Weiß | Dunne wol om te ha",
+          "c": "Keuken"
         },
         {
-          "n": "Zingbee 8 stuks magnetische fidget toys, siliconen magnetische ballen, anti-stre",
-          "c": "Speelgoed"
+          "n": "Vitafit Keukenweegschaal, 15 kg, nauwkeurigheid 1 g, door onze professionele wee",
+          "c": "Keuken"
+        },
+        {
+          "n": "Blumtal Zijslaapkussenovertrek 40x145, set van 2, grijs | 100% katoen, Oeko-Tex-",
+          "c": "Keuken"
         },
         {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Speelgoed"
+          "c": "Keuken"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Speelgoed"
+          "c": "Keuken"
         },
         {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Boeken"
+          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
+          "c": "Beauty"
         },
         {
-          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
-          "c": "Boeken"
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Beauty"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
-          "c": "Boeken"
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Beauty"
         },
         {
-          "n": "1999 Meter über dem Meer: Roman | Ein rasanter Roadtrip, eine coole Hochstapleri",
-          "c": "Boeken"
+          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
+          "c": "Beauty"
         },
         {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
-          "c": "Boeken"
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
+          "c": "Beauty"
         },
         {
-          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
-          "c": "Boeken"
+          "n": "d'alba Italian White Truffel Double Serum All-in-One Multi Balm, veganistische h",
+          "c": "Beauty"
         },
         {
-          "n": "Einhorngeschichten - Leserabe 1. Klasse - Erstlesebuch für Kinder ab 6 Jahren (m",
-          "c": "Boeken"
+          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
+          "c": "Beauty"
         },
         {
-          "n": "Culpa Vuestra – Eure Schuld: Die Fortsetzung der New-Adult-Weltbestsellerreihe u",
-          "c": "Boeken"
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Der Mutfuchs - Dein Begleiter für die 1. Klasse: Ein herzerwärmendes Kinderbuch ",
-          "c": "Boeken"
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Beauty"
         },
         {
-          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
-          "c": "Boeken"
+          "n": "medicube PDRN Pink Peptide Serum met zalm-DNA 30ml | Glow Serum, peptide, niacin",
+          "c": "Beauty"
         },
         {
-          "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
-          "c": "Boeken"
+          "n": "Ninabella Haarborstel zonder trekken, ontwarringsborstel, ontwarringsborstel en ",
+          "c": "Beauty"
         },
         {
-          "n": "Revenge – Du sollst flehen: »The Mindf*ck Series«: Das Thriller-Phänomen – jetzt",
-          "c": "Boeken"
+          "n": "Revlon Uniq One All-in-one haarverzorging, 150 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Diercke Weltatlas - Ausgabe 2023: Schulatlas für alle Bundesländer außer Bayern",
-          "c": "Boeken"
+          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
+          "c": "Beauty"
         },
         {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Boeken"
+          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Beauty"
         },
         {
-          "n": "Der Positive-Gedanken-Trick: Einfach glücklich ohne Angst und Grübeln",
-          "c": "Boeken"
+          "n": "L'Oréal Men Expert XXXL 5-in-1 douchegel en shampoo voor mannen, douchebad voor ",
+          "c": "Beauty"
         },
         {
-          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
-          "c": "Boeken"
+          "n": "Wella Professionals Koleston Perfect Pure Naturals - Permanente Haarfarbe - Prof",
+          "c": "Beauty"
         },
         {
-          "n": "Woman on Fire: Alles über die fabelhaften Wechseljahre",
-          "c": "Boeken"
+          "n": "Wella Professionals Koleston Perfect Rich Naturals - Permanente Haarfarbe - Prof",
+          "c": "Beauty"
         },
         {
-          "n": "Green Line 2 G9: Workbook mit Audios Klasse 6 (Green Line G9. Ausgabe ab 2019)",
-          "c": "Boeken"
+          "n": "Remington Stijltang breed Pro-Ceramic Extra (extra brede 45 mm | Voor dik kroesh",
+          "c": "Beauty"
         },
         {
-          "n": "Deutschbuch Gymnasium - Nordrhein-Westfalen - Ausgabe 2019 - 6. Schuljahr: Arbei",
-          "c": "Boeken"
+          "n": "Paula's Choice 2% BHA Liquid Peeling, bestrijdt mee-eters en poriën, 30 ml | Kli",
+          "c": "Beauty"
         },
         {
-          "n": "Die LET THEM Theorie: Zwei Worte, die dein Leben verändern werden - Das Buch, da",
-          "c": "Boeken"
+          "n": "Tea tree olie | Essentiële tea tree olie - aromatherapie skin care lichaam koudg",
+          "c": "Beauty"
         },
         {
-          "n": "Dein Körper spricht hormonisch: Alles über Zyklusveränderungen, Perimenopause un",
-          "c": "Boeken"
-        },
-        {
-          "n": "Green Line 4 G9: Workbook mit Mediensammlung Klasse 8 (Green Line G9. Ausgabe ab",
-          "c": "Boeken"
+          "n": "Beauty of Joseon Relief Sun Aqua-Fresh Rice + B5 Korean Skincare Geen witte slui",
+          "c": "Beauty"
         }
       ]
     }
