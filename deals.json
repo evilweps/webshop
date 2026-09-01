@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T01:29:55.996392+00:00",
-  "updated_fmt": "1 September 2026 om 01:29",
+  "updated": "2026-09-01T09:38:56.792318+00:00",
+  "updated_fmt": "1 September 2026 om 09:38",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Sep 2026 01:29 UTC",
+      "note": "bol.com — gescraped 1 Sep 2026 09:38 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Sep 2026 01:29 UTC",
+      "note": "amazon.nl — gescraped 1 Sep 2026 09:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,6 +719,22 @@
           "c": "Algemeen"
         },
         {
+          "n": "ION8 Lichtgewicht Stalen Kinderwaterfles, 400 ml/13 oz, Zonder Isolatie, Lekvrij",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ION8 Waterfles, 500 ml/18 oz, Lekvrij, Makkelijk te Openen, Veilige Vergrendelin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Waterfles Ellipse 500 ml - Nordic sage",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
           "c": "Algemeen"
         },
@@ -739,27 +755,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ring Battery Video Doorbell 2K, Videodeurbel op batterij (nieuwste generatie), Z",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ION8 Lichtgewicht Stalen Kinderwaterfles, 400 ml/13 oz, Zonder Isolatie, Lekvrij",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ION8 Waterfles, 500 ml/18 oz, Lekvrij, Makkelijk te Openen, Veilige Vergrendelin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterfles Ellipse 500 ml - Nordic sage",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ION8 Lichtgewicht Stalen Kinderwaterfles, 400 ml/13 oz, Zonder Isolatie, Lekvrij",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
@@ -787,10 +783,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Page wc papier - Compleet Schoon - 96 rollen - Voordeelverpakking",
-          "c": "Algemeen"
-        },
-        {
           "n": "Brabantia PerfectFit Bags, Vuilniszakken, Wit, Code G (23-30L), 40 Stuks | Op Ma",
           "c": "Algemeen"
         },
@@ -807,7 +799,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Page Fris en Verzorgend (Aloë Vera) - Vochtig Toiletpapier - wc papier doorspoel",
+          "n": "Easy@Home 50 x Ovulatietesten en 20 x Zwangerschapstesten, Met Premom Ovulatie P",
           "c": "Algemeen"
         },
         {
@@ -843,11 +835,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
+          "n": "DURACELL Plus 9V Alkaline batterijen, 4 Stuks, 6LR61 | 100% Levensduurgarantie -",
           "c": "Elektronica"
         },
         {
-          "n": "DURACELL Plus 9V Alkaline batterijen, 4 Stuks, 6LR61 | 100% Levensduurgarantie -",
+          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
           "c": "Elektronica"
         },
         {
@@ -859,15 +851,23 @@
           "c": "Elektronica"
         },
         {
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "c": "Elektronica"
+        },
+        {
           "n": "EarFun Koptelefoon Kind Bedraad, 85 dB Volumebegrenzer, 3,5 mm Jack, Comfortabel",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Nexode Power Bank 20000mAh 45W met ingebouwde USB-C-kabel | Bidirectionel",
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Nexode Power Bank 20000mAh 45W met ingebouwde USB-C-kabel | Bidirectionel",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Sep 2026 01:29 UTC",
+      "note": "amazon.com.be — gescraped 1 Sep 2026 09:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1226,7 +1226,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Nintendo SanDisk 256 GB Micro SD Express geheugenkaart",
+          "n": "GXTrust Forta PS5-hoofdtelefoon, officiële licentie voor PlayStation 5 | 50 mm d",
           "c": "Algemeen"
         },
         {
@@ -1306,11 +1306,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
+          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Sep 2026 01:29 UTC",
+      "note": "amazon.de — gescraped 1 Sep 2026 09:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,11 +1509,11 @@
       ],
       "bestsellers": [
         {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
         {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
           "c": "Algemeen"
         },
         {
@@ -1545,11 +1545,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
           "c": "Algemeen"
         },
         {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
+          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1999 Meter über dem Meer: Roman | Ein rasanter Roadtrip, eine coole Hochstapleri",
+          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
           "c": "Algemeen"
         },
         {
@@ -1613,11 +1613,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "hansgrohe Pulsify Select S - waterbesparende douchekop 6,9 l/min (EcoSmart), han",
+          "n": "Fischer Duopower Plug",
           "c": "Algemeen"
         },
         {
-          "n": "Fischer Duopower Plug",
+          "n": "hansgrohe Pulsify Select S - waterbesparende douchekop 6,9 l/min (EcoSmart), han",
           "c": "Algemeen"
         },
         {
@@ -1657,6 +1657,10 @@
           "c": "Keuken"
         },
         {
+          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
+          "c": "Keuken"
+        },
+        {
           "n": "UHU stic lijmstift 5x21g",
           "c": "Keuken"
         },
@@ -1665,19 +1669,15 @@
           "c": "Keuken"
         },
         {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
           "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
           "c": "Keuken"
         },
         {
-          "n": "Amazon Basics Vacuüm Compressiezak met ritssluiting, opbergzak, met handpomp, 20",
+          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
           "c": "Keuken"
         },
         {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
+          "n": "Amazon Basics Vacuüm Compressiezak met ritssluiting, opbergzak, met handpomp, 20",
           "c": "Keuken"
         },
         {
@@ -1697,15 +1697,15 @@
           "c": "Keuken"
         },
         {
-          "n": "Pelikan tekenblok, wit C3",
-          "c": "Keuken"
-        },
-        {
           "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
           "c": "Keuken"
         },
         {
-          "n": "Dreamzie ⭐ Waterdichte matrasbeschermer, waterbestendige matrasovertrek, ademend",
+          "n": "Pelikan tekenblok, wit C3",
+          "c": "Keuken"
+        },
+        {
+          "n": "De'Longhi - Vervangend waterfilter voor volautomatische koffiemachines | Wateron",
           "c": "Keuken"
         }
       ]
