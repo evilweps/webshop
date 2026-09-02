@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T19:40:32.907564+00:00",
-  "updated_fmt": "1 September 2026 om 19:40",
+  "updated": "2026-09-02T00:38:36.809636+00:00",
+  "updated_fmt": "2 September 2026 om 00:38",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 1 Sep 2026 19:40 UTC",
+      "note": "bol.com — gescraped 2 Sep 2026 00:38 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 1 Sep 2026 19:40 UTC",
+      "note": "amazon.nl — gescraped 2 Sep 2026 00:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 1 Sep 2026 19:40 UTC",
+      "note": "amazon.com.be — gescraped 2 Sep 2026 00:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 1 Sep 2026 19:40 UTC",
+      "note": "amazon.de — gescraped 2 Sep 2026 00:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,7 +1513,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 14,62",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,52",
           "c": "Algemeen"
         },
         {
@@ -1521,7 +1529,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 17,39",
+          "c": "Algemeen"
+        },
+        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 31,28",
           "c": "Algemeen"
         },
         {
@@ -1529,7 +1545,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 14,94",
+          "c": "Algemeen"
+        },
+        {
           "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,72",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1561,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 989,01/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,40/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1577,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 22,42/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 24,29",
+          "c": "Algemeen"
+        },
+        {
           "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 231,68/l)",
           "c": "Algemeen"
         },
         {
@@ -1553,11 +1597,27 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 29,25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,65",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
           "c": "Algemeen"
         },
         {
+          "n": "USD 16,26",
+          "c": "Algemeen"
+        },
+        {
           "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 28,21",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1629,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 18,44",
+          "c": "Algemeen"
+        },
+        {
           "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 8,03",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1645,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 12,76",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 18,44",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 10,55",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1665,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 9,85",
+          "c": "Algemeen"
+        },
+        {
           "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 38,51",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1681,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 9,26/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD 8,38",
           "c": "Algemeen"
         },
         {
@@ -1601,112 +1697,16 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 0,05/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "hansgrohe Pulsify Select S - waterbesparende douchekop 6,9 l/min (EcoSmart), han",
           "c": "Algemeen"
         },
         {
-          "n": "SIKA - afdichtmiddel - Sikaflex-522 - zwart - 300ml | Voor binnen- en buitenvoeg",
+          "n": "USD 24,85",
           "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lampen, 6-pack, 50 W, reflector LED spots, warm wit, en",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
-          "c": "Keuken"
-        },
-        {
-          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
-          "c": "Keuken"
-        },
-        {
-          "n": "EMSA Clip & Close N10307 Vershouddozenset, rechthoekig, 5 x 0,8 l, opbergdozen, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Keuken"
-        },
-        {
-          "n": "UHU stic lijmstift 5x21g",
-          "c": "Keuken"
-        },
-        {
-          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie - Spannbettlaken - 180x200cm - 100% Baumwolle Jersey | wit, linnen lake",
-          "c": "Keuken"
-        },
-        {
-          "n": "Amazon Basics Vacuümzakken voor kleding met luchtdicht ventiel en handpomp - mid",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
-          "c": "Keuken"
-        },
-        {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
-          "c": "Keuken"
-        },
-        {
-          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 80x80 cm, allergiekussen, comfort 100 | Groot slaapkussen ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Gründl Wolle Cotton Quick uni Häkelgarn 1 Knäuel 50 g, Maisgelb | Dunne wol om t",
-          "c": "Keuken"
         }
       ]
     }
