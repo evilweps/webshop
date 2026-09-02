@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T14:47:37.526387+00:00",
-  "updated_fmt": "2 September 2026 om 14:47",
+  "updated": "2026-09-02T19:32:50.396035+00:00",
+  "updated_fmt": "2 September 2026 om 19:32",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Sep 2026 14:47 UTC",
+      "note": "bol.com — gescraped 2 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Sep 2026 14:47 UTC",
+      "note": "amazon.nl — gescraped 2 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,6 +739,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "TePe Interdentale Rager, Original, Geel, 0.7mm/ISO 4, 20st | Effectieve reinigin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Page Fris en Verzorgend (Aloë Vera) - Vochtig Toiletpapier - wc papier doorspoel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oral-B iO Series Radiant White Zwart, Originele opzetborstels voor wittere tande",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Easy@Home 50 x Ovulatietesten en 20 x Zwangerschapstesten, Met Premom Ovulatie P",
+          "c": "Algemeen"
+        },
+        {
           "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
           "c": "Algemeen"
         },
@@ -760,26 +780,6 @@
         },
         {
           "n": "Ring Buitencamera Plus met stekkeradapter (nieuwste generatie) – 2K met Ring Vis",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe Interdentale Rager, Original, Geel, 0.7mm/ISO 4, 20st | Effectieve reinigin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Page Fris en Verzorgend (Aloë Vera) - Vochtig Toiletpapier - wc papier doorspoel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B iO Series Radiant White Zwart, Originele opzetborstels voor wittere tande",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Easy@Home 50 x Ovulatietesten en 20 x Zwangerschapstesten, Met Premom Ovulatie P",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Sep 2026 14:47 UTC",
+      "note": "amazon.com.be — gescraped 2 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Sep 2026 14:47 UTC",
+      "note": "amazon.de — gescraped 2 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
+          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
+          "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
           "c": "Algemeen"
         },
         {
