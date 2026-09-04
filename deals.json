@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T19:29:33.618598+00:00",
-  "updated_fmt": "3 September 2026 om 19:29",
+  "updated": "2026-09-04T00:30:12.565091+00:00",
+  "updated_fmt": "4 September 2026 om 00:30",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Sep 2026 19:29 UTC",
+      "note": "bol.com — gescraped 4 Sep 2026 00:30 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Sep 2026 19:29 UTC",
+      "note": "amazon.nl — gescraped 4 Sep 2026 00:30 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Sep 2026 19:29 UTC",
+      "note": "amazon.com.be — gescraped 4 Sep 2026 00:30 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Sep 2026 19:29 UTC",
+      "note": "amazon.de — gescraped 4 Sep 2026 00:30 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1613,15 +1613,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
-          "c": "Algemeen"
-        },
-        {
           "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
           "c": "Algemeen"
         },
         {
           "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
           "c": "Algemeen"
         },
         {
