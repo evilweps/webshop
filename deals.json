@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T19:12:02.677647+00:00",
-  "updated_fmt": "4 September 2026 om 19:12",
+  "updated": "2026-09-05T00:27:37.085890+00:00",
+  "updated_fmt": "5 September 2026 om 00:27",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Sep 2026 19:12 UTC",
+      "note": "bol.com — gescraped 5 Sep 2026 00:27 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Sep 2026 19:12 UTC",
+      "note": "amazon.nl — gescraped 5 Sep 2026 00:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Sep 2026 19:12 UTC",
+      "note": "amazon.com.be — gescraped 5 Sep 2026 00:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,130 @@
       ],
       "bestsellers": [
         {
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vileda H2Pro platte bezemsysteem, revolutionaire scheiding van schoon en vuil wa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Moulinex Verwarmde blender, 1000 W, inhoud 1,2 l, 5 automatische programma's, du",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Lash Sensational Very Black Volume & Definition Mascara, 9,5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "c": "Algemeen"
+        },
+        {
+          "n": "URAQT Professionele nagelvijl, 16 stuks, dubbelzijdig, 100/180 korrel wasbaar, v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume | Extreem volume, langhoudend, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl | 0,1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Respresso koffie, Gouden mix - 100 capsules - Compatibel met Nespr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Waterdrop® Soft Fruitee – 48 blokjes hydratatietabletten zonder suiker | Suikerv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "KuKirin Trotinette Électrique 48V 15.6Ah – 55km Autonomie Pliable Tout-Terrain a",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart | Gevoerde achterkant, waterbestendig, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ELES VIDA Gymtassen van natuurlijk katoen, sporttas, stoffen rugzak, tas van can",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Sparrow FlipFlow Thermosfles, 500 ml/750 ml/1 l/1,2 l, roestvrij staal | Waterfl",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech G G240 doek gaming-muismat, geoptimaliseerd voor sensoren, matige wrijv",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Razer BlackShark V2 X Multiplatform, e-sports gaming hoofdtelefoon, 50 mm TriFor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint 1316011 bord L met zuignap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Autotelefoonhouder met Magsafe【20 krachtige magnetisch】Magnetische telefoonhoude",
+          "c": "Algemeen"
+        },
+        {
+          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
+          "c": "Algemeen"
+        },
+        {
           "n": "JETech Gehard glas voor iPhone 17, 3 stuks | 9H displaybescherming, transparant,",
           "c": "Elektronica"
         },
@@ -1200,130 +1324,6 @@
         {
           "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
           "c": "Elektronica"
-        },
-        {
-          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Revodok 5-in-1 Hub, USB C, 4K HDMI, met 100W PD Opladen, USB C naar HDMI,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
-          "c": "Elektronica"
-        },
-        {
-          "n": "EZVIZ Bewakingscamera voor binnen, 360° zicht, FullHD 1080p, 2,4 GHz wifi, nacht",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple Pencil (USB-C): pixelnauwkeurigheid, kantel- en drukgevoeligheid en lage l",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods 4 draadloze hoofdtelefoon, bluetooth-hoofdtelefoon en hoofdtelefoo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Gehard glas voor Samsung Galaxy A17, 3 stuks | HD-transparant, krasbesten",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy A34 5G, premium lederen beschermhoes, p",
-          "c": "Elektronica"
-        },
-        {
-          "n": "2 x 128 GB SD-kaart met SD-adapter, high-speed geheugenkaart, UHS-I, A1, C10, TF",
-          "c": "Elektronica"
-        },
-        {
-          "n": "KuKirin Trotinette Électrique 48V 15.6Ah – 55km Autonomie Pliable Tout-Terrain a",
-          "c": "Sport"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
-          "c": "Sport"
-        },
-        {
-          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart | Gevoerde achterkant, waterbestendig, ",
-          "c": "Sport"
-        },
-        {
-          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
-          "c": "Sport"
-        },
-        {
-          "n": "ELES VIDA Gymtassen van natuurlijk katoen, sporttas, stoffen rugzak, tas van can",
-          "c": "Sport"
-        },
-        {
-          "n": "Sparrow FlipFlow Thermosfles, 500 ml/750 ml/1 l/1,2 l, roestvrij staal | Waterfl",
-          "c": "Sport"
-        },
-        {
-          "n": "BALIGO Koeltas voor lunch, 6,4 l, geïsoleerde lunchbox, koeltas, maaltijd, kanto",
-          "c": "Sport"
-        },
-        {
-          "n": "CURSOR Loopband, opvouwbaar, kantelbaar, automatisch, 0-20% | Compacte loopband,",
-          "c": "Sport"
-        },
-        {
-          "n": "Casque de vélo léger avec éclairage LED, ventilé et réglable, 56-60 cm | Intérie",
-          "c": "Sport"
-        },
-        {
-          "n": "Youin MA1016 Motorhelm, EN1078, licht, comfortabel, verstelbaar, geventileerd, m",
-          "c": "Sport"
-        },
-        {
-          "n": "Ion8 lekvrije drinkfles van roestvrij staal, 400 ml, aqua",
-          "c": "Sport"
-        },
-        {
-          "n": "Sparrow Thermosfles voor kinderen, 500 ml, roestvrij staal, met rietje | Thermos",
-          "c": "Sport"
-        },
-        {
-          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
-          "c": "Sport"
-        },
-        {
-          "n": "Blukar Hoofdlamp, oplaadbaar, 2 stuks, 2000 l, superhelder, licht, led | Krachti",
-          "c": "Sport"
-        },
-        {
-          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
-          "c": "Sport"
-        },
-        {
-          "n": "ION8 Drinkfles van roestvrij staal, 600 ml, lekvrij, gemakkelijk te openen, veil",
-          "c": "Sport"
-        },
-        {
-          "n": "PUMA Teamgoal Gym Bag Rugzak, uniseks, 1 stuk",
-          "c": "Sport"
-        },
-        {
-          "n": "XIAOMI Smart Band 10 fitnesstracker, 44 mm AMOLED-display, 21 dagen batterijduur",
-          "c": "Sport"
-        },
-        {
-          "n": "Ion8 Waterfles, lekvrij, BPA-vrij, lichtpaars, 500 ml",
-          "c": "Sport"
-        },
-        {
-          "n": "GPUTEK Elektrische fietspomp, 120 psi, auto-off en led, draagbaar, voor | 80 sec",
-          "c": "Sport"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Sep 2026 19:12 UTC",
+      "note": "amazon.de — gescraped 5 Sep 2026 00:27 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,204 +1509,204 @@
       ],
       "bestsellers": [
         {
-          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
-          "c": "Speelgoed"
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
         },
         {
-          "n": "perfect line 12 x boekomslag 26,5 cm hoogte - schoolboekomslag extra | Boekbesch",
-          "c": "Speelgoed"
+          "n": "(USD 990,48/l)",
+          "c": "Algemeen"
         },
         {
-          "n": "Herma Boekomslag",
-          "c": "Speelgoed"
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
         },
         {
-          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
-          "c": "Speelgoed"
+          "n": "(USD 3,41/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
-          "c": "Speelgoed"
+          "n": "5 aanbiedingen vanUSD 24,33",
+          "c": "Algemeen"
         },
         {
-          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 25, gelinieerd met rand, 5 stuks",
-          "c": "Speelgoed"
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
+          "c": "Algemeen"
         },
         {
-          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
-          "c": "Speelgoed"
+          "n": "(USD 273,17/l)",
+          "c": "Algemeen"
         },
         {
-          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
-          "c": "Speelgoed"
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Algemeen"
         },
         {
-          "n": "SIGG WMB ONE aluminium drinkfles voor kinderen, Made in Switzerland, geschikt vo",
-          "c": "Speelgoed"
+          "n": "1 aanbieding voorUSD 5,81",
+          "c": "Algemeen"
         },
         {
-          "n": "STAEDTLER Noris colour 187 Buntstifte – 16er Set, Dreikant | Van PEFC-hout, anti",
-          "c": "Speelgoed"
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Algemeen"
         },
         {
-          "n": "Apple iPad met A16 chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
-          "c": "Speelgoed"
+          "n": "1 aanbieding voorUSD 15,00",
+          "c": "Algemeen"
         },
         {
-          "n": "tiptoi® Mein großer Adventskalender, Adventskalender für Kinder ab 3 Jahren, mit",
-          "c": "Speelgoed"
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 140x200 - 160x200 cm",
+          "c": "Algemeen"
         },
         {
-          "n": "Sigg - Roestvrijstalen drinkfles voor kinderen - Shield One Uni Skate - geschikt",
-          "c": "Speelgoed"
+          "n": "1 aanbieding voorUSD 12,78",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto, modelautoset met bestuurder, mod",
-          "c": "Speelgoed"
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO City Tractor - speelgoed boerderij voertuig modelbouw met boeren minifiguur",
-          "c": "Speelgoed"
+          "n": "3 aanbiedingen vanUSD 18,47",
+          "c": "Algemeen"
         },
         {
-          "n": "Stabilo Easycolors 332/12 Etui met 12 ergonomische kleurpotloden voor rechtshand",
-          "c": "Speelgoed"
+          "n": "Buymax Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrasho",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO Botanicals schommelplanten - set met kunstbloemen - met 2 kunstplanten en 2",
-          "c": "Speelgoed"
+          "n": "1 aanbieding voorUSD 9,87",
+          "c": "Algemeen"
         },
         {
-          "n": "Herlitz easy cover boekomslag, transparant, voor alle gangbare boekformaten, 5 s",
-          "c": "Speelgoed"
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
         },
         {
-          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
-          "c": "Speelgoed"
+          "n": "USD 38,57",
+          "c": "Algemeen"
         },
         {
-          "n": "Brunnen Schoolschrift, 10 stuks",
-          "c": "Speelgoed"
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
         },
         {
-          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
-          "c": "Speelgoed"
+          "n": "(USD 9,76/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "Herma schriftkaft, bedekt met baststructuur en beschrijfbaar etiket, gemaakt van",
-          "c": "Speelgoed"
+          "n": "2 aanbiedingen vanUSD 13,66",
+          "c": "Algemeen"
         },
         {
-          "n": "Herlitz Schrift, A4-formaat | Twee randen, afgeronde hoeken, houtvrij papier, 80",
-          "c": "Speelgoed"
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
         },
         {
-          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
-          "c": "Speelgoed"
+          "n": "USD 14,65",
+          "c": "Algemeen"
         },
         {
-          "n": "Mattel Games UNO kaartspel, vanaf 7 jaar, 2-10 spelers | Klassiek UNO-kleur- en ",
-          "c": "Speelgoed"
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
         },
         {
-          "n": "Mattel Games UNO Show 'Em No Mercy kaartspel, 7+, 2-6 spelers | Met extra kaarte",
-          "c": "Speelgoed"
+          "n": "USD 18,03",
+          "c": "Algemeen"
         },
         {
-          "n": "Zingbee 8 stuks magnetische fidget toys, siliconen magnetische ballen, anti-stre",
-          "c": "Speelgoed"
+          "n": "USD 9,57",
+          "c": "Algemeen"
         },
         {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Speelgoed"
+          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
+          "c": "Algemeen"
         },
         {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Speelgoed"
+          "n": "USD 15,58",
+          "c": "Algemeen"
         },
         {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Boeken"
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
         },
         {
-          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 17,41",
+          "c": "Algemeen"
         },
         {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
-          "c": "Boeken"
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
         },
         {
-          "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
-          "c": "Boeken"
+          "n": "2 aanbiedingen vanUSD 31,33",
+          "c": "Algemeen"
         },
         {
-          "n": "Heimsuchung. Roman: Erpenbeck, Jenny – Deutsch-Lektüre, Deutsche Klassiker der L",
-          "c": "Boeken"
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
         },
         {
-          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 16,81",
+          "c": "Algemeen"
         },
         {
-          "n": "Häftling: Ein absolut süchtig machender Psychothriller voller Twists",
-          "c": "Boeken"
+          "n": "PHILIPS LED Classic lamp GU10, 6 stuks | Warmwit licht, reflector led-spot, 50 W",
+          "c": "Algemeen"
         },
         {
-          "n": "Die Psychiaterin – Wurde ihr der Job zum Verhängnis?: Thriller - Der neue Thrill",
-          "c": "Boeken"
+          "n": "(USD 2,28/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "Deutschbuch Gymnasium - Nordrhein-Westfalen - Ausgabe 2019 - 6. Schuljahr: Arbei",
-          "c": "Boeken"
+          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
+          "c": "Algemeen"
         },
         {
-          "n": "Mutmurmeln für den ersten Schultag: Bilderbuch ab 5 Jahren für zukünftige Schulk",
-          "c": "Boeken"
+          "n": "17 aanbiedingen vanUSD 17,37",
+          "c": "Algemeen"
         },
         {
-          "n": "Threshing Day – Flammengeküsst: 13 Geschichten aus der Welt des Empyrean mit 16 ",
-          "c": "Boeken"
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
         },
         {
-          "n": "À plus ! Neubearbeitung - Französisch als 1. und 2. Fremdsprache - Ausgabe ab 20",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 8,13",
+          "c": "Algemeen"
         },
         {
-          "n": "FiNALE - Prüfungstraining Mittlerer Schulabschluss Nordrhein-Westfalen: Deutsch ",
-          "c": "Boeken"
+          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
+          "c": "Algemeen"
         },
         {
-          "n": "Einhorngeschichten - Leserabe 1. Klasse - Erstlesebuch für Kinder ab 6 Jahren (m",
-          "c": "Boeken"
+          "n": "1 aanbieding voorUSD 17,42",
+          "c": "Algemeen"
         },
         {
-          "n": "Trötsch Schreibtischquerkalender 1 2027: Tischkalender Wochenkalender",
-          "c": "Boeken"
+          "n": "2 aanbiedingen vanUSD 22,07",
+          "c": "Algemeen"
         },
         {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Boeken"
+          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
+          "c": "Algemeen"
         },
         {
-          "n": "Tabellenbuch Metall mit Formelsammlung",
-          "c": "Boeken"
+          "n": "3 aanbiedingen vanUSD 8,39",
+          "c": "Algemeen"
         },
         {
-          "n": "Der Mutfuchs - Dein Begleiter für die 1. Klasse: Ein herzerwärmendes Kinderbuch ",
-          "c": "Boeken"
+          "n": "Fischer Duopower Plug",
+          "c": "Algemeen"
         },
         {
-          "n": "Ein Leben in Songs: | Das künstlerische Vermächtnis von Freddie Mercury: Einziga",
-          "c": "Boeken"
+          "n": "(USD 0,06/eenheid)",
+          "c": "Algemeen"
         },
         {
-          "n": "Frankie und Freddie",
-          "c": "Boeken"
+          "n": "USD 5,04",
+          "c": "Algemeen"
         },
         {
-          "n": "Diercke Weltatlas - Ausgabe 2023: Schulatlas für alle Bundesländer außer Bayern",
-          "c": "Boeken"
+          "n": "hansgrohe Pulsify Select S - waterbesparende douchekop 6,9 l/min (EcoSmart), han",
+          "c": "Algemeen"
         }
       ]
     }
