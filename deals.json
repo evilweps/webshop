@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T09:13:21.625260+00:00",
-  "updated_fmt": "8 September 2026 om 09:13",
+  "updated": "2026-09-08T14:48:54.758586+00:00",
+  "updated_fmt": "8 September 2026 om 14:48",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Sep 2026 09:13 UTC",
+      "note": "bol.com — gescraped 8 Sep 2026 14:48 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Sep 2026 09:13 UTC",
+      "note": "amazon.nl — gescraped 8 Sep 2026 14:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -675,23 +675,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
-          "c": "Algemeen"
-        },
-        {
           "n": "Utopia Bedding Hoeslaken met elastische hoeken, geborstelde microvezel, wit, 200",
           "c": "Algemeen"
         },
         {
-          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Waterkoker 3000-serie - 1,7L Droogkookbeveiliging | Kopjesaanduiding - K",
+          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
           "c": "Algemeen"
         },
         {
           "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
           "c": "Algemeen"
         },
         {
@@ -711,11 +707,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
+          "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
           "c": "Algemeen"
         },
         {
-          "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
+          "n": "Celimax The Vita A Retinal Shot verstevigend | met netvlies, matryxyl, poriënmin",
           "c": "Algemeen"
         },
         {
@@ -723,15 +719,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
@@ -739,7 +731,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hoes voor Amazon Kindle Paperwhite en Amazon Kindle Colorsoft, licht en waterbes",
+          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Wired Video Doorbell 2K, Bedrade videodeurbel (nieuwste generatie), Deurbel",
           "c": "Algemeen"
         },
         {
@@ -755,31 +751,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "PINEPAN Regenbescherming voor rugzakken met reflecterende strepen, 15-50 l, wate",
+          "n": "SPGOOD Fietsslot met 3 sleutels, 6 mm kettingslot, 90 cm lengte(Zwart) | Geharde",
           "c": "Algemeen"
         },
         {
-          "n": "ION8 Waterfles, 500 ml/18 oz, Lekvrij, Makkelijk te Openen, Veilige Vergrendelin",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
-          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code O (30L), 120 stuks | Op ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe Interdentale Rager, Original, Geel, 0.7mm/ISO 4, 20st | Effectieve reinigin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Easy@Home 50 x Ovulatietesten en 20 x Zwangerschapstesten, Met Premom Ovulatie P",
+          "n": "Speedo Biofuse 2.0 Swimming Goggles | Patented Easy Adjustment | Anti-fog | Anti",
           "c": "Algemeen"
         },
         {
@@ -787,11 +767,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
+          "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
           "c": "Algemeen"
         },
         {
-          "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
+          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
           "c": "Algemeen"
         },
         {
@@ -803,15 +783,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "ACE2ACE Haarverwijderaar Voor Huisdieren, Herbruikbare Pluizenborstel, Blau | Pl",
+          "n": "Airtag kattenhalsband met veiligheidsgesp en belletje, Apple Airtag, reflecteren",
           "c": "Algemeen"
         },
         {
-          "n": "JETech Screen Protector voor iPhone 17 Pro, 3 Stuks | 9H Gehard Glas, HD Helder,",
-          "c": "Elektronica"
+          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Hue Dimmer Switch V2 - Draadloze Schakelaar - Dimschakelaar - Slimme Sch",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Stanley Bandmaat Tylon, 5 m, Tylon-polymeer beschermlaag, verschuifbare eindhaak",
+          "c": "Algemeen"
+        },
+        {
+          "n": "24 Stuks Stoelpootdoppen Zwart Siliconen, Viltglijders Voor Stoelen | Ronde Stoe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Materialix Food Grade minerale olie (250ml)",
+          "c": "Algemeen"
         },
         {
           "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Screen Protector voor iPhone 17 Pro, 3 Stuks | 9H Gehard Glas, HD Helder,",
           "c": "Elektronica"
         },
         {
@@ -823,11 +823,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "n": "SANDISK Extreme microSD kaart 256 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
         },
         {
@@ -835,7 +831,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "DURACELL Plus AA Alkaline batterijen, 24 Stuks, 1.5V, LR06 | Gaan Tot 150% Lange",
+          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
           "c": "Elektronica"
         },
         {
@@ -843,23 +839,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 17 Case Compatibel met MagSafe, Zwart | Volledige Camerabesche",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
-          "c": "Elektronica"
-        },
-        {
-          "n": "RISEOFLE 180cm Telefoonstatief & Selfiestick, Draagbaar All-in-One Uitschuifbaar",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU Power Bank 20000mAh, Klein 45W PD Snel Opladen Externe Batterij | met Geïnt",
+          "n": "DURACELL Plus AA Alkaline batterijen, 24 Stuks, 1.5V, LR06 | Gaan Tot 150% Lange",
           "c": "Elektronica"
         },
         {
@@ -867,7 +851,23 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
+          "c": "Elektronica"
+        },
+        {
+          "n": "RISEOFLE 180cm Telefoonstatief & Selfiestick, Draagbaar All-in-One Uitschuifbaar",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Sep 2026 09:13 UTC",
+      "note": "amazon.com.be — gescraped 8 Sep 2026 14:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,22 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Utopia Bedding Matrasbeschermer, 160 x 200 x 30 cm, waterdicht, Oeko TEX gecerti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
-          "c": "Algemeen"
-        },
-        {
           "n": "KuKirin Trotinette Électrique 48V 15.6Ah – 55km Autonomie Pliable Tout-Terrain a",
           "c": "Algemeen"
         },
@@ -1158,39 +1142,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "BALIGO Koeltas voor lunch, 6,4 l, geïsoleerde lunchbox, koeltas, maaltijd, kanto",
+          "n": "CURSOR Loopband, opvouwbaar, kantelbaar, automatisch, 0-20% | Compacte loopband,",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "n": "Sparrow FlipFlow Thermosfles, 500 ml/750 ml/1 l/1,2 l, roestvrij staal | Waterfl",
           "c": "Algemeen"
         },
         {
-          "n": "L'Oréal Paris Infaillible 3-Second Setting Mist 150 ml",
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Lash Sensational Very Black Volume & Definition Mascara, 9,5",
+          "n": "Philips AquaClean waterfilter voor espressomachine, voor hoogwaardige koffie en ",
           "c": "Algemeen"
         },
         {
-          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "n": "DeLonghi DLSC002 waterfilter",
           "c": "Algemeen"
         },
         {
-          "n": "BaByliss Turbo Smooth 2200 D572DE haardroger, zwart/zilver",
-          "c": "Algemeen"
-        },
-        {
-          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl | 0,1",
+          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
           "c": "Algemeen"
         },
         {
           "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterdrop® Grote klassiekers – 48 kubussen hydratatietabletten zonder | Suikervr",
           "c": "Algemeen"
         },
         {
@@ -1202,11 +1178,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Respresso koffie, Gouden mix - 100 capsules - Compatibel met Nespr",
+          "n": "Waterdrop® Grote klassiekers – 48 kubussen hydratatietabletten zonder | Suikervr",
           "c": "Algemeen"
         },
         {
-          "n": "waterdrop Microenergy-set, energiedrank zonder suiker, kersendrank, 36 bruisblok",
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "L'Oréal Paris Infaillible 3-Second Setting Mist 150 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade 360 Autentisk Face & Body Electric Beard Trimmer, Shaver and Bo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "celimax The Vita A Retinal Shot verstevigend | met netvlies 0,1%, matryxyl | 0,1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vervangende messen – Philips – QP225/50 OneBlade – compatibel met alle handgrepe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "essence Ess. I Love Extreme Mascara Crazy Volume | Extreem volume, langhoudend, ",
           "c": "Algemeen"
         },
         {
@@ -1226,11 +1226,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
@@ -1254,19 +1254,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Beschermhoes voor iPhone 17, compatibel met MagSafe, zwart | Geïntegreerde",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple EarPods (USB-C)​​​​​​​",
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell Plus AA-batterijen (12 stuks) – alkaline 1,5 V – tot 100% langer – idea",
+          "n": "TOCOL Beschermhoes voor iPhone 17, compatibel met MagSafe, zwart | Geïntegreerde",
           "c": "Elektronica"
         },
         {
@@ -1274,7 +1266,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
+          "n": "Duracell Plus AA Mignon alkaline-batterijen, 1,5 V LR6 MN1500, 24 stuks | Gaat t",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU USB C naar USB C-kabel [100 W/2 m], snellaadkabel PD 5A QC 4.0, oplaadkabel",
           "c": "Elektronica"
         },
         {
@@ -1286,11 +1282,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
+          "n": "UGREEN USB C naar USB C PD snel opladen 60 W USB-kabel type C nylon gevlochten c",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "n": "JETech Gehard glas voor iPad Air 11 inch M4/M3/M2, 2 stuks | Voor 2026/2025/2024",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
         },
         {
@@ -1298,7 +1298,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
+          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
           "c": "Elektronica"
         },
         {
@@ -1310,7 +1310,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
           "c": "Elektronica"
         },
         {
@@ -1318,11 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Extreme 128 GB microSDXC, Micro SD-kaart + SD-adapter, UHS-I V30, tot 19",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
+          "n": "UGREEN Revodok 5-in-1 Hub, USB C, 4K HDMI, met 100W PD Opladen, USB C naar HDMI,",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Sep 2026 09:13 UTC",
+      "note": "amazon.de — gescraped 8 Sep 2026 14:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,31 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ninabella Haarborstel zonder trekken, ontwarringsborstel, ontwarringsborstel en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
+          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
           "c": "Algemeen"
         },
         {
@@ -1561,11 +1537,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Buymax Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrasho",
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
           "c": "Algemeen"
         },
         {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "n": "Buymax Hoeslaken, 90 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrasho",
           "c": "Algemeen"
         },
         {
@@ -1577,11 +1553,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
           "c": "Algemeen"
         },
         {
-          "n": "PHILIPS LED Classic lamp GU10, 6 stuks | Warmwit licht, reflector led-spot, 50 W",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
           "c": "Algemeen"
         },
         {
@@ -1589,11 +1589,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
+          "c": "Algemeen"
+        },
+        {
           "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
           "c": "Algemeen"
         },
         {
-          "n": "JEKEMORYE 20 cm led-onderkastlamp, bewegingssensor | Dimbaar, magneethouder, dra",
+          "n": "HOVVIDA Ledstrip 5 m, 30 leds/meter, 1 x 5 m, 150 leds, RGB ledstrip, app en afs",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Secondelijm universele gel 50 g - alleslijm universele lijm CA lijm | Druppelvri",
+          "n": "ZHEGE Hangslot cijferslot, 4-cijferig cijfercode slot (zwart) | Hangslot, combin",
           "c": "Algemeen"
         },
         {
@@ -1637,15 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
-          "c": "Keuken"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie - Spannbettlaken - 180x200cm - 100% Baumwolle Jersey | wit, linnen lake",
+          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
           "c": "Keuken"
         },
         {
@@ -1653,15 +1649,15 @@
           "c": "Keuken"
         },
         {
+          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
+          "c": "Keuken"
+        },
+        {
+          "n": "Dreamzie - Spannbettlaken - 180x200cm - 100% Baumwolle Jersey | wit, linnen lake",
+          "c": "Keuken"
+        },
+        {
           "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "roborock QV 35A Set robotstofzuiger met dweilfunctie met 8.000 Pa | Anti-klit-zi",
-          "c": "Keuken"
-        },
-        {
-          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
           "c": "Keuken"
         },
         {
@@ -1669,7 +1665,11 @@
           "c": "Keuken"
         },
         {
-          "n": "Dreamzie Kussenslopen 40 x 80 cm (set van 2) - antraciet | Öko-Tex-gecertificeer",
+          "n": "UHU stic lijmstift 5x21g",
+          "c": "Keuken"
+        },
+        {
+          "n": "SIMPEX Vloerkleed, zilver, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, ",
           "c": "Keuken"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Keuken"
         },
         {
-          "n": "UHU stic lijmstift 5x21g",
+          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
           "c": "Keuken"
         },
         {
@@ -1693,19 +1693,19 @@
           "c": "Keuken"
         },
         {
-          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "n": "Vitafit Keukenweegschaal, 15 kg, nauwkeurigheid 1 g, door onze professionele wee",
           "c": "Keuken"
         },
         {
-          "n": "Blumtal Zijslaapkussenovertrek 40x145, set van 2, grijs | 100% katoen, Oeko-Tex-",
-          "c": "Keuken"
-        },
-        {
-          "n": "SIMPEX Vloerkleed, crème, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, m",
+          "n": "Dreamzie Kussenslopen 40 x 80 cm (set van 2) - antraciet | Öko-Tex-gecertificeer",
           "c": "Keuken"
         },
         {
           "n": "Edding Permanent spray Premium acryllak, keuze uit verschillende kleuren, zijdem",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
           "c": "Keuken"
         }
       ]
