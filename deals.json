@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T14:52:39.245230+00:00",
-  "updated_fmt": "9 September 2026 om 14:52",
+  "updated": "2026-09-09T19:32:50.757522+00:00",
+  "updated_fmt": "9 September 2026 om 19:32",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Sep 2026 14:52 UTC",
+      "note": "bol.com — gescraped 9 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Sep 2026 14:52 UTC",
+      "note": "amazon.nl — gescraped 9 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Sep 2026 14:52 UTC",
+      "note": "amazon.com.be — gescraped 9 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Sep 2026 14:52 UTC",
+      "note": "amazon.de — gescraped 9 Sep 2026 19:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,204 +1509,124 @@
       ],
       "bestsellers": [
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EMSA Clip & Close N10307 Vershouddozenset, rechthoekig, 5 x 0,8 l, opbergdozen, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fischer Duopower Plug",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ZHEGE Hangslot cijferslot, 4-cijferig cijfercode slot (zwart) | Hangslot, combin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
-          "c": "Algemeen"
-        },
-        {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Heimsuchung: Roman - Die große Verfilmung von Volker Schlöndorff ab dem 15.10. i",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
+          "c": "Sport"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
+          "c": "Sport"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Keuken"
+          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
+          "c": "Speelgoed"
         },
         {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Keuken"
+          "n": "LEGO Editions Cristiano Ronaldo 43012 Voetbalhoogtepunten, speelgoed, 3D-modelbo",
+          "c": "Speelgoed"
         },
         {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
-          "c": "Keuken"
+          "n": "Brunnen schriftomslag voor A4 met naambordje en structuurreliëf/baststruktur, 1 ",
+          "c": "Speelgoed"
         },
         {
-          "n": "UHU stic lijmstift 5x21g",
-          "c": "Keuken"
+          "n": "Herma Boekomslag",
+          "c": "Speelgoed"
         },
         {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Speelgoed"
         },
         {
-          "n": "Twinzen Matrasbeschermer 180 x 200 cm - katoen | Oeko-Tex gecertificeerd, ademen",
-          "c": "Keuken"
+          "n": "LEGO City Tractor - speelgoed boerderij voertuig modelbouw met boeren minifiguur",
+          "c": "Speelgoed"
         },
         {
-          "n": "Dreamzie - Spannbettlaken - 90x200cm - 100% Baumwolle Jersey | wit, linnen laken",
-          "c": "Keuken"
+          "n": "Limit Schoolschrift A4, 16 vellen, liniatuur 25, gelinieerd met rand, 5 stuks",
+          "c": "Speelgoed"
         },
         {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
-          "c": "Keuken"
+          "n": "IJIAMY Broodtrommel voor kinderen met vakken, Bento Box voor kinderen, lekvrije ",
+          "c": "Speelgoed"
         },
         {
-          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
-          "c": "Keuken"
+          "n": "LEGO Speed Champions The Fast and The Furious Toyota Supra MK4 - autospeelgoed -",
+          "c": "Speelgoed"
         },
         {
-          "n": "sleepling Hoofdkussen, 40x80 cm, set van 2, allergiekussen, comfort 100 | Lang s",
-          "c": "Keuken"
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
         },
         {
-          "n": "Amazon Basics Vacuümzakken voor kleding met luchtdicht ventiel en handpomp - mee",
-          "c": "Keuken"
+          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto, modelautoset met bestuurder, mod",
+          "c": "Speelgoed"
         },
         {
-          "n": "Vitafit Keukenweegschaal, 15 kg, nauwkeurigheid 1 g, door onze professionele wee",
-          "c": "Keuken"
+          "n": "Apple iPad met A16 chip: 11\" Liquid Retina Display, 128 GB, WLAN 6, 12 MP front ",
+          "c": "Speelgoed"
         },
         {
-          "n": "Gründl Wolle Cotton Quick uni Häkelgarn 1 Knäuel 50 g, Weiß | Dunne wol om te ha",
-          "c": "Keuken"
+          "n": "STAEDTLER Noris colour 187 Buntstifte – 16er Set, Dreikant | Van PEFC-hout, anti",
+          "c": "Speelgoed"
         },
         {
-          "n": "Edding Permanent spray Premium acryllak, keuze uit verschillende kleuren, zijdem",
-          "c": "Keuken"
+          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
+          "c": "Speelgoed"
         },
         {
-          "n": "uandu Glazen container met deksel, 20-delig, meal prep boxen, glas | 10 containe",
-          "c": "Keuken"
+          "n": "LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 - Muscle Car spee",
+          "c": "Speelgoed"
         },
         {
-          "n": "Pelikan tekenblok, wit C3",
-          "c": "Keuken"
+          "n": "STABILO EASYcolors Ergonomische kleurpotlood, rechtshandig | 12 stuks, gesorteer",
+          "c": "Speelgoed"
         },
         {
-          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
-          "c": "Keuken"
+          "n": "Herlitz easy cover boekomslag, transparant, voor alle gangbare boekformaten, 5 s",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herma schriftkaft, bedekt met baststructuur en beschrijfbaar etiket, gemaakt van",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Boter Squishy - anti-stress margarine knijp voor effectieve afleiding op kantoor",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herlitz Schrift, A4-formaat | Twee randen, afgeronde hoeken, houtvrij papier, 80",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "FUNXGO folieballon, cijfers in blauw, XXL, ca. 100 cm, reuzen cijferballonnen, f",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Herlitz Schriften A4/32 (gelinieerd), gekleurde achtergrond, GH FSC-mix, 10-deli",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Huidvriendelijke tatoeages voor kinderen - dieren | Populaire kindertattoos: Mad",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Zingbee 8 stuks magnetische fidget toys, siliconen magnetische ballen, anti-stre",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Faber-Castell - Kleurpotloden set eenhoorn, 24-delig, incl. stickers | Onbreekba",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Faber-Castell - Kleurpotlodenset Colour Grip, 12 kleurpotloden onbreekbaar | Wat",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "SIGG WMB ONE aluminium drinkfles voor kinderen, Made in Switzerland, geschikt vo",
+          "c": "Speelgoed"
         }
       ]
     }
