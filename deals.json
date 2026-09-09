@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T00:48:15.548796+00:00",
-  "updated_fmt": "9 September 2026 om 00:48",
+  "updated": "2026-09-09T09:16:59.638417+00:00",
+  "updated_fmt": "9 September 2026 om 09:16",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Sep 2026 00:48 UTC",
+      "note": "bol.com — gescraped 9 Sep 2026 09:16 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Sep 2026 00:48 UTC",
+      "note": "amazon.nl — gescraped 9 Sep 2026 09:16 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -691,6 +691,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips Waterkoker 3000-serie - 1,7L Droogkookbeveiliging | Kopjesaanduiding - K",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
           "c": "Algemeen"
         },
@@ -751,11 +755,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
           "c": "Algemeen"
         },
         {
@@ -775,11 +779,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "SPGOOD Fietsslot met 3 sleutels, 6 mm kettingslot, 90 cm lengte(Zwart) | Geharde",
+          "n": "Amazon Basics",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "SPGOOD Fietsslot met 3 sleutels, 6 mm kettingslot, 90 cm lengte(Zwart) | Geharde",
           "c": "Algemeen"
         },
         {
@@ -799,19 +803,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "24 Stuks Stoelpootdoppen Zwart Siliconen, Viltglijders Voor Stoelen | Ronde Stoe",
-          "c": "Algemeen"
-        },
-        {
           "n": "Materialix Food Grade minerale olie (250ml)",
           "c": "Algemeen"
         },
         {
-          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
-          "c": "Elektronica"
+          "n": "24 Stuks Stoelpootdoppen Zwart Siliconen, Viltglijders Voor Stoelen | Ronde Stoe",
+          "c": "Algemeen"
         },
         {
           "n": "JETech Screen Protector voor iPhone 17 Pro, 3 Stuks | 9H Gehard Glas, HD Helder,",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
           "c": "Elektronica"
         },
         {
@@ -823,7 +827,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSD kaart 256 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
         },
         {
@@ -831,11 +835,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
           "c": "Elektronica"
         },
         {
@@ -847,11 +851,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
+          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
+          "n": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukk",
           "c": "Elektronica"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "RISEOFLE 180cm Telefoonstatief & Selfiestick, Draagbaar All-in-One Uitschuifbaar",
           "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Sep 2026 00:48 UTC",
+      "note": "amazon.com.be — gescraped 9 Sep 2026 09:16 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,11 +1142,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
           "c": "Algemeen"
         },
         {
@@ -1174,11 +1174,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
+          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart | Gevoerde achterkant, waterbestendig, ",
           "c": "Algemeen"
         },
         {
-          "n": "Eastpak PADDED PAK'R Rugzak, 24 l, Zwart | Gevoerde achterkant, waterbestendig, ",
+          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
           "c": "Algemeen"
         },
         {
@@ -1322,7 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Revodok 5-in-1 Hub, USB C, 4K HDMI, met 100W PD Opladen, USB C naar HDMI,",
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Sep 2026 00:48 UTC",
+      "note": "amazon.de — gescraped 9 Sep 2026 09:16 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
+          "n": "Ninabella Haarborstel zonder trekken, ontwarringsborstel, ontwarringsborstel en ",
           "c": "Algemeen"
         },
         {
@@ -1541,11 +1541,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
           "c": "Algemeen"
         },
         {
@@ -1577,15 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
           "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
           "c": "Algemeen"
         },
         {
@@ -1593,11 +1585,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
+          "c": "Algemeen"
+        },
+        {
           "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
           "c": "Algemeen"
         },
         {
-          "n": "HOVVIDA Ledstrip 5 m, 30 leds/meter, 1 x 5 m, 150 leds, RGB ledstrip, app en afs",
+          "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
           "c": "Algemeen"
         },
         {
@@ -1613,15 +1609,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "Secondelijm universele gel 50 g - alleslijm universele lijm CA lijm | Druppelvri",
+          "c": "Algemeen"
+        },
+        {
           "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
           "c": "Algemeen"
         },
         {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
+          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
           "c": "Algemeen"
         },
         {
-          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
+          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
           "c": "Keuken"
         },
         {
@@ -1649,7 +1649,11 @@
           "c": "Keuken"
         },
         {
-          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
+          "n": "Mepal - Bento lunchbox Take A Break Midi - broodtrommel met bento-box - Meal Pre",
+          "c": "Keuken"
+        },
+        {
+          "n": "Twinzen Matrasbeschermer 180 x 200 cm - katoen | Oeko-Tex gecertificeerd, ademen",
           "c": "Keuken"
         },
         {
@@ -1669,19 +1673,19 @@
           "c": "Keuken"
         },
         {
-          "n": "SIMPEX Vloerkleed, zilver, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, ",
-          "c": "Keuken"
-        },
-        {
           "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
           "c": "Keuken"
         },
         {
-          "n": "Amazon Basics Vacuüm-compressiezak, opbergzak, met handpomp, ritssluiting, maat ",
+          "n": "SIMPEX Vloerkleed, crème, 200 x 280 cm, wasbaar, laagpolig, antislip en zacht, m",
           "c": "Keuken"
         },
         {
           "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "c": "Keuken"
+        },
+        {
+          "n": "Amazon Basics Vacuüm-compressiezak, opbergzak, met handpomp, ritssluiting, maat ",
           "c": "Keuken"
         },
         {
@@ -1693,15 +1697,11 @@
           "c": "Keuken"
         },
         {
+          "n": "Dreamzie - Kussensloop 40 x 80 cm - set van 2 - 100% katoen - antraciet | Oeko-T",
+          "c": "Keuken"
+        },
+        {
           "n": "Vitafit Keukenweegschaal, 15 kg, nauwkeurigheid 1 g, door onze professionele wee",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie Kussenslopen 40 x 80 cm (set van 2) - antraciet | Öko-Tex-gecertificeer",
-          "c": "Keuken"
-        },
-        {
-          "n": "Edding Permanent spray Premium acryllak, keuze uit verschillende kleuren, zijdem",
           "c": "Keuken"
         },
         {
