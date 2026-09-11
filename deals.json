@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T00:38:30.699046+00:00",
-  "updated_fmt": "11 September 2026 om 00:38",
+  "updated": "2026-09-11T09:13:58.137951+00:00",
+  "updated_fmt": "11 September 2026 om 09:13",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Sep 2026 00:38 UTC",
+      "note": "bol.com — gescraped 11 Sep 2026 09:13 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Sep 2026 00:38 UTC",
+      "note": "amazon.nl — gescraped 11 Sep 2026 09:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,6 +671,10 @@
       ],
       "bestsellers": [
         {
+          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
+          "c": "Algemeen"
+        },
+        {
           "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
           "c": "Algemeen"
         },
@@ -679,15 +683,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
+          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
           "c": "Algemeen"
         },
         {
           "n": "Kanzy Koudgeperste Jojobaolie 120 ml – 100% Puur voor Haar, Nagels, Wimpers & We",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
           "c": "Algemeen"
         },
         {
@@ -707,11 +707,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
+          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
           "c": "Algemeen"
         },
         {
-          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
+          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
           "c": "Algemeen"
         },
         {
@@ -739,30 +739,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "MARVIS® Smokers Whitening Mint 85 ml I Tandpasta vor een wittere glimlach I lang",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biokat's Diamond Care MultiCat Fresh, geurend - Fijne kattenbakvulling met actie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vitakraft Vloeibare snack voor katten, kattenlekkernijen in mega-verpakking (48 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GimCat Nutri Pockets Dental - Knapperige kattensnack met crèmige vulling en func",
-          "c": "Algemeen"
-        },
-        {
           "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
           "c": "Algemeen"
         },
@@ -787,11 +763,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "PINEPAN Regenbescherming voor rugzakken met reflecterende strepen, 15-50 l, wate",
+          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
           "c": "Algemeen"
         },
         {
-          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "n": "PINEPAN Regenbescherming voor rugzakken met reflecterende strepen, 15-50 l, wate",
           "c": "Algemeen"
         },
         {
@@ -804,6 +780,26 @@
         },
         {
           "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Materialix Food Grade minerale olie (250ml)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Stanley Bandmaat Tylon, 5 m, Tylon-polymeer beschermlaag, verschuifbare eindhaak",
+          "c": "Algemeen"
+        },
+        {
+          "n": "24 Stuks Stoelpootdoppen Zwart Siliconen, Viltglijders Voor Stoelen | Ronde Stoe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Hue Dimmer Switch V2 - Draadloze Schakelaar - Dimschakelaar - Slimme Sch",
           "c": "Algemeen"
         },
         {
@@ -831,15 +827,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "c": "Elektronica"
+        },
+        {
           "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
           "n": "TOCOL voor iPhone 17 Pro Case Compatibel met MagSafe, Blauw | Volledige Camerabe",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "tomtoc 360° Laptop Sleeve Laptophoes voor 13-inch MacBook Air M5/A3449 (2026), M",
           "c": "Elektronica"
+        },
+        {
+          "n": "RISEOFLE 180cm Telefoonstatief & Selfiestick, Draagbaar All-in-One Uitschuifbaar",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Sep 2026 00:38 UTC",
+      "note": "amazon.com.be — gescraped 11 Sep 2026 09:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,11 +1142,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Echo Show 5 (nieuwste generatie) | Slim scherm en wekker met beter geluid | Wit",
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Battery Video Doorbell Plus van Amazon | Draadloze deurbelcamera met 1536p ",
+          "n": "Echo Show 5 (nieuwste generatie) | Slim scherm en wekker met beter geluid | Wit",
           "c": "Algemeen"
         },
         {
@@ -1166,7 +1166,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "GRIFEMA Handmelkopschuimer, elektrische garde op batterijen | 13.000 tpm, roestv",
+          "n": "DeLonghi DLSC002 waterfilter",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Sep 2026 00:38 UTC",
+      "note": "amazon.de — gescraped 11 Sep 2026 09:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1509,6 +1509,30 @@
       ],
       "bestsellers": [
         {
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
@@ -1553,30 +1577,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HORISUN Comfortabele naadloze beha met volledige afdekking voor dames, draadloze",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
-          "c": "Algemeen"
-        },
-        {
           "n": "AUVON Led-nachtlampje, beweging- en schemeringssensor, 2 stuks | 2700 K warmwit,",
           "c": "Algemeen"
         },
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "ZHEGE 4-cijferig combinatieslot, weerbestendig, zwart | Cijferslot, resetbaar, s",
+          "n": "ZHEGE Hangslot cijferslot, 4-cijferig cijfercode slot (zwart) | Hangslot, combin",
           "c": "Algemeen"
         },
         {
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Broder: Roman - Der neue große Roman der Bestsellerautorin",
+          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
           "c": "Algemeen"
         },
         {
@@ -1645,11 +1645,11 @@
           "c": "Keuken"
         },
         {
-          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
           "c": "Keuken"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "n": "Mepal Mueslibeker to go, praktische yoghurtbeker to go - onderverdeling voor yog",
           "c": "Keuken"
         },
         {
@@ -1669,15 +1669,15 @@
           "c": "Keuken"
         },
         {
-          "n": "Twinzen Matrasbeschermer - 140x200 cm, waterdicht - katoen | Oeko-Tex-gecertific",
-          "c": "Keuken"
-        },
-        {
-          "n": "Gründl Wolle Cotton Quick uni Häkelgarn 1 Knäuel 50 g, Weiß | Dunne wol om te ha",
+          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
           "c": "Keuken"
         },
         {
           "n": "Dreamzie elastisch hoeslaken van jerseykatoen | Beige, linnen laken met elastiek",
+          "c": "Keuken"
+        },
+        {
+          "n": "Gründl Wolle Cotton Quick uni Häkelgarn 1 Knäuel 50 g, Weiß | Dunne wol om te ha",
           "c": "Keuken"
         },
         {
@@ -1701,11 +1701,11 @@
           "c": "Keuken"
         },
         {
-          "n": "uandu Glazen containers met deksel, set van 20 maaltijdvoorbereidingen | 10 cont",
+          "n": "reisenthel Carrybag: stabiele boodschappenmand met veel opbergruimte en praktisc",
           "c": "Keuken"
         },
         {
-          "n": "BARBONS Matrasbeschermer, 90 x 200 cm, Oeko-Tex-gecertificeerd, waterdichte matr",
+          "n": "uandu Glazen container met deksel, 20-delig, meal prep boxen, glas | 10 containe",
           "c": "Keuken"
         }
       ]
