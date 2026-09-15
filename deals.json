@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T20:40:09.620756+00:00",
-  "updated_fmt": "14 September 2026 om 20:40",
+  "updated": "2026-09-15T01:02:40.578132+00:00",
+  "updated_fmt": "15 September 2026 om 01:02",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 14 Sep 2026 20:40 UTC",
+      "note": "bol.com — gescraped 15 Sep 2026 01:02 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 14 Sep 2026 20:40 UTC",
+      "note": "amazon.nl — gescraped 15 Sep 2026 01:02 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 14 Sep 2026 20:40 UTC",
+      "note": "amazon.com.be — gescraped 15 Sep 2026 01:02 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1194,26 +1194,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone koffiepad, composteerbaar, recyclebaar, blauw, 100 dranken, ESE-sy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arlequin Original 250 g",
-          "c": "Algemeen"
-        },
-        {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
@@ -1238,28 +1218,72 @@
           "c": "Algemeen"
         },
         {
-          "n": "JETech Gehard glas voor iPhone 18 Pro/17 Pro, 3 stuks | 9H displaybescherming, t",
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
           "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone koffiepad, composteerbaar, recyclebaar, blauw, 100 dranken, ESE-sy",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Arlequin Original 250 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Rowenta - Premiss 2.0 Personenweegschaal van gehard glas - 160 kg | 100 g nauwke",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Magnesiumbisglycinaat + vitamine B6-90 veganistische capsules - Nutrimea | Slaap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "MARVIS Tandpasta Whitening Mint 85ml / Xylitol 411171",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Optimum Nutrition Creatin Monohydraat Poeder ON Creatine gemaakt om prestaties t",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Optimum Nutrition Gold Standard 100% Whey, eiwitpoeder, dubbele smaak, rijke cho",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | Isopropylalcohol met hoog geh",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JETech Gehard glas voor iPhone 18 Pro/17 Pro, 3 stuks | 9H displaybescherming, t",
+          "c": "Elektronica"
         },
         {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "TOCOL Beschermhoes voor iPhone 17, compatibel met MagSafe, zwart | Geïntegreerde",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Duracell Plus AA Mignon alkaline-batterijen, 1,5 V LR6 MN1500, 24 stuks | Gaat t",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
@@ -1300,30 +1324,6 @@
         {
           "n": "SanDisk 256 GB Extreme microSDXC, micro-SD-kaart + SD-adapter, UHS-I, tot 190 MB",
           "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Beschermhoes met transparante achterkant voor iPhone 18 Pro Max | Anti-ve",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN 8K HDMI 2.1-kabel, gecertificeerd 8K 60Hz 48Gbps High Speed (2M) | HDMI-k",
-          "c": "Elektronica"
-        },
-        {
-          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Trust Premier Chipkaartlezer, ID, voldoet aan FIPS 201, FIPS TAA en ISO 7816 kla",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Cat 8 Ethernet-netwerkkabel RJ45, supersnelle overdracht van 40 Gbps, 200",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 14 Sep 2026 20:40 UTC",
+      "note": "amazon.de — gescraped 15 Sep 2026 01:02 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1601,26 +1601,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der letzte Bannbrecher: Die Bannbrecher-Chroniken, Band 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Grüffelo-Oma: Ein neuer Bilderbuch aus der Grüffelo-welt | Die lang ersehnte",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
-          "c": "Algemeen"
-        },
-        {
           "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
           "c": "Algemeen"
         },
@@ -1634,6 +1614,22 @@
         },
         {
           "n": "Hama Stekkerdoos 3-voudig, kabel 1,4 m, GS-getest | Meervoudig stopcontact wit m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alles wird Asche: Kriminalroman | Der neue Bestseller der Krimi-Königin in limit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Broder: Roman - Der neue große Roman der Bestsellerautorin",
           "c": "Algemeen"
         },
         {
@@ -1710,6 +1706,10 @@
         },
         {
           "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
           "c": "Keuken"
         }
       ]
