@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T15:12:02.736127+00:00",
-  "updated_fmt": "16 September 2026 om 15:12",
+  "updated": "2026-09-16T19:47:57.148164+00:00",
+  "updated_fmt": "16 September 2026 om 19:47",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Sep 2026 15:12 UTC",
+      "note": "bol.com — gescraped 16 Sep 2026 19:47 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Sep 2026 15:12 UTC",
+      "note": "amazon.nl — gescraped 16 Sep 2026 19:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -747,7 +747,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Fit-Flip Microvezel handdoeken - 12 kleuren, 8 afmetingen - compact, ultralicht ",
+          "n": "Fit-Flip Microvezel handdoeken - compact, ultralicht & sneldrogend | Microvezel ",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Sep 2026 15:12 UTC",
+      "note": "amazon.com.be — gescraped 16 Sep 2026 19:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1214,22 +1214,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterdrop® Grote klassiekers – 48 kubussen hydratatietabletten zonder | Suikervr",
-          "c": "Algemeen"
-        },
-        {
           "n": "Rowenta - Premiss 2.0 Personenweegschaal van gehard glas - 160 kg | 100 g nauwke",
           "c": "Algemeen"
         },
@@ -1251,6 +1235,22 @@
         },
         {
           "n": "Optimum Nutrition Gold Standard 100% Whey, eiwitpoeder, dubbele smaak, rijke cho",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Waterdrop® Grote klassiekers – 48 kubussen hydratatietabletten zonder | Suikervr",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Sep 2026 15:12 UTC",
+      "note": "amazon.de — gescraped 16 Sep 2026 19:47 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,144 +1513,36 @@
       ],
       "bestsellers": [
         {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dirndlblouse dames wit - dirndlblouse korte mouwen dirndlblouses V-hals klederdr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lico Unisex kinderen G 1 Style gymschoenen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, wit, 90x200 - 100x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Classic Ledlamp, vervangt 50 W, GU10, warmwit, 2700 K, 355 lumen, reflec",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "86lux Leeslamp boek klem, oplaadbare boeklamp om in bed te lezen | Ultralichte l",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ARNOMED Wegwerphandschoenen 100 stuks/doos, zwarte nitrilhandschoenen L, poederv",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fischer Duopower Plug",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ZHEGE Hangslot cijferslot, 4-cijferig cijfercode slot (zwart) | Hangslot, combin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hama Stekkerdoos 3-voudig, kabel 1,4 m, GS-getest | Meervoudig stopcontact wit m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Secondelijm universele gel 50 g - alleslijm universele lijm CA lijm | Druppelvri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Super Ninja Fruitvliegenval voor binnen, 4 stuks | Effectieve vliegenval voor fr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "anwerk® Sluipwespen tegen voedselmotten, 4 kaarten à 1 levering, effectief voeds",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Super Ninja Fruitvliegenval voor binnen, set van 2, effectieve fruitvliegenval v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Graszaad, snelkiemend, zomer, 1 kg, test zeer goed, graszaad, snelkiemzaad, made",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Voedselmottenval [12 stuks voordeelpakket] | Mottenval tegen voedselmotten met m",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "PayPal Ratenzahlung",
-          "c": "Algemeen"
+          "c": "Elektronica"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
+          "c": "Elektronica"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, wit, 90x200 - 100x200 cm",
+          "c": "Keuken"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "c": "Keuken"
+        },
+        {
+          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
+          "c": "Keuken"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Keuken"
+        },
+        {
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Keuken"
         },
         {
           "n": "Mepal - Bento lunchbox Midi TAB - broodtrommel met bento-box - voor 2 boterhamme",
@@ -1709,8 +1601,116 @@
           "c": "Keuken"
         },
         {
+          "n": "BARBONS Matrasbeschermer, 90 x 200 cm, Oeko-Tex-gecertificeerd, waterdichte matr",
+          "c": "Keuken"
+        },
+        {
           "n": "Amazon Basics Vacuüm-compressiezak, opbergzak, met handpomp, ritssluiting, maat ",
           "c": "Keuken"
+        },
+        {
+          "n": "Pritt Lijmstift, kindvriendelijke lijm voor school en kantoor, 4 x 43 g | 97% na",
+          "c": "Keuken"
+        },
+        {
+          "n": "Pelikan K12 dekkende verfdoos incl. 3 penselen schoolset | Pelikan K12 dekkende ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Idelia® 10 x luchtontvochtiger granulaat 400 g (voordeel 10-delige set luchtontv",
+          "c": "Keuken"
+        },
+        {
+          "n": "Siemens Originele Brita Intenza waterfilter met aromaring, TZ70033A, verpakking ",
+          "c": "Keuken"
+        },
+        {
+          "n": "Philips Pluisscheerapparaat, zwart, 2 hoogte-instellingen | 8800 tpm, 3 maasmate",
+          "c": "Keuken"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Beauty"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard - 50ml ",
+          "c": "Beauty"
+        },
+        {
+          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
+          "c": "Beauty"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Beauty"
+        },
+        {
+          "n": "Ninabella Haarborstel zonder trekken, ontwarringsborstel, ontwarringsborstel en ",
+          "c": "Beauty"
+        },
+        {
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
+        },
+        {
+          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
+          "c": "Beauty"
+        },
+        {
+          "n": "MERODA Changing Foundation SPF 15 [Light to Medium Skin] – Foundation Color Chan",
+          "c": "Beauty"
+        },
+        {
+          "n": "Beauty of Joseon Rijke Probiotics Sunscreen SPF 50+ Zonnebrandcrème met extraits",
+          "c": "Beauty"
+        },
+        {
+          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
+          "c": "Beauty"
+        },
+        {
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
+        },
+        {
+          "n": "ivyclip - Haarspelden voor dames - haarclip groot en klein - zachte | Elastische",
+          "c": "Beauty"
+        },
+        {
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Aufhellender und glättender täg",
+          "c": "Beauty"
+        },
+        {
+          "n": "M. Asam Magic Finish Make-up, 30 ml | 4-in-1 primer, make-up, poeder en conceale",
+          "c": "Beauty"
+        },
+        {
+          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "c": "Beauty"
+        },
+        {
+          "n": "L'Oréal Men Expert Douchegel en shampoo voor mannen, 3-in-1 douchebad voor het r",
+          "c": "Beauty"
+        },
+        {
+          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
+          "c": "Beauty"
+        },
+        {
+          "n": "Paula's Choice 2% BHA Liquid Peeling, bestrijdt mee-eters en poriën, 30 ml | Kli",
+          "c": "Beauty"
+        },
+        {
+          "n": "CeraVe Feuchtigkeitslotion für trockene Haut, Körper & Gesicht | Leichte Lotion ",
+          "c": "Beauty"
         }
       ]
     }
