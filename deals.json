@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T19:55:43.781196+00:00",
-  "updated_fmt": "17 September 2026 om 19:55",
+  "updated": "2026-09-18T00:52:42.217069+00:00",
+  "updated_fmt": "18 September 2026 om 00:52",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 17 Sep 2026 19:55 UTC",
+      "note": "bol.com — gescraped 18 Sep 2026 00:52 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 17 Sep 2026 19:55 UTC",
+      "note": "amazon.nl — gescraped 18 Sep 2026 00:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,30 +739,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "MARVIS® Smokers Whitening Mint 85 ml I Tandpasta vor een wittere glimlach I lang",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Simple Solution Extreem Huisdier vlek- en geurverwijderaar, Enzymatic Cleaner me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vitakraft Vloeibare snack voor katten, kattenlekkernijen in mega-verpakking (48 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gourmet Perle Mini Filets in Saus Kip - Katten natvoer - (60 x 85g)",
-          "c": "Algemeen"
-        },
-        {
           "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
@@ -787,19 +763,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
+          "n": "MARVIS® Smokers Whitening Mint 85 ml I Tandpasta vor een wittere glimlach I lang",
           "c": "Algemeen"
         },
         {
-          "n": "Stanley Bandmaat Tylon, 5 m, Tylon-polymeer beschermlaag, verschuifbare eindhaak",
+          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
           "c": "Algemeen"
         },
         {
-          "n": "24 Stuks Stoelpootdoppen Zwart Siliconen, Viltglijders Voor Stoelen | Ronde Stoe",
+          "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Hue Dimmer Switch, Wit | Slimme lichtbediening, draadloos, werkt op batt",
+          "n": "Simple Solution Extreem Huisdier vlek- en geurverwijderaar, Enzymatic Cleaner me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vitakraft Vloeibare snack voor katten, kattenlekkernijen in mega-verpakking (48 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gourmet Perle Mini Filets in Saus Kip - Katten natvoer - (60 x 85g)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Easy@Home 50 x Ovulatietesten en 20 x Zwangerschapstesten, Met Premom Ovulatie P",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TePe EasyPick Tandenstokers, Oranje, Maat XS-S, 60st | Tandplakverwijderaar, Eff",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Philips Hue Bridge Pro, Smart Light Hub, draadloos, geavanceerde versleuteling, ",
           "c": "Elektronica"
-        },
-        {
-          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 18 Pro/17 Pro | iPhone 17/16",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 17 Sep 2026 19:55 UTC",
+      "note": "amazon.com.be — gescraped 18 Sep 2026 00:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 17 Sep 2026 19:55 UTC",
+      "note": "amazon.de — gescraped 18 Sep 2026 00:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1653,64 +1653,64 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Keuken"
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
         },
         {
-          "n": "Twinzen Matrasbeschermer - 140x200 cm, waterdicht - katoen | Oeko-Tex-gecertific",
-          "c": "Keuken"
+          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
+          "c": "Beauty"
         },
         {
-          "n": "Dreamzie - Spannbettlaken - 180x200cm - 100% Baumwolle Jersey | Beige, linnen la",
-          "c": "Keuken"
+          "n": "Wella Professionals Koleston Perfect Pure Naturals Permanente haarverf, professi",
+          "c": "Beauty"
         },
         {
-          "n": "Mepal - Bento lunchbox Midi TAB - broodtrommel met bento-box - voor 2 boterhamme",
-          "c": "Keuken"
+          "n": "Beauty of Joseon Rijke Probiotics Sunscreen SPF 50+ Zonnebrandcrème met extraits",
+          "c": "Beauty"
         },
         {
-          "n": "Mepal - Mueslibeker Ellipse - 500 ml - Nordic sage | Praktische yoghurtbeker om ",
-          "c": "Keuken"
+          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
+          "c": "Beauty"
         },
         {
-          "n": "EMSA Clip & Close N10307 Vershouddozenset, rechthoekig, 5 x 0,8 l, opbergdozen, ",
-          "c": "Keuken"
+          "n": "MERODA Changing Foundation SPF 15 [Light to Medium Skin] – Foundation Color Chan",
+          "c": "Beauty"
         },
         {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
+          "n": "M. Asam Magic Finish Make-up, 30 ml | 4-in-1 primer, make-up, poeder en conceale",
+          "c": "Beauty"
         },
         {
-          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
-          "c": "Keuken"
+          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
+          "c": "Beauty"
         },
         {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
-          "c": "Keuken"
+          "n": "Golecha Henna, 100% natuurlijk, pasta in hoorntjes (rood-bruin), zonder PPD, 4 x",
+          "c": "Beauty"
         },
         {
-          "n": "120 stuks bakpapier voor heteluchtfriteuse Ninja Dual, Stone TH Airfryer met dub",
-          "c": "Keuken"
+          "n": "Paula's Choice 2% BHA Liquid Peeling, bestrijdt mee-eters en poriën, 30 ml | Kli",
+          "c": "Beauty"
         },
         {
-          "n": "sleepling Hoofdkussen, 40x80 cm, set van 2, allergiekussen, comfort 100 | Lang s",
-          "c": "Keuken"
+          "n": "La Roche-Posay Cicaplast Baume B5+ herstellende wondverzorgingsbalsem, 100 | Bij",
+          "c": "Beauty"
         },
         {
-          "n": "SIMPEX Vloerkleed, crème, 240 x 340 cm, wasbaar, laagpolig, antislip en zacht, m",
-          "c": "Keuken"
+          "n": "Old Spice Captain 3-in-1 douchegel en shampoo voor mannen, 1 l, langdurige | Lan",
+          "c": "Beauty"
         },
         {
-          "n": "Paco Home Modern behaaglijk vloerkleed voor de woonkamer, laagpolig, wasbaar, pl",
-          "c": "Keuken"
+          "n": "L'Oréal Men Expert Douchegel en shampoo voor mannen, 3-in-1 douchebad voor het r",
+          "c": "Beauty"
         },
         {
-          "n": "Third of Life Matrasbeschermer, 90 x 200 en 180 x 200; waterdicht, ademende, ant",
-          "c": "Keuken"
+          "n": "Effaclar Schäumendes Reinigungsgel für zu Akne neigende Haut | Reinigungsgel geg",
+          "c": "Beauty"
         },
         {
-          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
-          "c": "Keuken"
+          "n": "Vichy Dercos Anti-Schuppen Pflegeshampoo für trockene Kopfhaut | Mildert Anzeich",
+          "c": "Beauty"
         }
       ]
     }
