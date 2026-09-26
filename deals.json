@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T14:47:58.788418+00:00",
-  "updated_fmt": "26 September 2026 om 14:47",
+  "updated": "2026-09-26T19:29:46.716211+00:00",
+  "updated_fmt": "26 September 2026 om 19:29",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 26 Sep 2026 14:47 UTC",
+      "note": "bol.com — gescraped 26 Sep 2026 19:29 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 26 Sep 2026 14:47 UTC",
+      "note": "amazon.nl — gescraped 26 Sep 2026 19:29 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 26 Sep 2026 14:47 UTC",
+      "note": "amazon.com.be — gescraped 26 Sep 2026 19:29 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 26 Sep 2026 14:47 UTC",
+      "note": "amazon.de — gescraped 26 Sep 2026 19:29 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 38,30",
+          "n": "USD 38,19",
           "c": "Algemeen"
         },
         {
