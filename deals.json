@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T11:18:45.752670+00:00",
-  "updated_fmt": "28 September 2026 om 11:18",
+  "updated": "2026-09-28T22:18:50.063606+00:00",
+  "updated_fmt": "28 September 2026 om 22:18",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 28 Sep 2026 11:18 UTC",
+      "note": "bol.com — gescraped 28 Sep 2026 22:18 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 28 Sep 2026 11:18 UTC",
+      "note": "amazon.nl — gescraped 28 Sep 2026 22:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 28 Sep 2026 11:18 UTC",
+      "note": "amazon.com.be — gescraped 28 Sep 2026 22:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 28 Sep 2026 11:18 UTC",
+      "note": "amazon.de — gescraped 28 Sep 2026 22:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 903,83/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,63/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1533,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 16,92",
+          "c": "Algemeen"
+        },
+        {
           "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,41",
           "c": "Algemeen"
         },
         {
@@ -1533,7 +1549,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 2,85",
+          "c": "Algemeen"
+        },
+        {
           "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 267,59/l)",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1569,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 30,69",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 19,13",
           "c": "Algemeen"
         },
         {
@@ -1553,7 +1585,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 25,95",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 17,13",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1601,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 10,24",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jacobson jersey hoeslaken, katoen, grijs, 140x200 - 160x200 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 12,51",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1617,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "5 aanbiedingen vanUSD 17,75",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 8,13/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1633,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 38,27",
+          "c": "Algemeen"
+        },
+        {
           "n": "Buymax Hoeslaken, 200 x 200 cm, 100% katoen, bedlaken jersey, matrashoogte tot 2",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 22,31",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1649,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 30,72",
+          "c": "Algemeen"
+        },
+        {
           "n": "MORE Zerup, Peach Iced Tea, 65 ml, voor maximaal 8 l kant-en-klare drank | Suike",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD 6,43",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1665,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "13 aanbiedingen vanUSD 13,65",
+          "c": "Algemeen"
+        },
+        {
           "n": "MORE Chunky Flavour, Dark Cookie Crumble, 170 g, veganistisch | Smaakpoeder om t",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 13,40",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1681,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 6,48",
+          "c": "Algemeen"
+        },
+        {
           "n": "True Dates - Sour Apple | natuurlijk gearomatiseerde dadels | zure appelsmaak | ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 1,99",
           "c": "Algemeen"
         },
         {
@@ -1609,108 +1697,20 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 1,43",
+          "c": "Algemeen"
+        },
+        {
           "n": "PHILIPS LED Classic GU10 Lampe, 6er Pack | Warmweißes LED Licht, Reflektor Spot,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 1,75/eenheid)",
           "c": "Algemeen"
         },
         {
           "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
           "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "slochi Plafondlamp LED plafondlamp plat, Ø30CM 3kleuren 24W 2800LM wit | Waterdi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LQWELL LED plafondlamp ultradun wit 22cm 18W 1980lm 6000K | Modern minimalistisc",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kastverlichting onderbouwlamp keuken LED lamp - bewegingsmelder licht | 20 cm ac",
-          "c": "Algemeen"
-        },
-        {
-          "n": "100 x ARNOMED® wegwerphandschoenen, zwart, nitril handschoenen, maat L | Wegwerp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fischer Duopower Plug",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hama 30382 stekkerdoos | Mehrfachsteckdose weiß mit Save Energy-Schalter zum Str",
-          "c": "Algemeen"
-        },
-        {
-          "n": "tesa Klebenagel für Tapete & Putz, verstellbar - 4 Nägel inkl. tesa Strips | Höh",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Secondelijm universele gel 50 g - alleslijm universele lijm CA lijm | Druppelvri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TP-Link Tapo Smart wifi-stopcontact P110 met energieverbruikregeling, smart home",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PayPal Ratenzahlung",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Sonello Plissé Klemmfix zonder boren 80x120cm wit plissé rolgordijn | Zonnescher",
-          "c": "Keuken"
-        },
-        {
-          "n": "EMSA Clip & Close N10307 Vershouddozenset, rechthoekig, 5 x 0,8 l, opbergdozen, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie - Matratzenschoner 180x200 - Wasserdicht - Baumwolle | Oeko-Tex zertifi",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal waterdichte matrasbeschermer, alle maten, ademende matrasbeschermer, mat",
-          "c": "Keuken"
-        },
-        {
-          "n": "Blumtal Zijslaapkussenovertrek 40 x 145 cm (set van 2 kussenslopen), grijs, 100%",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siebenschläfer dekbed, wit, 135 x 200 cm",
-          "c": "Keuken"
-        },
-        {
-          "n": "sleepling Hoofdkussen 80x80 cm, allergiekussen, comfort 100 | Groot slaapkussen ",
-          "c": "Keuken"
-        },
-        {
-          "n": "uandu Glazen container met deksel, 20-delig, meal prep boxen, glas | 10 containe",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Pluisscheerapparaat, zwart, 2 hoogte-instellingen | 8800 tpm, 3 maasmate",
-          "c": "Keuken"
         }
       ]
     }
