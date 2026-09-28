@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T19:54:37.332856+00:00",
-  "updated_fmt": "27 September 2026 om 19:54",
+  "updated": "2026-09-28T01:15:50.542610+00:00",
+  "updated_fmt": "28 September 2026 om 01:15",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 27 Sep 2026 19:54 UTC",
+      "note": "bol.com — gescraped 28 Sep 2026 01:15 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 27 Sep 2026 19:54 UTC",
+      "note": "amazon.nl — gescraped 28 Sep 2026 01:15 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 27 Sep 2026 19:54 UTC",
+      "note": "amazon.com.be — gescraped 28 Sep 2026 01:15 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,6 +1150,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dreamzie - Hoeslaken, 180 x 200 cm, spanhoogte 35 cm | ultrazachte | Beige, extr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dreamzie - Matrasbeschermer 180 x 200 cm - Waterdicht en Bestendig - bedovertrek",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
           "n": "Skechers Uno Stand On Air Sneakers voor heren",
           "c": "Algemeen"
         },
@@ -1174,23 +1194,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
           "c": "Algemeen"
         },
         {
-          "n": "Dreamzie - Hoeslaken, 180 x 200 cm, spanhoogte 35 cm | ultrazachte | Beige, extr",
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
           "c": "Algemeen"
         },
         {
-          "n": "Dreamzie - Matrasbeschermer 180 x 200 cm - Waterdicht en Bestendig - bedovertrek",
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
           "c": "Algemeen"
         },
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "n": "Carambar Suikerspin, 110 g",
           "c": "Algemeen"
         },
         {
@@ -1215,26 +1235,6 @@
         },
         {
           "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carambar Suikerspin, 110 g",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 27 Sep 2026 19:54 UTC",
+      "note": "amazon.de — gescraped 28 Sep 2026 01:15 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1625,7 +1625,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto, modelautoset met bestuurder, mod",
+          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto 77242 | Speelgoed vanaf 10 jaar v",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Die Grüffelo-Oma: Ein neues Bilderbuch aus der Grüffelo-Welt | Die lang ersehnte",
+          "n": "Die Grüffelo-Oma: Ein Bilderbuch aus der Grüffelo-Welt | Die lang ersehnte Forts",
           "c": "Algemeen"
         },
         {
