@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T16:44:43.397946+00:00",
-  "updated_fmt": "29 September 2026 om 16:44",
+  "updated": "2026-09-29T21:07:29.170103+00:00",
+  "updated_fmt": "29 September 2026 om 21:07",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 29 Sep 2026 16:44 UTC",
+      "note": "bol.com — gescraped 29 Sep 2026 21:07 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 29 Sep 2026 16:44 UTC",
+      "note": "amazon.nl — gescraped 29 Sep 2026 21:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -783,27 +783,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
+          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
           "c": "Algemeen"
         },
         {
-          "n": "Stanley Bandmaat Tylon, 5 m, Tylon-polymeer beschermlaag, verschuifbare eindhaak",
+          "n": "Hoffnung: Die Streitenden Götter, Band 8 / Der Prinz von Staub und Schatten, Ban",
           "c": "Algemeen"
         },
         {
-          "n": "EZVALO Onderkastverlichting met Bewegingssensor, 3 Kleurtemperaturen, 2400 mAh,2",
+          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
           "c": "Algemeen"
         },
         {
-          "n": "Materialix Food Grade minerale olie (250ml)",
+          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie), Zel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wandhaakjes voor Jassen en Handdoeken: Lijmhaakjes voor Deuren met 6 kg Draagkra",
+          "n": "Mach mal das große Licht an (Bonus: Butter und Balkone)",
           "c": "Algemeen"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
+        },
+        {
+          "n": "JETech Doorzichtig Bumper Case voor iPhone 18 Pro Max, Donkere Kers | Anti-Verge",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 29 Sep 2026 16:44 UTC",
+      "note": "amazon.com.be — gescraped 29 Sep 2026 21:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 29 Sep 2026 16:44 UTC",
+      "note": "amazon.de — gescraped 29 Sep 2026 21:07 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "12 aanbiedingen vanUSD 16,30",
+          "n": "10 aanbiedingen vanUSD 16,30",
           "c": "Algemeen"
         },
         {
