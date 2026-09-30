@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T10:48:04.241233+00:00",
-  "updated_fmt": "30 September 2026 om 10:48",
+  "updated": "2026-09-30T16:32:48.795307+00:00",
+  "updated_fmt": "30 September 2026 om 16:32",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Sep 2026 10:48 UTC",
+      "note": "bol.com — gescraped 30 Sep 2026 16:32 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Sep 2026 10:48 UTC",
+      "note": "amazon.nl — gescraped 30 Sep 2026 16:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -771,7 +771,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Mach mal das große Licht an (Bonus: Butter und Balkone)",
+          "n": "Threshing Day (Wing and Claw Collection)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Sep 2026 10:48 UTC",
+      "note": "amazon.com.be — gescraped 30 Sep 2026 16:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Sep 2026 10:48 UTC",
+      "note": "amazon.de — gescraped 30 Sep 2026 16:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,51 +1513,83 @@
       ],
       "bestsellers": [
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "n": "100 x ARNOMED® wegwerphandschoenen, zwart, nitril handschoenen, maat L | Wegwerp",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 894,89/l)",
+          "n": "3 aanbiedingen vanUSD 8,18",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "n": "Fischer Duopower Plug",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,62/eenheid)",
+          "n": "(USD 0,05/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
+          "n": "2 aanbiedingen vanUSD 9,14",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,84",
+          "n": "Blink Buitencamera 2K+ (nieuwste generatie) – draadloze, intelligente beveiligin",
           "c": "Algemeen"
         },
         {
-          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "n": "1 aanbieding voorUSD 33,99",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,83",
+          "n": "Hama 30382 stekkerdoos | Mehrfachsteckdose weiß mit Save Energy-Schalter zum Str",
           "c": "Algemeen"
         },
         {
-          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
+          "n": "USD 5,70",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,33",
+          "n": "Blink - Camera Outdoor 4 | Draadloze intelligente HD-beveiligingscamera, twee ja",
           "c": "Algemeen"
         },
         {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
+          "n": "1 aanbieding voorUSD 28,32",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 266,34/l)",
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 9,51",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto 77242 | Speelgoed vanaf 10 jaar v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "23 aanbiedingen vanUSD 15,13",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mattel Games UNO Kartenspiel, ab 7 Jahre, 2–10 Spieler | Klassisches UNO-Farb- u",
+          "c": "Algemeen"
+        },
+        {
+          "n": "tiptoi® Mein großer Adventskalender, Adventskalender für Kinder ab 3 Jahren, mit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 26,48",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ultimate Guard Card Covers Toploading 35 pt Transparant (Pack van 25)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 3,31",
           "c": "Algemeen"
         },
         {
@@ -1577,22 +1609,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "SINOPHANT Leggings Damen High Waist Leggins für Sport | Blickdicht Bauchkontroll",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 10,19",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Joggingbroek voor dames, baggy wijde pijpen, sportbroek, lange hoge taille, trai",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 1,12",
-          "c": "Algemeen"
-        },
-        {
           "n": "NIKE 6 Paar Socken Herren Damen Weiß Tennissocken Sparset SX7664",
           "c": "Algemeen"
         },
@@ -1601,11 +1617,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
           "c": "Algemeen"
         },
         {
-          "n": "USD 19,04",
+          "n": "(USD 3,48/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,26",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SINOPHANT Leggings Damen High Waist Leggins für Sport | Blickdicht Bauchkontroll",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 10,19",
           "c": "Algemeen"
         },
         {
@@ -1633,27 +1665,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,09",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 18,02",
-          "c": "Algemeen"
-        },
-        {
           "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 30,58",
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 37,99",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 13,05",
           "c": "Algemeen"
         },
         {
@@ -1686,30 +1710,6 @@
         },
         {
           "n": "2 aanbiedingen vanUSD 6,45",
-          "c": "Algemeen"
-        },
-        {
-          "n": "True Dates - Sour Apple | natuurlijk gearomatiseerde dadels | zure appelsmaak | ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 1,98",
-          "c": "Algemeen"
-        },
-        {
-          "n": "nimm2 Lachgom, melkgeest, fruitgummies met melkschuim, 1 x 225 g | Fruitgum in 6",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 1,43",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 16,39",
           "c": "Algemeen"
         }
       ]
