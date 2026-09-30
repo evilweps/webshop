@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T01:42:56.412350+00:00",
-  "updated_fmt": "30 September 2026 om 01:42",
+  "updated": "2026-09-30T10:48:04.241233+00:00",
+  "updated_fmt": "30 September 2026 om 10:48",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Sep 2026 01:42 UTC",
+      "note": "bol.com — gescraped 30 Sep 2026 10:48 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Sep 2026 01:42 UTC",
+      "note": "amazon.nl — gescraped 30 Sep 2026 10:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,27 +671,27 @@
       ],
       "bestsellers": [
         {
-          "n": "Utopia Bedding Onderlaken, 200 x 220 cm, dik matras, geborstelde microvezel, bed",
+          "n": "Amazon Kindle (nieuwste generatie) – De lichtste en meest compacte Kindle, met e",
           "c": "Algemeen"
         },
         {
-          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
           "c": "Algemeen"
         },
         {
-          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
+          "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Maxtra Pro, Pure Performance Waterfilterpatroon, all-in-1, 4 stuks, origin",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Waterfilterkan Marella Cool 2.4L Blauw – Inclusief 3 MAXTRA PRO Waterfilte",
+          "n": "Ring Buitencamera Plus met stekkeradapter (nieuwste generatie) – 2K met Ring Vis",
           "c": "Algemeen"
         },
         {
@@ -707,7 +707,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
+          "n": "Maybelline Lash Sensational Sky High Waterproof | Waterproof lengte mascara verl",
           "c": "Algemeen"
         },
         {
@@ -715,35 +715,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline Lash Sensational Sky High Waterproof | Waterproof lengte mascara verl",
+          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
           "c": "Algemeen"
         },
         {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Basics",
+          "n": "BRITA Waterfilterkan Marella Cool 2.4L Blauw – Inclusief 3 MAXTRA PRO Waterfilte",
           "c": "Algemeen"
         },
         {
-          "n": "Wilson Championship",
+          "n": "3 stuks dieptereinigingsborstels voor voegen, hoeken en spleten – geschikt voor ",
           "c": "Algemeen"
         },
         {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
+          "n": "BRITA Maxtra Pro, Pure Performance Waterfilterpatroon, all-in-1, 4 stuks, origin",
           "c": "Algemeen"
         },
         {
-          "n": "DANSI LED Licht Set - StVZO goedgekeurde fietslamp| LED fietslamp voor+achter |A",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fitgriff® Lifting Straps Gym (Gewatteerd) - Polsbanden Fitness voor Gewichtheffe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Casio FX-82MS-2 Wetenschappelijke Rekenmachine, op Batterijen, Grijs, 1 Stuk",
+          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
           "c": "Algemeen"
         },
         {
@@ -755,7 +747,31 @@
           "c": "Algemeen"
         },
         {
+          "n": "Pentel BL77-CO gel-inktroller EnerGel met drukmechanisme A 1 Stuk zwart",
+          "c": "Algemeen"
+        },
+        {
           "n": "Zelfklevende enveloppen met luchtkussenfolie OFFICE PRODUCTS HK B12 120x215mm/14",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hoffnung: Die Streitenden Götter, Band 8 / Der Prinz von Staub und Schatten, Ban",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mach mal das große Licht an (Bonus: Butter und Balkone)",
           "c": "Algemeen"
         },
         {
@@ -783,26 +799,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hoffnung: Die Streitenden Götter, Band 8 / Der Prinz von Staub und Schatten, Ban",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mach mal das große Licht an (Bonus: Butter und Balkone)",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
           "c": "Elektronica"
         },
@@ -815,15 +811,23 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 18 Pro Case Compatibel met MagSafe, Bordeaux | Volledige Camer",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
           "c": "Elektronica"
         },
         {
+          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
+          "c": "Elektronica"
+        },
+        {
           "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL voor iPhone 18 Pro Case Compatibel met MagSafe, Bordeaux | Volledige Camer",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
           "c": "Elektronica"
         },
         {
@@ -835,14 +839,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU 240W USB-C kabel, [2-pack, 2m] Snellaadkabel USBC naar USBC | Gevlochten ny",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Lexar 633x 128GB Micro SD Kaart, microSDXC UHS-I Geheugenkaart, Met SD-adapter, ",
-          "c": "Elektronica"
-        },
-        {
           "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
           "c": "Elektronica"
         },
@@ -851,15 +847,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
           "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 18 Pro/17 Pro | iPhone 17/16",
           "c": "Elektronica"
         },
         {
-          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         },
         {
@@ -867,7 +863,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Sep 2026 01:42 UTC",
+      "note": "amazon.com.be — gescraped 30 Sep 2026 10:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,46 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "VARTA Knoopcellen CR2032, 20 stuks, Power on Demand, Lithium, 3 V | kindveilige ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Lot de 3 caleçons pour homme",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "VSUDO Platte Schoenveters voor sneakers, voordelig, 8 mm breed, 29 kleuren, 14 l",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUYAO Witte laboratoriumjas, uniseks, doktersjas, laboratoriumjas, beschermende ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dreamzie - Hoeslaken, 180 x 200 cm, spanhoogte 35 cm | ultrazachte | wit, extra ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
@@ -1182,7 +1142,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "BaByliss D572DE Turbo Smooth 2200 föhn met diffuser, ionische anti-frizz functie",
+          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "c": "Algemeen"
+        },
+        {
+          "n": "VARTA Knoopcellen CR2032, 20 stuks, Power on Demand, Lithium, 3 V | kindveilige ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Lot de 3 caleçons pour homme",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUYAO Witte laboratoriumjas, uniseks, doktersjas, laboratoriumjas, beschermende ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Eastpak, Out Of Office, Uniseks rugzak (1 stuk), Zwarte Denim",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Twinzen matrasbeschermer, waterdicht, met OEKO-TEX keurmerk - Matrashoes van kat",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dreamzie - Hoeslaken, 160 x 200 cm, spanhoogte 35 cm | ultrazachte microvezel - ",
           "c": "Algemeen"
         },
         {
@@ -1202,7 +1202,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Carambar snoepfruit. Geuren - sinaasappel. Aardbei. Citroen en framboos - 320 g",
+          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
           "c": "Algemeen"
         },
         {
@@ -1210,27 +1210,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ring Videodeurbel op batterij (Battery Video Doorbell) (nieuwste generatie) | Ze",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max - Streamingapparaat met Ambient Experience en Wi-Fi ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
           "c": "Algemeen"
         },
         {
           "n": "Super Ninja Fruitvliegjesvanger: 4 vallen, zeer effectieve milieuvriendelijke va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Rowenta - Premiss 2.0 LCD Personenweegschaal - Batterijen inbegrepen | Nauwkeuri",
           "c": "Algemeen"
         },
         {
@@ -1246,11 +1246,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rowenta - Premiss 2.0 LCD Personenweegschaal - Batterijen inbegrepen | Nauwkeuri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Beurer BM 27 Tensiomètre de bras avec contrôle de position du brassard, clinique",
+          "n": "Whitening Mint Toothpaste 85 Ml Santé et soins personnels",
           "c": "Algemeen"
         },
         {
@@ -1262,15 +1258,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Coque pour iPhone 17 Pro Max, Compatible avec MagSafe, Bleu | Geïntegreerd",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell Plus AA Mignon alkaline-batterijen, 1,5 V LR6 MN1500, 24 stuks | Gaat t",
+          "n": "TOCOL Coque pour iPhone 17 Pro, Compatible avec MagSafe, Bleu | Geïntegreerde ma",
           "c": "Elektronica"
         },
         {
           "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Duracell Plus AA Mignon alkaline-batterijen, 1,5 V LR6 MN1500, 24 stuks | Gaat t",
           "c": "Elektronica"
         },
         {
@@ -1286,7 +1282,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods met Lightning-aansluiting​​​​​​",
+          "n": "NEW'C gehard glas voor iPhone 16/15, displaybeschermfolie | Set van 3, zwart, vo",
           "c": "Elektronica"
         },
         {
@@ -1294,23 +1290,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
-          "c": "Elektronica"
-        },
-        {
-          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Trust DNI USB-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "n": "Apple EarPods met Lightning-aansluiting​​​​​​",
           "c": "Elektronica"
         },
         {
@@ -1318,11 +1298,31 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
           "c": "Elektronica"
         },
         {
           "n": "Apple AirPods Pro 3 draadloze hoofdtelefoon, actieve ruisonderdrukking, hartslag",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Gehard glas voor iPhone 18 Pro | 2 stuks, eenvoudig te installeren, zonder",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust DNI USB-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Sep 2026 01:42 UTC",
+      "note": "amazon.de — gescraped 30 Sep 2026 10:48 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 897,08/l)",
+          "n": "(USD 894,89/l)",
           "c": "Algemeen"
         },
         {
@@ -1533,7 +1533,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 16,88",
+          "n": "2 aanbiedingen vanUSD 16,84",
           "c": "Algemeen"
         },
         {
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,84",
+          "n": "1 aanbieding voorUSD 2,83",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,37",
+          "n": "USD 15,33",
           "c": "Algemeen"
         },
         {
@@ -1557,55 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 267,00/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, grijs, 140x200 - 160x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 12,49",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD 17,71",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 8,11/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 38,19",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 18,06",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 30,65",
+          "n": "(USD 266,34/l)",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,62",
+          "n": "2 aanbiedingen vanUSD 30,54",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,09",
+          "n": "USD 16,89",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,21",
+          "n": "1 aanbieding voorUSD 10,19",
           "c": "Algemeen"
         },
         {
@@ -1645,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 25,89",
+          "n": "2 aanbiedingen vanUSD 25,83",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1605,55 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 19,94",
+          "n": "USD 19,04",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, grijs, 140x200 - 160x200 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 12,46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 17,67",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 8,09/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 38,09",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 18,02",
+          "c": "Algemeen"
+        },
+        {
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 30,58",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 6,42",
+          "n": "7 aanbiedingen vanUSD 6,40",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 18,31",
+          "n": "10 aanbiedingen vanUSD 16,26",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 13,37",
+          "n": "2 aanbiedingen vanUSD 13,34",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 6,46",
+          "n": "2 aanbiedingen vanUSD 6,45",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 1,99",
+          "n": "1 aanbieding voorUSD 1,98",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,43",
+          "n": "1 aanbieding voorUSD 16,39",
           "c": "Algemeen"
         }
       ]
