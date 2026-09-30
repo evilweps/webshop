@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T16:32:48.795307+00:00",
-  "updated_fmt": "30 September 2026 om 16:32",
+  "updated": "2026-09-30T21:05:01.551819+00:00",
+  "updated_fmt": "30 September 2026 om 21:05",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Sep 2026 16:32 UTC",
+      "note": "bol.com — gescraped 30 Sep 2026 21:05 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Sep 2026 16:32 UTC",
+      "note": "amazon.nl — gescraped 30 Sep 2026 21:05 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,11 +767,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
+          "n": "Threshing Day (Wing and Claw Collection)",
           "c": "Algemeen"
         },
         {
-          "n": "Threshing Day (Wing and Claw Collection)",
+          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Sep 2026 16:32 UTC",
+      "note": "amazon.com.be — gescraped 30 Sep 2026 21:05 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Sep 2026 16:32 UTC",
+      "note": "amazon.de — gescraped 30 Sep 2026 21:05 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 9,14",
+          "n": "1 aanbieding voorUSD 9,14",
           "c": "Algemeen"
         },
         {
@@ -1565,23 +1565,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto 77242 | Speelgoed vanaf 10 jaar v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "23 aanbiedingen vanUSD 15,13",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mattel Games UNO Kartenspiel, ab 7 Jahre, 2–10 Spieler | Klassisches UNO-Farb- u",
-          "c": "Algemeen"
-        },
-        {
           "n": "tiptoi® Mein großer Adventskalender, Adventskalender für Kinder ab 3 Jahren, mit",
           "c": "Algemeen"
         },
         {
           "n": "USD 26,48",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto 77242 | Speelgoed vanaf 10 jaar v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "24 aanbiedingen vanUSD 15,13",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mattel Games UNO Kartenspiel, ab 7 Jahre, 2–10 Spieler | Klassisches UNO-Farb- u",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 17,67",
+          "n": "5 aanbiedingen vanUSD 17,70",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD 16,26",
+          "n": "11 aanbiedingen vanUSD 13,59",
           "c": "Algemeen"
         },
         {
