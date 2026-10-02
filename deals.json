@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T10:46:59.802292+00:00",
-  "updated_fmt": "2 October 2026 om 10:46",
+  "updated": "2026-10-02T16:24:15.977454+00:00",
+  "updated_fmt": "2 October 2026 om 16:24",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 2 Oct 2026 10:46 UTC",
+      "note": "bol.com — gescraped 2 Oct 2026 16:24 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 2 Oct 2026 10:46 UTC",
+      "note": "amazon.nl — gescraped 2 Oct 2026 16:24 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 2 Oct 2026 10:46 UTC",
+      "note": "amazon.com.be — gescraped 2 Oct 2026 16:24 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 2 Oct 2026 10:46 UTC",
+      "note": "amazon.de — gescraped 2 Oct 2026 16:24 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,14 +1517,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "tiptoi® Mein großer Adventskalender, Adventskalender für Kinder ab 3 Jahren, mit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 26,29",
-          "c": "Algemeen"
-        },
-        {
           "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
           "c": "Algemeen"
         },
@@ -1541,6 +1533,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "tiptoi® Mein großer Adventskalender, Adventskalender für Kinder ab 3 Jahren, mit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 26,29",
+          "c": "Algemeen"
+        },
+        {
           "n": "Mattel Games UNO Kartenspiel, ab 7 Jahre, 2–10 Spieler | Klassisches UNO-Farb- u",
           "c": "Algemeen"
         },
@@ -1549,7 +1549,55 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 14,17",
+          "n": "12 aanbiedingen vanUSD 7,50",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 30,33",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,77",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,46/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIKE 6 Paar Socken Herren Damen Weiß Tennissocken Sparset SX7664",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 25,65",
+          "c": "Algemeen"
+        },
+        {
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,12",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Leafigure Set van 2 leggings met hoge taille voor dames met zakken | Ondoorzicht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 12,14",
           "c": "Algemeen"
         },
         {
@@ -1561,15 +1609,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 30,36",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
           "c": "Algemeen"
         },
         {
           "n": "5 aanbiedingen vanUSD 17,58",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
           "c": "Algemeen"
         },
         {
@@ -1593,51 +1645,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "n": "PHILIPS LED Classic GU10 Lampe, 6er Pack | Warmweißes LED Licht, Reflektor Spot,",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,33",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,93",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,46/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 19,12",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIKE 6 Paar Socken Herren Damen Weiß Tennissocken Sparset SX7664",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 25,65",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SINOPHANT Leggings Damen High Waist Leggins für Sport | Blickdicht Bauchkontroll",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 8,99",
+          "n": "(USD 1,73/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1646,14 +1658,6 @@
         },
         {
           "n": "1 aanbieding voorUSD 21,37",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 Lampe, 6er Pack | Warmweißes LED Licht, Reflektor Spot,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 1,73/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1705,11 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,23",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
+          "n": "USD 15,13",
           "c": "Algemeen"
         }
       ]
