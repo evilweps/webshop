@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T10:06:50.004134+00:00",
-  "updated_fmt": "3 October 2026 om 10:06",
+  "updated": "2026-10-03T14:58:23.149566+00:00",
+  "updated_fmt": "3 October 2026 om 14:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Oct 2026 10:06 UTC",
+      "note": "bol.com — gescraped 3 Oct 2026 14:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Oct 2026 10:06 UTC",
+      "note": "amazon.nl — gescraped 3 Oct 2026 14:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Oct 2026 10:06 UTC",
+      "note": "amazon.com.be — gescraped 3 Oct 2026 14:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Oct 2026 10:06 UTC",
+      "note": "amazon.de — gescraped 3 Oct 2026 14:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "24 aanbiedingen vanUSD 28,55",
+          "n": "25 aanbiedingen vanUSD 15,14",
           "c": "Algemeen"
         },
         {
@@ -1589,19 +1589,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "NIKE 6 Paar Socken Herren Damen Weiß Tennissocken Sparset SX7664",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 25,65",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Breaknet Sleek damesschoen",
           "c": "Algemeen"
         },
         {
           "n": "USD 32,14",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Leafigure Set van 2 leggings met hoge taille voor dames met zakken | Ondoorzicht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 12,14",
           "c": "Algemeen"
         },
         {
