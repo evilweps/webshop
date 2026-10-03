@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T14:58:23.149566+00:00",
-  "updated_fmt": "3 October 2026 om 14:58",
+  "updated": "2026-10-03T19:34:24.362910+00:00",
+  "updated_fmt": "3 October 2026 om 19:34",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 3 Oct 2026 14:58 UTC",
+      "note": "bol.com — gescraped 3 Oct 2026 19:34 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 3 Oct 2026 14:58 UTC",
+      "note": "amazon.nl — gescraped 3 Oct 2026 19:34 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -735,11 +735,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
+          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
           "c": "Algemeen"
         },
         {
-          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
+          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 3 Oct 2026 14:58 UTC",
+      "note": "amazon.com.be — gescraped 3 Oct 2026 19:34 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 3 Oct 2026 14:58 UTC",
+      "note": "amazon.de — gescraped 3 Oct 2026 19:34 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,50 +1513,6 @@
       ],
       "bestsellers": [
         {
-          "n": "1 aanbieding voorUSD 33,75",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 9,44",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ultimate Guard Card Covers Toploading 35 pt Transparant (Pack van 25)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 3,29",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LEGO Speed Champions Ferrari SF-24 F1 raceauto 77242 | Speelgoed vanaf 10 jaar v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "25 aanbiedingen vanUSD 15,14",
-          "c": "Algemeen"
-        },
-        {
-          "n": "tiptoi® Mein großer Adventskalender, Adventskalender für Kinder ab 3 Jahren, mit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 26,29",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mattel Games UNO Kartenspiel, ab 7 Jahre, 2–10 Spieler | Klassisches UNO-Farb- u",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 5,66",
-          "c": "Algemeen"
-        },
-        {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
@@ -1617,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 17,58",
+          "n": "5 aanbiedingen vanUSD 17,48",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,82",
+          "n": "USD 37,72",
           "c": "Algemeen"
         },
         {
@@ -1710,6 +1666,50 @@
         },
         {
           "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 6,68",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 21,37",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 21,37",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 10,51",
+          "c": "Algemeen"
+        },
+        {
+          "n": "slochi Plafondlamp LED plafondlamp plat, Ø18CM 3kleuren 15W 1500LM wit | Waterdi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "7 aanbiedingen vanUSD 8,40",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 881,54/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
           "c": "Algemeen"
         }
       ]
