@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T10:48:15.447063+00:00",
-  "updated_fmt": "4 October 2026 om 10:48",
+  "updated": "2026-10-04T15:32:13.616412+00:00",
+  "updated_fmt": "4 October 2026 om 15:32",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Oct 2026 10:48 UTC",
+      "note": "bol.com — gescraped 4 Oct 2026 15:32 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Oct 2026 10:48 UTC",
+      "note": "amazon.nl — gescraped 4 Oct 2026 15:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,11 +767,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
+          "n": "Verity (Verity)",
           "c": "Algemeen"
         },
         {
-          "n": "Verity (Verity)",
+          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Oct 2026 10:48 UTC",
+      "note": "amazon.com.be — gescraped 4 Oct 2026 15:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Oct 2026 10:48 UTC",
+      "note": "amazon.de — gescraped 4 Oct 2026 15:32 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 30,33",
+          "c": "Algemeen"
+        },
+        {
           "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,12",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1533,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 3,45/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,77",
           "c": "Algemeen"
         },
         {
@@ -1533,7 +1549,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 67,47",
+          "c": "Algemeen"
+        },
+        {
           "n": "Leafigure Set van 2 leggings met hoge taille voor dames met zakken | Ondoorzicht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 12,14",
           "c": "Algemeen"
         },
         {
@@ -1541,7 +1565,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 12,37",
+          "c": "Algemeen"
+        },
+        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Ontkalkingstabletten plantaardige formu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD 17,48",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1581,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 30,36",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 8,04/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1557,7 +1597,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 37,82",
+          "c": "Algemeen"
+        },
+        {
           "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 0,42/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1613,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "7 aanbiedingen vanUSD 6,36",
+          "c": "Algemeen"
+        },
+        {
           "n": "Best Body Nutrition Vital Drink Kirsche, Getränkekonzentrat, 1000 ml Flasche",
+          "c": "Algemeen"
+        },
+        {
+          "n": "11 aanbiedingen vanUSD 13,49",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1629,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "2 aanbiedingen vanUSD 13,25",
+          "c": "Algemeen"
+        },
+        {
           "n": "MORE Barista Zerup, vanille, 65 ml, voor koffie, thee en warme dranken | Meer da",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 6,40",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1645,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 1,42",
+          "c": "Algemeen"
+        },
+        {
           "n": "True Dates - Sour Apple | natuurlijk gearomatiseerde dadels | zure appelsmaak | ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 1,97",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1661,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "(USD 1,73/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 6,68",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1677,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 19,46",
+          "c": "Algemeen"
+        },
+        {
           "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 10,51",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 21,37",
           "c": "Algemeen"
         },
         {
@@ -1605,112 +1697,20 @@
           "c": "Algemeen"
         },
         {
+          "n": "7 aanbiedingen vanUSD 8,40",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 881,54/l)",
           "c": "Algemeen"
         },
         {
           "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
           "c": "Algemeen"
-        },
-        {
-          "n": "Remington Haardroger Ionen [licht, diffuser & stylingmondstuk] zwart (2200W, ker",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon Milk & Honey handzeep navulverpakking, 2 x 1000 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LEGAMI - Halloweenset, 1 uitwisbare pen blind box, 2 Lovely Friends | 1 blind bo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AmazonBasics-printerpapier, A4, 80 g / m², 5x500 vel, wit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "100x Albyco lamineerhoezen - formaat A4, 216x303mm - St. 2x80 (160) μm | Albyco ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Durable 267219 prospecthoezen (DIN A4 Business, 0,06 mm) 100 stuks glashelder | ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "melu kids® Namensaufkleber für Kinder - Kita/Schule (60 Stk, Dschungel) | Waschm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PayPal Ratenzahlung",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Twinzen - Matrasbeschermer 180x200 - waterdicht - katoen | Oeko-Tex gecertificee",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
-          "c": "Keuken"
-        },
-        {
-          "n": "ECOVACS T90 PRO Omni Robotstofzuiger met dweilfunctie, 30.000 Pa | Ozmo Roller 3",
-          "c": "Keuken"
-        },
-        {
-          "n": "Buymax Hoeslaken, 140 x 200 cm, katoen, 100% hoeslaken, bedlaken jersey, matrash",
-          "c": "Keuken"
-        },
-        {
-          "n": "Sonello Plissé Klemmfix zonder boren 80x100cm wit plissé rolgordijn | Zonnescher",
-          "c": "Keuken"
-        },
-        {
-          "n": "EMSA Clip & Close N10307 Vershouddozenset, rechthoekig, 5 x 0,8 l, opbergdozen, ",
-          "c": "Keuken"
-        },
-        {
-          "n": "Tefal Jamie Oliver Cook's Direct On braadpan 28 cm, thermo-signaal | Roestvrijst",
-          "c": "Keuken"
-        },
-        {
-          "n": "JURA originele reinigingstabletten koffiemachine 6 stuks (24225) | 3-fasen: rein",
-          "c": "Keuken"
-        },
-        {
-          "n": "Siemens Ontkalkingstabletten TZ80002A, 3 stuks, geschikt voor alle volautomatisc",
-          "c": "Keuken"
-        },
-        {
-          "n": "Philips Pluisscheerapparaat, blauw, 2 hoogte-instellingen | 8800 tpm, 3 maasmate",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreamzie - Spannbettlaken - 90x200cm - 100% Baumwolle Jersey | Weiß · Leintuch m",
-          "c": "Keuken"
-        },
-        {
-          "n": "Dreo Atom 316 Energiebesparende ventilatorkachel, 1500 W, energiebesparende stil",
-          "c": "Keuken"
-        },
-        {
-          "n": "120 stuks bakpapier voor heteluchtfriteuse Ninja Dual, Stone TH Airfryer met dub",
-          "c": "Keuken"
         }
       ]
     }
