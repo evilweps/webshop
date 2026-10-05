@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T11:54:34.418679+00:00",
-  "updated_fmt": "5 October 2026 om 11:54",
+  "updated": "2026-10-05T22:58:15.042359+00:00",
+  "updated_fmt": "5 October 2026 om 22:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 5 Oct 2026 11:54 UTC",
+      "note": "bol.com — gescraped 5 Oct 2026 22:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 5 Oct 2026 11:54 UTC",
+      "note": "amazon.nl — gescraped 5 Oct 2026 22:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -675,7 +675,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Stanley 1913 Quencher H2.0 Flowstate Tumbler 1.2L - 11 Uur Koud - 48 Uur Met Ijs",
+          "n": "Stanley 1913 Quencher H2.0 Flowstate Tumbler 1.18L - 11 Uur Koud - 48 Uur Met Ij",
           "c": "Algemeen"
         },
         {
@@ -708,6 +708,30 @@
         },
         {
           "n": "Philips Bodygroomer 7000 Series – Trimmer voor Heren, 2D Triple Protect Scheerko",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Blendwerk (Ein Kluftinger-Krimi 14): Kluftinger ermittelt | Kommissar Kluftinger",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hoffnung: Die Streitenden Götter, Band 8 / Der Prinz von Staub und Schatten, Ban",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Verity (Verity)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
           "c": "Algemeen"
         },
         {
@@ -783,30 +807,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blendwerk (Ein Kluftinger-Krimi 14): Kluftinger ermittelt | Kommissar Kluftinger",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hoffnung: Die Streitenden Götter, Band 8 / Der Prinz von Staub und Schatten, Ban",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Verity (Verity)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Alles wird Asche (Ein Bodenstein-Kirchhoff-Krimi 12)",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
           "c": "Elektronica"
         },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 5 Oct 2026 11:54 UTC",
+      "note": "amazon.com.be — gescraped 5 Oct 2026 22:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1182,6 +1182,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Aardbei-smaak, appel, framboos en perzik, 180 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Colorants alimentaires 8 x 10 ml – Lot de colorants alimentaires liquides | Colo",
+          "c": "Algemeen"
+        },
+        {
           "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
           "c": "Algemeen"
         },
@@ -1206,47 +1226,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
           "c": "Algemeen"
         },
         {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "n": "Blukar Hoofdlamp, oplaadbaar, 2 stuks, 2000 l, superhelder, licht, led | Krachti",
           "c": "Algemeen"
         },
         {
-          "n": "Lutti Aardbei-smaak, appel, framboos en perzik, 180 g",
+          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
           "c": "Algemeen"
         },
         {
-          "n": "Colorants alimentaires 8 x 10 ml – Lot de colorants alimentaires liquides | Colo",
+          "n": "TRESKO Trainingsmat voor fitness, yoga, pilates en gymnastiek, afmetingen 185 x ",
           "c": "Algemeen"
         },
         {
-          "n": "Super Ninja Fruitvliegjesvanger: 4 vallen, zeer effectieve milieuvriendelijke va",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Rowenta - Premiss 2.0 LCD Personenweegschaal - Batterijen inbegrepen | Nauwkeuri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Optimum Nutrition Micronised Creatine Monohydraatpoeder, 634 g | Ongearomatiseer",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | Isopropylalcohol met hoog geh",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Whitening Mint Toothpaste 85 Ml Santé et soins personnels",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dreame Reinigingsoplossing voor dreame W10/W10 Pro/L10s Ultra/L10 Prime/L10s Pro",
+          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 5 Oct 2026 11:54 UTC",
+      "note": "amazon.de — gescraped 5 Oct 2026 22:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 874,69/l)",
+          "n": "(USD 732,01/l)",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,01",
+          "n": "USD 28,29",
           "c": "Algemeen"
         },
         {
@@ -1533,7 +1533,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,57/eenheid)",
+          "n": "(USD 2,58/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 5,81",
+          "n": "1 aanbieding voorUSD 5,84",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,79",
+          "n": "1 aanbieding voorUSD 2,81",
           "c": "Algemeen"
         },
         {
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 262,41/l)",
+          "n": "(USD 212,84/l)",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,09",
+          "n": "2 aanbiedingen vanUSD 30,25",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 22,32",
+          "n": "2 aanbiedingen vanUSD 22,44",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,04",
+          "n": "USD 15,12",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,43/eenheid)",
+          "n": "(USD 3,45/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,05",
+          "n": "1 aanbieding voorUSD 16,83",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 47,85",
+          "n": "USD 45,18",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 12,27",
+          "n": "1 aanbieding voorUSD 17,90",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1621,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 17,34",
+          "n": "5 aanbiedingen vanUSD 17,43",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 30,13",
+          "n": "1 aanbieding voorUSD 30,29",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 9,77/eenheid)",
+          "n": "(USD 8,02/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1645,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,41/eenheid)",
+          "n": "(USD 0,42/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1653,55 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,53",
-          "c": "Algemeen"
-        },
-        {
-          "n": "MORE Zerup, Peach Iced Tea, 65 ml, voor maximaal 8 l kant-en-klare drank | Suike",
-          "c": "Algemeen"
-        },
-        {
-          "n": "7 aanbiedingen vanUSD 6,31",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Best Body Nutrition Vital Drink Kirsche, Getränkekonzentrat, 1000 ml Flasche",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11 aanbiedingen vanUSD 13,39",
-          "c": "Algemeen"
-        },
-        {
-          "n": "MORE Chunky Flavour, Dark Cookie Crumble, 170 g, veganistisch | Smaakpoeder om t",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 13,14",
-          "c": "Algemeen"
-        },
-        {
-          "n": "MORE Barista Zerup, vanille, 65 ml, voor koffie, thee en warme dranken | Meer da",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 6,35",
-          "c": "Algemeen"
-        },
-        {
-          "n": "True Dates - Sour Apple | natuurlijk gearomatiseerde dadels | zure appelsmaak | ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 1,95",
-          "c": "Algemeen"
-        },
-        {
-          "n": "nimm2 Lachgom, melkgeest, fruitgummies met melkschuim, 1 x 225 g | Fruitgum in 6",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 1,41",
+          "n": "USD 37,73",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1661,55 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 1,72/eenheid)",
+          "n": "(USD 1,73/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 7,85",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,41",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD 13,46",
+          "c": "Algemeen"
+        },
+        {
+          "n": "slochi Plafondlamp LED plafondlamp plat, Ø18CM 3kleuren 15W 1500LM wit | Waterdi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "7 aanbiedingen vanUSD 8,83",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 21,32",
+          "c": "Algemeen"
+        },
+        {
+          "n": "MORE Zerup, Peach Iced Tea, 65 ml, voor maximaal 8 l kant-en-klare drank | Suike",
+          "c": "Algemeen"
+        },
+        {
+          "n": "7 aanbiedingen vanUSD 6,34",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Best Body Nutrition Vital Drink Kirsche, Getränkekonzentrat, 1000 ml Flasche",
           "c": "Algemeen"
         }
       ]
