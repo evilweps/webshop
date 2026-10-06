@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T11:34:48.473528+00:00",
-  "updated_fmt": "6 October 2026 om 11:34",
+  "updated": "2026-10-06T21:20:30.311370+00:00",
+  "updated_fmt": "6 October 2026 om 21:20",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 6 Oct 2026 11:34 UTC",
+      "note": "bol.com — gescraped 6 Oct 2026 21:20 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 6 Oct 2026 11:34 UTC",
+      "note": "amazon.nl — gescraped 6 Oct 2026 21:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,35 +719,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Kalte Tage: Ein Kate-Linville-Thriller - Der neue Spitzenthriller der Nr.-1-Best",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Threshing Day – Flammengeküsst (Flammengeküsst-Reihe): 13 Geschichten aus der We",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blendwerk (Ein Kluftinger-Krimi 14): Kluftinger ermittelt | Kommissar Kluftinger",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die Lücken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hoffnung: Die Streitenden Götter, Band 8 / Der Prinz von Staub und Schatten, Ban",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Verity (Verity)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle – De lichtste en meest compacte Kindle, met een reflectievrij sche",
+          "n": "Amazon Kindle 16 GB (model 2024) - Licht en compact, met snelle paginaovergangen",
           "c": "Algemeen"
         },
         {
@@ -759,7 +735,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
           "c": "Algemeen"
         },
         {
@@ -812,6 +788,26 @@
         },
         {
           "n": "CIRYCASE 1200LM Fietsverlichting voor Nachtritten met Brede Lichtbundel, IP65 Wa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bosch 25-delige Mini-X-Line-schroefbit (PH-, PZ-, zeskant-, T-, TH-, S-Bit, acce",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Hue Dimmer Switch, Wit | Slimme lichtbediening, draadloos, werkt op batt",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TP-Link Tapo P115 Mini Slimme stekker met energiebewaking, Bediening op afstand,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Stanley Bandmaat Tylon, 5 m, Tylon-polymeer beschermlaag, verschuifbare eindhaak",
           "c": "Algemeen"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
+        },
+        {
+          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 6 Oct 2026 11:34 UTC",
+      "note": "amazon.com.be — gescraped 6 Oct 2026 21:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1214,11 +1214,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle - De lichtste en meest compacte Kindle, met een reflectievrij sche",
+          "n": "Amazon Kindle 16 GB (2024-model) - Licht en compact, met snelle paginawissels en",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite (nieuwste generatie) – Onze snelste Kindle ooit, met ee",
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7-inch antireflectiescherm en weke",
           "c": "Algemeen"
         },
         {
@@ -1282,6 +1282,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
+          "c": "Elektronica"
+        },
+        {
           "n": "Trust DNI USB-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
           "c": "Elektronica"
         },
@@ -1303,10 +1307,6 @@
         },
         {
           "n": "JETech Gehard glas voor iPad (A16) 11e/10e generatie, 2 stuks | Voor 2025/2022 m",
-          "c": "Elektronica"
-        },
-        {
-          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 6 Oct 2026 11:34 UTC",
+      "note": "amazon.de — gescraped 6 Oct 2026 21:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 15,70",
+          "n": "8 aanbiedingen vanUSD 15,70",
           "c": "Algemeen"
         },
         {
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 17,90",
+          "n": "1 aanbieding voorUSD 13,46",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,09",
+          "n": "2 aanbiedingen vanUSD 28,00",
           "c": "Algemeen"
         },
         {
