@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T11:24:37.210532+00:00",
-  "updated_fmt": "7 October 2026 om 11:24",
+  "updated": "2026-10-07T21:40:49.389745+00:00",
+  "updated_fmt": "7 October 2026 om 21:40",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 7 Oct 2026 11:24 UTC",
+      "note": "bol.com — gescraped 7 Oct 2026 21:40 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 7 Oct 2026 11:24 UTC",
+      "note": "amazon.nl — gescraped 7 Oct 2026 21:40 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,6 +767,18 @@
           "c": "Algemeen"
         },
         {
+          "n": "TMNT THE LAST RONIN HC",
+          "c": "Algemeen"
+        },
+        {
+          "n": "A Dictionary of Color Combinations",
+          "c": "Algemeen"
+        },
+        {
+          "n": "KJV Holy Bible: Personal Size Giant Print with 43,000 Cross References, Burgundy",
+          "c": "Algemeen"
+        },
+        {
           "n": "Felix Mix Selectie in Gelei Kattenvoer, Natvoer maaltijdzakjes met Rund, Kip, Za",
           "c": "Algemeen"
         },
@@ -784,18 +796,6 @@
         },
         {
           "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Immortal Consequences: A Good Morning America YA Book Club Pick: 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Dictionary of Color Combinations",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 7 Oct 2026 11:24 UTC",
+      "note": "amazon.com.be — gescraped 7 Oct 2026 21:40 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 7 Oct 2026 11:24 UTC",
+      "note": "amazon.de — gescraped 7 Oct 2026 21:40 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,59",
+          "n": "USD 27,38",
           "c": "Algemeen"
         },
         {
@@ -1550,10 +1550,6 @@
         },
         {
           "n": "Calvin Klein Set van 3 boxershorts voor heren met logo band",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 30,29",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,58/eenheid)",
+          "n": "2 aanbiedingen vanUSD 15,39",
           "c": "Algemeen"
         },
         {
@@ -1681,10 +1677,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 30,32",
-          "c": "Algemeen"
-        },
-        {
           "n": "Jacobson jersey hoeslaken, katoen, grijs, 140x200 - 160x200 cm",
           "c": "Algemeen"
         },
@@ -1710,6 +1702,14 @@
         },
         {
           "n": "(USD 1,73/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Govee Smart gloeilamp E27, WLAN LED lamp RGBWW 800lm, dimbaar, 2 stuks | Smart B",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 22,47",
           "c": "Algemeen"
         }
       ]
