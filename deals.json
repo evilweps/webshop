@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T11:40:09.874186+00:00",
-  "updated_fmt": "8 October 2026 om 11:40",
+  "updated": "2026-10-08T21:39:13.868887+00:00",
+  "updated_fmt": "8 October 2026 om 21:39",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Oct 2026 11:40 UTC",
+      "note": "bol.com — gescraped 8 Oct 2026 21:39 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Oct 2026 11:40 UTC",
+      "note": "amazon.nl — gescraped 8 Oct 2026 21:39 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -771,6 +771,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "KJV Holy Bible: Personal Size Giant Print with 43,000 Cross References, Burgundy",
+          "c": "Algemeen"
+        },
+        {
           "n": "A Dictionary of Color Combinations",
           "c": "Algemeen"
         },
@@ -865,10 +869,6 @@
         {
           "n": "Maak kennis met Sonos Era 100 SL | De ideale Sonos speaker voor muziekliefhebber",
           "c": "Elektronica"
-        },
-        {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Oct 2026 11:40 UTC",
+      "note": "amazon.com.be — gescraped 8 Oct 2026 21:39 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1130,7 +1130,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren",
+          "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air Vrijetijdsschoenen, lu",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Oct 2026 11:40 UTC",
+      "note": "amazon.de — gescraped 8 Oct 2026 21:39 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1529,7 +1529,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 14,33",
+          "n": "6 aanbiedingen vanUSD 14,33",
           "c": "Algemeen"
         },
         {
@@ -1561,11 +1561,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,20",
+          "n": "4 aanbiedingen vanUSD 30,20",
           "c": "Algemeen"
         },
         {
           "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, lage taille, onderg",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 30,20",
           "c": "Algemeen"
         },
         {
@@ -1577,11 +1581,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 10,07",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Heren Workout Essentials All-set 3-Stripes Knit Pant",
           "c": "Algemeen"
         },
         {
-          "n": "USD 27,30",
+          "n": "USD 26,36",
           "c": "Algemeen"
         },
         {
@@ -1590,10 +1602,6 @@
         },
         {
           "n": "5 aanbiedingen vanUSD 30,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks 3 strepen Cushioned Sportswear Crew sokken, 3 paar sokken",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 14,90",
+          "n": "4 aanbiedingen vanUSD 14,90",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,28",
+          "n": "3 aanbiedingen vanUSD 17,49",
           "c": "Algemeen"
         },
         {
@@ -1702,14 +1710,6 @@
         },
         {
           "n": "(USD 0,75/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Steamer 3000 serie, wit, 1000 W | Stoomstrijkijzer met 120 ml watertank,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 33,89",
           "c": "Algemeen"
         }
       ]
