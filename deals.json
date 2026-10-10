@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T21:22:59.771363+00:00",
-  "updated_fmt": "9 October 2026 om 21:22",
+  "updated": "2026-10-10T01:58:02.123939+00:00",
+  "updated_fmt": "10 October 2026 om 01:58",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Oct 2026 21:22 UTC",
+      "note": "bol.com — gescraped 10 Oct 2026 01:58 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Oct 2026 21:22 UTC",
+      "note": "amazon.nl — gescraped 10 Oct 2026 01:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -703,19 +703,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Igluu Meal Prep Glazen Vershoudbakjes (Set van 10) – 370 & 1050ml | Deksel lucht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Tefal 5 Snden Chopper k13204 Handmatige Hakmolen 900ml | Simpel en snel, 100% en",
-          "c": "Algemeen"
-        },
-        {
           "n": "TrendPlain Oliedispenser, oliefles, 2-in-1 dispenser en spray, voor olijfolie en",
           "c": "Algemeen"
         },
         {
           "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Igluu Meal Prep Glazen Vershoudbakjes (Set van 10) – 370 & 1050ml | Deksel lucht",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Tefal 5 Snden Chopper k13204 Handmatige Hakmolen 900ml | Simpel en snel, 100% en",
           "c": "Algemeen"
         },
         {
@@ -759,11 +759,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "DANSI LED Licht Set - StVZO goedgekeurde fietslamp| LED fietslamp voor+achter |A",
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
           "c": "Algemeen"
         },
         {
-          "n": "HEAD Tube 3 Padel Bollar",
+          "n": "DANSI LED Licht Set - StVZO goedgekeurde fietslamp| LED fietslamp voor+achter |A",
           "c": "Algemeen"
         },
         {
@@ -811,11 +811,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "DURACELL 2032 Lithium-knoopcelbatterijen, 4 Stuks, 3V, CR2032 | Gaan Tot 70% Lan",
+          "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
+          "n": "DURACELL 2032 Lithium-knoopcelbatterijen, 4 Stuks, 3V, CR2032 | Gaan Tot 70% Lan",
           "c": "Elektronica"
         },
         {
@@ -855,15 +855,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
-          "c": "Elektronica"
-        },
-        {
           "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
           "n": "Apple EarPods (USB‑C) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Oct 2026 21:22 UTC",
+      "note": "amazon.com.be — gescraped 10 Oct 2026 01:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1166,31 +1166,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Intex Classic DuraBeam Luchtbed Compact | Opblaasbaar matras met golfstructuur v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Lash Sensational Very Black Volume & Definition Mascara, 9,5",
-          "c": "Algemeen"
-        },
-        {
-          "n": "345NA Intensieve Repair Cream, 50 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BaByliss D572DE Turbo Smooth 2200 föhn met diffuser, ionische anti-frizz functie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
           "c": "Algemeen"
         },
         {
@@ -1238,6 +1214,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Lash Sensational Very Black Volume & Definition Mascara, 9,5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BaByliss D572DE Turbo Smooth 2200 föhn met diffuser, ionische anti-frizz functie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "345NA Intensieve Repair Cream, 50 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
+          "c": "Algemeen"
+        },
+        {
           "n": "Magnesiumbisglycinaat + vitamine B6-90 veganistische capsules - Nutrimea | Slaap",
           "c": "Algemeen"
         },
@@ -1282,11 +1282,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
+          "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
+          "n": "Apple EarPods (USB-C)​​​​​​​",
           "c": "Elektronica"
         },
         {
@@ -1314,11 +1314,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
+          "n": "Trust DNI USB-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
           "c": "Elektronica"
         },
         {
-          "n": "Trust DNI USB-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Oct 2026 21:22 UTC",
+      "note": "amazon.de — gescraped 10 Oct 2026 01:58 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 10,09",
+          "n": "2 aanbiedingen vanUSD 9,79",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 32,07",
+          "n": "USD 27,35",
           "c": "Algemeen"
         },
         {
@@ -1633,19 +1633,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Sagrotan No‑Touch Nachfüller Aloe Vera – Handseife für den automatischen Seifens",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 14,93",
-          "c": "Algemeen"
-        },
-        {
           "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
           "c": "Algemeen"
         },
         {
           "n": "5 aanbiedingen vanUSD 26,70",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Sagrotan No‑Touch Nachfüller Aloe Vera – Handseife für den automatischen Seifens",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD 14,93",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 59,41",
+          "n": "8 aanbiedingen vanUSD 59,41",
           "c": "Algemeen"
         },
         {
