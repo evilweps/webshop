@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T20:21:36.474414+00:00",
-  "updated_fmt": "10 October 2026 om 20:21",
+  "updated": "2026-10-11T01:23:35.603403+00:00",
+  "updated_fmt": "11 October 2026 om 01:23",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Oct 2026 20:21 UTC",
+      "note": "bol.com — gescraped 11 Oct 2026 01:23 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Oct 2026 20:21 UTC",
+      "note": "amazon.nl — gescraped 11 Oct 2026 01:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -695,30 +695,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dove Men+Care Advanced Invisible Dry Anti-Transpirant Deodorant Spray, biedt tot",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
-          "c": "Algemeen"
-        },
-        {
-          "n": "L'Oréal Men Expert Hydra Energetic Crème 100ml | Hydraterende dagcrème verzorgt ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
@@ -740,6 +716,30 @@
         },
         {
           "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dove Men+Care Advanced Invisible Dry Anti-Transpirant Deodorant Spray, biedt tot",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "L'Oréal Men Expert Hydra Energetic Crème 100ml | Hydraterende dagcrème verzorgt ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Neutrogena Hydro Boost Aqua Gel, vochtinbrengende gel, vochtinbrengende crème, n",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Oct 2026 20:21 UTC",
+      "note": "amazon.com.be — gescraped 11 Oct 2026 01:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,22 @@
       ],
       "bestsellers": [
         {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfiltercartridge MAXTRA PRO Pure Performance (all-in-1), verpakking va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vileda H2Pro platte bezemsysteem, revolutionaire scheiding van schoon en vuil wa",
+          "c": "Algemeen"
+        },
+        {
           "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
           "c": "Algemeen"
         },
@@ -1147,46 +1163,6 @@
         },
         {
           "n": "Calvin Klein Lot de 3 caleçons pour homme",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BRITA Waterfiltercartridge MAXTRA PRO Pure Performance (all-in-1), verpakking va",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vileda H2Pro platte bezemsysteem, revolutionaire scheiding van schoon en vuil wa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Magnesiumbisglycinaat + vitamine B6-90 veganistische capsules - Nutrimea | Slaap",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Super Ninja Fruitvliegjesvanger: 4 vallen, zeer effectieve milieuvriendelijke va",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Whitening Mint Toothpaste 85 Ml Santé et soins personnels",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Vitality Pro Elektrische tandenborstel, violet, 1 borstel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Optimum Nutrition Micronised Creatine Monohydraatpoeder, 634 g | Ongearomatiseer",
           "c": "Algemeen"
         },
         {
@@ -1255,6 +1231,30 @@
         },
         {
           "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Magnesiumbisglycinaat + vitamine B6-90 veganistische capsules - Nutrimea | Slaap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Super Ninja Fruitvliegjesvanger: 4 vallen, zeer effectieve milieuvriendelijke va",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Whitening Mint Toothpaste 85 Ml Santé et soins personnels",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Oral-B Vitality Pro Elektrische tandenborstel, violet, 1 borstel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Optimum Nutrition Micronised Creatine Monohydraatpoeder, 634 g | Ongearomatiseer",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Oct 2026 20:21 UTC",
+      "note": "amazon.de — gescraped 11 Oct 2026 01:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,47 +1513,35 @@
       ],
       "bestsellers": [
         {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
+          "n": "Pokémon - Verzamelkaartspel: Top Trainer Box 30 jaar",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 30,19",
+          "n": "3 aanbiedingen vanUSD 56,00",
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Heren slip (verpakking van 3), Wit/Tart Appel/Kobaltwater/Tuinkieze",
+          "n": "28 aanbiedingen vanUSD 26,88",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 30,19",
+          "n": "1 aanbieding voorUSD 33,60",
           "c": "Algemeen"
         },
         {
-          "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
+          "n": "4 aanbiedingen vanUSD 14,55",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 9,77",
+          "n": "Pokémon - Verzamelkaartspel: Tin-Box 30 jaar: Quajutsu-ex",
           "c": "Algemeen"
         },
         {
-          "n": "Puma Unisex PUMA Smash V2 L sneakers",
+          "n": "9 aanbiedingen vanUSD 28,00",
           "c": "Algemeen"
         },
         {
-          "n": "USD 30,93",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 14,97",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks 3 strepen Cushioned Sportswear Crew sokken, 3 paar sokken",
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
           "c": "Algemeen"
         },
         {
@@ -1609,47 +1597,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "Govee RGBIC Led-vloerlamp, woonkamer, wifi, vloerlamp, 1000 lm, dimbaar | Werkt ",
+          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD 59,27",
+          "n": "5 aanbiedingen vanUSD 30,19",
           "c": "Algemeen"
         },
         {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "n": "Calvin Klein Heren slip (verpakking van 3), Wit/Tart Appel/Kobaltwater/Tuinkieze",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 21,27",
+          "n": "2 aanbiedingen vanUSD 30,19",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,27",
+          "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
           "c": "Algemeen"
         },
         {
-          "n": "PHILIPS LED Classic GU10 Lampe, 6er Pack | Warmweißes LED Licht, Reflektor Spot,",
+          "n": "2 aanbiedingen vanUSD 9,77",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,35/eenheid)",
+          "n": "Puma Unisex PUMA Smash V2 L sneakers",
           "c": "Algemeen"
         },
         {
-          "n": "Govee Smart gloeilamp E27, WLAN LED lamp RGBWW 800lm, dimbaar, 2 stuks | Smart B",
+          "n": "USD 30,93",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 15,05",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
         {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "n": "USD 14,97",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 7,83",
+          "n": "adidas Uniseks 3 strepen Cushioned Sportswear Crew sokken, 3 paar sokken",
           "c": "Algemeen"
         },
         {
@@ -1697,19 +1685,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "LEGAMI - Halloweenset, 1 uitwisbare pen blind box, 2 Lovely Friends | 1 blind bo",
+          "n": "Govee RGBIC Led-vloerlamp, woonkamer, wifi, vloerlamp, 1000 lm, dimbaar | Werkt ",
           "c": "Algemeen"
         },
         {
-          "n": "USD 11,72",
+          "n": "8 aanbiedingen vanUSD 59,27",
           "c": "Algemeen"
         },
         {
-          "n": "AmazonBasics-printerpapier, A4, 80 g / m², 5x500 vel, wit",
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,83/100 vellen)",
+          "n": "1 aanbieding voorUSD 21,27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 21,27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 Lampe, 6er Pack | Warmweißes LED Licht, Reflektor Spot,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,35/eenheid)",
           "c": "Algemeen"
         }
       ]
