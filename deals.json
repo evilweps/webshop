@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T12:16:15.038821+00:00",
-  "updated_fmt": "13 October 2026 om 12:16",
+  "updated": "2026-10-13T21:37:46.008377+00:00",
+  "updated_fmt": "13 October 2026 om 21:37",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 13 Oct 2026 12:16 UTC",
+      "note": "bol.com — gescraped 13 Oct 2026 21:37 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 13 Oct 2026 12:16 UTC",
+      "note": "amazon.nl — gescraped 13 Oct 2026 21:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 13 Oct 2026 12:16 UTC",
+      "note": "amazon.com.be — gescraped 13 Oct 2026 21:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1138,10 +1138,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rowenta SO6510F2 Ventilatorverwarming, voor badkamer, 2 instellingen, stil, comp",
-          "c": "Algemeen"
-        },
-        {
           "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
           "c": "Algemeen"
         },
@@ -1324,6 +1320,10 @@
         {
           "n": "LR1130 AG10 Alkaline knoopcellen voor muziekboeken of geluiden, horloge, speelgo",
           "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 13 Oct 2026 12:16 UTC",
+      "note": "amazon.de — gescraped 13 Oct 2026 21:37 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 55,87",
+          "n": "2 aanbiedingen vanUSD 55,87",
           "c": "Algemeen"
         },
         {
@@ -1529,11 +1529,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 11,05",
+          "n": "2 aanbiedingen vanUSD 11,05",
           "c": "Algemeen"
         },
         {
-          "n": "23 aanbiedingen vanUSD 26,81",
+          "n": "22 aanbiedingen vanUSD 26,81",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "9 aanbiedingen vanUSD 37,22",
+          "n": "10 aanbiedingen vanUSD 37,22",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,65",
+          "n": "1 aanbieding voorUSD 6,26",
           "c": "Algemeen"
         },
         {
@@ -1613,11 +1613,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 17,36",
+          "n": "3 aanbiedingen vanUSD 17,46",
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 10,93",
+          "n": "3 aanbiedingen vanUSD 10,93",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 14,93",
+          "n": "USD 16,81",
           "c": "Algemeen"
         },
         {
