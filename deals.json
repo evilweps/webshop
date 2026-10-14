@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T09:49:28.979622+00:00",
-  "updated_fmt": "14 October 2026 om 09:49",
+  "updated": "2026-10-14T15:36:17.040567+00:00",
+  "updated_fmt": "14 October 2026 om 15:36",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 14 Oct 2026 09:49 UTC",
+      "note": "bol.com — gescraped 14 Oct 2026 15:36 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 14 Oct 2026 09:49 UTC",
+      "note": "amazon.nl — gescraped 14 Oct 2026 15:36 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 14 Oct 2026 09:49 UTC",
+      "note": "amazon.com.be — gescraped 14 Oct 2026 15:36 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1210,6 +1210,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ScrapCooking - Stylo Choco Blanc - Crayon Alimentaire Pâtisserie 25 g - Stylo Dé",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
+          "c": "Algemeen"
+        },
+        {
           "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
           "c": "Algemeen"
         },
@@ -1231,30 +1251,6 @@
         },
         {
           "n": "Magnesiumbisglycinaat + vitamine B6-90 veganistische capsules - Nutrimea | Slaap",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G305 Gamingmuis, draadloos, HERO-gamingsensor, 12.000 dpi, ultralicht, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Manette Xbox Blanche Sans Fil - Robot White",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Castlevania: Belmont's Curse-Midnight Edition - PS5 (Version française)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pacchetto standard PS5: console PlayStation 5 (modello sottile) + Fortnite Flowe",
           "c": "Algemeen"
         },
         {
@@ -1324,6 +1320,10 @@
         {
           "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
           "c": "Elektronica"
+        },
+        {
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 14 Oct 2026 09:49 UTC",
+      "note": "amazon.de — gescraped 14 Oct 2026 15:36 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 17,51",
+          "n": "3 aanbiedingen vanUSD 17,51",
           "c": "Algemeen"
         },
         {
@@ -1618,10 +1618,6 @@
         },
         {
           "n": "essence Care Bears Lipgloss Keychain, lipgloss, nr. 02, glanzend, 9,5 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 5,55",
           "c": "Algemeen"
         },
         {
@@ -1705,11 +1701,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "24 aanbiedingen vanUSD 26,89",
+          "n": "25 aanbiedingen vanUSD 26,89",
           "c": "Algemeen"
         },
         {
           "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 9,40",
           "c": "Algemeen"
         }
       ]
