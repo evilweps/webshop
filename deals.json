@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T15:23:34.969644+00:00",
-  "updated_fmt": "15 October 2026 om 15:23",
+  "updated": "2026-10-15T20:06:25.788807+00:00",
+  "updated_fmt": "15 October 2026 om 20:06",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 15 Oct 2026 15:23 UTC",
+      "note": "bol.com — gescraped 15 Oct 2026 20:06 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 15 Oct 2026 15:23 UTC",
+      "note": "amazon.nl — gescraped 15 Oct 2026 20:06 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 15 Oct 2026 15:23 UTC",
+      "note": "amazon.com.be — gescraped 15 Oct 2026 20:06 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 15 Oct 2026 15:23 UTC",
+      "note": "amazon.de — gescraped 15 Oct 2026 20:06 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,14 +1513,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Calvin Klein Boxershorts voor heren, set van 3 - l",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD 30,26",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
@@ -1534,6 +1526,14 @@
         },
         {
           "n": "(USD 3,45/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, hoogwaardig stretchkatoen, elastische boord",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 30,26",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 1,41",
+          "n": "1 aanbieding voorUSD 1,41",
           "c": "Algemeen"
         }
       ]
