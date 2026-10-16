@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T00:52:27.337521+00:00",
-  "updated_fmt": "16 October 2026 om 00:52",
+  "updated": "2026-10-16T09:23:01.715197+00:00",
+  "updated_fmt": "16 October 2026 om 09:23",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Oct 2026 00:52 UTC",
+      "note": "bol.com — gescraped 16 Oct 2026 09:23 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Oct 2026 00:52 UTC",
+      "note": "amazon.nl — gescraped 16 Oct 2026 09:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -759,11 +759,35 @@
           "c": "Algemeen"
         },
         {
+          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
+        },
+        {
           "n": "CIRYCASE Fietsverlichting Fiets, Super Helder Fietslicht USB Oplaadbaar, IPX6 Wa",
           "c": "Algemeen"
         },
         {
-          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "n": "Soundcore by Anker Q20i draadloze koptelefoon Bluetooth met hybride actieve ruis",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple iPhone 14 128GB - Wit (Refurbished)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Soundcore by Anker Q20i Hybride actieve ruisonderdrukkende hoofdtelefoon - comfo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Microsoft Surface Pro Type Cover 2019 with pen storage (voor Surface Pro 8, 9, X",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2019 Apple MacBook Pro met 2.8GHz Intel Core i7 (13-inch, 16GB RAM, 512GB SSD) (",
+          "c": "Algemeen"
+        },
+        {
+          "n": "soundcore Anker, P30i oordopjes met ruisonderdrukking, slimme ruisonderdrukking,",
           "c": "Algemeen"
         },
         {
@@ -791,26 +815,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TePe EasyPick Tandenstokers, Oranje, Maat XS-S, 60st | Tandplakverwijderaar, Eff",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Page® Fris en Schoon (Compleet Schoon) - Vochtig Toiletpapier doorspoelbare - 45",
-          "c": "Algemeen"
-        },
-        {
           "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
           "c": "Elektronica"
         },
@@ -831,7 +835,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 18 Pro Max Case Compatibel met MagSafe, Bordeaux | Volledige C",
+          "n": "TOCOL voor iPhone 18 Pro Case Compatibel met MagSafe, Bordeaux | Volledige Camer",
           "c": "Elektronica"
         },
         {
@@ -863,10 +867,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "SONY MDRZX110AP/W Headphones W/Mic & Remote White",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         }
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Oct 2026 00:52 UTC",
+      "note": "amazon.com.be — gescraped 16 Oct 2026 09:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1146,11 +1146,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Waterfiltercartridge MAXTRA PRO Pure Performance (all-in-1), verpakking va",
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "n": "BRITA Waterfiltercartridge MAXTRA PRO Pure Performance (all-in-1), verpakking va",
           "c": "Algemeen"
         },
         {
@@ -1170,15 +1170,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Aomig Cape noire de vampire - Cape Jedi - Cape médiévale | Cape à capuche pour a",
-          "c": "Algemeen"
-        },
-        {
           "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
           "c": "Algemeen"
         },
         {
-          "n": "Aomig Cape met capuchon, kostuum voor kinderen, uniseks, kostuum, tovenaarscape,",
+          "n": "Aomig Cape noire de vampire - Cape Jedi - Cape médiévale | Cape à capuche pour a",
           "c": "Algemeen"
         },
         {
@@ -1186,11 +1182,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air vrijetijdsschoenen, lu",
           "c": "Algemeen"
         },
         {
           "n": "Echo Dot (Nieuwste generatie) | Krachtig, levendig geluid – Wifi en Bluetooth-lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
@@ -1202,11 +1202,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7-inch antireflectiescherm en weke",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "n": "Amazon Echo Dot Max (nieuwste generatie), Alexa-speaker met kamervullend geluid,",
           "c": "Algemeen"
         },
         {
@@ -1250,7 +1250,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Dreame Reinigingsoplossing voor dreame W10/W10 Pro/L10s Ultra/L10 Prime/L10s Pro",
+          "n": "Magnesiumbisglycinaat + vitamine B6-90 veganistische capsules - Nutrimea | Slaap",
           "c": "Algemeen"
         },
         {
@@ -1298,15 +1298,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
           "c": "Elektronica"
         },
         {
-          "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
+          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
           "c": "Elektronica"
         },
         {
@@ -1314,15 +1310,19 @@
           "c": "Elektronica"
         },
         {
+          "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
+          "c": "Elektronica"
+        },
+        {
           "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
           "c": "Elektronica"
         },
         {
-          "n": "Duracell Alkaline Optimum AAA 8st. | +200% Power Boost-activa - Voor energievers",
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
-          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
+          "n": "Duracell Alkaline Optimum AAA 8st. | +200% Power Boost-activa - Voor energievers",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Oct 2026 00:52 UTC",
+      "note": "amazon.de — gescraped 16 Oct 2026 09:23 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,89",
+          "n": "USD 16,90",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Boxershorts voor heren, hoogwaardig stretchkatoen, elastische boord",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 34,78",
           "c": "Algemeen"
         },
         {
@@ -1529,23 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Calvin Klein Boxershorts voor heren, hoogwaardig stretchkatoen, elastische boord",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 30,26",
-          "c": "Algemeen"
-        },
-        {
           "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 19,08",
           "c": "Algemeen"
         },
         {
@@ -1557,11 +1549,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 19,09",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,46",
+          "n": "1 aanbieding voorUSD 13,47",
           "c": "Algemeen"
         },
         {
@@ -1569,11 +1569,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 17,54",
+          "n": "4 aanbiedingen vanUSD 17,55",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 10,98",
+          "n": "3 aanbiedingen vanUSD 10,99",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 61,75",
+          "n": "1 aanbieding voorUSD 61,79",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,74",
+          "n": "USD 37,77",
           "c": "Algemeen"
         },
         {
@@ -1605,19 +1605,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 491,70/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 932,23/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "essence Care Bears Lipgloss Keychain, lipgloss, nr. 02, glanzend, 9,5 ml",
+          "n": "(USD 932,91/l)",
           "c": "Algemeen"
         },
         {
@@ -1645,6 +1637,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 200,47/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
           "c": "Algemeen"
         },
@@ -1657,15 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,23",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BXROIU 6 x 20 LED Micro Lichterkette Batterie 2 m mit CR2032 Warmweiß | 2 m flex",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 7,85",
+          "n": "1 aanbieding voorUSD 16,24",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1669,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,32",
+          "n": "BXROIU 6 x 20 LED Micro Lichterkette Batterie 2 m mit CR2032 Warmweiß | 2 m flex",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 7,85",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 21,34",
           "c": "Algemeen"
         },
         {
@@ -1689,27 +1689,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "MORE Zerup, Peach Iced Tea, 65 ml, voor maximaal 8 l kant-en-klare drank | Suike",
+          "n": "LEGAMI - Halloweenset, 1 uitwisbare pen blind box, 2 Lovely Friends | 1 blind bo",
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD 5,90",
+          "n": "USD 11,75",
           "c": "Algemeen"
         },
         {
-          "n": "Best Body Nutrition Vital Drink Kirsche, Getränkekonzentrat, 1000 ml Flasche",
+          "n": "AmazonBasics-printerpapier, A4, 80 g / m², 5x500 vel, wit",
           "c": "Algemeen"
         },
         {
-          "n": "13 aanbiedingen vanUSD 13,46",
+          "n": "(USD 0,83/100 vellen)",
           "c": "Algemeen"
         },
         {
-          "n": "MORE Chunky Flavour, melkrijst kaneel, 150 g, veganistisch | Smaakpoeder om te z",
+          "n": "(USD 0,30/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 15,71",
+          "n": "HP Home und Office, A4, Weiß, 5 Pakete mit 500 Blatt | HP Kopierpapier DIN A4, 5",
           "c": "Algemeen"
         }
       ]
