@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T13:59:42.403747+00:00",
-  "updated_fmt": "17 October 2026 om 13:59",
+  "updated": "2026-10-17T18:56:11.620016+00:00",
+  "updated_fmt": "17 October 2026 om 18:56",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 17 Oct 2026 13:59 UTC",
+      "note": "bol.com — gescraped 17 Oct 2026 18:56 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 17 Oct 2026 13:59 UTC",
+      "note": "amazon.nl — gescraped 17 Oct 2026 18:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 17 Oct 2026 13:59 UTC",
+      "note": "amazon.com.be — gescraped 17 Oct 2026 18:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 17 Oct 2026 13:59 UTC",
+      "note": "amazon.de — gescraped 17 Oct 2026 18:56 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1514,6 +1514,10 @@
       "bestsellers": [
         {
           "n": "Generisch Joggingpak voor heren, tweedelige hoodie, joggingbroek, fleece, effen,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD 2,24",
           "c": "Algemeen"
         },
         {
@@ -1706,10 +1710,6 @@
         },
         {
           "n": "Pokémon - Verzamelkaartspel: Top Trainer Box 30 jaar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD 56,18",
           "c": "Algemeen"
         }
       ]
