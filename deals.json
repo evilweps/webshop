@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T19:45:08.681918+00:00",
-  "updated_fmt": "16 October 2026 om 19:45",
+  "updated": "2026-10-17T00:53:06.599528+00:00",
+  "updated_fmt": "17 October 2026 om 00:53",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 16 Oct 2026 19:45 UTC",
+      "note": "bol.com — gescraped 17 Oct 2026 00:53 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 16 Oct 2026 19:45 UTC",
+      "note": "amazon.nl — gescraped 17 Oct 2026 00:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -759,10 +759,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "MARVIS® Smokers Whitening Mint 85 ml I Tandpasta vor een wittere glimlach I lang",
-          "c": "Algemeen"
-        },
-        {
           "n": "Gourmet Perle Mini Filets in Saus Kip - Katten natvoer - (60 x 85g)",
           "c": "Algemeen"
         },
@@ -776,6 +772,10 @@
         },
         {
           "n": "Vitakraft Vloeibare snack voor katten, kattenlekkernijen in mega-verpakking (48 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "IAMS Junior kattendroogvoer met kip - droogvoer voor kittens van 1-12 maanden, 3",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 16 Oct 2026 19:45 UTC",
+      "note": "amazon.com.be — gescraped 17 Oct 2026 00:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1162,7 +1162,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "SOXCO chaussettes de travail homme 10 Paires, WORK socks lot de 10 paires",
+          "n": "SOXCO Werksokken voor heren, 10 paar, 10 paar",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 16 Oct 2026 19:45 UTC",
+      "note": "amazon.de — gescraped 17 Oct 2026 00:53 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1557,6 +1557,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "USD 16,99",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
@@ -1569,11 +1573,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 17,55",
+          "n": "3 aanbiedingen vanUSD 17,55",
           "c": "Algemeen"
         },
         {
@@ -1706,10 +1710,6 @@
         },
         {
           "n": "(USD 0,31/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "HP Home und Office, A4, Weiß, 5 Pakete mit 500 Blatt | HP Kopierpapier DIN A4, 5",
           "c": "Algemeen"
         }
       ]
