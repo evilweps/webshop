@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T18:56:11.620016+00:00",
-  "updated_fmt": "17 October 2026 om 18:56",
+  "updated": "2026-10-18T00:28:56.314985+00:00",
+  "updated_fmt": "18 October 2026 om 00:28",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 17 Oct 2026 18:56 UTC",
+      "note": "bol.com — gescraped 18 Oct 2026 00:28 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 17 Oct 2026 18:56 UTC",
+      "note": "amazon.nl — gescraped 18 Oct 2026 00:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -791,19 +791,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Coloriages Mystères - Pokémon Tome 2: Colorie les chiffres et découvre l'image",
+          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
           "c": "Algemeen"
         },
         {
-          "n": "Mama, ik wil jouw verhaal bewaren: Mam, vertel me jouw verhaal. Een herinnerings",
+          "n": "SONOFF S60ZBTPF Zigbee Smart Plug (Requires Zigbee Gateway) – Remote Control, En",
           "c": "Algemeen"
         },
         {
-          "n": "MAREMI's Illustrationi for art journaling, mixed media & cardmaking THESE AUTUMN",
+          "n": "Stanley Bandmaat Tylon, 5 m, Tylon-polymeer beschermlaag, verschuifbare eindhaak",
           "c": "Algemeen"
         },
         {
-          "n": "MAREMI's Bits & Bobs for art journaling, mixed media & cardmaking WOODLAND EDITI",
+          "n": "Philips Hue Dimmer Switch, Wit | Slimme lichtbediening, draadloos, werkt op batt",
+          "c": "Algemeen"
+        },
+        {
+          "n": "fischer DuoPower 6 x 30, universele plug, hoogwaardige 2-componenten plug, kunst",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Materialix Food Grade minerale olie (250ml)",
           "c": "Algemeen"
         },
         {
@@ -861,14 +869,6 @@
         {
           "n": "WD Red Plus 4TB NAS 3.5\" Interne Harde Schijf - 5400 RPM, SATA 6Gb/s",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 17 Oct 2026 18:56 UTC",
+      "note": "amazon.com.be — gescraped 18 Oct 2026 00:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 17 Oct 2026 18:56 UTC",
+      "note": "amazon.de — gescraped 18 Oct 2026 00:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,10 +1517,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,24",
-          "c": "Algemeen"
-        },
-        {
           "n": "Gebreid vest dames lange mouwen elegant losse cardigan met zak grof gebreide car",
           "c": "Algemeen"
         },
@@ -1573,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 17,56",
+          "n": "3 aanbiedingen vanUSD 17,56",
           "c": "Algemeen"
         },
         {
@@ -1710,6 +1706,10 @@
         },
         {
           "n": "Pokémon - Verzamelkaartspel: Top Trainer Box 30 jaar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD 56,18",
           "c": "Algemeen"
         }
       ]
