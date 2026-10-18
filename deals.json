@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T14:11:29.971183+00:00",
-  "updated_fmt": "18 October 2026 om 14:11",
+  "updated": "2026-10-18T19:03:09.209326+00:00",
+  "updated_fmt": "18 October 2026 om 19:03",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 18 Oct 2026 14:11 UTC",
+      "note": "bol.com — gescraped 18 Oct 2026 19:03 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 18 Oct 2026 14:11 UTC",
+      "note": "amazon.nl — gescraped 18 Oct 2026 19:03 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 18 Oct 2026 14:11 UTC",
+      "note": "amazon.com.be — gescraped 18 Oct 2026 19:03 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 18 Oct 2026 14:11 UTC",
+      "note": "amazon.de — gescraped 18 Oct 2026 19:03 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1553,10 +1553,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 48,44",
-          "c": "Algemeen"
-        },
-        {
           "n": "Generisch Trui voor dames, ronde hals, sweatshirt, winter, lange mouwen, kraag m",
           "c": "Algemeen"
         },
@@ -1565,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 1,11",
+          "n": "1 aanbieding voorUSD 25,84",
           "c": "Algemeen"
         },
         {
@@ -1577,6 +1573,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "1 aanbieding voorUSD 2,24",
+          "c": "Algemeen"
+        },
+        {
           "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
           "c": "Algemeen"
         },
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Teddy Fleece Weste Damen Kurz V-Ausschnitt Fleeceweste Leicht Damenweste Ärmello",
+          "n": "Teddy fleece vest dames kort V-hals fleece vest licht dames vest mouwloos pluizi",
           "c": "Algemeen"
         },
         {
