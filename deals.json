@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T10:22:29.179899+00:00",
-  "updated_fmt": "19 October 2026 om 10:22",
+  "updated": "2026-10-19T17:14:02.214399+00:00",
+  "updated_fmt": "19 October 2026 om 17:14",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 19 Oct 2026 10:22 UTC",
+      "note": "bol.com — gescraped 19 Oct 2026 17:14 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 19 Oct 2026 10:22 UTC",
+      "note": "amazon.nl — gescraped 19 Oct 2026 17:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -715,30 +715,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Loop Experience 2 Oordopjes – Gecertificeerde Gehoorbescherming | 17 dB (SNR) ge",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "CHUMXINY Ontluchtingskit voor SHIMANO, TEKTRO, MAGURA Serie Hydraulische Schijfr",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fitgriff® Lifting Straps Gym (Gewatteerd) - Polsbanden Fitness voor Gewichtheffe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics",
-          "c": "Algemeen"
-        },
-        {
           "n": "Earth Rated Huisdierdoekjes voor Honden en Katten, Hypoallergeen, Reinigend en H",
           "c": "Algemeen"
         },
@@ -763,6 +739,54 @@
           "c": "Algemeen"
         },
         {
+          "n": "2019 Apple iPad (10,2-inch, Wi-Fi, 32GB) Space Grey (Refurbished)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Soundcore by Anker Q20i draadloze koptelefoon Bluetooth met hybride actieve ruis",
+          "c": "Algemeen"
+        },
+        {
+          "n": "soundcore Anker, P30i oordopjes met ruisonderdrukking, slimme ruisonderdrukking,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple iPhone 14 128GB - Zwart (Refurbished)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple iPhone 15 128GB - Zwart (Refurbished)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Apple iPhone 13 128GB - Roze (Refurbished)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2 Oordopjes – Gecertificeerde Gehoorbescherming | 17 dB (SNR) ge",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "CHUMXINY Ontluchtingskit voor SHIMANO, TEKTRO, MAGURA Serie Hydraulische Schijfr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fitgriff® Lifting Straps Gym (Gewatteerd) - Polsbanden Fitness voor Gewichtheffe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
@@ -784,22 +808,6 @@
         },
         {
           "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Court of Splintered Harmony",
-          "c": "Algemeen"
-        },
-        {
-          "n": "MAREMI's Illustrationi for art journaling, mixed media & cardmaking THESE AUTUMN",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mama, ik wil jouw verhaal bewaren: Mam, vertel me jouw verhaal. Een herinnerings",
           "c": "Algemeen"
         },
         {
@@ -861,14 +869,6 @@
         {
           "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
-        },
-        {
-          "n": "Philips Ultra AAA alkalinebatterijen, betrouwbaar voor afstandsbedieningen, spee",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C charger 65W, 3-poorts compacte oplader, PPS-snellader | Laptoplader",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 19 Oct 2026 10:22 UTC",
+      "note": "amazon.com.be — gescraped 19 Oct 2026 17:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 19 Oct 2026 10:22 UTC",
+      "note": "amazon.de — gescraped 19 Oct 2026 17:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 9,43",
+          "n": "3 aanbiedingen vanUSD 10,52",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 923,09/l)",
+          "n": "5 aanbiedingen vanUSD 16,50",
           "c": "Algemeen"
         },
         {
@@ -1697,7 +1697,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD 29,20",
+          "n": "USD 27,29",
           "c": "Algemeen"
         },
         {
