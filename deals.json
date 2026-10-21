@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T20:11:32.638283+00:00",
-  "updated_fmt": "20 October 2026 om 20:11",
+  "updated": "2026-10-21T01:04:59.117837+00:00",
+  "updated_fmt": "21 October 2026 om 01:04",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 20 Oct 2026 20:11 UTC",
+      "note": "bol.com — gescraped 21 Oct 2026 01:04 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 20 Oct 2026 20:11 UTC",
+      "note": "amazon.nl — gescraped 21 Oct 2026 01:04 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 20 Oct 2026 20:11 UTC",
+      "note": "amazon.com.be — gescraped 21 Oct 2026 01:04 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1202,26 +1202,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Legami Calendrier de l'Avent 2026, 24 surprises dont 1 stylo effaçable en éditio",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Aardbei-smaak, appel, framboos en perzik, 180 g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone koffiepad, composteerbaar, recyclebaar, blauw, 100 dranken, ESE-sy",
-          "c": "Algemeen"
-        },
-        {
           "n": "Blukar Hoofdlamp, oplaadbaar, 2000 l, superhelder, licht, led | Krachtige voorla",
           "c": "Algemeen"
         },
@@ -1247,27 +1227,27 @@
         },
         {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "JETech Gehard glas voor iPhone 18 Pro/17 Pro, 3 stuks | 9H displaybescherming, t",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "TOCOL Beschermhoes voor iPhone 18 Pro Max, compatibel met MagSafe | Geïntegreerd",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "DURACELL AAA Plus alkalinebatterijen (18 stuks) 1,5 V, LR03 | Gaat tot 100% lang",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
@@ -1324,6 +1304,26 @@
         {
           "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro Max (6,9 inch), compatibel me",
           "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
+          "c": "Elektronica"
+        },
+        {
+          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "10K 8K 4K HDMI 2.1 Kabel 2M, Etseinri Gecertificeerd 48Gbps Ultrahoge Snelheid H",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust DNI USB-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 20 Oct 2026 20:11 UTC",
+      "note": "amazon.de — gescraped 21 Oct 2026 01:04 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 17,54",
+          "n": "3 aanbiedingen vanUSD 17,54",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 913,69/l)",
+          "n": "7 aanbiedingen vanUSD 13,04",
           "c": "Algemeen"
         },
         {
