@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T01:04:05.908727+00:00",
-  "updated_fmt": "23 October 2026 om 01:04",
+  "updated": "2026-10-23T09:39:30.407064+00:00",
+  "updated_fmt": "23 October 2026 om 09:39",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 23 Oct 2026 01:04 UTC",
+      "note": "bol.com — gescraped 23 Oct 2026 09:39 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 23 Oct 2026 01:04 UTC",
+      "note": "amazon.nl — gescraped 23 Oct 2026 09:39 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -727,11 +727,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
@@ -759,7 +759,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "toptrek Fietshoes, waterdicht, 210D, voor 1 fiets, 200 x 110 x 70 cm | Fietsgara",
+          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
           "c": "Algemeen"
         },
         {
@@ -807,11 +807,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 18 Pro Case Compatibel met MagSafe, Bordeaux | Volledige Camer",
+          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
+          "n": "TOCOL voor iPhone 18 Pro Case Compatibel met MagSafe, Bordeaux | Volledige Camer",
           "c": "Elektronica"
         },
         {
@@ -835,23 +835,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
-          "c": "Elektronica"
-        },
-        {
-          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
-          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 18 Pro/17 Pro | iPhone 17/16",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 3M | Alum",
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
           "c": "Elektronica"
         },
         {
@@ -859,15 +847,27 @@
           "c": "Elektronica"
         },
         {
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Spigen EZ Fit Screenprotector [2 Stuks] voor iPhone 18 Pro/17 Pro | iPhone 17/16",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
+          "c": "Elektronica"
+        },
+        {
           "n": "Amazon Basics 12 stuks oplaadbare AA NiMH-batterijen, 2000 mAh, 1000x op te lade",
           "c": "Elektronica"
         },
         {
-          "n": "Philips Ultra AAA alkalinebatterijen, betrouwbaar voor afstandsbedieningen, spee",
+          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
           "c": "Elektronica"
         },
         {
-          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
+          "n": "Philips Ultra AAA alkalinebatterijen, betrouwbaar voor afstandsbedieningen, spee",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 23 Oct 2026 01:04 UTC",
+      "note": "amazon.com.be — gescraped 23 Oct 2026 09:39 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1146,11 +1146,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade Original 360 messen voor alle OneBlade en Pro modellen, 3 stuks",
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "n": "Philips OneBlade Original 360 messen voor alle OneBlade en Pro modellen, 3 stuks",
           "c": "Algemeen"
         },
         {
@@ -1198,7 +1198,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "TK Gruppe Timo Klingler Purge LED horrormasker met 3 regelbare lichteffecten voo",
+          "n": "Handbagage, 40 x 30 x 20 cm, rugzak, reizen, cabine, vliegtuig, voor Ryanair Eur",
           "c": "Algemeen"
         },
         {
@@ -1214,11 +1214,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Intex Classic DuraBeam Luchtbed Compact | Opblaasbaar matras met golfstructuur v",
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
           "c": "Algemeen"
         },
         {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
+          "n": "Intex Classic DuraBeam Luchtbed Compact | Opblaasbaar matras met golfstructuur v",
           "c": "Algemeen"
         },
         {
@@ -1262,11 +1262,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
           "c": "Elektronica"
         },
         {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
           "c": "Elektronica"
         },
         {
@@ -1274,19 +1274,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
-          "n": "10K 8K 4K HDMI 2.1 Kabel 2M, Etseinri Gecertificeerd 48Gbps Ultrahoge Snelheid H",
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
           "c": "Elektronica"
         },
         {
-          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
+          "n": "10K 8K 4K HDMI 2.1 Kabel 2M, Etseinri Gecertificeerd 48Gbps Ultrahoge Snelheid H",
           "c": "Elektronica"
         },
         {
@@ -1295,6 +1291,10 @@
         },
         {
           "n": "TOCOL Gehard glas voor iPhone 18 Pro Max | 2 stuks, eenvoudig te installeren, zo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
           "c": "Elektronica"
         },
         {
@@ -1318,11 +1318,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
+          "n": "Azororo Beschermhoes voor Samsung Galaxy S26 Ultra 5G, premium lederen beschermh",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 23 Oct 2026 01:04 UTC",
+      "note": "amazon.de — gescraped 23 Oct 2026 09:39 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,19 +1517,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 15,73",
+          "n": "1 aanbieding voorUSD 15,69",
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 11,78",
+          "n": "4 aanbiedingen vanUSD 11,75",
           "c": "Algemeen"
         },
         {
-          "n": "Dreo Energiebesparende ventilatorkachel, 34 dB, stil, 1500 W, elektrische PTC-ke",
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
           "c": "Algemeen"
         },
         {
-          "n": "USD 47,23",
+          "n": "4 aanbiedingen vanUSD 17,52",
           "c": "Algemeen"
         },
         {
@@ -1537,7 +1537,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,79",
+          "n": "USD 37,70",
           "c": "Algemeen"
         },
         {
@@ -1545,15 +1545,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 8,03/eenheid)",
+          "n": "(USD 8,01/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "n": "Dreo Energiebesparende ventilatorkachel, 34 dB, stil, 1500 W, elektrische PTC-ke",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 33,70",
+          "n": "USD 47,12",
           "c": "Algemeen"
         },
         {
@@ -1561,7 +1561,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 7,85",
+          "n": "1 aanbieding voorUSD 7,83",
           "c": "Algemeen"
         },
         {
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 8,61",
+          "n": "USD 8,59",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1577,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,00",
+          "n": "USD 36,91",
           "c": "Algemeen"
         },
         {
@@ -1585,7 +1585,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,14",
+          "n": "USD 15,11",
           "c": "Algemeen"
         },
         {
@@ -1593,7 +1593,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,45/eenheid)",
+          "n": "(USD 3,44/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,94",
+          "n": "USD 17,90",
           "c": "Algemeen"
         },
         {
@@ -1609,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 492,28/l)",
+          "n": "(USD 491,13/l)",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 914,60/l)",
+          "n": "(USD 911,28/l)",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,41",
+          "n": "1 aanbieding voorUSD 6,39",
           "c": "Algemeen"
         },
         {
@@ -1641,15 +1641,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "16 aanbiedingen vanUSD 7,32",
+          "n": "16 aanbiedingen vanUSD 7,30",
           "c": "Algemeen"
         },
         {
-          "n": "9 vellen Halloween nep littekens tatoeages dames heren volwassenen, nep wond blo",
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 15,72",
+          "n": "(USD 263,57/l)",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,68",
+          "n": "1 aanbieding voorUSD 6,66",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,24",
+          "n": "1 aanbieding voorUSD 16,21",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,35",
+          "n": "2 aanbiedingen vanUSD 21,30",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD 10,50",
+          "n": "2 aanbiedingen vanUSD 10,48",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD 14,02",
+          "n": "6 aanbiedingen vanUSD 13,99",
           "c": "Algemeen"
         },
         {
@@ -1701,7 +1701,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 11,23",
+          "n": "2 aanbiedingen vanUSD 11,20",
           "c": "Algemeen"
         },
         {
