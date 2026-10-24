@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T20:08:32.713205+00:00",
-  "updated_fmt": "23 October 2026 om 20:08",
+  "updated": "2026-10-24T01:13:19.360725+00:00",
+  "updated_fmt": "24 October 2026 om 01:13",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 23 Oct 2026 20:08 UTC",
+      "note": "bol.com — gescraped 24 Oct 2026 01:13 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 23 Oct 2026 20:08 UTC",
+      "note": "amazon.nl — gescraped 24 Oct 2026 01:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -715,30 +715,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
-          "c": "Algemeen"
-        },
-        {
           "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
           "c": "Algemeen"
         },
@@ -760,6 +736,30 @@
         },
         {
           "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 23 Oct 2026 20:08 UTC",
+      "note": "amazon.com.be — gescraped 24 Oct 2026 01:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,26 +1142,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Durex Sensitive Sexual Glijmiddel, waterbasis, 100 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "MeralenS Gekleurde contactlenzen voor Halloween, rood, bloem, rood, vampier, dui",
-          "c": "Algemeen"
-        },
-        {
           "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
@@ -1199,6 +1179,26 @@
         },
         {
           "n": "Handbagage, 40 x 30 x 20 cm, rugzak, reizen, cabine, vliegtuig, voor Ryanair Eur",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Durex Sensitive Sexual Glijmiddel, waterbasis, 100 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "MeralenS Gekleurde contactlenzen voor Halloween, rood, bloem, rood, vampier, dui",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 23 Oct 2026 20:08 UTC",
+      "note": "amazon.de — gescraped 24 Oct 2026 01:13 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,50 +1513,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 15,69",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dreo Energiebesparende ventilatorkachel, 34 dB, stil, 1500 W, elektrische PTC-ke",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 47,12",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD 11,75",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 37,70",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 8,01/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD 33,62",
-          "c": "Algemeen"
-        },
-        {
           "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
           "c": "Algemeen"
         },
@@ -1569,7 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 13,45",
+          "n": "1 aanbieding voorUSD1345USD1345",
           "c": "Algemeen"
         },
         {
@@ -1577,7 +1533,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 7,83",
+          "n": "1 aanbieding voorUSD783USD783",
           "c": "Algemeen"
         },
         {
@@ -1602,6 +1558,50 @@
         },
         {
           "n": "USD 36,91",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1569USD1569",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dreo Energiebesparende ventilatorkachel, 34 dB, stil, 1500 W, elektrische PTC-ke",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 47,12",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1175USD1175",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 37,70",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 8,01/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD3362USD3362",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,39",
+          "n": "1 aanbieding voorUSD639USD639",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,25",
+          "n": "1 aanbieding voorUSD1625USD1625",
           "c": "Algemeen"
         },
         {
@@ -1649,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 2,80",
+          "n": "1 aanbieding voorUSD280USD280",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 6,66",
+          "n": "1 aanbieding voorUSD666USD666",
           "c": "Algemeen"
         },
         {
@@ -1665,7 +1665,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD 16,21",
+          "n": "1 aanbieding voorUSD1621USD1621",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1677,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 21,30",
+          "n": "2 aanbiedingen vanUSD2130USD2130",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD 13,99",
+          "n": "5 aanbiedingen vanUSD1399USD1399",
           "c": "Algemeen"
         },
         {
@@ -1693,23 +1693,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 10,48",
+          "n": "2 aanbiedingen vanUSD1048USD1048",
           "c": "Algemeen"
         },
         {
-          "n": "100 x ARNOMED® wegwerphandschoenen, zwart, nitril handschoenen, maat L | Wegwerp",
+          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD 11,20",
+          "n": "USD 27,25",
           "c": "Algemeen"
         },
         {
-          "n": "Fischer Duopower Plug",
+          "n": "USD 13,19",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 0,04/eenheid)",
+          "n": "Der Jubiläums-Thriller von Sebastian Fitzek: Der Nachtzug in der limited Edition",
           "c": "Algemeen"
         }
       ]
