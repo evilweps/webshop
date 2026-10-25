@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T19:07:44.685342+00:00",
-  "updated_fmt": "24 October 2026 om 19:07",
+  "updated": "2026-10-25T00:38:43.374110+00:00",
+  "updated_fmt": "25 October 2026 om 00:38",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 Oct 2026 19:07 UTC",
+      "note": "bol.com — gescraped 25 Oct 2026 00:38 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 Oct 2026 19:07 UTC",
+      "note": "amazon.nl — gescraped 25 Oct 2026 00:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -739,30 +739,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Loop Experience 2 Oordopjes – Gecertificeerde Gehoorbescherming | 17 dB (SNR) ge",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Fitgriff® Lifting Straps Gym (Gewatteerd) - Polsbanden Fitness voor Gewichtheffe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Toptrek waterdichte fietshoes, 210D Oxford-weefsel, fietsgarage, weerbestendig, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Basics",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
           "c": "Algemeen"
         },
@@ -787,11 +763,39 @@
           "c": "Algemeen"
         },
         {
+          "n": "AOHAN Waterfles van 1 liter met lekvrije klapdeksel, BPA-vrije sportdrinkfles me",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Loop Experience 2 Oordopjes – Gecertificeerde Gehoorbescherming | 17 dB (SNR) ge",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Fitgriff® Lifting Straps Gym (Gewatteerd) - Polsbanden Fitness voor Gewichtheffe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Toptrek waterdichte fietshoes, 210D Oxford-weefsel, fietsgarage, weerbestendig, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Basics",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
+          "c": "Algemeen"
+        },
+        {
           "n": "A Court of Splintered Harmony",
           "c": "Algemeen"
         },
         {
           "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy en cute met Diddl: Kleurboek uit Kaaskoekjesland",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Ultra microSD kaart 64 GB + adapter, tot 140 MB/s lezen | UHS-I, Full HD",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 Oct 2026 19:07 UTC",
+      "note": "amazon.com.be — gescraped 25 Oct 2026 00:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,30 @@
       ],
       "bestsellers": [
         {
+          "n": "TK Gruppe Timo Klingler Cape avec capuche - Costume de vampire - Pour Halloween,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Everbellus Tailleband korset voor dames met spiraalvormige stalen baleinen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TK Gruppe Timo Klingler Purge LED horrormasker met 3 regelbare lichteffecten voo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Proumhang Lange fluwelen cape met kap, Halloween-/carnaval-/Kerstmiskostuum, uni",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Handbagage, 40 x 30 x 20 cm, rugzak, reizen, cabine, vliegtuig | 24 l handbagage",
+          "c": "Algemeen"
+        },
+        {
           "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
           "c": "Algemeen"
         },
@@ -1155,30 +1179,6 @@
         },
         {
           "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TK Gruppe Timo Klingler Cape avec capuche - Costume de vampire - Pour Halloween,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Everbellus Tailleband korset voor dames met spiraalvormige stalen baleinen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TK Gruppe Timo Klingler Purge LED horrormasker met 3 regelbare lichteffecten voo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Proumhang Lange fluwelen cape met kap, Halloween-/carnaval-/Kerstmiskostuum, uni",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Handbagage, 40 x 30 x 20 cm, rugzak, reizen, cabine, vliegtuig | 24 l handbagage",
           "c": "Algemeen"
         },
         {
@@ -1226,48 +1226,28 @@
           "c": "Algemeen"
         },
         {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone koffiepad, composteerbaar, recyclebaar, blauw, 100 dranken, ESE-sy",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische matcha thee in poeder - premium kwaliteit - 50 gram. Bio Japanse gro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carambar snoepfruit. Geuren - sinaasappel. Aardbei. Citroen en framboos - 320 g",
-          "c": "Algemeen"
-        },
-        {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "JETech Gehard glas voor iPhone 18 Pro/17 Pro, 3 stuks | 9H displaybescherming, t",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "TOCOL Beschermhoes voor iPhone 18 Pro Max, compatibel met MagSafe | Geïntegreerd",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "Duracell Plus AA Mignon alkaline-batterijen, 1,5 V LR6 MN1500, 24 stuks | Gaat t",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
-          "c": "Elektronica"
+          "c": "Algemeen"
         },
         {
           "n": "JETech Anti-spionage gehard glas voor iPhone 17 Pro Max, 2 stuks | 9H displaybes",
@@ -1324,6 +1304,26 @@
         {
           "n": "Azororo Beschermhoes voor Samsung Galaxy S26 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
+        },
+        {
+          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "RISEOFLE 180 cm statief voor smartphone en selfiestick, intrekbaar statief van a",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Beschermhoes met transparante achterkant voor iPhone 18 Pro Max | Anti-ve",
+          "c": "Elektronica"
+        },
+        {
+          "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
+          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 Oct 2026 19:07 UTC",
+      "note": "amazon.de — gescraped 25 Oct 2026 00:38 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1561,90 +1561,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1566USD1566",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 37,62",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dreo Energiebesparende ventilatorkachel, 34 dB, stil, 1500 W, elektrische PTC-ke",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 47,02",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 7,99/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1748USD1748",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax Modern pluizig laagpolig tapijt, antislip onderkant,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD6807USD6807",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 27,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 13,16",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wohin fährt der Weihnachtsmann?: weihnachtliches Fahrspurenbuch für Kinder ab 3 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 18,82",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,68",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Jubiläums-Thriller von Sebastian Fitzek: Der Nachtzug in der limited Edition",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2910USD2910",
-          "c": "Algemeen"
-        },
-        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
           "c": "Algemeen"
         },
@@ -1690,6 +1606,90 @@
         },
         {
           "n": "1 aanbieding voorUSD280USD280",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1566USD1566",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 37,62",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dreo Energiebesparende ventilatorkachel, 34 dB, stil, 1500 W, elektrische PTC-ke",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 47,02",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 7,99/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD1748USD1748",
+          "c": "Algemeen"
+        },
+        {
+          "n": "the carpet the carpet Relax Modern pluizig laagpolig tapijt, antislip onderkant,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD6807USD6807",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 27,20",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,16",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Wohin fährt der Weihnachtsmann?: weihnachtliches Fahrspurenbuch für Kinder ab 3 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,82",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,68",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Jubiläums-Thriller von Sebastian Fitzek: Der Nachtzug in der limited Edition",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2910USD2910",
           "c": "Algemeen"
         },
         {
