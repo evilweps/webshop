@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T10:06:39.545757+00:00",
-  "updated_fmt": "27 October 2026 om 10:06",
+  "updated": "2026-10-27T16:17:17.137692+00:00",
+  "updated_fmt": "27 October 2026 om 16:17",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 27 Oct 2026 10:06 UTC",
+      "note": "bol.com — gescraped 27 Oct 2026 16:17 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 27 Oct 2026 10:06 UTC",
+      "note": "amazon.nl — gescraped 27 Oct 2026 16:17 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -779,6 +779,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "A Court of Splintered Harmony: The sixth book in the GLOBALLY BESTSELLING, FANTA",
+          "c": "Algemeen"
+        },
+        {
           "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
           "c": "Algemeen"
         },
@@ -865,10 +869,6 @@
         {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 27 Oct 2026 10:06 UTC",
+      "note": "amazon.com.be — gescraped 27 Oct 2026 16:17 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 27 Oct 2026 10:06 UTC",
+      "note": "amazon.de — gescraped 27 Oct 2026 16:17 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1619USD1619",
+          "n": "1 aanbieding voorUSD1615USD1615",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD1297USD1297",
+          "n": "(USD 905,54/l)",
           "c": "Algemeen"
         },
         {
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD1530USD1530",
+          "n": "3 aanbiedingen vanUSD1526USD1526",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD665USD665",
+          "n": "1 aanbieding voorUSD663USD663",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD3015USD3015",
+          "n": "1 aanbieding voorUSD3008USD3008",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD734USD734",
+          "n": "1 aanbieding voorUSD732USD732",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,83",
+          "n": "USD 17,79",
           "c": "Algemeen"
         },
         {
@@ -1589,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,43/eenheid)",
+          "n": "(USD 3,42/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,80",
+          "n": "USD 16,76",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD781USD781",
+          "n": "1 aanbieding voorUSD779USD779",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1340USD1340",
+          "n": "1 aanbieding voorUSD1336USD1336",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1621,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1745USD1745",
+          "n": "4 aanbiedingen vanUSD1741USD1741",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 7,98/eenheid)",
+          "n": "(USD 7,96/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1637,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,55",
+          "n": "USD 37,46",
           "c": "Algemeen"
         },
         {
@@ -1645,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD8367USD8367",
+          "n": "1 aanbieding voorUSD8347USD8347",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,43 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 10,32",
+          "n": "USD 11,23",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,11",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 27,08",
+          "c": "Algemeen"
+        },
+        {
+          "n": "A Court of Splintered Harmony: deutsche Ausgabe | Deluxe-Ausgabe mit Farbschnitt",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 31,25",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,61",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Wohin fährt der Weihnachtsmann?: weihnachtliches Fahrspurenbuch für Kinder ab 3 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 18,73",
           "c": "Algemeen"
         },
         {
@@ -1665,51 +1701,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD2122USD2122",
+          "n": "1 aanbieding voorUSD2116USD2116",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1803USD1803",
+          "n": "2 aanbiedingen vanUSD1799USD1799",
           "c": "Algemeen"
         },
         {
           "n": "Homemory Ledtheelichtjes met timer, 12 stuks, 6 uur aan en 18 uur uit, 3,6 x 3,6",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1422USD1422",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 2,46/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1044USD1044",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 13,14",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Algemeen"
-        },
-        {
-          "n": "5 aanbiedingen vanUSD2457USD2457",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
           "c": "Algemeen"
         }
       ]
