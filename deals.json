@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T17:02:52.826136+00:00",
-  "updated_fmt": "26 October 2026 om 17:02",
+  "updated": "2026-10-27T01:40:11.876674+00:00",
+  "updated_fmt": "27 October 2026 om 01:40",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 26 Oct 2026 17:02 UTC",
+      "note": "bol.com — gescraped 27 Oct 2026 01:40 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 26 Oct 2026 17:02 UTC",
+      "note": "amazon.nl — gescraped 27 Oct 2026 01:40 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -787,11 +787,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 26 Oct 2026 17:02 UTC",
+      "note": "amazon.com.be — gescraped 27 Oct 2026 01:40 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1202,6 +1202,18 @@
           "c": "Algemeen"
         },
         {
+          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
+          "c": "Algemeen"
+        },
+        {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
           "c": "Algemeen"
         },
@@ -1223,18 +1235,6 @@
         },
         {
           "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 26 Oct 2026 17:02 UTC",
+      "note": "amazon.de — gescraped 27 Oct 2026 01:40 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1621,7 +1621,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1753USD1753",
+          "n": "3 aanbiedingen vanUSD1753USD1753",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD667USD667",
+          "n": "1 aanbieding voorUSD784USD784",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1622USD1622",
+          "n": "1 aanbieding voorUSD2131USD2131",
           "c": "Algemeen"
         },
         {
