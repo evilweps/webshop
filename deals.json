@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T21:02:09.189799+00:00",
-  "updated_fmt": "27 October 2026 om 21:02",
+  "updated": "2026-10-28T01:52:55.016464+00:00",
+  "updated_fmt": "28 October 2026 om 01:52",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 27 Oct 2026 21:02 UTC",
+      "note": "bol.com — gescraped 28 Oct 2026 01:52 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 27 Oct 2026 21:02 UTC",
+      "note": "amazon.nl — gescraped 28 Oct 2026 01:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -703,19 +703,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
+          "c": "Algemeen"
+        },
+        {
           "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Exfoliërende met glycolzuur, ve",
           "c": "Algemeen"
         },
         {
-          "n": "Halloween Make Up Wit Zwart Face Paint Kit - Halloween Schmink Makeup 100g | Spe",
-          "c": "Algemeen"
-        },
-        {
           "n": "Medicube Zero Pore Pads 2.0, 70 vellen, HA + BHA poriën- en acne-verzorging | Ge",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
           "c": "Algemeen"
         },
         {
@@ -747,19 +743,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Echo Dot (nieuwste generatie) – Imposant geluid – Smartspeaker met wifi, ",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
           "c": "Algemeen"
         },
         {
           "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
@@ -775,11 +771,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "A Court of Splintered Harmony: The sixth book in the GLOBALLY BESTSELLING, FANTA",
           "c": "Algemeen"
         },
         {
-          "n": "A Court of Splintered Harmony: The sixth book in the GLOBALLY BESTSELLING, FANTA",
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -843,11 +839,23 @@
           "c": "Elektronica"
         },
         {
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "c": "Elektronica"
+        },
+        {
           "n": "INIU Power Bank 20000mAh, Klein 45W PD Snel Opladen Externe Batterij | met Geïnt",
           "c": "Elektronica"
         },
         {
           "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
         },
         {
@@ -859,15 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
+          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 27 Oct 2026 21:02 UTC",
+      "note": "amazon.com.be — gescraped 28 Oct 2026 01:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1134,19 +1134,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Faux Sang Halloween - Lavable Fake Blood pour Halloween Maquillage 15ml | Maquil",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
           "c": "Algemeen"
         },
         {
-          "n": "Halloween make-up set kunstbloed voor volwassenen en | Make-uppalet voor kindere",
+          "n": "Faux Sang Halloween - Lavable Fake Blood pour Halloween Maquillage 15ml | Maquil",
           "c": "Algemeen"
         },
         {
-          "n": "TK Gruppe Timo Klingler Cape avec capuche - Costume de vampire - Pour Halloween,",
+          "n": "Halloween make-up set kunstbloed voor volwassenen en | Make-uppalet voor kindere",
           "c": "Algemeen"
         },
         {
@@ -1167,6 +1163,10 @@
         },
         {
           "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Proumhang Cape met kap, verkleedkostuum voor volwassenen, voor Halloween, carnav",
           "c": "Algemeen"
         },
         {
@@ -1266,11 +1266,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
+          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
           "c": "Elektronica"
         },
         {
-          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
+          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
           "c": "Elektronica"
         },
         {
@@ -1278,7 +1278,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
+          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
           "c": "Elektronica"
         },
         {
@@ -1286,11 +1286,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "HP 305 Originele printercartridge, zwart, 1 stuk(s)",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
+          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
           "c": "Elektronica"
         },
         {
@@ -1298,11 +1294,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
+          "n": "HP 305 Originele printercartridge, zwart, 1 stuk(s)",
           "c": "Elektronica"
         },
         {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
+          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
           "c": "Elektronica"
         },
         {
@@ -1310,11 +1306,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
           "c": "Elektronica"
         },
         {
           "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 27 Oct 2026 21:02 UTC",
+      "note": "amazon.de — gescraped 28 Oct 2026 01:52 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,54 +1513,6 @@
       ],
       "bestsellers": [
         {
-          "n": "9 vellen Halloween nep littekens tatoeages dames heren volwassenen, nep wond blo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1615USD1615",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 905,54/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nepbloed Halloween set make-up Halloween make-up met nepbloed | Bevat nepbloed v",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1002USD1002",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 0,99",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD1526USD1526",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD663USD663",
-          "c": "Algemeen"
-        },
-        {
           "n": "SZIVYSHI Overbust korset voor dames | Jacquard bustier met 14 staafjes. Vormt ee",
           "c": "Algemeen"
         },
@@ -1581,15 +1533,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,68",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,42/eenheid)",
+          "n": "USD 17,79",
           "c": "Algemeen"
         },
         {
@@ -1601,11 +1545,63 @@
           "c": "Algemeen"
         },
         {
+          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,42/eenheid)",
+          "c": "Algemeen"
+        },
+        {
           "n": "EVERSWE 80D microvezel damespanty",
           "c": "Algemeen"
         },
         {
           "n": "1 aanbieding voorUSD779USD779",
+          "c": "Algemeen"
+        },
+        {
+          "n": "9 vellen Halloween nep littekens tatoeages dames heren volwassenen, nep wond blo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 905,54/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 0,99",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nepbloed Halloween set make-up Halloween make-up met nepbloed | Bevat nepbloed v",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1002USD1002",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD1526USD1526",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD656USD656",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1741USD1741",
+          "n": "3 aanbiedingen vanUSD1741USD1741",
           "c": "Algemeen"
         },
         {
@@ -1641,11 +1637,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "the carpet the carpet Relax Modern pluizig laagpolig tapijt, antislip onderkant,",
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD8347USD8347",
+          "n": "1 aanbieding voorUSD3609USD3609",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1649,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 10,30",
+          "n": "USD 11,23",
           "c": "Algemeen"
         },
         {
@@ -1677,15 +1673,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
+          "n": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,61",
+          "n": "USD 20,27",
           "c": "Algemeen"
         },
         {
-          "n": "Wohin fährt der Weihnachtsmann?: weihnachtliches Fahrspurenbuch für Kinder ab 3 ",
+          "n": "Ultra-Selbstheilung: Mit Hochfrequenz-Energetik zu ganzheitlicher Gesundheit auf",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 28,12",
           "c": "Algemeen"
         },
         {
