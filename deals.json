@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T21:24:20.281489+00:00",
-  "updated_fmt": "28 October 2026 om 21:24",
+  "updated": "2026-10-29T01:59:39.166038+00:00",
+  "updated_fmt": "29 October 2026 om 01:59",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 28 Oct 2026 21:24 UTC",
+      "note": "bol.com — gescraped 29 Oct 2026 01:59 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 28 Oct 2026 21:24 UTC",
+      "note": "amazon.nl — gescraped 29 Oct 2026 01:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -703,15 +703,39 @@
           "c": "Algemeen"
         },
         {
-          "n": "Halloween Make Up Wit Zwart Face Paint Kit - Halloween Schmink Makeup 100g | Spe",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
           "c": "Algemeen"
         },
         {
           "n": "BIODANCE Biologisch collageen Real Deep Mask, hydrogelmasker, poriënminimalisati",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Halloween Make Up Wit Zwart Face Paint Kit - Halloween Schmink Makeup 100g | Spe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (model 2022) – Imposant geluid – Smartspeaker met wifi, bluetoot",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
           "c": "Algemeen"
         },
         {
@@ -727,55 +751,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
+          "c": "Algemeen"
+        },
+        {
           "n": "Flintronic Elastische band voor krachttraining, 3/4 verschillende weerstandsband",
           "c": "Algemeen"
         },
         {
           "n": "LEGO Editions Cristiano Ronaldo – Voetbalhoogtepunten 43012 | Speelgoed voor jon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Amazon Echo Dot (model 2022) – Imposant geluid – Smartspeaker met wifi, bluetoot",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Court of Splintered Harmony",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Court of Splintered Harmony: The sixth book in the GLOBALLY BESTSELLING, FANTA",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -796,6 +780,22 @@
         },
         {
           "n": "Dalugo Halloween-decoratie voor buiten, 5 m, 50 leds, oranje/paars, Halloween-li",
+          "c": "Algemeen"
+        },
+        {
+          "n": "A Court of Splintered Harmony",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "A Court of Splintered Harmony: The sixth book in the GLOBALLY BESTSELLING, FANTA",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -843,7 +843,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
+          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
         },
         {
@@ -851,11 +851,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU Power Bank 20000mAh, Klein 45W PD Snel Opladen Externe Batterij | met Geïnt",
+          "n": "JETech Privacy Screen Protector voor iPhone 17 Pro, 2 Stuks | Anti-Gluren Scherm",
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "n": "INIU Power Bank 20000mAh, Klein 45W PD Snel Opladen Externe Batterij | met Geïnt",
           "c": "Elektronica"
         },
         {
@@ -863,11 +863,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 16 stuks oplaadbare AAA NiMH-batterijen, 800 mAh, 1000x op te lade",
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
           "c": "Elektronica"
         },
         {
-          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "n": "Amazon Basics 16 stuks oplaadbare AAA NiMH-batterijen, 800 mAh, 1000x op te lade",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 28 Oct 2026 21:24 UTC",
+      "note": "amazon.com.be — gescraped 29 Oct 2026 01:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,22 @@
       ],
       "bestsellers": [
         {
+          "n": "Halloween make-up set kunstbloed voor volwassenen en | Make-uppalet voor kindere",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Wasbaar nepbloed voor Halloween, nepbloed, make-up voor Halloween | Halloween ma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g",
+          "c": "Algemeen"
+        },
+        {
           "n": "TK Gruppe Timo Klingler Halloween kostuums voor kinderen - pompoen, geest, skele",
           "c": "Algemeen"
         },
@@ -1150,22 +1166,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Halloween make-up set kunstbloed voor volwassenen en | Make-uppalet voor kindere",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Wasbaar nepbloed voor Halloween, nepbloed, make-up voor Halloween | Halloween ma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "L'Oréal Paris Infaillible 3-seconden set-nevel, 150 ml | Tot 36 uur fixatie, zon",
-          "c": "Algemeen"
-        },
-        {
           "n": "Ninja CRISPi Air Fryer Design Compact 4-in-1, kommen 3,8 of 1,4 l FN101EUGY | fr",
           "c": "Algemeen"
         },
@@ -1183,30 +1183,6 @@
         },
         {
           "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blukar Hoofdlamp, oplaadbaar, 2 stuks, 2000 l, superhelder, licht, led | Krachti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Glangeh Ultradunne led-fietsverlichtingsset, USB oplaadbaar en waterdicht IP65 f",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
           "c": "Algemeen"
         },
         {
@@ -1234,6 +1210,18 @@
           "c": "Algemeen"
         },
         {
+          "n": "FXCONTACTS 2 x Vampire gekleurde Halloween contactlenzen zonder zichtcorrectie w",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
+          "c": "Algemeen"
+        },
+        {
           "n": "Twinkle my Drink® Eetbare glitter voor rode dranken, Halloween-feestdecoratie, e",
           "c": "Algemeen"
         },
@@ -1250,7 +1238,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "IAMI Snoep voor Halloween, speciale Halloween-editie, meer dan 1 kilo snoep met ",
+          "n": "Caffè Borbone koffiepad, composteerbaar, recyclebaar, blauw, 100 dranken, ESE-sy",
           "c": "Algemeen"
         },
         {
@@ -1266,7 +1254,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Beschermhoes voor iPhone 18 Pro, compatibel met MagSafe, bordeauxrood | Ge",
+          "n": "TOCOL Beschermhoes voor iPhone 18 Pro, compatibel met MagSafe, zwart | Geïntegre",
           "c": "Elektronica"
         },
         {
@@ -1286,7 +1274,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "HP 305 Originele printercartridge, zwart, 1 stuk(s)",
+          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
           "c": "Elektronica"
         },
         {
@@ -1294,7 +1282,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
+          "n": "HP 305 Originele printercartridge, zwart, 1 stuk(s)",
           "c": "Elektronica"
         },
         {
@@ -1310,11 +1298,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
           "c": "Elektronica"
         },
         {
@@ -1323,6 +1311,18 @@
         },
         {
           "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TOCOL Gehard glas voor iPhone 18 Pro Max | 2 stuks, eenvoudig te installeren, zo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
+          "c": "Elektronica"
+        },
+        {
+          "n": "kwmobile telefoonhoesje compatibel met Apple iPhone 13 - Hoesje met siliconen co",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 28 Oct 2026 21:24 UTC",
+      "note": "amazon.de — gescraped 29 Oct 2026 01:59 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD3002USD3002",
+          "n": "2 aanbiedingen vanUSD3002USD3002",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD731USD731",
+          "n": "1 aanbieding voorUSD889USD889",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1612USD1612",
+          "n": "2 aanbiedingen vanUSD1612USD1612",
           "c": "Algemeen"
         },
         {
@@ -1581,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD1291USD1291",
+          "n": "(USD 894,53/l)",
           "c": "Algemeen"
         },
         {
@@ -1593,6 +1593,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD655USD655",
+          "c": "Algemeen"
+        },
+        {
           "n": "Halloween make-up set - Halloween make-up kinderschmink theaterschmink | met nep",
           "c": "Algemeen"
         },
@@ -1601,11 +1609,43 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD655USD655",
+          "n": "1 aanbieding voorUSD778USD778",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2112USD2112",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD1760USD1760",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Homemory Ledtheelichtjes met timer, 12 stuks, 6 uur aan en 18 uur uit, 3,6 x 3,6",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1416USD1416",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,45/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1738USD1738",
+          "n": "3 aanbiedingen vanUSD1738USD1738",
           "c": "Algemeen"
         },
         {
@@ -1670,46 +1710,6 @@
         },
         {
           "n": "A Court of Splintered Harmony: deutsche Ausgabe | Deluxe-Ausgabe mit Farbschnitt",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 31,19",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Court of Splintered Harmony: The Valkyrie Cycle, Movement I (A Court of Thorns",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,83",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,58",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD778USD778",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2112USD2112",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD1760USD1760",
           "c": "Algemeen"
         }
       ]
