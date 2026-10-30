@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T11:04:41.882923+00:00",
-  "updated_fmt": "30 October 2026 om 11:04",
+  "updated": "2026-10-30T21:11:52.397546+00:00",
+  "updated_fmt": "30 October 2026 om 21:11",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Oct 2026 11:04 UTC",
+      "note": "bol.com — gescraped 30 Oct 2026 21:11 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Oct 2026 11:04 UTC",
+      "note": "amazon.nl — gescraped 30 Oct 2026 21:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -671,31 +671,7 @@
       ],
       "bestsellers": [
         {
-          "n": "Vitakraft Vloeibare snack voor katten, kattenlekkernijen in mega-verpakking (48 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Earth Rated Huisdierdoekjes voor Honden, Hypoallergeen, Reinigend en Hydrerend, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUAUY Lichtgevende halsband, LED-halsband, USB oplaadbaar, in lengte verstelbare",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Felix Mix Selectie in Gelei Kattenvoer, Natvoer maaltijdzakjes met Rund, Kip, Za",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Simple Solution Extreme Cat Vlek- en Geurverwijderaar | Enzymatic Cleaner met 3X",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gourmet Perle Mini Filets in Saus Kip - Katten natvoer - (60 x 85g)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LEGO City Adventskalender 2026-60510 | Speelgoed voor jongens vanaf 5 jaar, incl",
+          "n": "LEGO City Adventskalender 2026 60510 | Speelgoed 5+ jaar, jongens en meisjes, me",
           "c": "Algemeen"
         },
         {
@@ -791,11 +767,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Algemeen"
+        },
+        {
           "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "n": "Is Sarah schuldig?: 1 moord. 45.000 namen. 1 schuldige.",
           "c": "Algemeen"
         },
         {
@@ -803,7 +783,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Is Sarah schuldig?: 1 moord. 45.000 namen. 1 schuldige.",
+          "n": "ARNOMED wegwerphandschoenen zwart, nitril handschoenen M, 100 stuks per doos, po",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SONOFF S60ZBTPF Zigbee Smart Plug (Requires Zigbee Gateway) – Remote Control, En",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Hue Dimmer Switch, Wit | Slimme lichtbediening, draadloos, werkt op batt",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dalugo Halloween-decoratie voor buiten, 5 m, 50 leds, oranje/paars, Halloween-li",
           "c": "Algemeen"
         },
         {
@@ -869,6 +861,14 @@
         {
           "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
+        },
+        {
+          "n": "Philips Ultra AAA alkalinebatterijen, betrouwbaar voor afstandsbedieningen, spee",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Oct 2026 11:04 UTC",
+      "note": "amazon.com.be — gescraped 30 Oct 2026 21:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1162,30 +1162,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Vampiercape / kostuum met capuchon, dubbelzijdig, voor kinderen en volwassenen, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TK Gruppe Timo Klingler Halloween kostuums voor kinderen - pompoen, geest, skele",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Columbia Redmond™ IV Wandel- en trekkingschoenen voor dames, lage schoen, waterb",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TK Gruppe Timo Klingler Purge LED horrormasker met 3 regelbare lichteffecten voo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Proumhang Lange fluwelen cape met kap, Halloween-/carnaval-/Kerstmiskostuum, uni",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Purge Masker, led, controleerbaar, kleur naar keuze, kostuum voor dames en heren",
-          "c": "Algemeen"
-        },
-        {
           "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
           "c": "Algemeen"
         },
@@ -1210,6 +1186,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Vampiercape / kostuum met capuchon, dubbelzijdig, voor kinderen en volwassenen, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TK Gruppe Timo Klingler Halloween kostuums voor kinderen - pompoen, geest, skele",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Columbia Redmond™ IV Wandel- en trekkingschoenen voor dames, lage schoen, waterb",
+          "c": "Algemeen"
+        },
+        {
+          "n": "TK Gruppe Timo Klingler Purge LED horrormasker met 3 regelbare lichteffecten voo",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Proumhang Lange fluwelen cape met kap, Halloween-/carnaval-/Kerstmiskostuum, uni",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Purge Masker, led, controleerbaar, kleur naar keuze, kostuum voor dames en heren",
+          "c": "Algemeen"
+        },
+        {
           "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
           "c": "Algemeen"
         },
@@ -1226,23 +1226,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Twinkle my Drink® Eetbare glitter voor rode dranken, Halloween-feestdecoratie, e",
+          "n": "Arnomed Nitril handschoenen maat L, zwarte nitril handschoen, 100 stuks/doos, zw",
           "c": "Algemeen"
         },
         {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "n": "Blukar Led-zaklamp, oplaadbaar, zeer krachtig, 5 verlichtingsmodi met zoom voor ",
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "n": "Dubbelzijdig plakband, zeer robuust, dubbelzijdig plakband van acryl, waterdicht",
           "c": "Algemeen"
         },
         {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "n": "Gritin Led-kastlamp, 26 cm, superhelder, keuken, liniaal, 4 modi | Led-licht, dr",
           "c": "Algemeen"
         },
         {
-          "n": "Carambar snoepfruit. Geuren - sinaasappel. Aardbei. Citroen en framboos - 320 g",
+          "n": "Log-Barn Aanmaakblokjes van natuurlijk hout, van houtwol, 200 stuks per doos. Id",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Vellure® Deurstopper, afdichting tegen tocht, nieuwe isolerende onderkant voor d",
           "c": "Algemeen"
         },
         {
@@ -1320,10 +1324,6 @@
         {
           "n": "TOCOL Gehard glas voor iPhone 18 Pro Max | 2 stuks, eenvoudig te installeren, zo",
           "c": "Elektronica"
-        },
-        {
-          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
-          "c": "Elektronica"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Oct 2026 11:04 UTC",
+      "note": "amazon.de — gescraped 30 Oct 2026 21:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 885,26/l)",
+          "n": "(USD 875,99/l)",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,04/eenheid)",
+          "n": "8 aanbiedingen vanUSD1324USD1324",
           "c": "Algemeen"
         },
         {
@@ -1701,15 +1701,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Rage – Du sollst brennen: »The Mindf*ck Series«: Das Thriller-Phänomen – jetzt a",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 12,47",
+          "c": "Algemeen"
+        },
+        {
           "n": "A Court of Splintered Harmony: deutsche Ausgabe | Deluxe-Ausgabe mit Farbschnitt",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 31,19",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
           "c": "Algemeen"
         }
       ]
