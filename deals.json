@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T21:11:52.397546+00:00",
-  "updated_fmt": "30 October 2026 om 21:11",
+  "updated": "2026-10-31T01:55:05.508852+00:00",
+  "updated_fmt": "31 October 2026 om 01:55",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 30 Oct 2026 21:11 UTC",
+      "note": "bol.com — gescraped 31 Oct 2026 01:55 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 30 Oct 2026 21:11 UTC",
+      "note": "amazon.nl — gescraped 31 Oct 2026 01:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -675,11 +675,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "essence THE HOLIDAY TREE adventskalender, makkelijk in gebruik (1pcs) | 24 gelim",
+          "n": "Philips AquaClean Waterfilters voor Espressomachines - 2 Stuks | Verwijdert kalk",
           "c": "Algemeen"
         },
         {
-          "n": "Philips AquaClean Waterfilters voor Espressomachines - 2 Stuks | Verwijdert kalk",
+          "n": "essence THE HOLIDAY TREE adventskalender, makkelijk in gebruik (1pcs) | 24 gelim",
           "c": "Algemeen"
         },
         {
@@ -687,15 +687,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Utopia Bedding Set van 2 Hoeslakens, 35 cm Diep, Onderhoudsvriendelijk Zacht Geb",
-          "c": "Algemeen"
-        },
-        {
           "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
           "c": "Algemeen"
         },
         {
-          "n": "Neutrogena Noorse Formule Lipstick SPF4 voor droge en beschadigde lippen, 4,8gr",
+          "n": "Utopia Bedding Set van 2 Hoeslakens, 35 cm Diep, Onderhoudsvriendelijk Zacht Geb",
           "c": "Algemeen"
         },
         {
@@ -703,11 +699,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Exfoliërende met glycolzuur, ve",
+          "n": "Neutrogena Noorse Formule Lipstick SPF4 voor droge en beschadigde lippen, 4,8gr",
           "c": "Algemeen"
         },
         {
           "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Ordinary Glycolic Acid 7% Exfoliating Toner, Exfoliërende met glycolzuur, ve",
           "c": "Algemeen"
         },
         {
@@ -751,15 +751,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Echo Dot (model 2022) – Imposant geluid – Smartspeaker met wifi, bluetoot",
           "c": "Algemeen"
         },
         {
           "n": "Amazon Fire TV Stick 4K Max (nieuwste generatie) – Streamingapparaat met Ambient",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
           "c": "Algemeen"
         },
         {
@@ -776,10 +776,6 @@
         },
         {
           "n": "Is Sarah schuldig?: 1 moord. 45.000 namen. 1 schuldige.",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Court of Splintered Harmony: The sixth book in the GLOBALLY BESTSELLING, FANTA",
           "c": "Algemeen"
         },
         {
@@ -843,11 +839,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
+        },
+        {
           "n": "JETech Privacy Screen Protector voor iPhone 18 Pro, 2-Stuks | Anti-Gluren, 9H+ G",
           "c": "Elektronica"
         },
         {
-          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
         },
         {
@@ -859,7 +859,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
           "c": "Elektronica"
         },
         {
@@ -867,7 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
+          "n": "JETech Doorzichtig Achterkant Bumper Case voor iPhone 18 Pro, Helder | Anti-Verg",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 30 Oct 2026 21:11 UTC",
+      "note": "amazon.com.be — gescraped 31 Oct 2026 01:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,26 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
-          "c": "Algemeen"
-        },
-        {
           "n": "ESSENCE MÁSCARA VOLUMINIZADORA I LOVE EXTREME CRAZY 9ML | Extreem volume, langho",
           "c": "Algemeen"
         },
@@ -1159,6 +1139,26 @@
         },
         {
           "n": "L'Oréal Paris Infaillible 3-seconden set-nevel, 150 ml | Tot 36 uur fixatie, zon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BRITA Waterfiltercartridge MAXTRA PRO Pure Performance (all-in-1), verpakking va",
           "c": "Algemeen"
         },
         {
@@ -1182,7 +1182,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "amFilm Gehard glas bescherming voor Nintendo Switch 2 Model 2025 (3 stuks) | Sch",
+          "n": "Logitech G 502 HERO gamingmuis, bekabeld, hoge prestaties, gaming-sensor HERO 25",
           "c": "Algemeen"
         },
         {
@@ -1274,11 +1274,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C-kabel, 1 m, 100 W, snel opladen, kabel type C naar USB C | Gevlochten",
+          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
           "c": "Elektronica"
         },
         {
-          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
+          "n": "INIU USB C-kabel, 1 m, 100 W, snel opladen, kabel type C naar USB C | Gevlochten",
           "c": "Elektronica"
         },
         {
@@ -1290,19 +1290,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "HP 305 Originele printercartridge, zwart, 1 stuk(s)",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
+          "n": "HP 305 Originele printercartridge, zwart, 1 stuk(s)",
           "c": "Elektronica"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 30 Oct 2026 21:11 UTC",
+      "note": "amazon.de — gescraped 31 Oct 2026 01:55 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1525,14 +1525,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Homemory Ledtheelichtjes met timer, 12 stuks, 6 uur aan en 18 uur uit, 3,6 x 3,6",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1416USD1416",
-          "c": "Algemeen"
-        },
-        {
           "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
           "c": "Algemeen"
         },
@@ -1541,7 +1533,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD999USD999",
+          "n": "Homemory Ledtheelichtjes met timer, 12 stuks, 6 uur aan en 18 uur uit, 3,6 x 3,6",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1482USD1482",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1222USD1222",
           "c": "Algemeen"
         },
         {
@@ -1585,19 +1585,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Kneipp Aroma verzorgende douchegel Du bist wunder, met waardevolle extracten van",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 18,47/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
           "c": "Algemeen"
         },
         {
           "n": "1 aanbieding voorUSD655USD655",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kneipp Aroma verzorgende douchegel Du bist wunder, met waardevolle extracten van",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 18,47/l)",
           "c": "Algemeen"
         },
         {
@@ -1657,7 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1738USD1738",
+          "n": "3 aanbiedingen vanUSD1738USD1738",
           "c": "Algemeen"
         },
         {
@@ -1681,11 +1681,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Victorinox Swiss Classic ontbijtmes, set van 2, gekarteld, violet | Broodmes, 11",
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD1324USD1324",
+          "n": "1 aanbieding voorUSD4412USD4412",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "A Court of Splintered Harmony: deutsche Ausgabe | Deluxe-Ausgabe mit Farbschnitt",
+          "n": "Trötsch Schreibtischquerkalender 1 2027: Tischkalender Wochenkalender",
           "c": "Algemeen"
         }
       ]
