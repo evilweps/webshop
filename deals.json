@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T20:20:39.858271+00:00",
-  "updated_fmt": "31 October 2026 om 20:20",
+  "updated": "2026-11-01T01:36:06.141161+00:00",
+  "updated_fmt": "1 November 2026 om 01:36",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 31 Oct 2026 20:20 UTC",
+      "note": "bol.com — gescraped 1 Nov 2026 01:36 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 31 Oct 2026 20:20 UTC",
+      "note": "amazon.nl — gescraped 1 Nov 2026 01:36 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 31 Oct 2026 20:20 UTC",
+      "note": "amazon.com.be — gescraped 1 Nov 2026 01:36 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1146,6 +1146,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "Mepal - Take a Break Large Broodtrommel - Lunchbox voor onderweg - Voor 4 boterh",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
+          "c": "Algemeen"
+        },
+        {
           "n": "Vampiercape / kostuum met capuchon, dubbelzijdig, voor kinderen en volwassenen, ",
           "c": "Algemeen"
         },
@@ -1167,46 +1187,6 @@
         },
         {
           "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mepal - Take a Break Large Broodtrommel - Lunchbox voor onderweg - Voor 4 boterh",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Blukar Hoofdlamp, oplaadbaar, 2 stuks, 2000 l, superhelder, licht, led | Krachti",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LifeStraw Persoonlijke waterfilter voor wandelen, kamperen, reizen, buitensporte",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Gritin Bande Élastique Fitness, 5 Bandes de Résistance Élastique en Latex | Équi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
           "c": "Algemeen"
         },
         {
@@ -1247,6 +1227,26 @@
         },
         {
           "n": "Log-Barn Aanmaakblokjes van natuurlijk hout, van houtwol, 200 stuks per doos. Id",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Twinkle my Drink® Eetbare glitter voor rode dranken, Halloween-feestdecoratie, e",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bonne Maman - Adventskalender 2026-23 Tartinables - Kerstdecoratie editie | Jam ",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 31 Oct 2026 20:20 UTC",
+      "note": "amazon.de — gescraped 1 Nov 2026 01:36 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1877USD1877",
+          "n": "1 aanbieding voorUSD1892USD1892",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD889USD889",
+          "n": "1 aanbieding voorUSD896USD896",
           "c": "Algemeen"
         },
         {
@@ -1533,7 +1533,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 3,41/eenheid)",
+          "n": "(USD 3,44/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1541,7 +1541,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,75",
+          "n": "USD 17,90",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1890USD1890",
+          "n": "2 aanbiedingen vanUSD1906USD1906",
           "c": "Algemeen"
         },
         {
@@ -1557,47 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD333USD333",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD778USD778",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1795USD1795",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2112USD2112",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Homemory Ledtheelichtjes met timer, 12 stuks, 6 uur aan en 18 uur uit, 3,6 x 3,6",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1482USD1482",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1222USD1222",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 2,45/eenheid)",
+          "n": "1 aanbieding voorUSD335USD335",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 487,10/l)",
+          "n": "(USD 491,14/l)",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1444USD1444",
+          "n": "1 aanbieding voorUSD1456USD1456",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 875,99/l)",
+          "n": "(USD 883,26/l)",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1589,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 0,99",
+          "n": "USD 1,00",
           "c": "Algemeen"
         },
         {
@@ -1637,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 18,47/l)",
+          "n": "(USD 18,62/l)",
           "c": "Algemeen"
         },
         {
@@ -1645,7 +1605,47 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD655USD655",
+          "n": "1 aanbieding voorUSD661USD661",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD784USD784",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1810USD1810",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2130USD2130",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Homemory Ledtheelichtjes met timer, 12 stuks, 6 uur aan en 18 uur uit, 3,6 x 3,6",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1494USD1494",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1233USD1233",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,47/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1334USD1334",
+          "n": "1 aanbieding voorUSD1345USD1345",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1774USD1774",
+          "n": "3 aanbiedingen vanUSD1789USD1789",
           "c": "Algemeen"
         },
         {
@@ -1669,11 +1669,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 37,39",
+          "n": "USD 37,70",
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1088USD1088",
+          "n": "4 aanbiedingen vanUSD1097USD1097",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1681,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 7,94/eenheid)",
+          "n": "(USD 8,01/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1689,11 +1689,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD4412USD4412",
+          "n": "1 aanbieding voorUSD4448USD4448",
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,08",
+          "n": "USD 13,19",
           "c": "Algemeen"
         },
         {
@@ -1701,7 +1701,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 27,03",
+          "n": "8 aanbiedingen vanUSD2625USD2625",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 12,47",
+          "n": "USD 12,57",
           "c": "Algemeen"
         }
       ]
