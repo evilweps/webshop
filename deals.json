@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T12:39:05.864314+00:00",
-  "updated_fmt": "4 November 2026 om 12:39",
+  "updated": "2026-11-04T22:16:25.098174+00:00",
+  "updated_fmt": "4 November 2026 om 22:16",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 4 Nov 2026 12:39 UTC",
+      "note": "bol.com — gescraped 4 Nov 2026 22:16 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 4 Nov 2026 12:39 UTC",
+      "note": "amazon.nl — gescraped 4 Nov 2026 22:16 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -763,19 +763,19 @@
           "c": "Algemeen"
         },
         {
+          "n": "Coloriages Mystères Disney - Très grands classiques Tome 2: Colorie les chiffres",
+          "c": "Algemeen"
+        },
+        {
           "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
           "c": "Algemeen"
         },
         {
+          "n": "Ik maak mezelf niet meer klein: 100 Herinneringen voor de vrouw die alles gaf en",
+          "c": "Algemeen"
+        },
+        {
           "n": "Noor zegt nee: Ik vraag het eerst!",
-          "c": "Algemeen"
-        },
-        {
-          "n": "A Court of Splintered Harmony",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 4 Nov 2026 12:39 UTC",
+      "note": "amazon.com.be — gescraped 4 Nov 2026 22:16 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1182,30 +1182,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Nintendo SanDisk 256 GB Micro SD Express geheugenkaart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "VARTA AA-batterijen, 40 stuks, Industrial Pro, alkalinebatterij, 1,5 V, opbergpa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "GXTrust Forta PS5-hoofdtelefoon, officiële licentie voor PlayStation 5, wit | 50",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Sid Meier's Civilization VII - [Nintendo Switch] Golden Joystick Nominee",
-          "c": "Algemeen"
-        },
-        {
           "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
           "c": "Algemeen"
         },
@@ -1227,6 +1203,30 @@
         },
         {
           "n": "PURIVITA® Vloerreiniger, concentraat, robotreiniger, 750 ml, magnolia | Streepvr",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nintendo SanDisk 256 GB Micro SD Express geheugenkaart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "VARTA AA-batterijen, 40 stuks, Industrial Pro, alkalinebatterij, 1,5 V, opbergpa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GXTrust Forta PS5-hoofdtelefoon, officiële licentie voor PlayStation 5, wit | 50",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Sid Meier's Civilization VII - [Nintendo Switch] Golden Joystick Nominee",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 4 Nov 2026 12:39 UTC",
+      "note": "amazon.de — gescraped 4 Nov 2026 22:16 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD1656USD1656",
+          "n": "5 aanbiedingen vanUSD1630USD1630",
           "c": "Algemeen"
         },
         {
@@ -1601,7 +1601,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD111USD111",
+          "n": "(USD 18,66/l)",
           "c": "Algemeen"
         },
         {
@@ -1617,11 +1617,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD880USD880",
+          "n": "7 aanbiedingen vanUSD871USD871",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD943USD943",
+          "n": "4 aanbiedingen vanUSD1099USD1099",
           "c": "Algemeen"
         },
         {
