@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T12:49:40.271202+00:00",
-  "updated_fmt": "5 November 2026 om 12:49",
+  "updated": "2026-11-05T22:26:16.240760+00:00",
+  "updated_fmt": "5 November 2026 om 22:26",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 5 Nov 2026 12:49 UTC",
+      "note": "bol.com — gescraped 5 Nov 2026 22:26 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 5 Nov 2026 12:49 UTC",
+      "note": "amazon.nl — gescraped 5 Nov 2026 22:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -767,19 +767,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
-          "c": "Algemeen"
-        },
-        {
           "n": "Ik maak mezelf niet meer klein: 100 Herinneringen voor de vrouw die alles gaf en",
           "c": "Algemeen"
         },
         {
-          "n": "Noor zegt nee: Ik vraag het eerst!",
+          "n": "Coloriages Mystères Disney - Petits héros: Colorie les chiffres et découvre l'im",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Noor zegt nee: Ik vraag het eerst!",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 5 Nov 2026 12:49 UTC",
+      "note": "amazon.com.be — gescraped 5 Nov 2026 22:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1154,7 +1154,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
+          "n": "Aiitomg Douchegordijnstang, 83-160 cm, zonder boren, telescoopstang, gordijn voo",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 5 Nov 2026 12:49 UTC",
+      "note": "amazon.de — gescraped 5 Nov 2026 22:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD5403USD5403",
+          "n": "7 aanbiedingen vanUSD9738USD9738",
           "c": "Algemeen"
         },
         {
@@ -1545,7 +1545,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD741USD741",
+          "n": "2 aanbiedingen vanUSD718USD718",
           "c": "Algemeen"
         },
         {
@@ -1554,50 +1554,6 @@
         },
         {
           "n": "4 aanbiedingen vanUSD3264USD3264",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD670USD670",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD1760USD1760",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1629USD1629",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD788USD788",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 2,48/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SINAMER 6 stuks micro led-lichtketting met oplaadbare batterij, 2 m, 20 | timer ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1577USD1577",
           "c": "Algemeen"
         },
         {
@@ -1646,6 +1602,50 @@
         },
         {
           "n": "(USD 264,94/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD670USD670",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD1760USD1760",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1629USD1629",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD788USD788",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,48/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SINAMER 6 stuks micro led-lichtketting met oplaadbare batterij, 2 m, 20 | timer ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1577USD1577",
           "c": "Algemeen"
         },
         {
