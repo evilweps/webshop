@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T12:33:27.907998+00:00",
-  "updated_fmt": "6 November 2026 om 12:33",
+  "updated": "2026-11-06T21:50:38.963855+00:00",
+  "updated_fmt": "6 November 2026 om 21:50",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 6 Nov 2026 12:33 UTC",
+      "note": "bol.com — gescraped 6 Nov 2026 21:50 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 6 Nov 2026 12:33 UTC",
+      "note": "amazon.nl — gescraped 6 Nov 2026 21:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -779,10 +779,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Coloriages Mystères Disney - Petits héros: Colorie les chiffres et découvre l'im",
-          "c": "Algemeen"
-        },
-        {
           "n": "Noor zegt nee: Ik vraag het eerst!",
           "c": "Algemeen"
         },
@@ -869,6 +865,10 @@
         {
           "n": "Apple AirPods Pro 3 Draadloze oortjes, Actieve Ruisonderdrukking, Hartslagmeting",
           "c": "Elektronica"
+        },
+        {
+          "n": "Philips Ultra AAA alkalinebatterijen, betrouwbaar voor afstandsbedieningen, spee",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 6 Nov 2026 12:33 UTC",
+      "note": "amazon.com.be — gescraped 6 Nov 2026 21:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,30 @@
       ],
       "bestsellers": [
         {
+          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ALPIDEX Heren thermisch ondergoed Functioneel pak Ski set Warm flexibel ademend ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Lot de 3 caleçons pour homme",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SOXCO Werksokken voor heren, 10 paar, 10 paar",
+          "c": "Algemeen"
+        },
+        {
           "n": "ESSENCE MÁSCARA VOLUMINIZADORA I LOVE EXTREME CRAZY 9ML | Extreem volume, langho",
           "c": "Algemeen"
         },
@@ -1155,30 +1179,6 @@
         },
         {
           "n": "Aiitomg Douchegordijnstang, 83-160 cm, zonder boren, telescoopstang, gordijn voo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ALPIDEX Heren thermisch ondergoed Functioneel pak Ski set Warm flexibel ademend ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Lot de 3 caleçons pour homme",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SOXCO Werksokken voor heren, 10 paar, 10 paar",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 6 Nov 2026 12:33 UTC",
+      "note": "amazon.de — gescraped 6 Nov 2026 21:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1561,54 +1561,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 887,51/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD654USD654",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 1,00",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kneipp Aroma-verzorgende douchegel met natuurlijke extracten van korenbloem, mal",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 11,16/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD282USD282",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 264,85/l)",
-          "c": "Algemeen"
-        },
-        {
           "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
           "c": "Algemeen"
         },
@@ -1649,6 +1601,54 @@
           "c": "Algemeen"
         },
         {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 887,51/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD586USD586",
+          "c": "Algemeen"
+        },
+        {
+          "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 1,00",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kneipp Aroma-verzorgende douchegel met natuurlijke extracten van korenbloem, mal",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 11,16/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD282USD282",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 264,85/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jacobson jersey hoeslaken, katoen, grijs, 180x200 - 200x200 cm",
           "c": "Algemeen"
         },
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD873USD873",
+          "n": "7 aanbiedingen vanUSD873USD873",
           "c": "Algemeen"
         },
         {
