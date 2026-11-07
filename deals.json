@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T11:23:26.213263+00:00",
-  "updated_fmt": "7 November 2026 om 11:23",
+  "updated": "2026-11-07T20:35:32.851211+00:00",
+  "updated_fmt": "7 November 2026 om 20:35",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 7 Nov 2026 11:23 UTC",
+      "note": "bol.com — gescraped 7 Nov 2026 20:35 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 7 Nov 2026 11:23 UTC",
+      "note": "amazon.nl — gescraped 7 Nov 2026 20:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 7 Nov 2026 11:23 UTC",
+      "note": "amazon.com.be — gescraped 7 Nov 2026 20:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1206,19 +1206,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Carpoint 1316011 bord L met zuignap",
+          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
           "c": "Algemeen"
         },
         {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "n": "Rowenta - Premiss 2.0 LCD Personenweegschaal - Batterijen inbegrepen | Nauwkeuri",
           "c": "Algemeen"
         },
         {
-          "n": "BEAST RAGE Winddichte wintermotorhandschoenen voor heren en dames, warme rijhand",
+          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
           "c": "Algemeen"
         },
         {
-          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
+          "n": "Oral-B Pro Series 1 elektrische tandenborstel, zwart, 1 3D-reinigingsborstel, ve",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "HAOCEE Warmwaterkruik met hoes, kangoeroezak, waterdicht, grijs | Gelijkmatige w",
           "c": "Algemeen"
         },
         {
@@ -1314,15 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
-          "c": "Elektronica"
-        },
-        {
           "n": "Trust USB-DNI-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
-          "c": "Elektronica"
-        },
-        {
-          "n": "10K 8K 4K HDMI 2.1 Kabel 2M, Etseinri Gecertificeerd 48Gbps Ultrahoge Snelheid H",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 7 Nov 2026 11:23 UTC",
+      "note": "amazon.de — gescraped 7 Nov 2026 20:35 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,204 +1513,204 @@
       ],
       "bestsellers": [
         {
+          "n": "3 aanbiedingen vanUSD11235USD11235",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD5617USD5617",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD2583USD2583",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nonstop Cards Grappig kaartspel met app, stads-landrivier, 2-8 spelers | 1750+ t",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD2667USD2667",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1111USD1111",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 8,48",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Puma TeamGOAL 23 Casuals Pants joggingbroek voor heren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 22,37",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD738USD738",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ihuan Thermo-fietshandschoenen voor dames en heren, warme sneeuwhandschoenen, to",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1684USD1684",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Generisch Verwarmde hoodie voor dames en heren, verwarmde trui, winterpullover, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD336USD336",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,45/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,99",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD785USD785",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1813USD1813",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1624USD1624",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,47/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Gritin Leeslamp boek klem, USB oplaadbare boeklamp met 19 leds | 3 kleurtemperat",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD1372USD1372",
+          "c": "Algemeen"
+        },
+        {
           "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Beauty"
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 884,83/l)",
+          "c": "Algemeen"
         },
         {
           "n": "The Ordinary Niacinamide 10% + zink 1%, 30 ml",
-          "c": "Beauty"
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD584USD584",
+          "c": "Algemeen"
         },
         {
           "n": "by Amazon wattenstaafjes, 100% katoen, 200 stuks",
-          "c": "Beauty"
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 1,00",
+          "c": "Algemeen"
         },
         {
           "n": "Kneipp Aroma-verzorgende douchegel met natuurlijke extracten van korenbloem, mal",
-          "c": "Beauty"
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 11,74/l)",
+          "c": "Algemeen"
         },
         {
           "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
-          "c": "Beauty"
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD2672USD2672",
+          "c": "Algemeen"
         },
         {
           "n": "by Amazon Sensitive handzeep navulverpakking, 2 x 1000 ml",
-          "c": "Beauty"
+          "c": "Algemeen"
         },
         {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Beauty"
+          "n": "1 aanbieding voorUSD281USD281",
+          "c": "Algemeen"
         },
         {
-          "n": "BIONOBLE Rozemarijnolie haar bio - haarolie groei, hoofdhuid olie, baard | 100% ",
-          "c": "Beauty"
+          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 140x200 - 160x200 cm",
+          "c": "Algemeen"
         },
         {
-          "n": "CeraVe Diepe reinigende wasgel voor het gezicht tegen puistjes, 236 ml | Voor on",
-          "c": "Beauty"
+          "n": "1 aanbieding voorUSD1235USD1235",
+          "c": "Algemeen"
         },
         {
-          "n": "Old Spice Whitewater 3-in-1 multifunctionele shampoo voor haar, gezicht en | Lan",
-          "c": "Beauty"
+          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
+          "c": "Algemeen"
         },
         {
-          "n": "d'alba Piedmont White Truffel Double Serum All-in-One Multi Balm | Veganistische",
-          "c": "Beauty"
+          "n": "7 aanbiedingen vanUSD871USD871",
+          "c": "Algemeen"
         },
         {
-          "n": "MERODA Changing Foundation SPF 15 [Light to Medium Skin] – Foundation Color Chan",
-          "c": "Beauty"
+          "n": "4 aanbiedingen vanUSD1099USD1099",
+          "c": "Algemeen"
         },
         {
-          "n": "Jean & Len Handzeep, rozemarijn en gember, zonder parabenen, 250 ml | Reinigt be",
-          "c": "Beauty"
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
         },
         {
-          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
-          "c": "Beauty"
-        },
-        {
-          "n": "La Roche-Posay Cicaplast Baume B5+ herstellende wondverzorgingsbalsem | Bij besc",
-          "c": "Beauty"
-        },
-        {
-          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
-          "c": "Beauty"
-        },
-        {
-          "n": "Beauty of Joseon Rijke Probiotics Sunscreen SPF 50+ Zonnebrandcrème met extraits",
-          "c": "Beauty"
-        },
-        {
-          "n": "Kérastase Genesis Serum ml | Anti-Chute Fortifiant für geschwächtes Haar",
-          "c": "Beauty"
-        },
-        {
-          "n": "Kanzy Jojoba-olie, koudgeperst, 100% puur goud, 120 ml, voor huid, haar en nagel",
-          "c": "Beauty"
-        },
-        {
-          "n": "Wella Professionals KOLESTON PERFECT Pure Naturals - 6/0 donkerblond (60ml) | Pe",
-          "c": "Beauty"
-        },
-        {
-          "n": "Revlon Uniq One All-in-one haarverzorging, 150 ml",
-          "c": "Beauty"
-        },
-        {
-          "n": "REVLON PROFESSIONAL Equave Hydro Instant Detangling Conditioner, 200 ml, ontwarr",
-          "c": "Beauty"
-        },
-        {
-          "n": "Ninabella Haarborstel zonder trekken, ontwarringsborstel, ontwarringsborstel en ",
-          "c": "Beauty"
-        },
-        {
-          "n": "Sebamed Beschermende lippenverzorging, lippenbalsem met beschermingsfactor 30, v",
-          "c": "Beauty"
-        },
-        {
-          "n": "Wella Professionals KOLESTON OPTIMAL Pure Naturals - 8/0 lichtblond (60ml) | Kle",
-          "c": "Beauty"
-        },
-        {
-          "n": "Botanic Hearth Rozemarijn haarolie met biotine, jojobaolie en ricinusolie | Lich",
-          "c": "Beauty"
-        },
-        {
-          "n": "Lip Smacker - Coca-Cola Collection - lippenbalsem voor kinderen met Fanta sinaas",
-          "c": "Beauty"
-        },
-        {
-          "n": "Tangle Teezer Ultimate Detangler Haarborstel, voor nat en droog haar, ontwarrend",
-          "c": "Beauty"
-        },
-        {
-          "n": "KIKO Milano 3D Hydra Lipgloss 44 - Limited Edition | Hydraterende 3D-effect | Vo",
-          "c": "Beauty"
-        },
-        {
-          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Beauty"
-        },
-        {
-          "n": "PayPal Ratenzahlung",
-          "c": "Beauty"
-        },
-        {
-          "n": "Amazon Business Amex-kaart",
-          "c": "Beauty"
-        },
-        {
-          "n": "Finanzen ab 50: Es ist nicht zu spät: Vermögen sichern, richtig vorsorgen und da",
-          "c": "Boeken"
-        },
-        {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Boeken"
-        },
-        {
-          "n": "Rage – Du sollst brennen: »The Mindf*ck Series«: Das Thriller-Phänomen – jetzt a",
-          "c": "Boeken"
-        },
-        {
-          "n": "Trötsch Schreibtischquerkalender 1 2027: Tischkalender Wochenkalender",
-          "c": "Boeken"
-        },
-        {
-          "n": "Afrika: Roman | Der neue Roman von Daniel Kehlmann: ein Lesegenuss, ein Ereignis",
-          "c": "Boeken"
-        },
-        {
-          "n": "Adventskalender-Duell: 24 spannende Rätsel-Spiele für Zwei mit Stift & Papier | ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Der Unfall – Kannst du deinen Rettern trauen?: Thriller - Ein neuer Psychothrill",
-          "c": "Boeken"
-        },
-        {
-          "n": "Gregs Tagebuch 21 - Ach du dickes Ei!: Großer Lesespaß mit Comic-Roman-Held Greg",
-          "c": "Boeken"
-        },
-        {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
-          "c": "Boeken"
-        },
-        {
-          "n": "Spekulatius, der Weihnachtsdrache: Ein Adventsbuch in 24 Kapiteln | Adventskalen",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Boeken"
-        },
-        {
-          "n": "Lucky Luke 103: Heiliger Lucky!",
-          "c": "Boeken"
-        },
-        {
-          "n": "EinFach Deutsch Textausgaben: Heinrich von Kleist: Der zerbrochne Krug (inkl. Va",
-          "c": "Boeken"
-        },
-        {
-          "n": "Pixi Adventskalender 2026: Mit 24 Pixi-Büchern | Kurze Weihnachtsgeschichten für",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die Physiker. Eine Komödie in zwei Akten",
-          "c": "Boeken"
-        },
-        {
-          "n": "Achtsam Ausrasten: Das humorvolle Anti-Stress-Buch für alle mit viel Alltag und ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Der Besuch der alten Dame: Eine tragische Komödie: Eine tragische Komödie. Neufa",
-          "c": "Boeken"
-        },
-        {
-          "n": "Pixi-Weihnachts-8er-Set 41: Pixis Weihnachtszauber (8x1 Exemplar): 8 Minibücher ",
-          "c": "Boeken"
+          "n": "USD 37,76",
+          "c": "Algemeen"
         }
       ]
     }
