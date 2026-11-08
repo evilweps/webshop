@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T11:35:31.996845+00:00",
-  "updated_fmt": "8 November 2026 om 11:35",
+  "updated": "2026-11-08T20:50:45.483537+00:00",
+  "updated_fmt": "8 November 2026 om 20:50",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Nov 2026 11:35 UTC",
+      "note": "bol.com — gescraped 8 Nov 2026 20:50 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Nov 2026 11:35 UTC",
+      "note": "amazon.nl — gescraped 8 Nov 2026 20:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -775,10 +775,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ik maak mezelf niet meer klein: 100 Herinneringen voor de vrouw die alles gaf en",
-          "c": "Algemeen"
-        },
-        {
           "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
@@ -869,6 +865,10 @@
         {
           "n": "Amazon Basics 16 stuks oplaadbare AAA NiMH-batterijen, 800 mAh, 1000x op te lade",
           "c": "Elektronica"
+        },
+        {
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Nov 2026 11:35 UTC",
+      "note": "amazon.com.be — gescraped 8 Nov 2026 20:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Nov 2026 11:35 UTC",
+      "note": "amazon.de — gescraped 8 Nov 2026 20:50 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,82 +1513,6 @@
       ],
       "bestsellers": [
         {
-          "n": "3 aanbiedingen vanUSD11235USD11235",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD5617USD5617",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nonstop Cards Grappig kaartspel met app, stads-landrivier, 2-8 spelers | 1750+ t",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2808USD2808",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD2583USD2583",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 8,48",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1111USD1111",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD785USD785",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1813USD1813",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1624USD1624",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 2,47/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "12 stuks led-theelichtjes, realistische flikkerende op batterijen werkende vlaml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1122USD1122",
-          "c": "Algemeen"
-        },
-        {
           "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
           "c": "Algemeen"
         },
@@ -1630,6 +1554,50 @@
         },
         {
           "n": "Generisch Winterjas dames lang: winterjas met schuine ritssluiting winddicht out",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD224USD224",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD785USD785",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1813USD1813",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
+          "c": "Algemeen"
+        },
+        {
+          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1624USD1624",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 2,47/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "12 stuks led-theelichtjes, realistische flikkerende op batterijen werkende vlaml",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1122USD1122",
           "c": "Algemeen"
         },
         {
@@ -1677,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD1403USD1403",
+          "n": "2 aanbiedingen vanUSD1684USD1684",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD871USD871",
+          "n": "6 aanbiedingen vanUSD880USD880",
           "c": "Algemeen"
         },
         {
@@ -1710,6 +1678,38 @@
         },
         {
           "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 37,76",
+          "c": "Algemeen"
+        },
+        {
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD3638USD3638",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,21",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 27,30",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Finanzen ab 50: Es ist nicht zu spät: Vermögen sichern, richtig vorsorgen und da",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 15,75",
           "c": "Algemeen"
         }
       ]
