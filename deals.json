@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T20:50:45.483537+00:00",
-  "updated_fmt": "8 November 2026 om 20:50",
+  "updated": "2026-11-09T02:10:34.521372+00:00",
+  "updated_fmt": "9 November 2026 om 02:10",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 8 Nov 2026 20:50 UTC",
+      "note": "bol.com — gescraped 9 Nov 2026 02:10 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 8 Nov 2026 20:50 UTC",
+      "note": "amazon.nl — gescraped 9 Nov 2026 02:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 8 Nov 2026 20:50 UTC",
+      "note": "amazon.com.be — gescraped 9 Nov 2026 02:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,122 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "ESSENCE MÁSCARA VOLUMINIZADORA I LOVE EXTREME CRAZY 9ML | Extreem volume, langho",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dr.Althea Ontluchtingscrème 345, Koreaanse huidverzorging, 15 ml | PDRN, hyaluro",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROSALIND Nagellak, semi-permanent, lichtroze, rood, wijnrood, 6 kleuren | UV-gel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Lot de 3 caleçons pour homme",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DUCMODA Thermische winterpanty voor dames, thermopanty | Thermische panty met fl",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Adventskalender 2026 Kerstmis aftellen (1021) | Adventskalender 2026, 24 deuren,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Utopia Bedding Hoeslaken 180 x 200 cm, 30 cm hoekhoogte voor dikke matrassen, Oe",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cinereplicas KPop Demon Hunters Gouden adventskalender 2026, inclusief 24 gesche",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lutti Long Fizz 200 g (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biologische kokosolie, 500 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B Pro Series 1 elektrische tandenborstel, zwart, 1 3D-reinigingsborstel, ve",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Rowenta - Premiss 2.0 LCD Personenweegschaal - Batterijen inbegrepen | Nauwkeuri",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Oral-B iO Ultimate Clean originele navulverpakking, wit, 4 stuks | Oral B IO ele",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Carpoint 1316011 bord L met zuignap",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BEAST RAGE Winddichte wintermotorhandschoenen voor heren en dames, warme rijhand",
-          "c": "Algemeen"
-        },
-        {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
           "c": "Elektronica"
         },
@@ -1324,6 +1208,122 @@
         {
           "n": "TOCOL Gehard glas voor iPhone 18 Pro Max | 2 stuks, eenvoudig te installeren, zo",
           "c": "Elektronica"
+        },
+        {
+          "n": "Trust USB-DNI-kaartlezer, ID-kaartlezer, zwart | Voldoet aan FIPS 201 FIPS TAA e",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Clickeez S3 - Keyboard Mega Pack",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
+          "c": "Elektronica"
+        },
+        {
+          "n": "DURACELL Oplaadbare AA-batterijen (4 stuks) 1,2 V, 2500 mAh, NiMH | Voorgeladen ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "NEW'C gehard glas voor Samsung Galaxy S26, displaybeschermfolie | 3 stuks, HD tr",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "DIGITUS Cat 6A LAN-kabel - 1m - S/FTP afgeschermd - 10 Gbit/s - 500 MHz - PoE++ ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "kwmobile Hoes compatibel met Apple iPhone 13 hoes - Zachte TPU siliconen telefoo",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INFLUENCER LES MASSES: Les techniques psychologiques grâce auxquelles quelques p",
+          "c": "Boeken"
+        },
+        {
+          "n": "Coloriages Mystères Disney - Très grands classiques Tome 2: Colorie les chiffres",
+          "c": "Boeken"
+        },
+        {
+          "n": "Lakestone - Tome 1 - Edition collector",
+          "c": "Boeken"
+        },
+        {
+          "n": "Calendrier de l’Avent Escape Game pour Adultes – L’Enquête du Chalet de Noël: 24",
+          "c": "Boeken"
+        },
+        {
+          "n": "Calendrier de l'Avent caca: 24 jeux, quiz, énigmes, blagues… à faire pour rigole",
+          "c": "Boeken"
+        },
+        {
+          "n": "Murdoku© l'original - tome 2 (version française): 80 crimes à élucider à travers",
+          "c": "Boeken"
+        },
+        {
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Boeken"
+        },
+        {
+          "n": "Calendrier de l’Avent pour Couples – À Nous Deux: 24 jours de jeux, défis et qui",
+          "c": "Boeken"
+        },
+        {
+          "n": "bloedbroeders",
+          "c": "Boeken"
+        },
+        {
+          "n": "Les Aventures de Lucky Luke d'après Morris - Tome 12 - Saint Lucky Luke",
+          "c": "Boeken"
+        },
+        {
+          "n": "Affaires classées",
+          "c": "Boeken"
+        },
+        {
+          "n": "La ferme des animaux",
+          "c": "Boeken"
+        },
+        {
+          "n": "L'inconnue du quai de Javel",
+          "c": "Boeken"
+        },
+        {
+          "n": "Des Boum et des Paf",
+          "c": "Boeken"
+        },
+        {
+          "n": "Cozy Christmas Coloring Book: Filled With Charming Holiday Scenes, Cozy Winter M",
+          "c": "Boeken"
+        },
+        {
+          "n": "La Clé de votre énergie: 22 protocoles pour vous libérer émotionnellement",
+          "c": "Boeken"
+        },
+        {
+          "n": "Le Calendrier de l’Avent anti-stress des femmes: 24 jours pour souffler, rire et",
+          "c": "Boeken"
+        },
+        {
+          "n": "L' avenir en commun",
+          "c": "Boeken"
+        },
+        {
+          "n": "Dans la terre froide",
+          "c": "Boeken"
+        },
+        {
+          "n": "Scrap a Day: 365-Day Scrap Collage Challenge",
+          "c": "Boeken"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 8 Nov 2026 20:50 UTC",
+      "note": "amazon.de — gescraped 9 Nov 2026 02:10 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1569,7 +1569,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1813USD1813",
+          "n": "2 aanbiedingen vanUSD2134USD2134",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD880USD880",
+          "n": "5 aanbiedingen vanUSD880USD880",
           "c": "Algemeen"
         },
         {
