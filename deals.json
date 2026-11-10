@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T13:27:39.636225+00:00",
-  "updated_fmt": "9 November 2026 om 13:27",
+  "updated": "2026-11-10T00:28:33.623500+00:00",
+  "updated_fmt": "10 November 2026 om 00:28",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 9 Nov 2026 13:27 UTC",
+      "note": "bol.com — gescraped 10 Nov 2026 00:28 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 9 Nov 2026 13:27 UTC",
+      "note": "amazon.nl — gescraped 10 Nov 2026 00:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -763,15 +763,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Coloriages Mystères Disney - Très grands classiques Tome 2: Colorie les chiffres",
-          "c": "Algemeen"
-        },
-        {
           "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
           "c": "Algemeen"
         },
         {
+          "n": "Coloriages Mystères Disney - Très grands classiques Tome 2: Colorie les chiffres",
+          "c": "Algemeen"
+        },
+        {
           "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
+        },
+        {
+          "n": "A Dictionary of Color Combinations",
           "c": "Algemeen"
         },
         {
@@ -843,11 +847,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra USB 3.0-Flashdrive 128 GB (Overdrachtssnelheden Tot 130 MB/s, SanD",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "SanDisk Ultra USB 3.0-Flashdrive 128 GB (Overdrachtssnelheden Tot 130 MB/s, SanD",
           "c": "Elektronica"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "VARTA Batterijen Knoopcel CR2032, verpakking van 5, Power on Demand, Lithium Coi",
           "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C kabel 100W laadkabel USB-C PD 3.0 snel opladen | PPS USB C naar USB",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 9 Nov 2026 13:27 UTC",
+      "note": "amazon.com.be — gescraped 10 Nov 2026 00:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 9 Nov 2026 13:27 UTC",
+      "note": "amazon.de — gescraped 10 Nov 2026 00:28 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1517,7 +1517,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD5617USD5617",
+          "n": "4 aanbiedingen vanUSD5561USD5561",
           "c": "Algemeen"
         },
         {
@@ -1525,7 +1525,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD2808USD2808",
+          "n": "2 aanbiedingen vanUSD2667USD2667",
           "c": "Algemeen"
         },
         {
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD1111USD1111",
+          "n": "4 aanbiedingen vanUSD1111USD1111",
           "c": "Algemeen"
         },
         {
@@ -1597,7 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD1529USD1529",
+          "n": "2 aanbiedingen vanUSD2021USD2021",
           "c": "Algemeen"
         },
         {
@@ -1605,7 +1605,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 884,83/l)",
+          "n": "(USD 732,68/l)",
           "c": "Algemeen"
         },
         {
@@ -1629,7 +1629,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1684USD1684",
+          "n": "3 aanbiedingen vanUSD1045USD1045",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 22,18",
+          "n": "USD 17,74",
           "c": "Algemeen"
         },
         {
@@ -1693,15 +1693,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1235USD1235",
-          "c": "Algemeen"
-        },
-        {
           "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD880USD880",
+          "n": "5 aanbiedingen vanUSD880USD880",
           "c": "Algemeen"
         },
         {
@@ -1710,6 +1706,10 @@
         },
         {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 8,02/eenheid)",
           "c": "Algemeen"
         }
       ]
