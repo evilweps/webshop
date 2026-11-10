@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T13:06:17.118264+00:00",
-  "updated_fmt": "10 November 2026 om 13:06",
+  "updated": "2026-11-10T22:00:21.685707+00:00",
+  "updated_fmt": "10 November 2026 om 22:00",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Nov 2026 13:06 UTC",
+      "note": "bol.com — gescraped 10 Nov 2026 22:00 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Nov 2026 13:06 UTC",
+      "note": "amazon.nl — gescraped 10 Nov 2026 22:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Nov 2026 13:06 UTC",
+      "note": "amazon.com.be — gescraped 10 Nov 2026 22:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Nov 2026 13:06 UTC",
+      "note": "amazon.de — gescraped 10 Nov 2026 22:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,6 +1513,54 @@
       ],
       "bestsellers": [
         {
+          "n": "SINOPHANT Leggings voor dames, hoge taille, verpakking van 2 stuks | Sportleggin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD738USD738",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 16,98",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 3,45/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "THE HEAT COMPANY Zoolverwarmer, extra warm, 8 uur warme voeten, warmtezolen | 10",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2193USD2193",
+          "c": "Algemeen"
+        },
+        {
+          "n": "FALARY 12/24 paar sokken heren dames katoen herensokken ademend | Zakelijke sokk",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD1683USD1683",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Hey Nature Lamswol inlegzolen - warme winterzolen voor dames en heren | Natuurli",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1009USD1009",
+          "c": "Algemeen"
+        },
+        {
           "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
           "c": "Algemeen"
         },
@@ -1613,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD2665USD2665",
+          "n": "1 aanbieding voorUSD2806USD2806",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD5051USD5051",
+          "n": "7 aanbiedingen vanUSD5051USD5051",
           "c": "Algemeen"
         },
         {
@@ -1662,54 +1710,6 @@
         },
         {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 8,02/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 37,73",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2851USD2851",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 13,20",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 27,28",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Adventskalender-Duell: 24 spannende Rätsel-Spiele für Zwei mit Stift & Papier | ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 15,09",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Der Unfall – Kannst du deinen Rettern trauen?: Thriller - Ein neuer Psychothrill",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,84",
           "c": "Algemeen"
         }
       ]
