@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T12:15:45.119272+00:00",
-  "updated_fmt": "11 November 2026 om 12:15",
+  "updated": "2026-11-11T23:11:48.297886+00:00",
+  "updated_fmt": "11 November 2026 om 23:11",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 11 Nov 2026 12:15 UTC",
+      "note": "bol.com — gescraped 11 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 11 Nov 2026 12:15 UTC",
+      "note": "amazon.nl — gescraped 11 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -779,7 +779,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "The End of Everything: Shortlisted for the Booker Prize 2026",
+          "n": "Ik maak mezelf niet meer klein: 100 Herinneringen voor de vrouw die alles gaf en",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 11 Nov 2026 12:15 UTC",
+      "note": "amazon.com.be — gescraped 11 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1206,6 +1206,26 @@
           "c": "Algemeen"
         },
         {
+          "n": "EA Sports FC 27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "La Bataille de Gaulle - Les 2 films : J'écris ton nom + L'Âge de fer",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kill Bill : The Whole Bloody Affair",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dune : deuxième partie 4k ultra hd",
+          "c": "Algemeen"
+        },
+        {
+          "n": "COCORICO 2 - DVD",
+          "c": "Algemeen"
+        },
+        {
           "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
           "c": "Algemeen"
         },
@@ -1227,26 +1247,6 @@
         },
         {
           "n": "Optimum Nutrition Micronised Creatine Monohydraatpoeder, 634 g | Ongearomatiseer",
-          "c": "Algemeen"
-        },
-        {
-          "n": "EA Sports FC 27",
-          "c": "Algemeen"
-        },
-        {
-          "n": "La Bataille de Gaulle - Les 2 films : J'écris ton nom + L'Âge de fer",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kill Bill : The Whole Bloody Affair",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dune : deuxième partie 4k ultra hd",
-          "c": "Algemeen"
-        },
-        {
-          "n": "COCORICO 2 - DVD",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 11 Nov 2026 12:15 UTC",
+      "note": "amazon.de — gescraped 11 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1626USD1626",
+          "n": "1 aanbieding voorUSD2137USD2137",
           "c": "Algemeen"
         },
         {
@@ -1597,47 +1597,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 22,21",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD5963USD5963",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Nonstop Cards Grappig kaartspel met app, stads-landrivier, 2-8 spelers | 1750+ t",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2812USD2812",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD3369USD3369",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pokémon - Verzamelkaartspel: map collectie 30 jaar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11 aanbiedingen vanUSD5063USD5063",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 8,50",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1113USD1113",
+          "n": "USD 17,77",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 2,13",
+          "n": "USD 2,16",
           "c": "Algemeen"
         },
         {
@@ -1710,6 +1670,46 @@
         },
         {
           "n": "1 aanbieding voorUSD2857USD2857",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1043USD1043",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 8,03/eenheid)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "JURA Originele CLARIS Smart+ waterfilter 3-pack (24233) | Filterpatroon met RFID",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 37,82",
+          "c": "Algemeen"
+        },
+        {
+          "n": "10 aanbiedingen vanUSD5963USD5963",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nonstop Cards Grappig kaartspel met app, stads-landrivier, 2-8 spelers | 1750+ t",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2812USD2812",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD3369USD3369",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pokémon - Verzamelkaartspel: map collectie 30 jaar",
           "c": "Algemeen"
         }
       ]
