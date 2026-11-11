@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T22:00:21.685707+00:00",
-  "updated_fmt": "10 November 2026 om 22:00",
+  "updated": "2026-11-11T02:20:16.671384+00:00",
+  "updated_fmt": "11 November 2026 om 02:20",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 10 Nov 2026 22:00 UTC",
+      "note": "bol.com — gescraped 11 Nov 2026 02:20 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 10 Nov 2026 22:00 UTC",
+      "note": "amazon.nl — gescraped 11 Nov 2026 02:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 10 Nov 2026 22:00 UTC",
+      "note": "amazon.com.be — gescraped 11 Nov 2026 02:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1138,11 +1138,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
+          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
           "c": "Algemeen"
         },
         {
-          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
+          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
           "c": "Algemeen"
         },
         {
@@ -1151,10 +1151,6 @@
         },
         {
           "n": "Adventskalender 2026 Kerstmis aftellen (1021) | Adventskalender 2026, 24 deuren,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pierre Ponce Toiletborstel, 6 navulverpakkingen, natuurlijke ontkalking | Verwij",
           "c": "Algemeen"
         },
         {
@@ -1167,6 +1163,10 @@
         },
         {
           "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pierre Ponce Toiletborstel, 6 navulverpakkingen, natuurlijke ontkalking | Verwij",
           "c": "Algemeen"
         },
         {
@@ -1190,11 +1190,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "LE Led-zaklamp, extreem helder, zoombare zaklamp voor buiten, mini draagbare fli",
+          "n": "FireAngel FA6812 Digitale koolmonoxidemelder met lcd-display, CO-sensor, 10 jaar",
           "c": "Algemeen"
         },
         {
-          "n": "FireAngel FA6812 Digitale koolmonoxidemelder met lcd-display, CO-sensor, 10 jaar",
+          "n": "LE Led-zaklamp, extreem helder, zoombare zaklamp voor buiten, mini draagbare fli",
           "c": "Algemeen"
         },
         {
@@ -1242,15 +1242,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 stuks puimsteen wc-antikalk – puimsteen toilet effectieve ontkalking, alternat",
-          "c": "Algemeen"
-        },
-        {
           "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
           "c": "Algemeen"
         },
         {
           "n": "Rowenta - Premiss 2.0 LCD Personenweegschaal - Batterijen inbegrepen | Nauwkeuri",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 stuks puimsteen wc-antikalk – puimsteen toilet effectieve ontkalking, alternat",
           "c": "Algemeen"
         },
         {
@@ -1278,11 +1278,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
+          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
           "c": "Elektronica"
         },
         {
-          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
+          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
           "c": "Elektronica"
         },
         {
@@ -1294,15 +1294,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Clickeez S3 - Keyboard Mega Pack",
-          "c": "Elektronica"
-        },
-        {
           "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
-          "c": "Elektronica"
-        },
-        {
-          "n": "ROCAM Noodradio met zwengel, 12.000 mAh, met zonnepaneel 8500 mm² en dynamo 650 ",
           "c": "Elektronica"
         },
         {
@@ -1310,11 +1302,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
+          "n": "Clickeez S3 - Keyboard Mega Pack",
+          "c": "Elektronica"
+        },
+        {
+          "n": "ROCAM Noodradio met zwengel, 12.000 mAh, met zonnepaneel 8500 mm² en dynamo 650 ",
           "c": "Elektronica"
         },
         {
           "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU Externe accu, klein, 20.000 mAh, 45 W, snel opladen, voor reizen | Met geïn",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 10 Nov 2026 22:00 UTC",
+      "note": "amazon.de — gescraped 11 Nov 2026 02:20 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1553,11 +1553,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Hey Nature Lamswol inlegzolen - warme winterzolen voor dames en heren | Natuurli",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1009USD1009",
+          "n": "USD 16,03",
           "c": "Algemeen"
         },
         {
@@ -1609,11 +1609,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Essence Dancing Around The Xmas Tree Juicy Bomb mini glanzende lipgloss (6 ml)",
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 353,65/kg)",
+          "n": "2 aanbiedingen vanUSD1683USD1683",
           "c": "Algemeen"
         },
         {
@@ -1625,19 +1625,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "n": "Essence Dancing Around The Xmas Tree Juicy Bomb mini glanzende lipgloss (6 ml)",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1683USD1683",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kneipp Aroma-verzorgende douchegel met natuurlijke extracten van korenbloem, mal",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 11,73/l)",
+          "n": "(USD 353,65/kg)",
           "c": "Algemeen"
         },
         {
@@ -1646,6 +1638,14 @@
         },
         {
           "n": "USD 1,00",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Kneipp Aroma-verzorgende douchegel met natuurlijke extracten van korenbloem, mal",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 11,73/l)",
           "c": "Algemeen"
         },
         {
@@ -1685,7 +1685,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD1110USD1110",
+          "n": "2 aanbiedingen vanUSD1110USD1110",
           "c": "Algemeen"
         },
         {
@@ -1701,11 +1701,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD879USD879",
+          "n": "5 aanbiedingen vanUSD879USD879",
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1041USD1041",
+          "n": "5 aanbiedingen vanUSD942USD942",
           "c": "Algemeen"
         },
         {
