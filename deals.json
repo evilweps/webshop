@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T22:29:04.582963+00:00",
-  "updated_fmt": "12 November 2026 om 22:29",
+  "updated": "2026-11-13T03:00:43.300658+00:00",
+  "updated_fmt": "13 November 2026 om 03:00",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 12 Nov 2026 22:29 UTC",
+      "note": "bol.com — gescraped 13 Nov 2026 03:00 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 12 Nov 2026 22:29 UTC",
+      "note": "amazon.nl — gescraped 13 Nov 2026 03:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 12 Nov 2026 22:29 UTC",
+      "note": "amazon.com.be — gescraped 13 Nov 2026 03:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 12 Nov 2026 22:29 UTC",
+      "note": "amazon.de — gescraped 13 Nov 2026 03:00 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 25,52",
+          "n": "USD 17,91",
           "c": "Algemeen"
         },
         {
@@ -1633,7 +1633,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,48/eenheid)",
+          "n": "(USD 2,35/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD881USD881",
+          "n": "5 aanbiedingen vanUSD881USD881",
           "c": "Algemeen"
         },
         {
