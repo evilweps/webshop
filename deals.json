@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T22:16:28.169056+00:00",
-  "updated_fmt": "13 November 2026 om 22:16",
+  "updated": "2026-11-14T02:46:30.149823+00:00",
+  "updated_fmt": "14 November 2026 om 02:46",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 13 Nov 2026 22:16 UTC",
+      "note": "bol.com — gescraped 14 Nov 2026 02:46 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 13 Nov 2026 22:16 UTC",
+      "note": "amazon.nl — gescraped 14 Nov 2026 02:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,30 +743,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "GXCROR Handschoenen voor dames en heren, warme touchscreen-handschoenen, loophan",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Boxershorts voor heren, verpakking van 3 stuks, met logoband",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROCKBROS Bivakmuts Herfst Winter Bivakmuts voor Buitensporten Fietsen, Snowboard",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Kinderen Winter Fietsen Handschoenen Running Jongens Meisjes Touchscreen Anti Sl",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Skechers heren Uno Stand On AirTrainers",
-          "c": "Algemeen"
-        },
-        {
-          "n": "waterdichte en winddichte thermo-handschoenen – 3M Thinsulate Winter Touch Scree",
-          "c": "Algemeen"
-        },
-        {
           "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament 1kg Zwart | Maatnauwkeur",
           "c": "Algemeen"
         },
@@ -775,23 +751,55 @@
           "c": "Algemeen"
         },
         {
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "c": "Algemeen"
+        },
+        {
           "n": "Dalugo Zuignappen 100 stuks, Transparante zuignap met kabel-sleuf voor raam, lic",
           "c": "Algemeen"
         },
         {
-          "n": "SwitchBot Binnenluchtkwaliteitsmeters CO2 Detector, Temperatuur- en Luchtvochtig",
+          "n": "Songs in the Key of Life",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "n": "Christmas",
           "c": "Algemeen"
         },
         {
-          "n": "A Dictionary of Color Combinations",
+          "n": "Back to Black",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Thriller",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Californication [Vinyl LP]",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Castrol EDGE 5W-30 LL Geavanceerde Volsynthetische Motorolie, 1L",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ijskrabber Auto Messing Murska - Ruitenkrabber Testwinnaar 2024 snel, moeiteloos",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draagbare Luchtcompressor, Elektrische luchtpomp met dubbel digitaal LCD-display",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIGRIN IJskrabber voor auto, winter, ergonomische zachte grip, ijsbrekertanden, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "OSRAM NIGHT BREAKER 220, H7, +220% meer helderheid, halogeenkoplamp, 64210NB220-",
+          "c": "Algemeen"
+        },
+        {
+          "n": "OSRAM ULTRA LIFE, H7, halogeenkoplampen, hangende vouwdoos (2 lampen)",
           "c": "Algemeen"
         },
         {
@@ -823,7 +831,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 3M | Alum",
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         },
         {
@@ -851,23 +859,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "VARTA Batterijen Knoopcel CR2032, verpakking van 5, Power on Demand, Lithium Coi",
-          "c": "Elektronica"
-        },
-        {
           "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
         },
         {
+          "n": "VARTA Batterijen Knoopcel CR2032, verpakking van 5, Power on Demand, Lithium Coi",
+          "c": "Elektronica"
+        },
+        {
           "n": "Logitech M240 Stille Bluetooth Muis, Draadloos, Compact, Draagbaar, Soepel Beweg",
-          "c": "Elektronica"
-        },
-        {
-          "n": "NEW'C Screen Protector voor iPhone 14, iPhone 13, iPhone 13 Pro | 3 Stuks, Trans",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 40 stuks industriële AAA-alkalinebatterijen, 1,5 volt, 5 jaar houd",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 13 Nov 2026 22:16 UTC",
+      "note": "amazon.com.be — gescraped 14 Nov 2026 02:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 13 Nov 2026 22:16 UTC",
+      "note": "amazon.de — gescraped 14 Nov 2026 02:46 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,6 +1513,54 @@
       ],
       "bestsellers": [
         {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 724,07/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1664USD1664",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIVEA Adventskalender voor vrouwen, editie 2026 | Cadeau voor vrouwen met 24 art",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD3608USD3608",
+          "c": "Algemeen"
+        },
+        {
+          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD2375USD2375",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Instant Anti-Age Effect Blusher Concealer tegen kringen en r",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 649,91/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 12,80/l)",
+          "c": "Algemeen"
+        },
+        {
           "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
           "c": "Algemeen"
         },
@@ -1553,11 +1601,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "DANISH ENDURANCE Merino muts, zacht, warm, stretch, comfortabel, ademend, beanie",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD2881USD2881",
+          "n": "USD 15,86",
           "c": "Algemeen"
         },
         {
@@ -1581,11 +1629,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,44/eenheid)",
+          "n": "(USD 2,31/eenheid)",
           "c": "Algemeen"
         },
         {
           "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD2220USD2220",
           "c": "Algemeen"
         },
         {
@@ -1594,10 +1646,6 @@
         },
         {
           "n": "USD 17,53",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD2220USD2220",
           "c": "Algemeen"
         },
         {
@@ -1633,63 +1681,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "4 aanbiedingen vanUSD1214USD1214",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
           "c": "Algemeen"
         },
         {
           "n": "(USD 7,93/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1214USD1214",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 724,07/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1664USD1664",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIVEA Adventskalender voor vrouwen, editie 2026 | Cadeau voor vrouwen met 24 art",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD3608USD3608",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Instant Anti-Age Effect Blusher Concealer tegen kringen en r",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 649,91/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD2375USD2375",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 12,80/l)",
           "c": "Algemeen"
         },
         {
@@ -1705,11 +1705,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Der Unfall – Kannst du deinen Rettern trauen?: Thriller - Ein neuer Psychothrill",
+          "n": "Adventskalender-Duell: 24 spannende Rätsel-Spiele für Zwei mit Stift & Papier | ",
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,64",
+          "n": "USD 14,92",
           "c": "Algemeen"
         }
       ]
