@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T02:46:30.149823+00:00",
-  "updated_fmt": "14 November 2026 om 02:46",
+  "updated": "2026-11-14T11:51:14.439524+00:00",
+  "updated_fmt": "14 November 2026 om 11:51",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 14 Nov 2026 02:46 UTC",
+      "note": "bol.com — gescraped 14 Nov 2026 11:51 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 14 Nov 2026 02:46 UTC",
+      "note": "amazon.nl — gescraped 14 Nov 2026 11:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -683,23 +683,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "flintronic 2 stuks ledlicht-armbanden, oplaadbaar, USB, reflecterend,armband voo",
-          "c": "Algemeen"
-        },
-        {
-          "n": "OCOOPA Handwarmers Oplaadbaar 2 Stuks, Ultradraagbare Elektrische Hand Warmers, ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Oplaadbare Handwarmers, 2 Stuks 8000 mAh Langdurige Elektrische Handwarmer, Magn",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Tower Elektrische Kachel 5000 Serie, 2000W, 60° Oscillatie, Zwart | Tot ",
+          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
           "c": "Algemeen"
         },
         {
-          "n": "essence THE HOLIDAY TREE adventskalender, makkelijk in gebruik (1pcs) | 24 gelim",
+          "n": "SMH LINE® Camping kooktoestel - Draagbaar Gasfornuis - Incl. 10x gasflessen en k",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Tower Elektrische Kachel 5000 Serie, 2000W, 60° Oscillatie, Zwart | Tot ",
           "c": "Algemeen"
         },
         {
@@ -711,11 +707,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
+          "n": "essence THE HOLIDAY TREE adventskalender, makkelijk in gebruik (1pcs) | 24 gelim",
           "c": "Algemeen"
         },
         {
-          "n": "Wasgij Kerstpuzzel Adventskalender 2026 – 24x54-delige Legpuzzels | Unieke en le",
+          "n": "TrendPlain Oil Spray Bottle, Olie Spray Fles 470 ml Zwart-1 | Oil dispenser, oli",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Jura 24233 Claris Smart+ filterpatroon set van 3 grijs | Filterpatroon met RFID-",
           "c": "Algemeen"
         },
         {
@@ -731,19 +731,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips OneBlade 360 Authentiek Face & Body Elektrische Baardtrimmer, Scheerappa",
           "c": "Algemeen"
         },
         {
-          "n": "bruno banani Absolute Man Eau de Toilette Natural Spray – spannend mannelijk par",
+          "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
           "c": "Algemeen"
         },
         {
-          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament 1kg Zwart | Maatnauwkeur",
+          "n": "L'Oréal Paris Infaillible Setting Mist 150ml | Setting mist fixeert de make-up",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
+        },
+        {
+          "n": "A Dictionary of Color Combinations",
+          "c": "Algemeen"
+        },
+        {
+          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament 1kg Wit | Maatnauwkeurig",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SwitchBot Binnenluchtkwaliteitsmeters CO2 Detector, Temperatuur- en Luchtvochtig",
           "c": "Algemeen"
         },
         {
@@ -751,55 +767,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
-          "c": "Algemeen"
-        },
-        {
           "n": "Dalugo Zuignappen 100 stuks, Transparante zuignap met kabel-sleuf voor raam, lic",
           "c": "Algemeen"
         },
         {
-          "n": "Songs in the Key of Life",
+          "n": "Page wc papier - Compleet Schoon - 96 rollen - Voordeelverpakking",
           "c": "Algemeen"
         },
         {
-          "n": "Christmas",
+          "n": "Page® Fris en Schoon (Compleet Schoon) - Vochtig Toiletpapier doorspoelbare - 45",
           "c": "Algemeen"
         },
         {
-          "n": "Back to Black",
+          "n": "Page toiletpapier - Kussenzacht wc papier - 36 rollen - met extra zijde - Voorde",
           "c": "Algemeen"
         },
         {
-          "n": "Thriller",
+          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
           "c": "Algemeen"
         },
         {
-          "n": "Californication [Vinyl LP]",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Castrol EDGE 5W-30 LL Geavanceerde Volsynthetische Motorolie, 1L",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ijskrabber Auto Messing Murska - Ruitenkrabber Testwinnaar 2024 snel, moeiteloos",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draagbare Luchtcompressor, Elektrische luchtpomp met dubbel digitaal LCD-display",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIGRIN IJskrabber voor auto, winter, ergonomische zachte grip, ijsbrekertanden, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "OSRAM NIGHT BREAKER 220, H7, +220% meer helderheid, halogeenkoplamp, 64210NB220-",
-          "c": "Algemeen"
-        },
-        {
-          "n": "OSRAM ULTRA LIFE, H7, halogeenkoplampen, hangende vouwdoos (2 lampen)",
+          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
           "c": "Algemeen"
         },
         {
@@ -831,11 +819,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
           "c": "Elektronica"
         },
         {
@@ -855,11 +843,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 12 stuks oplaadbare AA NiMH-batterijen, 2000 mAh, 1000x op te lade",
+          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "n": "Amazon Basics 12 stuks oplaadbare AA NiMH-batterijen, 2000 mAh, 1000x op te lade",
           "c": "Elektronica"
         },
         {
@@ -867,7 +855,19 @@
           "c": "Elektronica"
         },
         {
+          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
+          "c": "Elektronica"
+        },
+        {
           "n": "Logitech M240 Stille Bluetooth Muis, Draadloos, Compact, Draagbaar, Soepel Beweg",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SANDISK Ultra Dual Drive GO 128 GB, USB-C & USB-A, tot 400 MB/s lezen | USB flas",
+          "c": "Elektronica"
+        },
+        {
+          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 14 Nov 2026 02:46 UTC",
+      "note": "amazon.com.be — gescraped 14 Nov 2026 11:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,43 +1126,7 @@
       ],
       "bestsellers": [
         {
-          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SKECHERS UNICORN DREAMS | Vrijetijdsschoenen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Lot de 3 caleçons pour homme",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Adventskalender 2026 Kerstmis aftellen (1021) | Adventskalender 2026, 24 deuren,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
+          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
           "c": "Algemeen"
         },
         {
@@ -1174,11 +1138,51 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
+          "n": "Dr.Althea Ontluchtingscrème 345, Koreaanse huidverzorging, 15 ml | PDRN, hyaluro",
           "c": "Algemeen"
         },
         {
-          "n": "Dr.Althea Ontluchtingscrème 345, Koreaanse huidverzorging, 15 ml | PDRN, hyaluro",
+          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Lot de 3 caleçons pour homme",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "SKECHERS UNICORN DREAMS | Vrijetijdsschoenen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air vrijetijdsschoenen, lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adventskalender 2026 Kerstmis aftellen (1021) | Adventskalender 2026, 24 deuren,",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
           "c": "Algemeen"
         },
         {
@@ -1194,19 +1198,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Waterdrop® Mix Fruit - suikervrije drank - 36 tabletten hydratatieset | Fruitpro",
+          "n": "Caffè Borbone Mia Napoli Mengsel, compatibel met Nespresso-koffiezetapparaten, 1",
           "c": "Algemeen"
         },
         {
-          "n": "Cinereplicas KPop Demon Hunters Gouden adventskalender 2026, inclusief 24 gesche",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
+          "n": "Waterdrop® Fruitfusion, drank zonder suiker, 48 vochtinbrengende tabletten | Fru",
           "c": "Algemeen"
         },
         {
           "n": "FireAngel FA6812 Digitale koolmonoxidemelder met lcd-display, CO-sensor, 10 jaar",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
           "c": "Algemeen"
         },
         {
@@ -1218,35 +1222,27 @@
           "c": "Algemeen"
         },
         {
+          "n": "Dubbelzijdig plakband, zeer robuust, dubbelzijdig plakband van acryl, waterdicht",
+          "c": "Algemeen"
+        },
+        {
           "n": "Vellure® Deurstopper, afdichting tegen tocht, nieuwe isolerende onderkant voor d",
           "c": "Algemeen"
         },
         {
-          "n": "Philips LED-Spot 6-pack - Warmwit licht - GU10 - 50 W - Energiezuinige LED-verli",
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
           "c": "Algemeen"
         },
         {
-          "n": "Hismile iD Stain Whitening Mondwater - Alcoholvrij Whitening Mondwater met Water",
+          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
           "c": "Algemeen"
         },
         {
-          "n": "Optimum Nutrition Micronised Creatine Monohydraatpoeder, 634 g | Ongearomatiseer",
+          "n": "Carpoint 1316011 bord L met zuignap",
           "c": "Algemeen"
         },
         {
-          "n": "Oral-B Pro Series 1 elektrische tandenborstel, zwart, 1 3D-reinigingsborstel, ve",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Lubido Glijmiddel voor het intieme gebied zonder parabenen, 250 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Durex Sensitive Sexual Glijmiddel, waterbasis, 100 ml",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Whitening Mint Tandpasta, 85 ml, gezondheid en persoonlijke verzorging",
+          "n": "Wintervoorruitafdekking, voorruitafdekking | Sneeuwafdekking, zonwering voor aut",
           "c": "Algemeen"
         },
         {
@@ -1262,7 +1258,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Beschermhoes voor iPhone 18 Pro Max, compatibel met MagSafe | Geïntegreerd",
+          "n": "TOCOL Magnetische beschermhoes voor iPhone 15 6,1\", compatibel met MagSafe, verb",
           "c": "Elektronica"
         },
         {
@@ -1270,7 +1266,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Gehard glas tegen spionage voor iPhone 17, 2 stuks | 9H displaybeschermin",
+          "n": "JETech Gehard glas tegen spionage voor iPhone 17 Pro Max, 2 stuks | 9H displaybe",
+          "c": "Elektronica"
+        },
+        {
+          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
           "c": "Elektronica"
         },
         {
@@ -1278,7 +1278,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
+          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
@@ -1287,10 +1287,6 @@
         },
         {
           "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
@@ -1306,7 +1302,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 8K HDMI 2.1-kabel, 8K, 60Hz, 48Gbit/s, High Speed (2M) | HDMI-kabel 4K 24",
+          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
           "c": "Elektronica"
         },
         {
@@ -1314,11 +1310,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
+          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
+          "n": "UGREEN 8K HDMI 2.1-kabel, 8K, 60Hz, 48Gbit/s, High Speed (2M) | HDMI-kabel 4K 24",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Azororo Beschermhoes voor Samsung Galaxy S26 5G, premium lederen beschermhoes, p",
           "c": "Elektronica"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 14 Nov 2026 02:46 UTC",
+      "note": "amazon.de — gescraped 14 Nov 2026 11:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,75 +1513,27 @@
       ],
       "bestsellers": [
         {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "n": "Calvin Klein Men Trunk 3pk 0000U2662G Trunk",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 724,07/l)",
+          "n": "3 aanbiedingen vanUSD2829USD2829",
           "c": "Algemeen"
         },
         {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "n": "Puma Unisex PUMA Smash V2 L sneakers",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1664USD1664",
+          "n": "USD 25,77",
           "c": "Algemeen"
         },
         {
-          "n": "NIVEA Adventskalender voor vrouwen, editie 2026 | Cadeau voor vrouwen met 24 art",
+          "n": "JACK & JONES Male Slim Fit Jeans Glenn Original NA 031, blauw",
           "c": "Algemeen"
         },
         {
-          "n": "3 aanbiedingen vanUSD3608USD3608",
-          "c": "Algemeen"
-        },
-        {
-          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD2375USD2375",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Instant Anti-Age Effect Blusher Concealer tegen kringen en r",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 649,91/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 12,80/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,79",
-          "c": "Algemeen"
-        },
-        {
-          "n": "FM London Set van 3 of 5 T-shirts voor heren, 100% katoen, premium kwaliteit",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 3,41/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SINOPHANT Leggings Damen High Waist Leggins für Sport | Blickdicht Bauchkontroll",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD730USD730",
+          "n": "USD 17,63",
           "c": "Algemeen"
         },
         {
@@ -1589,23 +1541,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD2110USD2110",
+          "n": "11 aanbiedingen vanUSD2807USD2807",
           "c": "Algemeen"
         },
         {
-          "n": "QINCAO Boxershorts voor heren, verpakking van 6 stuks, zonder krassende briefjes",
+          "n": "ONLY Dames rechte pasvorm jeans ONLY vrouwelijke straight fit jeans Onlblush mid",
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1887USD1887",
+          "n": "USD 26,08",
           "c": "Algemeen"
         },
         {
-          "n": "adidas Adilette Aqua Slideslippers, uniseks",
+          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
           "c": "Algemeen"
         },
         {
-          "n": "USD 15,86",
+          "n": "USD 16,74",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD776USD776",
+          "n": "1 aanbieding voorUSD774USD774",
           "c": "Algemeen"
         },
         {
@@ -1621,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD2109USD2109",
+          "n": "1 aanbieding voorUSD2103USD2103",
           "c": "Algemeen"
         },
         {
@@ -1629,15 +1581,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 2,31/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD2220USD2220",
+          "n": "(USD 2,44/eenheid)",
           "c": "Algemeen"
         },
         {
@@ -1645,7 +1589,67 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,53",
+          "n": "USD 17,49",
+          "c": "Algemeen"
+        },
+        {
+          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
+          "c": "Algemeen"
+        },
+        {
+          "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD1328USD1328",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 722,11/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1660USD1660",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIVEA Adventskalender voor vrouwen, editie 2026 | Cadeau voor vrouwen met 24 art",
+          "c": "Algemeen"
+        },
+        {
+          "n": "3 aanbiedingen vanUSD3598USD3598",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Instant Anti-Age Effect Blusher Concealer tegen kringen en r",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 648,15/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "6 aanbiedingen vanUSD2369USD2369",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 12,77/l)",
           "c": "Algemeen"
         },
         {
@@ -1653,23 +1657,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1331USD1331",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2819USD2819",
-          "c": "Algemeen"
-        },
-        {
-          "n": "DeLonghi Ontkalker – SER3018 – 500 ml. | Echt De'Longhi ontkalker, verzorgingsac",
-          "c": "Algemeen"
-        },
-        {
-          "n": "7 aanbiedingen vanUSD869USD869",
+          "n": "1 aanbieding voorUSD1328USD1328",
           "c": "Algemeen"
         },
         {
@@ -1681,7 +1669,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1214USD1214",
+          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2812USD2812",
           "c": "Algemeen"
         },
         {
@@ -1689,11 +1681,23 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 7,93/eenheid)",
+          "n": "(USD 7,91/eenheid)",
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,06",
+          "n": "Ninja Foodi Max Dual Zone heteluchtfriteuse, 9,5 l, 6-in-1, koper/zwart | 2 vakk",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 130,27",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD1210USD1210",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,02",
           "c": "Algemeen"
         },
         {
@@ -1701,15 +1705,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 18,68",
+          "n": "USD 18,63",
           "c": "Algemeen"
         },
         {
           "n": "Adventskalender-Duell: 24 spannende Rätsel-Spiele für Zwei mit Stift & Papier | ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 14,92",
           "c": "Algemeen"
         }
       ]
