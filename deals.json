@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T02:14:02.833350+00:00",
-  "updated_fmt": "15 November 2026 om 02:14",
+  "updated": "2026-11-15T12:21:18.739911+00:00",
+  "updated_fmt": "15 November 2026 om 12:21",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 15 Nov 2026 02:14 UTC",
+      "note": "bol.com — gescraped 15 Nov 2026 12:21 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 15 Nov 2026 02:14 UTC",
+      "note": "amazon.nl — gescraped 15 Nov 2026 12:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -683,15 +683,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "SMH LINE® Camping kooktoestel - Draagbaar Gasfornuis - Incl. 10x gasflessen en k",
+          "c": "Algemeen"
+        },
+        {
           "n": "Oplaadbare Handwarmers, 2 Stuks 8000 mAh Langdurige Elektrische Handwarmer, Magn",
           "c": "Algemeen"
         },
         {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel, kettingslot voor fietsen, motorfietsen,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SMH LINE® Camping kooktoestel - Draagbaar Gasfornuis - Incl. 10x gasflessen en k",
+          "n": "Bramble - Handwarmers (40 paar, 80 in totaal) - Luchtgeactiveerde zakwarmers voo",
           "c": "Algemeen"
         },
         {
@@ -699,15 +699,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Pluizentondeuse 8800 TPM - Groot mesoppervlak | Veilig voor alle stoffen",
           "c": "Algemeen"
         },
         {
-          "n": "essence THE HOLIDAY TREE adventskalender, makkelijk in gebruik (1pcs) | 24 gelim",
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
           "c": "Algemeen"
         },
         {
@@ -719,6 +715,10 @@
           "c": "Algemeen"
         },
         {
+          "n": "LEGO® Schatkist spaarpot, officieel gelicentieerde LEGO® koopwaar, Paladone",
+          "c": "Algemeen"
+        },
+        {
           "n": "essence JUICY BOMB mini glanzende lipgloss set, direct effect (30ml) | Lipgloss,",
           "c": "Algemeen"
         },
@@ -727,11 +727,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
+          "n": "Philips OneBlade 360 Authentiek Face & Body Elektrische Baardtrimmer, Scheerappa",
           "c": "Algemeen"
         },
         {
-          "n": "Philips OneBlade 360 Authentiek Face & Body Elektrische Baardtrimmer, Scheerappa",
+          "n": "Maybelline Lash Sensational Sky High Black 7.2ml | Lengte mascara verlengt de wi",
           "c": "Algemeen"
         },
         {
@@ -740,6 +740,30 @@
         },
         {
           "n": "L'Oréal Paris Infaillible Setting Mist 150ml | Setting mist fixeert de make-up",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Draai- en kantelbare binnencamera 2K (Pan-Tilt Indoor Camera 2K, nieuwste g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite 16 GB (nieuwste generatie), nu dunner en lichter, scher",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Videodeurbel 2K op batterij (Battery Video Doorbell 2K, nieuwste generatie)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Bedrade videodeurbel 2K (Wired Video Doorbell 2K, nieuwste generatie), Deur",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Binnencamera (Indoor Camera 2de generatie) | huisdiercamera met stekker | 1",
           "c": "Algemeen"
         },
         {
@@ -755,47 +779,31 @@
           "c": "Algemeen"
         },
         {
-          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament 1kg Wit | Maatnauwkeurig",
+          "n": "Christmas",
           "c": "Algemeen"
         },
         {
-          "n": "ISOLATECH Silica Gel 900g Zak Oranje naar Groen Regenereerbaar | Regenereerbaar ",
+          "n": "Thriller",
           "c": "Algemeen"
         },
         {
-          "n": "SwitchBot Binnenluchtkwaliteitsmeters CO2 Detector, Temperatuur- en Luchtvochtig",
+          "n": "Songs in the Key of Life",
           "c": "Algemeen"
         },
         {
-          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
+          "n": "Linkin Park - Hybrid Theory",
           "c": "Algemeen"
         },
         {
-          "n": "Page wc papier - Compleet Schoon - 96 rollen - Voordeelverpakking",
+          "n": "Californication [Vinyl LP]",
           "c": "Algemeen"
-        },
-        {
-          "n": "Page® Fris en Schoon (Compleet Schoon) - Vochtig Toiletpapier doorspoelbare - 45",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Page toiletpapier - Kussenzacht wc papier - 36 rollen - met extra zijde - Voorde",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
-          "c": "Elektronica"
         },
         {
           "n": "DURACELL 2032 Lithium-knoopcelbatterijen, 4 Stuks, 3V, CR2032 | Gaan Tot 70% Lan",
+          "c": "Elektronica"
+        },
+        {
+          "n": "JETech Screen Protector voor iPhone 18 Pro/17 Pro, 3 Stuks | 9H Gehard Glas, HD ",
           "c": "Elektronica"
         },
         {
@@ -819,15 +827,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirTag (2e generatie) - 4 stuks: Tracker voor sleutelhanger, portemonnee e",
+          "c": "Elektronica"
+        },
+        {
+          "n": "instax Fujifilm mini Instant Film, 2x 10 vellen, 20 vellen, White border",
           "c": "Elektronica"
         },
         {
@@ -835,7 +839,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 18 Pro Max Case Compatibel met MagSafe, Bordeaux | Volledige C",
+          "n": "TOCOL voor iPhone 18 Pro Case Compatibel met MagSafe, Bordeaux | Volledige Camer",
           "c": "Elektronica"
         },
         {
@@ -843,11 +847,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "SANDISK Extreme microSD kaart 128 GB + adapter, tot 190 MB/s lezen | UHS-I, V30,",
+          "n": "Amazon Basics 12 stuks oplaadbare AA NiMH-batterijen, 2000 mAh, 1000x op te lade",
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 12 stuks oplaadbare AA NiMH-batterijen, 2000 mAh, 1000x op te lade",
+          "n": "UGREEN HDMI 2.1 Kabel, 8K@60Hz, 4K@240Hz, HDMI Gecertificeerd, 48Gbps, 2M | Alum",
+          "c": "Elektronica"
+        },
+        {
+          "n": "NEW'C Screen Protector voor iPhone 17, 17 Pro/16 Pro met Installatiehulp | 3 Stu",
+          "c": "Elektronica"
+        },
+        {
+          "n": "VARTA Batterijen AA, grootverpakking, 40 stuks, Industrial Pro, alkaline | AA-ba",
           "c": "Elektronica"
         },
         {
@@ -855,19 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Apple USB‑C-naar-Lightning-kabel (1 m) ​​​​​​​",
-          "c": "Elektronica"
-        },
-        {
           "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SANDISK Ultra Dual Drive GO 128 GB, USB-C & USB-A, tot 400 MB/s lezen | USB flas",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Logitech M240 Stille Bluetooth Muis, Draadloos, Compact, Draagbaar, Soepel Beweg",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 15 Nov 2026 02:14 UTC",
+      "note": "amazon.com.be — gescraped 15 Nov 2026 12:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,11 +1142,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
+          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
           "c": "Algemeen"
         },
         {
-          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
+          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
           "c": "Algemeen"
         },
         {
@@ -1154,19 +1154,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SKECHERS UNICORN DREAMS | Vrijetijdsschoenen",
-          "c": "Algemeen"
-        },
-        {
           "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air vrijetijdsschoenen, lu",
           "c": "Algemeen"
         },
         {
-          "n": "Adventskalender 2026 Kerstmis aftellen (1021) | Adventskalender 2026, 24 deuren,",
+          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
           "c": "Algemeen"
         },
         {
@@ -1174,15 +1174,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
-          "c": "Algemeen"
-        },
-        {
           "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
           "c": "Algemeen"
         },
         {
-          "n": "Utopia Bedding 220x240 cm dekbed met hoeklabs - pluche gesiliconiseerd fiberfill",
+          "n": "the carpet Relax Modern tapijt met korte, donzige pool, antislip onderkant, wasb",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
           "c": "Algemeen"
         },
         {
@@ -1198,15 +1198,11 @@
           "c": "Algemeen"
         },
         {
+          "n": "Ceremonial Matcha Tee 80 g",
+          "c": "Algemeen"
+        },
+        {
           "n": "Caffè Borbone Mia Napoli Mengsel, compatibel met Nespresso-koffiezetapparaten, 1",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Waterdrop® Fruitfusion, drank zonder suiker, 48 vochtinbrengende tabletten | Fru",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
           "c": "Algemeen"
         },
         {
@@ -1214,7 +1210,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
           "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIGRIN IJskrabber voor de winter, ergonomische zachte handgreep, ijsbrekende tan",
           "c": "Algemeen"
         },
         {
@@ -1222,23 +1226,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "INFLUENCER LES MASSES: Les techniques psychologiques grâce auxquelles quelques p",
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
           "c": "Algemeen"
         },
         {
-          "n": "Instinct - Tome 3 (3)",
+          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
           "c": "Algemeen"
         },
         {
-          "n": "Des Boum et des Paf",
+          "n": "Ring Videodeurbel 2K op batterij (Battery Video Doorbell 2K, nieuwste generatie)",
           "c": "Algemeen"
         },
         {
-          "n": "Calendrier de l'Avent caca: 24 jeux, quiz, énigmes, blagues… à faire pour rigole",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (model 2022) | Krachtig, levendig geluid – Wifi en Bluetooth-luidspreke",
           "c": "Algemeen"
         },
         {
@@ -1254,7 +1262,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Magnetische beschermhoes voor iPhone 15 6,1\", compatibel met MagSafe, verb",
+          "n": "TOCOL Beschermhoes voor Samsung Galaxy S26 6,3 inch, zwart | Compatibel met MagS",
           "c": "Elektronica"
         },
         {
@@ -1262,11 +1270,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Gehard glas tegen spionage voor iPhone 17 Pro Max, 2 stuks | 9H displaybe",
+          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
+          "n": "JETech Gehard glas tegen spionage voor iPhone 17, 2 stuks | 9H displaybeschermin",
           "c": "Elektronica"
         },
         {
@@ -1274,7 +1282,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
+          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
           "c": "Elektronica"
         },
         {
@@ -1286,27 +1294,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
-        },
-        {
           "n": "ROCAM Noodradio met zwengel, 12.000 mAh, met zonnepaneel 8500 mm² en dynamo 650 ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Trust Velora ID-kaartlezer eID/DNIe 4.0 / eDowod/CIE | USB-C & USB-A, voldoet aa",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
         },
         {
@@ -1314,15 +1302,27 @@
           "c": "Elektronica"
         },
         {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
+          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
           "c": "Elektronica"
         },
         {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy S26 5G, premium lederen beschermhoes, p",
+          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "n": "Azororo Beschermhoes voor Samsung Galaxy S25 5G, premium lederen beschermhoes, p",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Trust Velora ID-kaartlezer eID/DNIe 4.0 / eDowod/CIE | USB-C & USB-A, voldoet aa",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 15 Nov 2026 02:14 UTC",
+      "note": "amazon.de — gescraped 15 Nov 2026 12:21 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,120 +1513,104 @@
       ],
       "bestsellers": [
         {
-          "n": "Fleischpflanzerl-Misere: Ein Provinzkrimi | Ein Bayernkrimi der Spitzenklasse: D",
-          "c": "Boeken"
-        },
-        {
-          "n": "Adventskalender-Duell: 24 spannende Rätsel-Spiele für Zwei mit Stift & Papier | ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Gregs Tagebuch 21 - Ach du dickes Ei!: Großer Lesespaß mit Comic-Roman-Held Greg",
-          "c": "Boeken"
-        },
-        {
-          "n": "Der Unfall – Kannst du deinen Rettern trauen?: Thriller - Ein neuer Psychothrill",
-          "c": "Boeken"
-        },
-        {
-          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
-          "c": "Boeken"
-        },
-        {
-          "n": "Oma & Opa Advents-Duell: Lustiger Adventskalender für Großeltern und Rentner | 2",
-          "c": "Boeken"
-        },
-        {
-          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
-          "c": "Boeken"
-        },
-        {
-          "n": "Finanzen ab 50: Es ist nicht zu spät: Vermögen sichern, richtig vorsorgen und da",
-          "c": "Boeken"
-        },
-        {
-          "n": "Spekulatius, der Weihnachtsdrache: Ein Adventsbuch in 24 Kapiteln | Adventskalen",
-          "c": "Boeken"
-        },
-        {
-          "n": "Pixi Adventskalender 2026: Mit 24 Pixi-Büchern | Kurze Weihnachtsgeschichten für",
-          "c": "Boeken"
-        },
-        {
-          "n": "Pixi-Weihnachts-8er-Set 41: Pixis Weihnachtszauber (8x1 Exemplar): 8 Minibücher ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Rage – Du sollst brennen: »The Mindf*ck Series«: Das Thriller-Phänomen – jetzt a",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
-          "c": "Boeken"
-        },
-        {
-          "n": "Namasté, ihr mich auch! Der Adventskalender für Frauen: 24 humorvoll ehrliche Au",
-          "c": "Boeken"
-        },
-        {
-          "n": "Afrika: Roman | Der neue Roman von Daniel Kehlmann: ein Lesegenuss, ein Ereignis",
-          "c": "Boeken"
-        },
-        {
-          "n": "Achtsam Ausrasten im Advent: Der humorvolle Anti-Stress-Adventskalender für alle",
-          "c": "Boeken"
-        },
-        {
-          "n": "3 Minuten Wichteltür Ideen: Jetzt wird's bunt! Über 60 schnelle Streiche, Vorlag",
-          "c": "Boeken"
-        },
-        {
-          "n": "Schüttel den Weihnachtsbaum. Ein Weihnachts-Mitmachbuch zum Schütteln, Schaukeln",
-          "c": "Boeken"
-        },
-        {
-          "n": "Achtsam Ausrasten: Das humorvolle Anti-Stress-Buch für alle mit viel Alltag und ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Die Grüffelo-Oma: Ein Bilderbuch aus der Grüffelo-Welt | Die lang ersehnte Forts",
-          "c": "Boeken"
-        },
-        {
-          "n": "Wieso? Weshalb? Warum? Mein Adventskalender - Adventskalender für Kinder ab 3 Ja",
-          "c": "Boeken"
-        },
-        {
-          "n": "LESEMAUS 192: Conni und der Nikolaus (192): Eine wunderbare Einstimmung auf die ",
-          "c": "Boeken"
-        },
-        {
-          "n": "Pony Show: Roman",
-          "c": "Boeken"
-        },
-        {
-          "n": "Lucky Luke 103: Heiliger Lucky!",
-          "c": "Boeken"
-        },
-        {
-          "n": "GUINNESS WORLD RECORDS 2027: Das beliebte Rekorde-Buch für Kinder und Erwachsene",
-          "c": "Boeken"
-        },
-        {
-          "n": "Cozy Christmas: Malbuch für Erwachsene, Teenager und Kinder (Cozy Spaces Colorin",
-          "c": "Boeken"
-        },
-        {
           "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
-          "c": "Boeken"
+          "c": "Sport"
         },
         {
           "n": "PayPal Ratenzahlung",
-          "c": "Boeken"
+          "c": "Sport"
         },
         {
           "n": "Amazon Business Amex-kaart",
-          "c": "Boeken"
+          "c": "Sport"
+        },
+        {
+          "n": "Nonstop Cards Grappig kaartspel met app, stads-landrivier, 2-8 spelers | 1750+ t",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Hasbro Play-Doh A7924EU6 - super kleurenset pak met 20 pakjes klei voor fantasie",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Kosmos Flip 7, kaartspel met snel en eenvoudig Black Jack-principe | Duitse edit",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Speed Champions Mercedes-AMG F1 W15 raceauto 77244 | Speelgoed vanaf 10 jaa",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Zingbee 8 stuks magnetische fidget-speelgoed, siliconen magneetballen | Sensoris",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Marvel Adventskalender 2026 | 76340 | Speelgoed vanaf 6 jaar voor jongens e",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Game Factory 646031 Dito, het woordgrappige partyspel voor 3 tot 7 spelers | Spe",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "KOSMOS EXIT - Het spel: adventskalender: Het verborgen niveau | Level: beginners",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Sigg Viva One Drinkfles voor kinderen, gemaakt in Duitsland, geschikt voor koolz",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ravensburger tiptoi pen 00110 - het speelse leersysteem, educatief speelgoed voo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "PLAYMOBIL Horses of Waterfall 71952 Adventskalender, kerstbakken in een rijcafé,",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Botanicals 11508 Madeliefjes | Speelgoed vanaf 9 jaar voor meisjes, kunstbl",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO City Adventskalender 2026 | 60510 | Speelgoed vanaf 5 jaar voor jongens, 7 ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "ATM Gaming Quickstop - Het letterduel - kaartspel voor jongeren en volwassenen -",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Mattel Games UNO kaartspel, vanaf 7 jaar, 2-10 spelers | Klassiek UNO-kleur- en ",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Ultimate Guard Card Covers Toploading 35 pt Transparant (Pack van 25)",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Pokémon - Verzamelkaartspel: map collectie 30 jaar",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Plus Plus Basic Mix – Bauspielzeug mit 600 Bausteinen, ab 5 Jahren | Bouwspeelgo",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Craze Magic Slime POOUPSIE Noise Dik vloeibare pups slijm voor kinderen, 100 g k",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Tattoos voor kinderen, Kerstmis, 120 stuks, huidvriendelijk (6 vellen) | Huidvri",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "Zoch Geistesblitz metalen doos – reactiespel voor slimme geesten, snelle denkdue",
+          "c": "Speelgoed"
+        },
+        {
+          "n": "LEGO Editions Cristiano Ronaldo - voetbalhighlights 43012 | Speelgoed vanaf 10 j",
+          "c": "Speelgoed"
         }
       ]
     }
