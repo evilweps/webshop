@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T20:59:54.326025+00:00",
-  "updated_fmt": "14 November 2026 om 20:59",
+  "updated": "2026-11-15T02:14:02.833350+00:00",
+  "updated_fmt": "15 November 2026 om 02:14",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 14 Nov 2026 20:59 UTC",
+      "note": "bol.com — gescraped 15 Nov 2026 02:14 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 14 Nov 2026 20:59 UTC",
+      "note": "amazon.nl — gescraped 15 Nov 2026 02:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -759,15 +759,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "SwitchBot Binnenluchtkwaliteitsmeters CO2 Detector, Temperatuur- en Luchtvochtig",
-          "c": "Algemeen"
-        },
-        {
           "n": "ISOLATECH Silica Gel 900g Zak Oranje naar Groen Regenereerbaar | Regenereerbaar ",
           "c": "Algemeen"
         },
         {
-          "n": "Dalugo Zuignappen 100 stuks, Transparante zuignap met kabel-sleuf voor raam, lic",
+          "n": "SwitchBot Binnenluchtkwaliteitsmeters CO2 Detector, Temperatuur- en Luchtvochtig",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
           "c": "Algemeen"
         },
         {
@@ -783,11 +783,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
+          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
           "c": "Algemeen"
         },
         {
-          "n": "Brabantia PerfectFit Bin Bags, Vuilniszakken, Wit, Code G (23-30L), 120 st. | Op",
+          "n": "Creatine Monohydraat Poeder – 1 kg (1000g) hooggedoseerd | Ultra zuiver creatine",
           "c": "Algemeen"
         },
         {
@@ -835,11 +835,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "SanDisk Ultra USB 3.0-Flashdrive 128 GB (Overdrachtssnelheden Tot 130 MB/s, SanD",
+          "n": "TOCOL voor iPhone 18 Pro Max Case Compatibel met MagSafe, Bordeaux | Volledige C",
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL voor iPhone 18 Pro Max Case Compatibel met MagSafe, Bordeaux | Volledige C",
+          "n": "SanDisk Ultra USB 3.0-Flashdrive 128 GB (Overdrachtssnelheden Tot 130 MB/s, SanD",
           "c": "Elektronica"
         },
         {
@@ -859,7 +859,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Logitech M240 Stille Bluetooth Muis, Draadloos, Compact, Draagbaar, Soepel Beweg",
+          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
           "c": "Elektronica"
         },
         {
@@ -867,7 +867,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "TP-Link 8-poorts Desktop Gigabit Switch, 8 10/100 / 1000M RJ45-poorten, metalen ",
+          "n": "Logitech M240 Stille Bluetooth Muis, Draadloos, Compact, Draagbaar, Soepel Beweg",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 14 Nov 2026 20:59 UTC",
+      "note": "amazon.com.be — gescraped 15 Nov 2026 02:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,11 +1126,11 @@
       ],
       "bestsellers": [
         {
-          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
+          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
           "c": "Algemeen"
         },
         {
-          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
+          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
           "c": "Algemeen"
         },
         {
@@ -1206,35 +1206,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "FireAngel FA6812 Digitale koolmonoxidemelder met lcd-display, CO-sensor, 10 jaar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Arnomed Nitril handschoenen maat M, zwarte nitril handschoen, 100 stuks/doos, zw",
-          "c": "Algemeen"
-        },
-        {
-          "n": "TP-Link Tapo Smart WLAN stopcontact Tapo P110 met energieverbruikscontrole, Smar",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Honeywell Home Y3C710RFEU Honeywell Home T3R draadloze thermostaat, programmeerb",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Dubbelzijdig plakband, zeer robuust, dubbelzijdig plakband van acryl, waterdicht",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Vellure® Deurstopper, afdichting tegen tocht, nieuwe isolerende onderkant voor d",
-          "c": "Algemeen"
-        },
-        {
           "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
           "c": "Algemeen"
         },
         {
@@ -1242,7 +1214,31 @@
           "c": "Algemeen"
         },
         {
+          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
+          "c": "Algemeen"
+        },
+        {
           "n": "Wintervoorruitafdekking, voorruitafdekking | Sneeuwafdekking, zonwering voor aut",
+          "c": "Algemeen"
+        },
+        {
+          "n": "INFLUENCER LES MASSES: Les techniques psychologiques grâce auxquelles quelques p",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Instinct - Tome 3 (3)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Des Boum et des Paf",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calendrier de l'Avent caca: 24 jeux, quiz, énigmes, blagues… à faire pour rigole",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
           "c": "Algemeen"
         },
         {
@@ -1274,15 +1270,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk 64 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10,",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
+          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
           "c": "Elektronica"
         },
         {
@@ -1290,7 +1282,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "ROCAM Noodradio met zwengel, 12.000 mAh, met zonnepaneel 8500 mm² en dynamo 650 ",
+          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
           "c": "Elektronica"
         },
         {
@@ -1298,7 +1290,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "ROCAM Noodradio met zwengel, 12.000 mAh, met zonnepaneel 8500 mm² en dynamo 650 ",
+          "c": "Elektronica"
+        },
+        {
           "n": "Trust Velora ID-kaartlezer eID/DNIe 4.0 / eDowod/CIE | USB-C & USB-A, voldoet aa",
+          "c": "Elektronica"
+        },
+        {
+          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
           "c": "Elektronica"
         },
         {
@@ -1310,11 +1310,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
+          "n": "UGREEN 8K HDMI 2.1-kabel, 8K, 60Hz, 48Gbit/s, High Speed (2M) | HDMI-kabel 4K 24",
           "c": "Elektronica"
         },
         {
-          "n": "UGREEN 8K HDMI 2.1-kabel, 8K, 60Hz, 48Gbit/s, High Speed (2M) | HDMI-kabel 4K 24",
+          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
           "c": "Elektronica"
         },
         {
@@ -1322,7 +1322,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 14 Nov 2026 20:59 UTC",
+      "note": "amazon.de — gescraped 15 Nov 2026 02:14 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1513,204 +1513,120 @@
       ],
       "bestsellers": [
         {
-          "n": "Calvin Klein Men Trunk 3pk 0000U2662G Trunk",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD2829USD2829",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Puma Unisex PUMA Smash V2 L sneakers",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 25,77",
-          "c": "Algemeen"
-        },
-        {
-          "n": "JACK & JONES Male Slim Fit Jeans Glenn Original NA 031, blauw",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,63",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Calvin Klein Men Low Rise Trunk 3pk 0000U2664G Low Rise Trunk",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11 aanbiedingen vanUSD2807USD2807",
-          "c": "Algemeen"
-        },
-        {
-          "n": "ONLY Dames rechte pasvorm jeans ONLY vrouwelijke straight fit jeans Onlblush mid",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 26,08",
-          "c": "Algemeen"
-        },
-        {
-          "n": "adidas Uniseks gewatteerde crew sokken, 6 paar sokken",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 16,74",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jsdoin Led-mini-lichtketting met batterij, 6 x 20 micro lichtketting voor | 2 m ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD774USD774",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2103USD2103",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 2,44/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "SALCAR 2 m kerstboomverlichting met ring en 8 slingers, warmwit | Lichtsnoer met",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 17,49",
-          "c": "Algemeen"
-        },
-        {
-          "n": "BXROIU 6 x 20 LED micro lichtketting batterij 2 m met CR2032 warm wit | 2 m flex",
-          "c": "Algemeen"
-        },
-        {
-          "n": "LED Strip 10m, LED Strip Bluetooth RGB Led Band Zelfklevend met Afstandsbedienin",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD1328USD1328",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 722,11/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1660USD1660",
-          "c": "Algemeen"
-        },
-        {
-          "n": "NIVEA Adventskalender voor vrouwen, editie 2026 | Cadeau voor vrouwen met 24 art",
-          "c": "Algemeen"
-        },
-        {
-          "n": "3 aanbiedingen vanUSD3598USD3598",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Maybelline New York Instant Anti-Age Effect Blusher Concealer tegen kringen en r",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 648,15/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
-          "c": "Algemeen"
-        },
-        {
-          "n": "6 aanbiedingen vanUSD2369USD2369",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 12,77/l)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Jacobson jersey hoeslaken, katoen, antraciet, 180x200 - 200x200 cm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1328USD1328",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Swiffer Stofmagneet-navulverpakking, 25er comfortpakket (5 x 5 doeken) | Vangt s",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 0,44/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "the carpet the carpet Relax pluizig laagpolig tapijt, antislip onderkant, wasbaa",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD2812USD2812",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 7,91/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ninja Foodi Max Dual Zone heteluchtfriteuse, 9,5 l, 6-in-1, koper/zwart | 2 vakk",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 130,27",
-          "c": "Algemeen"
-        },
-        {
-          "n": "4 aanbiedingen vanUSD1210USD1210",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 13,02",
-          "c": "Algemeen"
-        },
-        {
           "n": "Fleischpflanzerl-Misere: Ein Provinzkrimi | Ein Bayernkrimi der Spitzenklasse: D",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 18,63",
-          "c": "Algemeen"
+          "c": "Boeken"
         },
         {
           "n": "Adventskalender-Duell: 24 spannende Rätsel-Spiele für Zwei mit Stift & Papier | ",
-          "c": "Algemeen"
+          "c": "Boeken"
+        },
+        {
+          "n": "Gregs Tagebuch 21 - Ach du dickes Ei!: Großer Lesespaß mit Comic-Roman-Held Greg",
+          "c": "Boeken"
+        },
+        {
+          "n": "Der Unfall – Kannst du deinen Rettern trauen?: Thriller - Ein neuer Psychothrill",
+          "c": "Boeken"
+        },
+        {
+          "n": "Der Nachtzug (limitierte Auflage): Psychothriller | Limited Edition",
+          "c": "Boeken"
+        },
+        {
+          "n": "Oma & Opa Advents-Duell: Lustiger Adventskalender für Großeltern und Rentner | 2",
+          "c": "Boeken"
+        },
+        {
+          "n": "tiptoi® Liederbücher - Rolf Zuckowskis Liederwelt",
+          "c": "Boeken"
+        },
+        {
+          "n": "Finanzen ab 50: Es ist nicht zu spät: Vermögen sichern, richtig vorsorgen und da",
+          "c": "Boeken"
+        },
+        {
+          "n": "Spekulatius, der Weihnachtsdrache: Ein Adventsbuch in 24 Kapiteln | Adventskalen",
+          "c": "Boeken"
+        },
+        {
+          "n": "Pixi Adventskalender 2026: Mit 24 Pixi-Büchern | Kurze Weihnachtsgeschichten für",
+          "c": "Boeken"
+        },
+        {
+          "n": "Pixi-Weihnachts-8er-Set 41: Pixis Weihnachtszauber (8x1 Exemplar): 8 Minibücher ",
+          "c": "Boeken"
+        },
+        {
+          "n": "Rage – Du sollst brennen: »The Mindf*ck Series«: Das Thriller-Phänomen – jetzt a",
+          "c": "Boeken"
+        },
+        {
+          "n": "Die verschlossene Tür: Ein fesselnder Psychothriller mit Suchtfaktor",
+          "c": "Boeken"
+        },
+        {
+          "n": "Namasté, ihr mich auch! Der Adventskalender für Frauen: 24 humorvoll ehrliche Au",
+          "c": "Boeken"
+        },
+        {
+          "n": "Afrika: Roman | Der neue Roman von Daniel Kehlmann: ein Lesegenuss, ein Ereignis",
+          "c": "Boeken"
+        },
+        {
+          "n": "Achtsam Ausrasten im Advent: Der humorvolle Anti-Stress-Adventskalender für alle",
+          "c": "Boeken"
+        },
+        {
+          "n": "3 Minuten Wichteltür Ideen: Jetzt wird's bunt! Über 60 schnelle Streiche, Vorlag",
+          "c": "Boeken"
+        },
+        {
+          "n": "Schüttel den Weihnachtsbaum. Ein Weihnachts-Mitmachbuch zum Schütteln, Schaukeln",
+          "c": "Boeken"
+        },
+        {
+          "n": "Achtsam Ausrasten: Das humorvolle Anti-Stress-Buch für alle mit viel Alltag und ",
+          "c": "Boeken"
+        },
+        {
+          "n": "Die Grüffelo-Oma: Ein Bilderbuch aus der Grüffelo-Welt | Die lang ersehnte Forts",
+          "c": "Boeken"
+        },
+        {
+          "n": "Wieso? Weshalb? Warum? Mein Adventskalender - Adventskalender für Kinder ab 3 Ja",
+          "c": "Boeken"
+        },
+        {
+          "n": "LESEMAUS 192: Conni und der Nikolaus (192): Eine wunderbare Einstimmung auf die ",
+          "c": "Boeken"
+        },
+        {
+          "n": "Pony Show: Roman",
+          "c": "Boeken"
+        },
+        {
+          "n": "Lucky Luke 103: Heiliger Lucky!",
+          "c": "Boeken"
+        },
+        {
+          "n": "GUINNESS WORLD RECORDS 2027: Das beliebte Rekorde-Buch für Kinder und Erwachsene",
+          "c": "Boeken"
+        },
+        {
+          "n": "Cozy Christmas: Malbuch für Erwachsene, Teenager und Kinder (Cozy Spaces Colorin",
+          "c": "Boeken"
+        },
+        {
+          "n": "Amazon.de Visa-card(niet beschikbaar in Nederland/België)",
+          "c": "Boeken"
+        },
+        {
+          "n": "PayPal Ratenzahlung",
+          "c": "Boeken"
+        },
+        {
+          "n": "Amazon Business Amex-kaart",
+          "c": "Boeken"
         }
       ]
     }
