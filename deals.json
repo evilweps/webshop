@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T21:23:42.224402+00:00",
-  "updated_fmt": "15 November 2026 om 21:23",
+  "updated": "2026-11-16T02:26:39.741131+00:00",
+  "updated_fmt": "16 November 2026 om 02:26",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 15 Nov 2026 21:23 UTC",
+      "note": "bol.com — gescraped 16 Nov 2026 02:26 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 15 Nov 2026 21:23 UTC",
+      "note": "amazon.nl — gescraped 16 Nov 2026 02:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 15 Nov 2026 21:23 UTC",
+      "note": "amazon.com.be — gescraped 16 Nov 2026 02:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,6 +1126,130 @@
       ],
       "bestsellers": [
         {
+          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ESSENCE MÁSCARA VOLUMINIZADORA I LOVE EXTREME CRAZY 9ML | Extreem volume, langho",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Dr.Althea Ontluchtingscrème 345, Koreaanse huidverzorging, 15 ml | PDRN, hyaluro",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Calvin Klein Lot de 3 caleçons pour homme",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air vrijetijdsschoenen, lu",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Misolin Pantoffels voor dames, heren, warm, comfortabel, traagschuim, voor herfs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "adidas Cushioned Sportswear Crew Socks 3 paar sokken uniseks (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Adventskalender 2026 Kerstmis aftellen (1021 rood) | Adventskalender 2026, 24 de",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Matrasbeschermer, 90 x 200 cm, waterdicht, hoeslaken van katoen en microvezel, b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "the carpet Relax Modern tapijt met korte, donzige pool, antislip onderkant, wasb",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ceremonial Matcha Tee 80 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Mia Napoli Mengsel, compatibel met Nespresso-koffiezetapparaten, 1",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint 1316011 bord L met zuignap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
+          "c": "Algemeen"
+        },
+        {
+          "n": "NIGRIN IJskrabber voor de winter, ergonomische zachte handgreep, ijsbrekende tan",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Wintervoorruitafdekking, voorruitafdekking | Sneeuwafdekking, zonwering voor aut",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maak kennis met de gloednieuwe Amazon Kindle Click – Bluetooth-afstandsbediening",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Videodeurbel 2K op batterij (Battery Video Doorbell 2K, nieuwste generatie)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ring Chime (nieuwste generatie) | Verbeterde audiomeldingen voor videodeurbellen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Echo Dot (model 2022) | Krachtig, levendig geluid – Wifi en Bluetooth-luidspreke",
+          "c": "Algemeen"
+        },
+        {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
           "c": "Elektronica"
         },
@@ -1200,130 +1324,6 @@
         {
           "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
           "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL AA Optimum alkalinebatterijen (12 stuks) 1,5 V, LR06 | +200% Power Boos",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DIGITUS Cat 6A LAN-kabel - 1m - S/FTP afgeschermd - 10 Gbit/s - 500 MHz - PoE++ ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "VARTA AA batterijen, 20 stuks (10+10), Longlife Power, alkaline, 1,5 V | AA LR6 ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "CANSHN Magnetische beschermhoes voor iPhone 18 Pro (6,3 inch), compatibel met Ma",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN USB C naar USB A Kabel 3A USB C Cable QC 3.0 Compatibel met Galaxy S22, R",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Duracell Ultra Oplaadbare AA Batterijen, 2500 Mah, 8 Stuk | Voorgeladen – oplaad",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL Gehard glas voor iPhone 18 Pro Max | 2 stuks, eenvoudig te installeren, zo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Zapix 30 W snellader USB C iPhone 3 poorten stopcontact (zwart) | GaN Com",
-          "c": "Elektronica"
-        },
-        {
-          "n": "soundcore by Anker P30i 5.4 draadloze Bluetooth hoofdtelefoon met ANC | Intellig",
-          "c": "Elektronica"
-        },
-        {
-          "n": "LifeStraw Persoonlijke waterfilter voor wandelen, kamperen, reizen, buitensporte",
-          "c": "Sport"
-        },
-        {
-          "n": "Lot de 2 chauffe-mains électriques rechargeables USB | Chauffe-mains magnétique ",
-          "c": "Sport"
-        },
-        {
-          "n": "Oplaadbare handwarmer, 2-in-1 herbruikbare handwarmer, herbruikbare elektrische ",
-          "c": "Sport"
-        },
-        {
-          "n": "Blukar Hoofdlamp, oplaadbaar, 2000 l, superhelder, licht, led | Krachtige voorla",
-          "c": "Sport"
-        },
-        {
-          "n": "Deecam Survivalslaapzak, 4-delig, survivaldeken, herbruikbaar, noodslaapzak, ove",
-          "c": "Sport"
-        },
-        {
-          "n": "TRESKO Trainingsmat voor fitness, yoga, pilates en gymnastiek, afmetingen 185 x ",
-          "c": "Sport"
-        },
-        {
-          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
-          "c": "Sport"
-        },
-        {
-          "n": "aZengear Noodsurvivalponcho (4 stuks) met thermische coating van mylar-blad voor",
-          "c": "Sport"
-        },
-        {
-          "n": "HENGBIRD 10 stuks survivaldeken, goud/zilver, 210 x 130 cm, thermische deken noo",
-          "c": "Sport"
-        },
-        {
-          "n": "SMH LINE® Campinggasfornuis incl. 10 x gaspatronen 227 g, campingkooktoestel 1 v",
-          "c": "Sport"
-        },
-        {
-          "n": "Megableu - Ronaldo voetbalfiguur – 20 cm – groot realistisch en beweegbaar | For",
-          "c": "Sport"
-        },
-        {
-          "n": "Nachtlooplamp, lichtvest, hardlopen, joggen, 500 lumen, borstlamp met 2 snelle g",
-          "c": "Sport"
-        },
-        {
-          "n": "20 liter rode plastic jerrycan",
-          "c": "Sport"
-        },
-        {
-          "n": "Intex Classic DuraBeam Luchtbed Compact | Opblaasbaar matras met golfstructuur v",
-          "c": "Sport"
-        },
-        {
-          "n": "XIAOMI Smart Band 10 Smart armband, 21 dagen, zwart | Snel opladen, professionel",
-          "c": "Sport"
-        },
-        {
-          "n": "BIKIL Fietslamp voor en achter, 2400 lm, krachtig, fietslamp, 6400 mAh | Robuust",
-          "c": "Sport"
-        },
-        {
-          "n": "SMH LINE® Camping kooktoestel E190, gasfornuis, 1 vuur, outdoor, vrije tijd, cam",
-          "c": "Sport"
-        },
-        {
-          "n": "WESTWOOD FOX Winddichte thermische winterhandschoenen, voor touchscreen, antisli",
-          "c": "Sport"
-        },
-        {
-          "n": "Eastpak Padded Pak'R Rugzak, 40 Cm, 24 L | Gevoerde achterkant, waterbestendig, ",
-          "c": "Sport"
-        },
-        {
-          "n": "Garmin HRM 200 - Moniteur de fréquence cardiaque – Taille M–XL | Hr en HR in rea",
-          "c": "Sport"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 15 Nov 2026 21:23 UTC",
+      "note": "amazon.de — gescraped 16 Nov 2026 02:26 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 26,08",
+          "n": "USD 25,07",
           "c": "Algemeen"
         },
         {
@@ -1573,7 +1573,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,49",
+          "n": "USD 17,47",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "1 aanbieding voorUSD1328USD1328",
+          "n": "1 aanbieding voorUSD1992USD1992",
           "c": "Algemeen"
         },
         {
@@ -1653,7 +1653,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "6 aanbiedingen vanUSD867USD867",
+          "n": "5 aanbiedingen vanUSD867USD867",
           "c": "Algemeen"
         },
         {
@@ -1661,7 +1661,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "(USD 722,11/l)",
+          "n": "(USD 576,77/l)",
           "c": "Algemeen"
         },
         {
