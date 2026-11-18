@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T13:32:47.334109+00:00",
-  "updated_fmt": "18 November 2026 om 13:32",
+  "updated": "2026-11-18T23:11:58.513655+00:00",
+  "updated_fmt": "18 November 2026 om 23:11",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 18 Nov 2026 13:32 UTC",
+      "note": "bol.com — gescraped 18 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 18 Nov 2026 13:32 UTC",
+      "note": "amazon.nl — gescraped 18 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -775,23 +775,19 @@
           "c": "Algemeen"
         },
         {
-          "n": "Songs in the Key of Life",
+          "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament 1kg Wit | Maatnauwkeurig",
           "c": "Algemeen"
         },
         {
-          "n": "Thriller",
+          "n": "ISOLATECH Silica Gel 900g Zak Oranje naar Groen Regenereerbaar | Regenereerbaar ",
           "c": "Algemeen"
         },
         {
-          "n": "Hybrid Theory [Vinyl LP]",
+          "n": "eSUN Geüpgraded Mat PLA 3D Printer Filament 1.75mm 1kg Donker Zwart | Matte afwe",
           "c": "Algemeen"
         },
         {
-          "n": "Happier Than Ever",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Minutes To Midnight",
+          "n": "Nanoprotect Isopropanol 99,9% | 1 liter reiniger | hoog percentage isopropylalco",
           "c": "Algemeen"
         },
         {
@@ -869,6 +865,10 @@
         {
           "n": "SanDisk Ultra USB 3.0-Flashdrive 64 GB (Overdrachtssnelheden Tot 130 MB/s, SanDi",
           "c": "Elektronica"
+        },
+        {
+          "n": "VARTA Batterijen Knoopcel CR2032, verpakking van 5, Power on Demand, Lithium Coi",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 18 Nov 2026 13:32 UTC",
+      "note": "amazon.com.be — gescraped 18 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,7 +1142,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Portwest S441 Klassieke regenbroek voor heren, waterdicht, verstelbaar, licht",
+          "n": "Portwest S441 Klassieke regenbroek voor heren, waterdicht, verstelbaar, licht | ",
           "c": "Algemeen"
         },
         {
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 18 Nov 2026 13:32 UTC",
+      "note": "amazon.de — gescraped 18 Nov 2026 23:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 16,67",
+          "n": "USD 14,01",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD819USD819",
+          "n": "3 aanbiedingen vanUSD1758USD1758",
           "c": "Algemeen"
         },
         {
@@ -1669,7 +1669,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD1101USD1101",
+          "n": "2 aanbiedingen vanUSD936USD936",
           "c": "Algemeen"
         },
         {
@@ -1701,7 +1701,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD440USD440",
+          "n": "4 aanbiedingen vanUSD596USD596",
           "c": "Algemeen"
         },
         {
