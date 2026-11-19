@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T13:59:36.257452+00:00",
-  "updated_fmt": "19 November 2026 om 13:59",
+  "updated": "2026-11-19T23:18:43.335239+00:00",
+  "updated_fmt": "19 November 2026 om 23:18",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 19 Nov 2026 13:59 UTC",
+      "note": "bol.com — gescraped 19 Nov 2026 23:18 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 19 Nov 2026 13:59 UTC",
+      "note": "amazon.nl — gescraped 19 Nov 2026 23:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,14 +743,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
-          "c": "Algemeen"
-        },
-        {
           "n": "eSUN PLA Filament 1.75mm, PLA Basis 3D Printer Filament 1kg Wit | Maatnauwkeurig",
           "c": "Algemeen"
         },
@@ -764,6 +756,14 @@
         },
         {
           "n": "eSUN Geüpgraded Mat PLA 3D Printer Filament 1.75mm 1kg Donker Zwart | Matte afwe",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
           "c": "Algemeen"
         },
         {
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 19 Nov 2026 13:59 UTC",
+      "note": "amazon.com.be — gescraped 19 Nov 2026 23:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,6 +1150,110 @@
           "c": "Algemeen"
         },
         {
+          "n": "L'Oréal Paris Infaillible 3-seconden set-nevel, 150 ml | Tot 36 uur fixatie, zon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
+          "c": "Algemeen"
+        },
+        {
+          "n": "ESSENCE MÁSCARA VOLUMINIZADORA I LOVE EXTREME CRAZY 9ML | Extreem volume, langho",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Superstay Matte Ink vloeibare lippenstift, kleur 15 Lover, 5",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Moulinex Quickchef 3-in-1 handmixer, 1000 W, roestvrij staal | 10 instelbare sne",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Moulinex Easy Soup Blender, 1000 W, 5 programma's, 1,2 l | Blender voor soepen, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Kalk- en waterfilter AquaClean - Geschikt voor Philips Espresso machines",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Tapijt Relax, modern, kortpolig, zacht, antisliponderkant, wasbaar tot 30 °C, su",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Legami Dream Peaks adventskalender 2026 | Adventskalender, 23 verrassingen + 1 u",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café Respresso, blauwe mix – 100 capsules – compatibel met Nespres",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Caffè Borbone Café koffiepad, composteerbaar, recyclebaar, rood-mix, 150 dranken",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Lutti Long Fizz 200 g (1 stuk)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ferrero Kinder Mix Adventskalender 3D - 234 g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Draadloze autobandenpomp, draagbare luchtcompressor met digitale manometer (150 ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint 1316011 bord L met zuignap",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Bosch Aerotwin A863S platte ruitenwisserbladen, lengte: 650 mm/450 mm, 1 paar ru",
+          "c": "Algemeen"
+        },
+        {
+          "n": "URAQT Set van 6 microvezel autopoetsdoeken, twee lagen, dikke, pluisvrije, super",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Carpoint Parkeerschijf",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Grand Theft Auto VI - PlayStation 5 (Code en boîte)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "GXTrust Forta PS5-hoofdtelefoon, officiële licentie voor PlayStation 5, wit | 50",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Xbox Manette sans Fil - Carbon Black Pour Series X, Series S, Xbox One, Windows ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Officiële Playstation 5 DualSense controller, draadloos, oplaadbaar, bluetooth, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "EA Sports FC 27,1 Nintendo Switch-Spiel",
+          "c": "Algemeen"
+        },
+        {
           "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
           "c": "Elektronica"
         },
@@ -1220,110 +1324,6 @@
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
           "c": "Elektronica"
-        },
-        {
-          "n": "DIGITUS Cat 6A LAN-kabel 10m afgeschermd S/FTP grijs | 10 Gbit/s, PoE++, AWG 26/",
-          "c": "Elektronica"
-        },
-        {
-          "n": "soundcore by Anker P31i Bluetooth hoofdtelefoon draadloos 6.1 | Real-time adapti",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Playstation Sony Dualsense Wireless Controller PS5 , zwart",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Azororo Beschermhoes voor Samsung Galaxy A17 5G, premium lederen beschermhoes, p",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Universele afstandsbediening voor Samsung-Smart TV, met 4 sneltoetsen | Compatib",
-          "c": "Elektronica"
-        },
-        {
-          "n": "SanDisk Extreme 128 GB microSDXC, Micro SD-kaart + SD-adapter, UHS-I V30, tot 19",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Belkin USB-C-powerbank 20.000 mAh (20 K vermogen, USB-C-ingang en uitgang, 2 USB",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Kindle Paperwhite Signature Edition 32 GB (2024-model) – automatisch aanp",
-          "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL Oplaadbare AAA-batterijen (4 stuks) 1,2 V, 900 mAh, NiMH | Voorgeladen ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "TOCOL Gehard glas voor iPhone 18 Pro Max | 2 stuks, eenvoudig te installeren, zo",
-          "c": "Elektronica"
-        },
-        {
-          "n": "JBL Tune 670 NC, draadloze on-ear hoofdtelefoon, zwart | Batterijduur tot 70 uur",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Lot de 2 chauffe-mains électriques rechargeables USB | Chauffe-mains magnétique ",
-          "c": "Sport"
-        },
-        {
-          "n": "Blukar Hoofdlamp, oplaadbaar, 2000 l, superhelder, licht, led | Krachtige voorla",
-          "c": "Sport"
-        },
-        {
-          "n": "LifeStraw Persoonlijke waterfilter voor wandelen, kamperen, reizen, buitensporte",
-          "c": "Sport"
-        },
-        {
-          "n": "Flintronic Fitnessaccessoires voor dames, heren, kinderen",
-          "c": "Sport"
-        },
-        {
-          "n": "TRESKO Trainingsmat voor fitness, yoga, pilates en gymnastiek, afmetingen 185 x ",
-          "c": "Sport"
-        },
-        {
-          "n": "GRIFEMA GA1201-12 Fietsslot met sleutel voor fiets, motorfiets, scooter, 120 cm,",
-          "c": "Sport"
-        },
-        {
-          "n": "Oplaadbare handwarmer, 2-in-1 herbruikbare handwarmer, herbruikbare elektrische ",
-          "c": "Sport"
-        },
-        {
-          "n": "Intex Classic DuraBeam Luchtbed Compact | Opblaasbaar matras met golfstructuur v",
-          "c": "Sport"
-        },
-        {
-          "n": "Chauffe Main Portable, 2 en 1 Magnétiques,8000mAh Longue Durée,Double USB-C Rech",
-          "c": "Sport"
-        },
-        {
-          "n": "Aquasafe Chaussettes de Natation Imperméables en Latex - Antidérapantes pour Enf",
-          "c": "Sport"
-        },
-        {
-          "n": "Deecam Survivalslaapzak, 4-delig, survivaldeken, herbruikbaar, noodslaapzak, ove",
-          "c": "Sport"
-        },
-        {
-          "n": "UNBON Led-hoofdlamp, ultrakrachtig, oplaadbaar, USB C, met bewegingsmelder en ma",
-          "c": "Sport"
-        },
-        {
-          "n": "Nachtlooplamp, lichtvest, hardlopen, joggen, 500 lumen, borstlamp met 2 snelle g",
-          "c": "Sport"
-        },
-        {
-          "n": "Speedo Biofuse 2.0 Zwembril, uniseks, 1 stuk",
-          "c": "Sport"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 19 Nov 2026 13:59 UTC",
+      "note": "amazon.de — gescraped 19 Nov 2026 23:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1549,7 +1549,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "25 aanbiedingen vanUSD3375USD3375",
+          "n": "24 aanbiedingen vanUSD3592USD3592",
           "c": "Algemeen"
         },
         {
@@ -1613,7 +1613,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1755USD1755",
+          "n": "3 aanbiedingen vanUSD1755USD1755",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "SALCAR Lichtsnoer met 280 leds, voor kerstbomen, 2 m x 8, warmwit | Voor kerstbo",
+          "n": "SALCAR 2 m kerstboomverlichting met ring en 8 slingers, warmwit | Voor kerstbome",
           "c": "Algemeen"
         }
       ]
