@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T13:07:17.089099+00:00",
-  "updated_fmt": "21 November 2026 om 13:07",
+  "updated": "2026-11-21T21:57:08.072869+00:00",
+  "updated_fmt": "21 November 2026 om 21:57",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 21 Nov 2026 13:07 UTC",
+      "note": "bol.com — gescraped 21 Nov 2026 21:57 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 21 Nov 2026 13:07 UTC",
+      "note": "amazon.nl — gescraped 21 Nov 2026 21:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -719,30 +719,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Logitech Desk Mat - Studio Series, multifunctionele grote bureauonderlegger, ver",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Sakura Gelly Roll Basic White Gel Pen Set van 3, Assorti Maten | Dekkende Stifte",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Pentel BL77-CO gel-inktroller EnerGel met drukmechanisme A 1 Stuk zwart",
-          "c": "Algemeen"
-        },
-        {
-          "n": "KICHLY Doorzichtige opbergbakjes voor lades, set van 25 – Make-uporganizer | Mul",
-          "c": "Algemeen"
-        },
-        {
-          "n": "PROMATTOO grote bureauonderlegger XXL van vegan leer, antislip, geurvrij en wate",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Scotch - Verzwaarde dispenser SCOTCH C38 - Zwart - Rollen van 33 m x 19 mm - Hal",
-          "c": "Algemeen"
-        },
-        {
           "n": "Philips Tower Elektrische Kachel 5000 Serie, 2000W, 60° Oscillatie, Zwart | Tot ",
           "c": "Algemeen"
         },
@@ -767,22 +743,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Castrol EDGE 5W-30 LL Geavanceerde Volsynthetische Motorolie, 5L",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Draagbare Luchtcompressor, Elektrische luchtpomp met dubbel digitaal LCD-display",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Ijskrabber Auto Messing Murska - Ruitenkrabber Testwinnaar 2024 snel, moeiteloos",
-          "c": "Algemeen"
-        },
-        {
-          "n": "OSRAM NIGHT BREAKER 220, H7, +220% meer helderheid, halogeenkoplamp, 64210NB220-",
-          "c": "Algemeen"
-        },
-        {
           "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
           "c": "Algemeen"
         },
@@ -792,6 +752,54 @@
         },
         {
           "n": "Deluxe Hunger Games Collection (5 book paperback set): 5 book paperback boxed se",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick 4K (nieuwste generatie), eenvoudig streamen in 4K, nieuwe F",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Dot (model 2022) – Imposant geluid – Smartspeaker met wifi, bluetoot",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 8 (nieuwste generatie), kleurrijk HD-scherm van 8,7 inch met ru",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Logitech Desk Mat - Studio Series, multifunctionele grote bureauonderlegger, ver",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Sakura Gelly Roll Basic White Gel Pen Set van 3, Assorti Maten | Dekkende Stifte",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Pentel BL77-CO gel-inktroller EnerGel met drukmechanisme A 1 Stuk zwart",
+          "c": "Algemeen"
+        },
+        {
+          "n": "KICHLY Doorzichtige opbergbakjes voor lades, set van 25 – Make-uporganizer | Mul",
+          "c": "Algemeen"
+        },
+        {
+          "n": "PROMATTOO grote bureauonderlegger XXL van vegan leer, antislip, geurvrij en wate",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Scotch - Verzwaarde dispenser SCOTCH C38 - Zwart - Rollen van 33 m x 19 mm - Hal",
           "c": "Algemeen"
         },
         {
@@ -835,10 +843,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Fire TV Stick 4K (nieuwste generatie), eenvoudig streamen in 4K, nieuwe F",
-          "c": "Elektronica"
-        },
-        {
           "n": "Apple AirTag (2e generatie): Tracker voor sleutelhanger, portemonnee en meer; Lo",
           "c": "Elektronica"
         },
@@ -865,10 +869,6 @@
         {
           "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
           "c": "Elektronica"
-        },
-        {
-          "n": "INIU Power Bank 20000mAh, Klein 45W PD Snel Opladen Externe Batterij | met Geïnt",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 21 Nov 2026 13:07 UTC",
+      "note": "amazon.com.be — gescraped 21 Nov 2026 21:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 21 Nov 2026 13:07 UTC",
+      "note": "amazon.de — gescraped 21 Nov 2026 21:57 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1645,7 +1645,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "7 aanbiedingen vanUSD1649USD1649",
+          "n": "6 aanbiedingen vanUSD2353USD2353",
           "c": "Algemeen"
         },
         {
@@ -1697,7 +1697,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "11 aanbiedingen vanUSD3449USD3449",
+          "n": "10 aanbiedingen vanUSD3520USD3520",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "10 aanbiedingen vanUSD6336USD6336",
+          "n": "9 aanbiedingen vanUSD6336USD6336",
           "c": "Algemeen"
         }
       ]
