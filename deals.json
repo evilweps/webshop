@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T21:57:08.072869+00:00",
-  "updated_fmt": "21 November 2026 om 21:57",
+  "updated": "2026-11-22T02:43:29.376876+00:00",
+  "updated_fmt": "22 November 2026 om 02:43",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 21 Nov 2026 21:57 UTC",
+      "note": "bol.com — gescraped 22 Nov 2026 02:43 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 21 Nov 2026 21:57 UTC",
+      "note": "amazon.nl — gescraped 22 Nov 2026 02:43 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -695,6 +695,30 @@
           "c": "Algemeen"
         },
         {
+          "n": "Philips Tower Elektrische Kachel 5000 Serie, 2000W, 60° Oscillatie, Zwart | Tot ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Pluizentondeuse 8800 TPM - Groot mesoppervlak | Veilig voor alle stoffen",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips PowerPro Compact Stofzuiger - Zakloos, H13 HEPA-filter | 900 W zuigkrach",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Joseph Joseph Tota - Trio 90-liter wasmand met deksel, 3 uitneembare waszakken m",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Eierkoker 3000 - Gezinsformaat tot 6 Eieren, 400W | Zacht tot hard gekoo",
+          "c": "Algemeen"
+        },
+        {
           "n": "Philips OneBlade Original 360 mesjes, geschikt voor alle OneBlade- en Pro-modell",
           "c": "Algemeen"
         },
@@ -719,27 +743,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Philips Tower Elektrische Kachel 5000 Serie, 2000W, 60° Oscillatie, Zwart | Tot ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips AquaClean Kalk- en Waterfilter, Geschikt voor Philips Espressomachines, ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips PowerPro Compact Stofzuiger - Zakloos, H13 HEPA-filter | 900 W zuigkrach",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Joseph Joseph Tota - Trio 90-liter wasmand met deksel, 3 uitneembare waszakken m",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Pluizentondeuse 8800 TPM - Groot mesoppervlak | Veilig voor alle stoffen",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Eierkoker 3000 - Gezinsformaat tot 6 Eieren, 400W | Zacht tot hard gekoo",
+          "n": "Deluxe Hunger Games Collection (5 book paperback set): 5 book paperback boxed se",
           "c": "Algemeen"
         },
         {
@@ -751,19 +755,15 @@
           "c": "Algemeen"
         },
         {
-          "n": "Deluxe Hunger Games Collection (5 book paperback set): 5 book paperback boxed se",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Fire TV Stick 4K (nieuwste generatie), eenvoudig streamen in 4K, nieuwe F",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
           "c": "Algemeen"
         },
         {
-          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7‘‘ ontspiegeld display en weken b",
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
           "c": "Algemeen"
         },
         {
@@ -859,15 +859,15 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Basics 150 stuks industriële AA-alkalinebatterijen, 1,5 volt, 5 jaar houd",
-          "c": "Elektronica"
-        },
-        {
-          "n": "VARTA Batterijen AA, grootverpakking, 40 stuks, Industrial Pro, alkaline | AA-ba",
+          "n": "Amazon Basics 40 stuks industriële AAA-alkalinebatterijen, 1,5 volt, 5 jaar houd",
           "c": "Elektronica"
         },
         {
           "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
+        },
+        {
+          "n": "VARTA Batterijen AA, grootverpakking, 40 stuks, Industrial Pro, alkaline | AA-ba",
           "c": "Elektronica"
         }
       ]
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 21 Nov 2026 21:57 UTC",
+      "note": "amazon.com.be — gescraped 22 Nov 2026 02:43 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1142,7 +1142,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Yves Rocher Beauty-adventskalender met 24 verrassingen, cadeau voor dames | Beau",
+          "n": "Revlon Professional UniqOne - Masque cheveux en Spray 10 en 1 - Protecteur de Ch",
           "c": "Algemeen"
         },
         {
@@ -1262,11 +1262,11 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
+          "n": "TOCOL Beschermhoes voor iPhone 18 Pro Max, compatibel met MagSafe | Geïntegreerd",
           "c": "Elektronica"
         },
         {
-          "n": "TOCOL Beschermhoes voor iPhone 18 Pro Max, compatibel met MagSafe | Geïntegreerd",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Elektronica"
         },
         {
@@ -1302,6 +1302,10 @@
           "c": "Elektronica"
         },
         {
+          "n": "JETech Displaybeschermfolie voor iPhone 18 Pro Max, 2 stuks | Privacy, 9H gehard",
+          "c": "Elektronica"
+        },
+        {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
           "c": "Elektronica"
         },
@@ -1310,19 +1314,15 @@
           "c": "Elektronica"
         },
         {
+          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
+          "c": "Elektronica"
+        },
+        {
           "n": "JBL Tune 670 NC, draadloze on-ear hoofdtelefoon, zwart | Batterijduur tot 70 uur",
           "c": "Elektronica"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 18 Pro Max, 2 stuks | Privacy, 9H gehard",
-          "c": "Elektronica"
-        },
-        {
           "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "UGREEN Cat 8 Ethernet Cable Ethernet Kabel Netwerkkabel RJ45 Kabel 40Gbps 2000MH",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 21 Nov 2026 21:57 UTC",
+      "note": "amazon.de — gescraped 22 Nov 2026 02:43 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1553,11 +1553,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "JACK & JONES Heren sweatshirt effen sweatshirt | Relaxed fit, effen, lange mouwe",
+          "n": "adidas Adilette Aqua Slideslippers, uniseks",
           "c": "Algemeen"
         },
         {
-          "n": "USD 12,56",
+          "n": "USD 12,75",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1837USD1837",
+          "n": "3 aanbiedingen vanUSD1837USD1837",
           "c": "Algemeen"
         },
         {
@@ -1601,11 +1601,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "BRITA Maxtra Pro Waterfilterpatronen, extra kalkbescherming, 6 stuks | Halfjaars",
+          "n": "Philips Kalk CA6903 / 22 Aqua Clean-waterfilter voor koffiemachines, dubbel pak,",
           "c": "Algemeen"
         },
         {
-          "n": "(USD 4,16/eenheid)",
+          "n": "(USD 7,39/eenheid)",
           "c": "Algemeen"
         },
         {
