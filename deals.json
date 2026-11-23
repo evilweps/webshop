@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T22:11:21.815244+00:00",
-  "updated_fmt": "22 November 2026 om 22:11",
+  "updated": "2026-11-23T03:18:56.566117+00:00",
+  "updated_fmt": "23 November 2026 om 03:18",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 22 Nov 2026 22:11 UTC",
+      "note": "bol.com — gescraped 23 Nov 2026 03:18 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 22 Nov 2026 22:11 UTC",
+      "note": "amazon.nl — gescraped 23 Nov 2026 03:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 22 Nov 2026 22:11 UTC",
+      "note": "amazon.com.be — gescraped 23 Nov 2026 03:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1150,15 +1150,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "Ice-Watch - ICE Smart Junior 3.0 Find My Blue - Geolokaliseerbare blauwe smartwa",
-          "c": "Algemeen"
-        },
-        {
           "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
           "c": "Algemeen"
         },
         {
-          "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air vrijetijdsschoenen, lu",
+          "n": "Ice-Watch - ICE Smart Junior 3.0 Find My Blue - Geolokaliseerbare blauwe smartwa",
           "c": "Algemeen"
         },
         {
@@ -1166,11 +1162,15 @@
           "c": "Algemeen"
         },
         {
+          "n": "Skechers Uno Stand On Air Sneakers voor heren | Skech-Air vrijetijdsschoenen, lu",
+          "c": "Algemeen"
+        },
+        {
           "n": "Calvin Klein Set van 3 boxershorts van elastisch katoen voor heren",
           "c": "Algemeen"
         },
         {
-          "n": "Moulinex - Quickchef staafmixer 1000W - 3 accessoires - roestvrij staal | 10 ins",
+          "n": "Moulinex Quickchef 3-in-1 handmixer, 1000 W, roestvrij staal | 10 instelbare sne",
           "c": "Algemeen"
         },
         {
@@ -1186,7 +1186,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "Rowenta Draadloze steelstofzuiger, multifunctioneel, 2 snelheden, looptijd 45 mi",
+          "n": "Philips Ontpiller - Pluizenverwijderaar voor Kleding - Zwart en goud (GC026/80) ",
           "c": "Algemeen"
         },
         {
@@ -1218,35 +1218,35 @@
           "c": "Algemeen"
         },
         {
-          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
-          "c": "Algemeen"
-        },
-        {
           "n": "Bosch Aerotwin A863S platte ruitenwisserbladen, lengte: 650 mm/450 mm, 1 paar ru",
           "c": "Algemeen"
         },
         {
-          "n": "FELIX Gesneden selectie gemengd natvoer van gelei | 44 x 85 g",
+          "n": "L & P Car Design L&P A054 IJskrabber Winter Zwaard Messing Blade Koude Vorst Fin",
           "c": "Algemeen"
         },
         {
-          "n": "Biokat's Biokat's Diamond Care Fresh met talkgeur, fijne kattenbakvulling met ac",
+          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
           "c": "Algemeen"
         },
         {
-          "n": "FELIX Heerlijke Duos selectie van landelijke groenten, 44 x 85 g",
+          "n": "Echo Dot (model 2022) | Krachtig, levendig geluid – Wifi en Bluetooth-luidspreke",
           "c": "Algemeen"
         },
         {
-          "n": "GOURMET GOLD Les Timbales, 96 x 85 g",
+          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
           "c": "Algemeen"
         },
         {
-          "n": "PURINA ONE Bifensis Droogvoer met zalm voor volwassen katten, zak van 9,75 kg",
+          "n": "Amazon Kindle Paperwhite 16 GB (model 2024) – 7-inch antireflectiescherm en weke",
           "c": "Algemeen"
         },
         {
-          "n": "FELIX Gemengde selectie natvoer kat | voordeelverpakking van 120 x 85 g",
+          "n": "Amazon Fire TV Stick 4K (nieuwste generatie), eenvoudig streamen in 4K, nieuwe F",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Amazon Echo Show 8 (nieuwste generatie), kleurrijk HD-scherm van 8,7 inch met ru",
           "c": "Algemeen"
         },
         {
@@ -1270,10 +1270,6 @@
           "c": "Elektronica"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Elektronica"
-        },
-        {
           "n": "SanDisk 128 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10",
           "c": "Elektronica"
         },
@@ -1294,7 +1290,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "Echo Dot (model 2022) | Krachtig, levendig geluid – Wifi en Bluetooth-luidspreke",
+          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
           "c": "Elektronica"
         },
         {
@@ -1302,11 +1298,7 @@
           "c": "Elektronica"
         },
         {
-          "n": "INIU USB C to USB C Kabel, [2m, 100 W] PD 5A QC4.0, USB C, Nylon, snel opladen, ",
-          "c": "Elektronica"
-        },
-        {
-          "n": "Amazon Kindle 16 GB (nieuwste generatie), nu dunner, lichter en sneller, scherm ",
+          "n": "JETech Displaybeschermfolie voor iPhone 18 Pro Max, 2 stuks | Privacy, 9H gehard",
           "c": "Elektronica"
         },
         {
@@ -1318,11 +1310,19 @@
           "c": "Elektronica"
         },
         {
-          "n": "JETech Displaybeschermfolie voor iPhone 18 Pro Max, 2 stuks | Privacy, 9H gehard",
+          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
           "c": "Elektronica"
         },
         {
           "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
+          "c": "Elektronica"
+        },
+        {
+          "n": "SanDisk Ultra Dual Drive Go USB-stick, snelheid tot 400 MB/s, USB Type-C en USB ",
+          "c": "Elektronica"
+        },
+        {
+          "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
           "c": "Elektronica"
         }
       ]
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 22 Nov 2026 22:11 UTC",
+      "note": "amazon.de — gescraped 23 Nov 2026 03:18 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1565,15 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1837USD1837",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Bolsius Rustik Stompkaarsen, bordeauxrood, 4 stuks, 13 x 7 cm, decoratieve huish",
-          "c": "Algemeen"
-        },
-        {
-          "n": "USD 13,93",
+          "n": "3 aanbiedingen vanUSD1837USD1837",
           "c": "Algemeen"
         },
         {
@@ -1593,6 +1585,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "Bolsius Rustik Stompkaarsen, bordeauxrood, 4 stuks, 13 x 7 cm, decoratieve huish",
+          "c": "Algemeen"
+        },
+        {
+          "n": "USD 13,93",
+          "c": "Algemeen"
+        },
+        {
           "n": "Ninja Foodi Max Dual Zone heteluchtfriteuse, 9,5 l, 6-in-1, koper/zwart | 2 vakk",
           "c": "Algemeen"
         },
@@ -1606,6 +1606,54 @@
         },
         {
           "n": "USD 7,84",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD1649USD1649",
+          "c": "Algemeen"
+        },
+        {
+          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
+          "c": "Algemeen"
+        },
+        {
+          "n": "2 aanbiedingen vanUSD2749USD2749",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
+          "c": "Algemeen"
+        },
+        {
+          "n": "(USD 12,36/l)",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Maybelline New York Black Mascara voor extreem lange wimpers, wimper sensationel",
+          "c": "Algemeen"
+        },
+        {
+          "n": "5 aanbiedingen vanUSD1647USD1647",
+          "c": "Algemeen"
+        },
+        {
+          "n": "d'alba Piedmont Italiaanse witte truffel First Spray Serum (100 ml) | Hydrateren",
+          "c": "Algemeen"
+        },
+        {
+          "n": "4 aanbiedingen vanUSD2353USD2353",
+          "c": "Algemeen"
+        },
+        {
+          "n": "COSRX Advanced Snail 92% All in One Cream | Slakkenslijm crème met hyaluron | an",
+          "c": "Algemeen"
+        },
+        {
+          "n": "1 aanbieding voorUSD2232USD2232",
           "c": "Algemeen"
         },
         {
@@ -1662,54 +1710,6 @@
         },
         {
           "n": "PHILIPS LED Classic GU10 lamp, 6 stuks | Warmwit ledlicht, reflectorspot, 355 lm",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 1,69/eenheid)",
-          "c": "Algemeen"
-        },
-        {
-          "n": "AUVON Nachtlampje stopcontact met bewegingssensor en schemeringssensor 2 | 2200 ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1511USD1511",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1759USD1759",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Moxled Lichtsnoer in de kerstboom, 10 m, 100 leds, warmwit, voor buiten, stroom ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "1 aanbieding voorUSD1649USD1649",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Biodance Bio-Collageen Real Deep Mask Gezichtsmasker, gezichtsmasker, gezichtsma",
-          "c": "Algemeen"
-        },
-        {
-          "n": "2 aanbiedingen vanUSD1649USD1649",
-          "c": "Algemeen"
-        },
-        {
-          "n": "medicube Zero Pore Pad 2.0 Peeling Tonerpads voor poriënverzorging | Dubbelzijdi",
-          "c": "Algemeen"
-        },
-        {
-          "n": "11 aanbiedingen vanUSD2749USD2749",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Mixa Urea Cica Repair+ crème voor droge en ruwe huid, 400 ml | Met 10% ureum en ",
-          "c": "Algemeen"
-        },
-        {
-          "n": "(USD 12,36/l)",
           "c": "Algemeen"
         }
       ]
