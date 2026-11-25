@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T15:23:49.164941+00:00",
-  "updated_fmt": "24 November 2026 om 15:23",
+  "updated": "2026-11-25T01:11:31.750768+00:00",
+  "updated_fmt": "25 November 2026 om 01:11",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 24 Nov 2026 15:23 UTC",
+      "note": "bol.com — gescraped 25 Nov 2026 01:11 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 24 Nov 2026 15:23 UTC",
+      "note": "amazon.nl — gescraped 25 Nov 2026 01:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -791,10 +791,6 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
-          "c": "Algemeen"
-        },
-        {
           "n": "Amazon Basics 36 stuks hoogwaardige AAA-alkalinebatterijen, 1,5 volt, 10 jaar ho",
           "c": "Elektronica"
         },
@@ -869,6 +865,10 @@
         {
           "n": "DURACELL Optimum AAA Alkaline batterijen, 12 Stuks, 1.5V, LR03 | 200% meer Power",
           "c": "Elektronica"
+        },
+        {
+          "n": "PremiumCord Patchkabel UTP RJ45-RJ45 Cat6 5m Zwart",
+          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 24 Nov 2026 15:23 UTC",
+      "note": "amazon.com.be — gescraped 25 Nov 2026 01:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1126,30 +1126,6 @@
       ],
       "bestsellers": [
         {
-          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g | Origineel Koreaans hydrogel g",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
-          "c": "Algemeen"
-        },
-        {
-          "n": "L'Oréal Paris Infaillible 3-seconden set-nevel, 150 ml | Tot 36 uur fixatie, zon",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Erborian CC Cream met Centella Asiatica, intensieve verzorging en stralende tein",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Yves Rocher Beauty-adventskalender met 24 verrassingen, cadeau voor dames | Beau",
-          "c": "Algemeen"
-        },
-        {
           "n": "ROCKBROS Fleece bivakmuts, balaclava, halswarmer, winter, dames en heren, winddi",
           "c": "Algemeen"
         },
@@ -1191,6 +1167,30 @@
         },
         {
           "n": "Garmin HRM 200 - Moniteur de fréquence cardiaque – Taille M–XL | Hr en HR in rea",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Biodance Real Deep Mask Bio Collageen Mask, 34 g | Origineel Koreaans hydrogel g",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips Originele OneBlade 360 reservemesjes, voor OneBlade elektrisch scheerapp",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Philips OneBlade 360 authentiek gezicht + lichaam - elektrische baardtrimmer, li",
+          "c": "Algemeen"
+        },
+        {
+          "n": "L'Oréal Paris Infaillible 3-seconden set-nevel, 150 ml | Tot 36 uur fixatie, zon",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Erborian CC Cream met Centella Asiatica, intensieve verzorging en stralende tein",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Yves Rocher Beauty-adventskalender met 24 verrassingen, cadeau voor dames | Beau",
           "c": "Algemeen"
         },
         {
@@ -1254,76 +1254,76 @@
           "c": "Algemeen"
         },
         {
-          "n": "Duracell Specialty 2032 Lithium-knoopcelbatterij 3V, verpakking van 4 stuks (DL2",
-          "c": "Elektronica"
+          "n": "Murdoku l'original: Tome 1, 80 énigmes à résoudre pour démasquer le meurtrier",
+          "c": "Boeken"
         },
         {
-          "n": "Duracell alkaline batterijen AAA Plus, 1,5 V LR03 MN2400, 24 stuks | Gaat tot 10",
-          "c": "Elektronica"
+          "n": "Calendrier de l'Avent caca: 24 jeux, quiz, énigmes, blagues… à faire pour rigole",
+          "c": "Boeken"
         },
         {
-          "n": "JETech Gehard glas voor iPhone 18 Pro/17 Pro, 3 stuks | 9H displaybescherming, t",
-          "c": "Elektronica"
+          "n": "INFLUENCER LES MASSES: Les techniques psychologiques grâce auxquelles quelques p",
+          "c": "Boeken"
         },
         {
-          "n": "TOCOL Beschermhoes voor iPhone 18 Pro Max, compatibel met MagSafe | Geïntegreerd",
-          "c": "Elektronica"
+          "n": "Omdat je een geweldig meisje bent: Een bijzonder kinderboek over moed, innerlijk",
+          "c": "Boeken"
         },
         {
-          "n": "SanDisk 128 GB Ultra microSDXC UHS-I kaart + SD-adapter, tot 140 MB/s, klasse 10",
-          "c": "Elektronica"
+          "n": "Calendrier de l’Avent Escape Game pour Adultes – L’Enquête du Chalet de Noël: 24",
+          "c": "Boeken"
         },
         {
-          "n": "DURACELL AA Optimum alkalinebatterijen (12 stuks) 1,5 V, LR06 | +200% Power Boos",
-          "c": "Elektronica"
+          "n": "Contre l'oligarchie internationale: Le Manifeste de Paris",
+          "c": "Boeken"
         },
         {
-          "n": "Amazon Fire TV Stick HD (nieuwste generatie), gratis en live tv, Alexa-spraakafs",
-          "c": "Elektronica"
+          "n": "A Dictionary of Color Combinations",
+          "c": "Boeken"
         },
         {
-          "n": "Amazon Basics Industriële AA-alkalinebatterijen, 40 stuks",
-          "c": "Elektronica"
+          "n": "Calendrier de l’Avent pour Couples – À Nous Deux: 24 jours de jeux, défis et qui",
+          "c": "Boeken"
         },
         {
-          "n": "Apple EarPods (USB-C)​​​​​​​",
-          "c": "Elektronica"
+          "n": "Le Calendrier de l’Avent anti-stress des femmes: 24 jours pour souffler, rire et",
+          "c": "Boeken"
         },
         {
-          "n": "Amazon Basics 36 x 1,5 V krachtige AAA alkalinebatterijen (uiterlijk kan variëre",
-          "c": "Elektronica"
+          "n": "Instinct - Tome 3 (3)",
+          "c": "Boeken"
         },
         {
-          "n": "Apple AirTag (2e generatie): tracker voor sleutelhangers, portemonnee en meer; l",
-          "c": "Elektronica"
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Boeken"
         },
         {
-          "n": "Echo Dot (model 2022) | Krachtig, levendig geluid – Wifi en Bluetooth-luidspreke",
-          "c": "Elektronica"
+          "n": "Des paillettes dans ma vie et dans mes chaussettes: Coffret avec 5 paires de cha",
+          "c": "Boeken"
         },
         {
-          "n": "UGREEN 8K HDMI 2.1-kabel, 8K, 60Hz, 48Gbit/s, High Speed (2M) | HDMI-kabel 4K 24",
-          "c": "Elektronica"
+          "n": "Cozy Christmas Coloring Book For Adults And Teens: Featuring Super Cute Christma",
+          "c": "Boeken"
         },
         {
-          "n": "Fujifilm INSTAX Mini WW 2 Fuji 16386016 MINI Instant Film geschikt voor polaroid",
-          "c": "Elektronica"
+          "n": "Calendrier de l'Avent Enquête Criminelle : Meurtre au Marché de Noël: 10 000 vis",
+          "c": "Boeken"
         },
         {
-          "n": "UGREEN 60W USB C Kabel PD Oplaadkabel Compatibel met MacBook Air/iPad Pro 2020, ",
-          "c": "Elektronica"
+          "n": "Intemporelle(s)",
+          "c": "Boeken"
         },
         {
-          "n": "NEW'C 3 Stuks, Screen Protector voor iPhone 14, 13, 13 Pro (6,1\"), Gehard Glass ",
-          "c": "Elektronica"
+          "n": "Calendrier de l’Avent Escape Game pour Adultes : Le Mystère de l'Express de Nuit",
+          "c": "Boeken"
         },
         {
-          "n": "JBL Tune 670 NC, draadloze on-ear hoofdtelefoon, zwart | Batterijduur tot 70 uur",
-          "c": "Elektronica"
+          "n": "Des Boum et des Paf",
+          "c": "Boeken"
         },
         {
-          "n": "VARTA AA-batterijen, 40 stuks, Industrial Pro, alkalinebatterij, 1,5 V, opbergpa",
-          "c": "Elektronica"
+          "n": "Sami adore lire: Début de CP niveau 1",
+          "c": "Boeken"
         }
       ]
     },
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 24 Nov 2026 15:23 UTC",
+      "note": "amazon.de — gescraped 25 Nov 2026 01:11 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1557,7 +1557,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "8 aanbiedingen vanUSD2971USD2971",
+          "n": "6 aanbiedingen vanUSD2971USD2971",
           "c": "Algemeen"
         },
         {
@@ -1565,7 +1565,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD1838USD1838",
+          "n": "3 aanbiedingen vanUSD1838USD1838",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD3187USD3187",
+          "n": "4 aanbiedingen vanUSD2086USD2086",
           "c": "Algemeen"
         },
         {
@@ -1693,7 +1693,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 17,57",
+          "n": "USD 16,64",
           "c": "Algemeen"
         },
         {
