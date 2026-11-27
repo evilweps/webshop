@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T14:34:32.918502+00:00",
-  "updated_fmt": "26 November 2026 om 14:34",
+  "updated": "2026-11-27T00:51:42.137797+00:00",
+  "updated_fmt": "27 November 2026 om 00:51",
   "stores": {
     "bol": {
       "name": "bol.com",
@@ -9,7 +9,7 @@
       "badge": "Live gescraped",
       "badgeBg": "#fde8e8",
       "badgeTxt": "#b91c1c",
-      "note": "bol.com — gescraped 26 Nov 2026 14:34 UTC",
+      "note": "bol.com — gescraped 27 Nov 2026 00:51 UTC",
       "deals": [
         {
           "n": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Randloos Metal Design - Do",
@@ -424,7 +424,7 @@
       "badge": "Live data",
       "badgeBg": "#d1fae5",
       "badgeTxt": "#065f46",
-      "note": "amazon.nl — gescraped 26 Nov 2026 14:34 UTC",
+      "note": "amazon.nl — gescraped 27 Nov 2026 00:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.)",
@@ -743,6 +743,14 @@
           "c": "Algemeen"
         },
         {
+          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "c": "Algemeen"
+        },
+        {
+          "n": "Ik maak mezelf niet meer klein: 100 Herinneringen voor de vrouw die alles gaf en",
+          "c": "Algemeen"
+        },
+        {
           "n": "Amazon Fire TV Stick 4K (nieuwste generatie), eenvoudig streamen in 4K, nieuwe F",
           "c": "Algemeen"
         },
@@ -767,31 +775,27 @@
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Cuties: A Cute and Comfy Colouring Book",
+          "n": "Logitech Desk Mat - Studio Series, multifunctionele grote bureauonderlegger, ver",
           "c": "Algemeen"
         },
         {
-          "n": "Cozy Christmas Adventskalender om in te kleuren",
+          "n": "Sakura Gelly Roll Basic White Gel Pen Set van 3, Assorti Maten | Dekkende Stifte",
           "c": "Algemeen"
         },
         {
-          "n": "Christmas",
+          "n": "PROMATTOO grote bureauonderlegger XXL van vegan leer, antislip, geurvrij en wate",
           "c": "Algemeen"
         },
         {
-          "n": "The Best of Sade",
+          "n": "Scotch - Verzwaarde dispenser SCOTCH C38 - Zwart - Rollen van 33 m x 19 mm - Hal",
           "c": "Algemeen"
         },
         {
-          "n": "Hybrid Theory [Vinyl LP]",
+          "n": "Canon DSC P SIZE color INK/PAPER SET RP-108",
           "c": "Algemeen"
         },
         {
-          "n": "Back to Black",
-          "c": "Algemeen"
-        },
-        {
-          "n": "Songs in the Key of Life",
+          "n": "Pentel BL77-CO gel-inktroller EnerGel met drukmechanisme A 1 Stuk zwart",
           "c": "Algemeen"
         },
         {
@@ -865,10 +869,6 @@
         {
           "n": "Apple AirPods 5 Draadloze oortjes | Bluetooth-koptelefoon, Actieve Ruisonderdruk",
           "c": "Elektronica"
-        },
-        {
-          "n": "DURACELL Optimum AAA Alkaline batterijen, 12 Stuks, 1.5V, LR03 | 200% meer Power",
-          "c": "Elektronica"
         }
       ]
     },
@@ -879,7 +879,7 @@
       "badge": "Live data",
       "badgeBg": "#fff3cd",
       "badgeTxt": "#92400e",
-      "note": "amazon.com.be — gescraped 26 Nov 2026 14:34 UTC",
+      "note": "amazon.com.be — gescraped 27 Nov 2026 00:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5e gen.) Smart Speaker",
@@ -1334,7 +1334,7 @@
       "badge": "Live data",
       "badgeBg": "#dbeafe",
       "badgeTxt": "#1e40af",
-      "note": "amazon.de — gescraped 26 Nov 2026 14:34 UTC",
+      "note": "amazon.de — gescraped 27 Nov 2026 00:51 UTC",
       "deals": [
         {
           "n": "Echo Dot (5. Gen.)",
@@ -1609,7 +1609,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "5 aanbiedingen vanUSD659USD659",
+          "n": "3 aanbiedingen vanUSD1836USD1836",
           "c": "Algemeen"
         },
         {
@@ -1617,7 +1617,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 13,92",
+          "n": "USD 18,20",
           "c": "Algemeen"
         },
         {
@@ -1641,7 +1641,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "USD 7,39",
+          "n": "18 aanbiedingen vanUSD2053USD2053",
           "c": "Algemeen"
         },
         {
@@ -1677,11 +1677,11 @@
           "c": "Algemeen"
         },
         {
-          "n": "GUINNESS WORLD RECORDS 2027: Das beliebte Rekorde-Buch für Kinder und Erwachsene",
+          "n": "Spekulatius, der Weihnachtsdrache: Ein Adventsbuch in 24 Kapiteln | Adventskalen",
           "c": "Algemeen"
         },
         {
-          "n": "USD 25,68",
+          "n": "USD 14,38",
           "c": "Algemeen"
         },
         {
@@ -1689,7 +1689,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "2 aanbiedingen vanUSD2802USD2802",
+          "n": "3 aanbiedingen vanUSD1978USD1978",
           "c": "Algemeen"
         },
         {
@@ -1709,7 +1709,7 @@
           "c": "Algemeen"
         },
         {
-          "n": "4 aanbiedingen vanUSD40105USD40105",
+          "n": "5 aanbiedingen vanUSD40105USD40105",
           "c": "Algemeen"
         }
       ]
